@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": true,
-          "min_clearance": 0.127
+          "min_clearance": 0.12
         }
       },
       "diff_pair_dimensions": [
@@ -61,51 +61,43 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|192270000|82490000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|b172b721-6db2-4cd4-92b8-aa23c8b909a0",
+          "clearance|196530000|88220000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|2df91c6c-c951-409d-8313-dd3ded016b6d",
           ""
         ],
         [
-          "clearance|192270000|82750000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|5b915a8c-db45-468f-b428-ddb3c41dc53a",
+          "clearance|196530000|88480000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|d259b43f-1d4f-4824-a3d6-acb19db774d8",
           ""
         ],
         [
-          "clearance|192580000|82490000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|b172b721-6db2-4cd4-92b8-aa23c8b909a0",
+          "clearance|196840000|88220000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|2df91c6c-c951-409d-8313-dd3ded016b6d",
           ""
         ],
         [
-          "clearance|192580000|82750000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|5b915a8c-db45-468f-b428-ddb3c41dc53a",
+          "clearance|196840000|88480000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|d259b43f-1d4f-4824-a3d6-acb19db774d8",
           ""
         ],
         [
-          "courtyards_overlap|203939601|76130999|573db01a-203e-4cec-ab96-0b39fe921574|a304b454-9370-4d6d-8281-780db4ae0674",
+          "courtyards_overlap|213934600|75885000|573db01a-203e-4cec-ab96-0b39fe921574|a304b454-9370-4d6d-8281-780db4ae0674",
           ""
         ],
         [
-          "courtyards_overlap|213939599|75880001|573db01a-203e-4cec-ab96-0b39fe921574|a304b454-9370-4d6d-8281-780db4ae0674",
+          "footprint_type_mismatch|226420000|80920000|96b4f17f-7c50-42f1-8151-9b152695dbdb|00000000-0000-0000-0000-000000000000",
+          "USB Jack is SMT+TH"
+        ],
+        [
+          "solder_mask_bridge|196530000|88220000|2df91c6c-c951-409d-8313-dd3ded016b6d|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
           ""
         ],
         [
-          "lib_footprint_mismatch|198883524|84812000|bf6cdcf0-d768-4289-bbf6-c74cd6a872a7|00000000-0000-0000-0000-000000000000",
+          "solder_mask_bridge|196530000|88480000|d259b43f-1d4f-4824-a3d6-acb19db774d8|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
           ""
         ],
         [
-          "lib_footprint_mismatch|227816521|76239999|96b4f17f-7c50-42f1-8151-9b152695dbdb|00000000-0000-0000-0000-000000000000",
+          "solder_mask_bridge|196840000|88220000|2df91c6c-c951-409d-8313-dd3ded016b6d|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
           ""
         ],
         [
-          "solder_mask_bridge|192270000|82490000|b172b721-6db2-4cd4-92b8-aa23c8b909a0|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
-          ""
-        ],
-        [
-          "solder_mask_bridge|192270000|82750000|5b915a8c-db45-468f-b428-ddb3c41dc53a|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
-          ""
-        ],
-        [
-          "solder_mask_bridge|192580000|82490000|b172b721-6db2-4cd4-92b8-aa23c8b909a0|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
-          ""
-        ],
-        [
-          "solder_mask_bridge|192580000|82750000|5b915a8c-db45-468f-b428-ddb3c41dc53a|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
+          "solder_mask_bridge|196840000|88480000|d259b43f-1d4f-4824-a3d6-acb19db774d8|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
           ""
         ],
         [
@@ -198,7 +190,7 @@
         "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -673,7 +665,7 @@
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "error",
-      "single_global_label": "ignore",
+      "single_global_label": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "unit_value_mismatch": "error",
@@ -686,7 +678,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kit-Brainboard.kicad_pro",
+    "filename": "mp153-devboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -740,8 +732,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "gbr",
+      "pos_files": "bom",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -751,7 +743,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "bom/mp153-devboard-v0.1-bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -768,8 +760,32 @@
       "fields_ordered": [
         {
           "group_by": false,
+          "label": "Production Stage",
+          "name": "Production Stage",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Reference",
           "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Part Number",
+          "name": "Part Number",
           "show": true
         },
         {
@@ -780,20 +796,104 @@
         },
         {
           "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
         },
         {
           "group_by": false,
-          "label": "Qty",
-          "name": "${QUANTITY}",
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Alt JLCPCB ID",
+          "name": "Alt JLCPCB ID",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Alt Part Number",
+          "name": "Alt Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Display",
+          "name": "Display",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Display 2",
+          "name": "Display 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB ID",
+          "name": "JLCPCB ID",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer 2",
+          "name": "Manufacturer 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer 3",
+          "name": "Manufacturer 3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer 4",
+          "name": "Manufacturer 4",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Note",
+          "name": "Note",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Number 2",
+          "name": "Part Number 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Number 3",
+          "name": "Part Number 3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Number 4",
+          "name": "Part Number 4",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Specifications",
+          "name": "Specifications",
           "show": true
         },
         {
@@ -806,9 +906,9 @@
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "name": "",
+      "sort_asc": false,
+      "sort_field": "Production Stage"
     },
     "connection_grid_size": 50.0,
     "drawing": {
