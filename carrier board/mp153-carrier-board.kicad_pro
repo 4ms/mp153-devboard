@@ -678,7 +678,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mp153-devboard.kicad_pro",
+    "filename": "mp153-carrier-board.kicad_pro",
     "version": 3
   },
   "net_settings": {
