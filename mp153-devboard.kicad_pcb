@@ -3876,7 +3876,7 @@
 			)
 		)
 		(property ki_fp_filters "ICC_TFBGA361_12X12_STM32MP157FAC3_P050-065")
-		(path "/e17c4e0e-3a2d-4a66-9103-044ff6e6fa48")
+		(path "/f6993ee3-9902-4b34-b025-c31da0a2b78e")
 		(sheetname "/")
 		(sheetfile "mp153-devboard.kicad_sch")
 		(clearance 0.09)
@@ -20594,7 +20594,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20655,6 +20655,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c57cddd3-c8b3-4971-ba36-68431a360a98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB ID" "C2961978"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fdf2c253-d7c0-4b14-88c8-46f9aac3b798")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C314502"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "617a0bbf-9c42-4779-a21d-345a82e43fe3")
 			(effects
 				(font
 					(size 1 1)
@@ -34181,6 +34209,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "320a45e3-f85f-4759-b77d-c23a0b8c7aa2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB ID" "C585350"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4931255-ceae-4cc4-9647-b488f68a52b1")
 			(effects
 				(font
 					(size 1 1)
