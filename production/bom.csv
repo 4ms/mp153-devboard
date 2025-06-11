@@ -13,6 +13,7 @@ C24,C_0402,1,10nF_0402_16V,C15195
 "C88, C89, C90, C91",C_0603,4,22uF_0603_6.3V,C59461
 CON1,CardSlot_MicroSD_Molex_104031-0811,1,microSDCon_SMT_104031-0811,C585350
 D11,DFN-1006-2,1,BAT54LP,C134410
+"H1, H2, H3, H4",MountingHole_Generic_3mm,4,"Spacer Nylon, fits 3mm hole",
 J1,Pins_2x04_P2.54mm_Horizontal_CroppedSilk,1,Pins_02x04_RightAngle_P2.54mm_TH,
 J2,Pins_2x05_1.27mm_SMD,1,Pins_02x05_P1.27mm_SMT,C598540
 J3,USB_C_Receptacle_Molex_2171790001,1,USB-C_Receptacle_Molex_2171790001,C2894899
