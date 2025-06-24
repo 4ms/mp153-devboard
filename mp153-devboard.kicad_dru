@@ -13,12 +13,3 @@
 (rule "gnd zone clearance"
    (constraint clearance (min 0.5mm) (opt 0.5mm))
    (condition "A.Name == 'gnd-top'"))
-
-(rule "VDD_DDR zone clearance"
-   (constraint clearance (min 0.15mm) (opt 0.15mm))
-   (condition "A.Name == 'VDD_DDR'"))
-
-(rule "gnd-inner zone clearance"
-   (constraint clearance (min 0.15mm) (opt 0.15mm))
-   (condition "A.Name == 'gnd-inner'"))
-
