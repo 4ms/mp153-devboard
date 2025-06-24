@@ -24934,6 +24934,17 @@
 		)
 		(uuid "d65ca2c5-de7f-4001-88c5-bbcc501ae10a")
 	)
+	(text "FIXES for p1 to make p2:\n- Should we run USB_HS_DP/DM to the mezzanine? Right now we have U3 between the uC pins and the mezzanine"
+		(exclude_from_sim no)
+		(at 273.304 -20.32 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+			(justify left)
+		)
+		(uuid "d7c371ed-be23-495a-a314-444457c01939")
+	)
 	(text "SPI4_MOSI"
 		(exclude_from_sim no)
 		(at 208.28 340.614 0)
