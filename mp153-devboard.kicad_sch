@@ -23970,16 +23970,6 @@
 		)
 		(uuid "1e8938f1-3d73-4a94-94ff-50c7bf311c6e")
 	)
-	(text "CLK"
-		(exclude_from_sim no)
-		(at 219.964 360.934 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2157faa5-6397-4ef3-93b6-f64e099a22eb")
-	)
 	(text "B3\n"
 		(exclude_from_sim no)
 		(at 114.046 392.43 0)
@@ -25491,16 +25481,6 @@
 			(justify left)
 		)
 		(uuid "f05506c6-517b-4485-afed-5654c16e31d0")
-	)
-	(text "CLK"
-		(exclude_from_sim no)
-		(at 276.098 343.154 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "f1390cf0-2575-4113-93bc-4d6289ea9032")
 	)
 	(text "SAI4_SCK_A"
 		(exclude_from_sim no)
