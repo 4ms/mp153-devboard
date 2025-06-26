@@ -23772,6 +23772,17 @@
 		)
 		(uuid "01af4b6f-4e3b-4ed5-88e2-efc4cb020239")
 	)
+	(text "LCD_G6 conflicts with PC7 (UART_RX)\n- Route PC7 to mezzanine. Use PG9 for USART6_RX (or else choose diff. UART)"
+		(exclude_from_sim no)
+		(at 409.956 -16.002 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "028c6b7c-f62d-4961-a78e-cbb00fa093fd")
+	)
 	(text "DFU Boot requires\nMP1-DFU-USB bootloader installed"
 		(exclude_from_sim no)
 		(at 397.764 433.832 0)
@@ -23868,6 +23879,17 @@
 		)
 		(uuid "114db04b-0e83-43f3-8b9d-9a8a7ae522d0")
 	)
+	(text "HSYNC conflicts with PC6 (UART_TX)\n- Route PC6 to mezzanine. Maybe route PG14 (USART6_TX) to debug header, or use different UART"
+		(exclude_from_sim no)
+		(at 410.21 -9.144 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "11569346-85e6-480b-bd9e-0c834a4ed0fd")
+	)
 	(text "SPI2_MISO"
 		(exclude_from_sim no)
 		(at 188.214 110.49 0)
@@ -23878,6 +23900,17 @@
 			(justify left bottom)
 		)
 		(uuid "11672fdf-b051-4f57-96a8-4d911d3c08ac")
+	)
+	(text "B1"
+		(exclude_from_sim no)
+		(at 92.964 349.758 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "130c8f6c-d07a-4092-b31d-abd373dbb1f0")
 	)
 	(text "I2C 6"
 		(exclude_from_sim no)
@@ -23937,6 +23970,38 @@
 		)
 		(uuid "1e8938f1-3d73-4a94-94ff-50c7bf311c6e")
 	)
+	(text "CLK"
+		(exclude_from_sim no)
+		(at 219.964 360.934 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2157faa5-6397-4ef3-93b6-f64e099a22eb")
+	)
+	(text "B3\n"
+		(exclude_from_sim no)
+		(at 114.046 392.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "255465b8-be51-4243-9cf3-a09c8897a636")
+	)
+	(text "R5"
+		(exclude_from_sim no)
+		(at 114.554 323.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "25c99822-a35d-468b-b912-c0ad2ccfde88")
+	)
 	(text "SPI3_MOSI"
 		(exclude_from_sim no)
 		(at 171.196 354.33 0)
@@ -23947,6 +24012,38 @@
 			(justify left bottom)
 		)
 		(uuid "27aa53df-1b7a-4899-bdde-740056360ec5")
+	)
+	(text "G2"
+		(exclude_from_sim no)
+		(at 92.964 339.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "27f8242a-a75f-49ed-89e4-cc38788e9c07")
+	)
+	(text "R0"
+		(exclude_from_sim no)
+		(at 257.556 358.648 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2885eb23-4ffe-4a79-8f28-e428b6035bd8")
+	)
+	(text "LCD_B3: route PD10 to mezzanine (replace any pin if needed)"
+		(exclude_from_sim no)
+		(at 411.226 -2.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2939ad38-817f-4381-948c-007c61adb5c5")
 	)
 	(text "POWER"
 		(exclude_from_sim no)
@@ -23970,6 +24067,28 @@
 			)
 		)
 		(uuid "2b9a74d8-108a-4c60-a526-56bb19100386")
+	)
+	(text "SD_CARD_DETECT"
+		(exclude_from_sim no)
+		(at 239.776 267.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2fadc7d2-82a3-471c-9493-2d9b6c7182b7")
+	)
+	(text "R6"
+		(exclude_from_sim no)
+		(at 92.964 344.424 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "315d27d9-236d-4f4f-a83e-7e3db56103d8")
 	)
 	(text "SDMMC_CMD"
 		(exclude_from_sim no)
@@ -24062,6 +24181,17 @@
 		)
 		(uuid "449932ec-c21a-429f-a42d-a259b9ab36e5")
 	)
+	(text "HSYNC"
+		(exclude_from_sim no)
+		(at 114.3 338.582 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "44adf0dc-6f57-4013-b411-64b12bd69dc3")
+	)
 	(text "mp153"
 		(exclude_from_sim no)
 		(at 561.34 679.45 0)
@@ -24075,16 +24205,6 @@
 			(justify left bottom)
 		)
 		(uuid "44d0956e-9b45-4a39-961b-51e455f8a560")
-	)
-	(text "SAI1_FS_A"
-		(exclude_from_sim no)
-		(at 207.518 334.518 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "45d86710-e6ab-4a34-807d-b7896b2a24fa")
 	)
 	(text "SPI 4"
 		(exclude_from_sim no)
@@ -24114,6 +24234,28 @@
 		)
 		(uuid "4c4c014c-825d-4ccd-aba6-fefc4bcd6154")
 	)
+	(text "G5"
+		(exclude_from_sim no)
+		(at 238.252 396.748 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4da8f47e-1d39-4a10-acf8-b3349df2b181")
+	)
+	(text "B5"
+		(exclude_from_sim no)
+		(at 92.964 331.724 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e8bbec8-d68f-4315-82e1-f144e58f2ffc")
+	)
 	(text "Main I2S (SAI)"
 		(exclude_from_sim no)
 		(at 89.154 125.984 0)
@@ -24138,6 +24280,17 @@
 			(justify left bottom)
 		)
 		(uuid "5555b716-374b-4bee-864d-f25b8abbfda6")
+	)
+	(text "G3"
+		(exclude_from_sim no)
+		(at 236.728 353.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "559fcdfb-3c45-4080-9265-963e8abd943a")
 	)
 	(text "SDMMC_D3"
 		(exclude_from_sim no)
@@ -24219,6 +24372,17 @@
 			(justify left bottom)
 		)
 		(uuid "5eedffe6-564c-4cbb-b14c-45ec25d6cd78")
+	)
+	(text "SD_CARD_DETECT"
+		(exclude_from_sim no)
+		(at 52.324 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f1c2fab-ab5e-42c3-8379-40789ec72def")
 	)
 	(text "SAI4_SCK_A"
 		(exclude_from_sim no)
@@ -24409,6 +24573,28 @@
 		)
 		(uuid "7902bfb9-d62d-4954-9658-e74b3a4d8fde")
 	)
+	(text "VSYNC"
+		(exclude_from_sim no)
+		(at 92.964 334.264 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7b035187-c7c1-4f39-9851-bdc4caced816")
+	)
+	(text "R3"
+		(exclude_from_sim no)
+		(at 92.964 367.284 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7b25d283-120a-4b16-abdb-cc5dc7857129")
+	)
 	(text "SPI4_SCK"
 		(exclude_from_sim no)
 		(at 185.166 89.662 0)
@@ -24450,16 +24636,6 @@
 			)
 		)
 		(uuid "857021cc-a085-4d88-b72c-338a62692174")
-	)
-	(text "SPI4_NSS"
-		(exclude_from_sim no)
-		(at 218.186 334.772 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "865c40fc-b693-4d56-a6c0-793e5abd9ac8")
 	)
 	(text "SPI4_MISO"
 		(exclude_from_sim no)
@@ -24571,6 +24747,28 @@
 		)
 		(uuid "9288c316-b0f2-4f2f-bc47-d82b727b9ce4")
 	)
+	(text "B6"
+		(exclude_from_sim no)
+		(at 92.964 387.604 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9314182d-7d3d-4b94-9828-c2e2cb56c9a5")
+	)
+	(text "R1"
+		(exclude_from_sim no)
+		(at 92.964 328.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "93c3a9fd-c8b5-4436-81ae-7d1ba4121300")
+	)
 	(text "SPI3_NSS"
 		(exclude_from_sim no)
 		(at 189.992 140.716 0)
@@ -24609,6 +24807,17 @@
 		)
 		(uuid "9e12cdae-ad45-4027-8627-57941d48ad0a")
 	)
+	(text "R4"
+		(exclude_from_sim no)
+		(at 92.964 336.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9edb871f-a07a-4550-82b5-75893bdfc867")
+	)
 	(text "I2C2_SCL"
 		(exclude_from_sim no)
 		(at 185.42 79.248 0)
@@ -24628,16 +24837,6 @@
 			)
 		)
 		(uuid "a0d107a4-ed3c-46c2-a0d8-b021a7726ea5")
-	)
-	(text "SPI4_NSS"
-		(exclude_from_sim no)
-		(at 70.358 79.502 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a4200618-b912-4de4-aca7-af1ac5f6f88b")
 	)
 	(text "I2C 2"
 		(exclude_from_sim no)
@@ -24721,6 +24920,17 @@
 		)
 		(uuid "b4214dca-263e-4d7e-b746-1e7e7817836e")
 	)
+	(text "To provide 18-bit RGB interface:"
+		(exclude_from_sim no)
+		(at 410.718 -29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b55a28ff-dec5-4415-ac27-ae50b8ea7b2b")
+	)
 	(text "I2C3_SDA"
 		(exclude_from_sim no)
 		(at 136.652 346.456 0)
@@ -24731,6 +24941,28 @@
 			(justify left bottom)
 		)
 		(uuid "b5a842aa-be66-499c-8e82-4cbe2c0f13b3")
+	)
+	(text "G6"
+		(exclude_from_sim no)
+		(at 114.554 341.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b77ca686-0326-4e83-b182-936302c17dcd")
+	)
+	(text "B2"
+		(exclude_from_sim no)
+		(at 114.554 346.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b9eb26ef-d4b6-4072-8d45-e085ce8127fc")
 	)
 	(text "SDMMC_CLK"
 		(exclude_from_sim no)
@@ -24800,6 +25032,17 @@
 		)
 		(uuid "bdbdcb26-428a-4bd3-9438-724d306fb114")
 	)
+	(text "B4"
+		(exclude_from_sim no)
+		(at 236.728 355.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c005534c-c356-4be4-a411-d4a58203d1f1")
+	)
 	(text "DEVBOARD"
 		(exclude_from_sim no)
 		(at 497.84 679.45 0)
@@ -24824,6 +25067,28 @@
 			(justify left bottom)
 		)
 		(uuid "c3ce479a-6166-4a92-ae5c-ca0e0b615411")
+	)
+	(text "B0"
+		(exclude_from_sim no)
+		(at 236.728 335.534 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4dfbbd3-47e9-40d9-80df-5f96d4c5d582")
+	)
+	(text "SD_CARD_DETECT"
+		(exclude_from_sim no)
+		(at 202.184 335.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c93eefb7-9cfc-4ee1-ad17-bc16118414b3")
 	)
 	(text "I2C5_SDA"
 		(exclude_from_sim no)
@@ -24934,7 +25199,7 @@
 		)
 		(uuid "d65ca2c5-de7f-4001-88c5-bbcc501ae10a")
 	)
-	(text "FIXES for p1 to make p2:\n- Should we run USB_HS_DP/DM to the mezzanine? Right now we have U3 between the uC pins and the mezzanine"
+	(text "FIXES for p1 to make p2:\n- SDMMC1 pins missing 10k pull-ups\n- Orientation of BOOT switch is unclear (JLC placed it backwards on first run)"
 		(exclude_from_sim no)
 		(at 273.304 -20.32 0)
 		(effects
@@ -24944,6 +25209,17 @@
 			(justify left)
 		)
 		(uuid "d7c371ed-be23-495a-a314-444457c01939")
+	)
+	(text "G0"
+		(exclude_from_sim no)
+		(at 92.964 369.824 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d96f5c7a-c8b9-4fd0-9e62-f8153ac08a75")
 	)
 	(text "SPI4_MOSI"
 		(exclude_from_sim no)
@@ -24978,6 +25254,17 @@
 		)
 		(uuid "dbac270a-05bf-4234-82f4-8026a4837e1e")
 	)
+	(text "R2"
+		(exclude_from_sim no)
+		(at 92.964 326.644 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dd0b1350-ca45-4f6b-b1fa-8d7fdf2c843a")
+	)
 	(text "Reset"
 		(exclude_from_sim no)
 		(at 397.51 458.724 0)
@@ -25000,16 +25287,6 @@
 			(justify right bottom)
 		)
 		(uuid "dfb54c99-8d3b-4f70-88ac-e31925c2e276")
-	)
-	(text "SAI1_FS_A"
-		(exclude_from_sim no)
-		(at 58.166 79.502 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e14cafdc-5e26-4901-a9f4-2f6aea8d8e4e")
 	)
 	(text "1.2V, Rank 2\nIDDCORE_{max} = 1050mA\nShould be 1.34V to enable 800MHz, but seems to work ok at 1.2V?\nRatio for 1.2V: 2:1\nRatio for 1.34V: 1.48:1 or 1:0.675 (14.7k/10k)\n\nDatasheet recommends 1.5uH (AP623) or 2.2uH (AP622)"
 		(exclude_from_sim no)
@@ -25093,6 +25370,17 @@
 		)
 		(uuid "e63a7b02-e298-4544-a81c-c1c26dba6375")
 	)
+	(text "LCD_G3 conflicts with DEBUG3: \n  - Route PE11 to mezzanine header and use a different pin for DEBUG3"
+		(exclude_from_sim no)
+		(at 410.21 -22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6b72d03-c078-4249-9116-cf0a77dd86b7")
+	)
 	(text "SAI1_FS_A"
 		(exclude_from_sim no)
 		(at 278.384 364.49 0)
@@ -25136,6 +25424,28 @@
 		)
 		(uuid "e868c2a4-fb3a-442c-9af3-7bd65bbf8fd2")
 	)
+	(text "G4"
+		(exclude_from_sim no)
+		(at 92.964 392.938 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ed22e4bc-f5ee-48dc-8cc4-5c9692bfc7df")
+	)
+	(text "G1"
+		(exclude_from_sim no)
+		(at 236.728 340.614 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee3f4405-7319-49d0-afb2-fdd6612e850d")
+	)
 	(text "Debugging"
 		(exclude_from_sim no)
 		(at 139.954 188.468 0)
@@ -25170,6 +25480,27 @@
 			(justify left bottom)
 		)
 		(uuid "ef2c939c-21a8-4afe-a63d-bf20ec9b6ab3")
+	)
+	(text "DE"
+		(exclude_from_sim no)
+		(at 236.728 358.648 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f05506c6-517b-4485-afed-5654c16e31d0")
+	)
+	(text "CLK"
+		(exclude_from_sim no)
+		(at 276.098 343.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f1390cf0-2575-4113-93bc-4d6289ea9032")
 	)
 	(text "SAI4_SCK_A"
 		(exclude_from_sim no)
@@ -34194,6 +34525,16 @@
 			(type default)
 		)
 		(uuid "a1c8789c-d934-4000-abc9-a03c48da74b3")
+	)
+	(polyline
+		(pts
+			(xy 81.28 80.01) (xy 83.82 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d939ce-6c64-4970-8ea6-c6b724a459b2")
 	)
 	(wire
 		(pts
