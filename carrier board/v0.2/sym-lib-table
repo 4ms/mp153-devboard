@@ -25,4 +25,5 @@
   (lib (name "4ms_Switch")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Switch.kicad_sym")(options "")(descr "Switches, buttons, toggles"))
   (lib (name "4ms_Transistor")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Transistor.kicad_sym")(options "")(descr "Transistors: BJTs, MOSFETs, JFETs"))
   (lib (name "4ms_Hardware")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Hardware.kicad_sym")(options "")(descr ""))
+  (lib (name "mp153-devboard")(type "KiCad")(uri "${KIPRJMOD}/../../symbols/mp153-devboard.kicad_sym")(options "")(descr ""))
 )
