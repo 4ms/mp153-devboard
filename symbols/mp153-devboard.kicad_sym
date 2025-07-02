@@ -52,6 +52,14 @@
 				(hide yes)
 			)
 		)
+		(property "Display" "MP153-devboard v0.1"
+			(at 0.254 49.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(symbol "mp153-devboard-v0.1_1_1"
 			(rectangle
 				(start -21.59 52.07)
@@ -2395,7 +2403,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -1.27 53.086 0)
+			(at -13.97 53.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2435,6 +2443,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Display" "MP153-devboard v0.1"
+			(at 0.254 53.594 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(symbol "mp153-devboard-v0.1-annotated_1_1"
