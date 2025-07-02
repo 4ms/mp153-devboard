@@ -25,8 +25,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "mp153-devboard:mp153-devboard-v0.1-sockets"
+			(at 0 -55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34,8 +34,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "Datasheet" "https://github.com/4ms/mp153-devboard"
+			(at 0 -58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43,8 +43,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "Sockets for an mp153-devboard v0.1"
+			(at 0 -53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -942,15 +942,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "e"
-				(at 0 48.26 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.1588)
-					)
 				)
 			)
 			(pin passive line
@@ -2419,8 +2410,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "mp153-devboard:mp153-devboard-v0.1-sockets"
+			(at 0 -57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2428,8 +2419,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "Datasheet" "https://github.com/4ms/mp153-devboard"
+			(at 0 -59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2437,8 +2428,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "Sockets for an mp153-devboard v0.1"
+			(at 0 -62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3841,7 +3832,7 @@
 					(justify left)
 				)
 			)
-			(text "I2C3_SCL"
+			(text "I2C3_SDA"
 				(at -11.43 39.37 0)
 				(effects
 					(font
