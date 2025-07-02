@@ -16329,6 +16329,17 @@
 		)
 		(uuid "ef2c939c-21a8-4afe-a63d-bf20ec9b6ab3")
 	)
+	(text "Fixes for v0.2 (to be in v0.3):\n- Don't use I2C3 since it conflicts with SD Card\n- Swap USB + and -"
+		(exclude_from_sim no)
+		(at 148.844 -14.478 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+			(justify left)
+		)
+		(uuid "f90b9cce-b7c0-4f0d-8058-7c9dc273bc3e")
+	)
 	(text "SPI4_MOSI"
 		(exclude_from_sim no)
 		(at 173.228 85.344 0)
