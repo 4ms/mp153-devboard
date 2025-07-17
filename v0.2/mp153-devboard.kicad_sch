@@ -7759,7 +7759,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" "AP62301Z6"
+			(property "Part Number" "AP62301Z6-7"
 				(at 0 -21.59 0)
 				(effects
 					(font
@@ -7795,7 +7795,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number 2" "AP62300Z6"
+			(property "Part Number 2" "AP62300Z6-7"
 				(at 0 -19.05 0)
 				(effects
 					(font
@@ -7813,7 +7813,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number 3" "AP62300TZ6"
+			(property "Part Number 3" "AP62300TZ6-7"
 				(at 0 -16.51 0)
 				(effects
 					(font
@@ -39848,7 +39848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3A, 750kHz Buck DC/DC Converter, VinMax>=12V, SOT-563"
 			(at 408.94 219.71 0)
 			(effects
 				(font
@@ -39866,7 +39866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "AP62301Z6"
+		(property "Part Number" "AP62301Z6-7"
 			(at 408.94 241.3 0)
 			(effects
 				(font
@@ -39902,7 +39902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 2" "AP62300Z6"
+		(property "Part Number 2" "AP62300Z6-7"
 			(at 408.94 238.76 0)
 			(effects
 				(font
@@ -39920,7 +39920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 3" "AP62300TZ6"
+		(property "Part Number 3" "AP62300TZ6-7"
 			(at 408.94 236.22 0)
 			(effects
 				(font
@@ -41399,7 +41399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3A, 750kHz Buck DC/DC Converter, VinMax>=12V, SOT-563"
 			(at 408.94 176.53 0)
 			(effects
 				(font
@@ -41417,7 +41417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "AP62301Z6"
+		(property "Part Number" "AP62301Z6-7"
 			(at 408.94 198.12 0)
 			(effects
 				(font
@@ -41453,7 +41453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 2" "AP62300Z6"
+		(property "Part Number 2" "AP62300Z6-7"
 			(at 408.94 195.58 0)
 			(effects
 				(font
@@ -41471,7 +41471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 3" "AP62300TZ6"
+		(property "Part Number 3" "AP62300TZ6-7"
 			(at 408.94 193.04 0)
 			(effects
 				(font
@@ -56916,7 +56916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3A, 750kHz Buck DC/DC Converter, VinMax>=12V, SOT-563"
 			(at 408.94 134.62 0)
 			(effects
 				(font
@@ -56934,7 +56934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "AP62301Z6"
+		(property "Part Number" "AP62301Z6-7"
 			(at 408.94 156.21 0)
 			(effects
 				(font
@@ -56970,7 +56970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 2" "AP62300Z6"
+		(property "Part Number 2" "AP62300Z6-7"
 			(at 408.94 153.67 0)
 			(effects
 				(font
@@ -56988,7 +56988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 3" "AP62300TZ6"
+		(property "Part Number 3" "AP62300TZ6-7"
 			(at 408.94 151.13 0)
 			(effects
 				(font
