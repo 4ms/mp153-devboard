@@ -1,9 +1,9 @@
-(footprint "mp153-devboard-v0.1-sockets_A"
+(footprint "mp153-devboard-sockets_A"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Sockets to accept a MP153-devboard v0.1 (requires socket B)")
+	(descr "Sockets to accept a MP153-devboard (requires socket B)")
 	(property "Reference" "REF**"
 		(at 0 -5 180)
 		(layer "F.SilkS")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "mp153-devboard-v0.1-sockets_A"
+	(property "Value" "mp153-devboard-sockets_A"
 		(at 16.52 0.19 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -39,7 +39,7 @@
 			)
 		)
 	)
-	(property "Description" "Socket A for MP153-devboard v0.1 (requires socket B)"
+	(property "Description" "Socket A for MP153-devboard (requires socket B)"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
