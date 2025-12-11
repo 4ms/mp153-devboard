@@ -21971,6 +21971,17 @@
 		)
 		(uuid "67cb0458-b79d-4557-82b5-06c59bcf713f")
 	)
+	(text "TODO for v0.3:\nConnect PE14 or PG7 to pins (LCD_CLK)"
+		(exclude_from_sim no)
+		(at 153.67 32.258 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "68fd79c3-2751-4f25-9b4f-0d3e4dc0fe8b")
+	)
 	(text "1.35V and 0.65V for DDR3\nTurns on after Vddcore is stable\nPower cycle on reset\n\nDatasheet recommends 1.5uH (AP623) or 2.2uH (AP622)"
 		(exclude_from_sim no)
 		(at 480.06 219.71 0)
