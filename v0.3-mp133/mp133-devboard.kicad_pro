@@ -231,7 +231,7 @@
       ],
       "track_widths": [
         0.0,
-        0.09,
+        0.089,
         0.1,
         0.127,
         0.2032,
@@ -267,6 +267,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.35,
+          "drill": 0.15
         },
         {
           "diameter": 0.4,
@@ -681,7 +685,7 @@
         "clearance": 0.09,
         "diff_pair_gap": 0.09,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.13,
+        "diff_pair_width": 0.09,
         "line_style": 0,
         "microvia_diameter": 0.25,
         "microvia_drill": 0.1,

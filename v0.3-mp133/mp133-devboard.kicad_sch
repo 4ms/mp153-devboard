@@ -23556,6 +23556,16 @@
 		)
 		(uuid "400341ba-7fe1-418f-8440-8f6b667bdbc5")
 	)
+	(text "Bit swapping"
+		(exclude_from_sim no)
+		(at 36.576 536.956 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "41ff8499-cf97-42cd-936f-f965d827a184")
+	)
 	(text "SAI2_MCLK"
 		(exclude_from_sim no)
 		(at 192.024 85.09 0)
@@ -37940,7 +37950,7 @@
 		(uuid "4f7fde59-dc6f-4c06-9309-3ba38c7557a1")
 	)
 	(label "DDR_DQ5"
-		(at 39.37 537.21 0)
+		(at 39.37 542.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -38670,7 +38680,7 @@
 		(uuid "8dab82f0-95c6-49fc-8f11-8b07ecb7355d")
 	)
 	(label "DDR_DQ7"
-		(at 39.37 542.29 0)
+		(at 39.37 537.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39120,7 +39130,7 @@
 		(uuid "bc8428df-e03e-45d3-9e9b-865a8236f663")
 	)
 	(label "DDR_DQ0"
-		(at 39.37 524.51 0)
+		(at 39.37 529.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39320,7 +39330,7 @@
 		(uuid "cb2292dd-c804-4602-92cd-578525fc17c0")
 	)
 	(label "DDR_DQ2"
-		(at 39.37 529.59 0)
+		(at 39.37 524.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
