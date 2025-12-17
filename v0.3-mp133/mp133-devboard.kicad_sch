@@ -17149,119 +17149,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "4ms_Power_Symbol:+12V"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+12V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+12V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+12V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(hide yes)
-					(name "+12V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "4ms_Power_Symbol:GND"
 			(power)
 			(pin_names
@@ -29601,16 +29488,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.1286 386.08) (xy 69.7986 386.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d17d3b7-3758-4b39-a1ef-9d44ec6408a6")
-	)
-	(wire
-		(pts
 			(xy 367.03 297.18) (xy 367.03 302.26)
 		)
 		(stroke
@@ -31068,6 +30945,16 @@
 			(type default)
 		)
 		(uuid "64a606fb-a96a-4e43-bbde-7100addc1b81")
+	)
+	(wire
+		(pts
+			(xy 43.18 386.08) (xy 69.85 386.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64ef5f4a-7324-4cdb-a13d-8a95aa801729")
 	)
 	(wire
 		(pts
@@ -37950,7 +37837,7 @@
 		(uuid "4f7fde59-dc6f-4c06-9309-3ba38c7557a1")
 	)
 	(label "DDR_DQ5"
-		(at 39.37 542.29 0)
+		(at 39.37 537.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -38680,7 +38567,7 @@
 		(uuid "8dab82f0-95c6-49fc-8f11-8b07ecb7355d")
 	)
 	(label "DDR_DQ7"
-		(at 39.37 537.21 0)
+		(at 39.37 542.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39130,7 +39017,7 @@
 		(uuid "bc8428df-e03e-45d3-9e9b-865a8236f663")
 	)
 	(label "DDR_DQ0"
-		(at 39.37 529.59 0)
+		(at 39.37 524.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39330,7 +39217,7 @@
 		(uuid "cb2292dd-c804-4602-92cd-578525fc17c0")
 	)
 	(label "DDR_DQ2"
-		(at 39.37 524.51 0)
+		(at 39.37 529.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42441,6 +42328,72 @@
 			(project "mp153-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
 					(reference "C197")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 379.73 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18051d5a-bdf8-4ddd-ac2e-5abcb560fac0")
+		(property "Reference" "#PWR06"
+			(at 379.73 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 379.73 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 379.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 379.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 379.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "391e09c1-dd85-4413-aac5-72d0aac8c6f4")
+		)
+		(instances
+			(project "mp133-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -46996,7 +46949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "STM32MP131DAF7"
+		(property "Datasheet" ""
 			(at 76.2 524.51 0)
 			(effects
 				(font
@@ -47014,7 +46967,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 97.79 524.51 0)
 			(effects
 				(font
@@ -47023,7 +46976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "STM32MP133DAF"
 			(at 97.79 524.51 0)
 			(effects
 				(font
@@ -50566,7 +50519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "STM32MP131DAF7"
+		(property "Datasheet" ""
 			(at 379.73 363.22 0)
 			(effects
 				(font
@@ -50584,7 +50537,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 401.32 363.22 0)
 			(effects
 				(font
@@ -50593,7 +50546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "STM32MP133DAF"
 			(at 401.32 363.22 0)
 			(effects
 				(font
@@ -54963,6 +54916,72 @@
 		)
 	)
 	(symbol
+		(lib_id "4ms_Power_Symbol:PWR_FLAG")
+		(at 396.24 674.37 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68486e27-a2ef-4231-b155-82139b7c14d5")
+		(property "Reference" "#FLG01"
+			(at 396.24 676.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 396.24 678.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3eb36369-4425-4f29-ba4e-1633c9f91e10")
+		)
+		(instances
+			(project "mp133-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDD")
 		(at 519.43 463.55 0)
 		(unit 1)
@@ -56221,7 +56240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "STM32MP131DAF7"
+		(property "Datasheet" ""
 			(at 250.19 347.98 0)
 			(effects
 				(font
@@ -56239,7 +56258,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 228.6 347.98 0)
 			(effects
 				(font
@@ -56248,7 +56267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "STM32MP133DAF"
 			(at 228.6 347.98 0)
 			(effects
 				(font
@@ -62585,6 +62604,72 @@
 		)
 	)
 	(symbol
+		(lib_id "4ms_Power_Symbol:VDD_DDR")
+		(at 396.24 674.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "982309e2-bd9a-4334-992f-5eb4175e7cfb")
+		(property "Reference" "#PWR043"
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_DDR"
+			(at 396.24 670.814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 396.24 674.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97c42afd-9e12-4859-ae4a-25f1ee0357fb")
+		)
+		(instances
+			(project "mp133-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "4ms_Power_Symbol:GND")
 		(at 566.42 596.9 0)
 		(mirror y)
@@ -65441,7 +65526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "STM32MP131DAF7"
+		(property "Datasheet" ""
 			(at 549.91 288.29 0)
 			(effects
 				(font
@@ -65459,7 +65544,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 571.5 288.29 0)
 			(effects
 				(font
@@ -65468,7 +65553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "STM32MP133DAF"
 			(at 571.5 288.29 0)
 			(effects
 				(font
@@ -66604,71 +66689,6 @@
 			(project "MetaModule"
 				(path "/65ef787c-9247-43b2-969c-f86513538daf"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4ms_Power_Symbol:+12V")
-		(at 379.73 167.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b0460edd-cf40-42d3-8f9b-aacd418836f3")
-		(property "Reference" "#PWR0200"
-			(at 379.73 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 379.73 164.084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 379.73 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 379.73 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 379.73 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bdd7ee2c-de2e-4778-9ae9-6486d88b2914")
-		)
-		(instances
-			(project "mp153-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -69773,7 +69793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "STM32MP131DAF7"
+		(property "Datasheet" ""
 			(at 91.44 358.14 0)
 			(effects
 				(font
@@ -69791,7 +69811,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 69.85 358.14 0)
 			(effects
 				(font
@@ -69800,7 +69820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "STM32MP133DAF"
 			(at 69.85 358.14 0)
 			(effects
 				(font

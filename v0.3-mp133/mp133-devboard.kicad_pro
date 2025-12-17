@@ -59,44 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|196530000|88220000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|2df91c6c-c951-409d-8313-dd3ded016b6d",
-          ""
-        ],
-        [
-          "clearance|196530000|88480000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|d259b43f-1d4f-4824-a3d6-acb19db774d8",
-          ""
-        ],
-        [
-          "clearance|196840000|88220000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|2df91c6c-c951-409d-8313-dd3ded016b6d",
-          ""
-        ],
-        [
-          "clearance|196840000|88480000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|d259b43f-1d4f-4824-a3d6-acb19db774d8",
-          ""
-        ],
-        [
-          "solder_mask_bridge|196530000|88220000|2df91c6c-c951-409d-8313-dd3ded016b6d|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
-          ""
-        ],
-        [
-          "solder_mask_bridge|196530000|88480000|d259b43f-1d4f-4824-a3d6-acb19db774d8|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
-          ""
-        ],
-        [
-          "solder_mask_bridge|196840000|88220000|2df91c6c-c951-409d-8313-dd3ded016b6d|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
-          ""
-        ],
-        [
-          "solder_mask_bridge|196840000|88480000|d259b43f-1d4f-4824-a3d6-acb19db774d8|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
-          ""
-        ],
-        [
-          "text_thickness|211500000|59020000|3a1cc481-85d1-4265-b883-d549525a0264|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -707,12 +670,12 @@
         "microvia_diameter": 0.25,
         "microvia_drill": 0.1,
         "name": "RAM-BGA",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 162, 28)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
-        "via_diameter": 0.4,
-        "via_drill": 0.2,
+        "via_diameter": 0.35,
+        "via_drill": 0.15,
         "wire_width": 6
       }
     ],
@@ -721,7 +684,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "RAM-BGA",
+        "pattern": "/DDR_*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -800,7 +768,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
