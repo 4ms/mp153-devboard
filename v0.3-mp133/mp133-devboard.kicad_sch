@@ -23112,7 +23112,7 @@
 	)
 	(text "ADC-5"
 		(exclude_from_sim no)
-		(at 162.814 111.76 0)
+		(at 179.324 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24775,6 +24775,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "043ae0ae-5115-4458-b527-c213ac19e441")
+	)
+	(junction
+		(at 585.47 570.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0522ab73-dcde-4bb3-8712-b3ff7903d681")
 	)
 	(junction
 		(at 201.93 158.75)
@@ -26701,6 +26707,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4f31508-e37e-454b-a0b2-cc7020a99c1c")
+	)
+	(junction
+		(at 585.47 575.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d60d8e1b-f233-45e6-b131-359566fbb5a0")
 	)
 	(junction
 		(at 398.78 279.4)
@@ -30075,6 +30087,16 @@
 			(type default)
 		)
 		(uuid "4acf558c-264b-4ba4-891d-80890bac7f4d")
+	)
+	(wire
+		(pts
+			(xy 585.47 575.31) (xy 594.36 575.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ae5daa2-27a6-41dc-8918-85495ab44d4a")
 	)
 	(wire
 		(pts
@@ -33895,6 +33917,16 @@
 			(type default)
 		)
 		(uuid "b1d3c59d-7927-4214-9c66-f22efe49a9f2")
+	)
+	(wire
+		(pts
+			(xy 585.47 570.23) (xy 594.36 570.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1db1c80-38fa-4fc7-9824-935976475c1c")
 	)
 	(wire
 		(pts
@@ -38787,7 +38819,7 @@
 		(uuid "a7adbb4a-1acd-4399-8acf-76bb12a25d40")
 	)
 	(label "PB1"
-		(at 157.48 111.76 0)
+		(at 173.99 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46475,6 +46507,161 @@
 			(project "MetaModule"
 				(path "/65ef787c-9247-43b2-969c-f86513538daf"
 					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Capacitor:1uF_0201_4V")
+		(at 594.36 572.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "346cbf8f-30e7-4762-b90c-9d4a21c8c3e7")
+		(property "Reference" "C1"
+			(at 596.6841 571.7523 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF_0201_4V"
+			(at 594.36 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "4ms_Capacitor:C_0201"
+			(at 591.82 577.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 594.36 572.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 594.36 572.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
+			(at 591.82 580.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Display" "1uF"
+			(at 596.6841 573.8003 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 595.63 586.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0201MRX5R5BB105"
+			(at 601.98 589.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C272877"
+			(at 595.63 585.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Murata"
+			(at 591.82 582.168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "GRM033D70G105ME01D"
+			(at 591.82 583.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Production Stage" "A"
+			(at 591.82 589.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt Part Number" ""
+			(at 594.36 572.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f97d8d7d-ac86-45a6-8827-41c65b51f986")
+		)
+		(pin "2"
+			(uuid "1215f032-cd8e-4c6c-996c-91c2b5e7a023")
+		)
+		(instances
+			(project "mp133-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "C1")
 					(unit 1)
 				)
 			)
