@@ -15241,165 +15241,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SolderJumper_2_Open_1"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim yes)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP?"
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_2_Open"
-				(at 1.016 -7.366 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_SolderJumper:JUMPER_SMD_1x2_tiny"
-				(at 2.032 -5.334 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, open"
-				(at 0.762 -9.144 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Display" "SAI_SD_B"
-				(at 7.874 1.016 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_0_1"
-				(arc
-					(start -1.524 1.27)
-					(mid 0 1.778)
-					(end 1.524 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+12V"
 			(power)
 			(pin_numbers
@@ -17946,6 +17787,16 @@
 	)
 	(wire
 		(pts
+			(xy 477.52 300.99) (xy 477.52 303.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17fab4b6-41f0-42b9-90c2-38d7ad4fed23")
+	)
+	(wire
+		(pts
 			(xy 299.72 438.15) (xy 299.72 440.69)
 		)
 		(stroke
@@ -17963,6 +17814,16 @@
 			(type default)
 		)
 		(uuid "1886df1e-3edc-4789-a17f-fa72d0703fea")
+	)
+	(wire
+		(pts
+			(xy 491.49 300.99) (xy 491.49 303.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "189f7809-cde1-4318-9daf-1e4214443e48")
 	)
 	(wire
 		(pts
@@ -22906,7 +22767,7 @@
 	)
 	(wire
 		(pts
-			(xy 481.33 287.02) (xy 481.33 289.56)
+			(xy 450.85 300.99) (xy 450.85 303.53)
 		)
 		(stroke
 			(width 0)
@@ -23003,6 +22864,16 @@
 			(type default)
 		)
 		(uuid "fd209e77-5a98-4de2-94be-796d79546d29")
+	)
+	(wire
+		(pts
+			(xy 463.55 300.99) (xy 463.55 303.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd696ef8-03a4-4b32-8549-d6b7996b7219")
 	)
 	(wire
 		(pts
@@ -23884,6 +23755,16 @@
 		)
 		(uuid "546b20de-de1a-4685-a79b-2363a5eee4c5")
 	)
+	(label "5VA_CODEC"
+		(at 491.49 300.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "54aa77bc-ae90-4304-9494-cbd316eea4b8")
+	)
 	(label "B6"
 		(at 181.61 57.15 180)
 		(effects
@@ -23995,7 +23876,7 @@
 		(uuid "5c995d91-9ab7-4f4f-8705-52b8271cff7b")
 	)
 	(label "VCOM"
-		(at 481.33 287.02 0)
+		(at 450.85 300.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24093,6 +23974,16 @@
 			(justify right bottom)
 		)
 		(uuid "66c2d87d-eb7c-42cd-b680-836cd13d4945")
+	)
+	(label "3v3_CODEC"
+		(at 477.52 300.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b8349c5-6635-4807-a96e-0c93c6253af2")
 	)
 	(label "CODEC_OUT_R+"
 		(at 254 276.86 180)
@@ -24363,6 +24254,16 @@
 			(justify left bottom)
 		)
 		(uuid "81da9e11-e07f-4d03-93b1-7c539dac408d")
+	)
+	(label "5V_FUSB"
+		(at 463.55 300.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "833c6920-e2c3-4ebc-b842-87e24fb1c771")
 	)
 	(label "B74"
 		(at 181.61 143.51 180)
@@ -25755,6 +25656,72 @@
 			(project "mp153-carrier-board"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
 					(reference "#PWR0152")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 491.49 303.53 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03bca011-0dca-4f16-8a42-da1985822d1e")
+		(property "Reference" "#FLG05"
+			(at 491.49 305.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 491.49 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 491.49 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 491.49 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 491.49 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e7c8725-f98d-4e18-884a-d3ba0268b51a")
+		)
+		(instances
+			(project "mp153-carrier-board"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
@@ -27744,7 +27711,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "4ms_Net_Tie:SolderJumper_2_Open")
 		(at 130.81 295.91 0)
 		(unit 1)
@@ -27780,7 +27746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 130.81 299.72 0)
 			(effects
 				(font
@@ -29276,7 +29242,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Power_Symbol:VREF+")
-		(at 506.73 289.56 0)
+		(at 492.76 289.56 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29285,7 +29251,7 @@
 		(dnp no)
 		(uuid "22c3644d-ff34-4273-97be-724a4d10b3f4")
 		(property "Reference" "#PWR042"
-			(at 506.73 293.37 0)
+			(at 492.76 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29294,7 +29260,7 @@
 			)
 		)
 		(property "Value" "VREF+"
-			(at 506.984 285.75 0)
+			(at 493.014 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29302,7 +29268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 506.73 289.56 0)
+			(at 492.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29311,7 +29277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 506.73 289.56 0)
+			(at 492.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29320,7 +29286,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 506.73 289.56 0)
+			(at 492.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31817,6 +31783,72 @@
 			(project "mp153-carrier-board"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
 					(reference "JP12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 463.55 303.53 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "37552077-b024-4a2d-8229-ebcdf8d92fd1")
+		(property "Reference" "#FLG011"
+			(at 463.55 305.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 463.55 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 463.55 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 463.55 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 463.55 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ea1b476-3476-45de-b6bd-551c56efa173")
+		)
+		(instances
+			(project "mp153-carrier-board"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "#FLG011")
 					(unit 1)
 				)
 			)
@@ -37139,7 +37171,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Power_Symbol:GNDADC")
-		(at 494.03 289.56 180)
+		(at 480.06 289.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37148,7 +37180,7 @@
 		(fields_autoplaced yes)
 		(uuid "73866c04-d5aa-4d7a-bb18-5f6098d79639")
 		(property "Reference" "#PWR0168"
-			(at 494.03 283.21 0)
+			(at 480.06 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37157,7 +37189,7 @@
 			)
 		)
 		(property "Value" "GNDADC"
-			(at 494.03 285.75 0)
+			(at 480.06 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37165,7 +37197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 494.03 289.56 0)
+			(at 480.06 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37173,7 +37205,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 494.03 289.56 0)
+			(at 480.06 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37181,7 +37213,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 494.03 289.56 0)
+			(at 480.06 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42054,7 +42086,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 481.33 289.56 180)
+		(at 450.85 303.53 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42063,7 +42095,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae9d6b10-674d-40bc-8275-ca82aca71195")
 		(property "Reference" "#FLG09"
-			(at 481.33 291.465 0)
+			(at 450.85 305.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42072,7 +42104,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 481.33 293.37 0)
+			(at 450.85 308.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42080,7 +42112,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 481.33 289.56 0)
+			(at 450.85 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42089,7 +42121,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 481.33 289.56 0)
+			(at 450.85 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42098,7 +42130,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 481.33 289.56 0)
+			(at 450.85 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43919,7 +43951,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 494.03 289.56 180)
+		(at 480.06 289.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43928,7 +43960,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9ac0eda-a430-47df-98f8-c92060c2ad9d")
 		(property "Reference" "#FLG012"
-			(at 494.03 291.465 0)
+			(at 480.06 291.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43937,7 +43969,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 494.03 293.37 0)
+			(at 480.06 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43945,7 +43977,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 494.03 289.56 0)
+			(at 480.06 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43954,7 +43986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 494.03 289.56 0)
+			(at 480.06 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43963,7 +43995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 494.03 289.56 0)
+			(at 480.06 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46376,6 +46408,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 477.52 303.53 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e332cde2-0b4a-4265-a567-29e0f6cd677b")
+		(property "Reference" "#FLG01"
+			(at 477.52 305.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 477.52 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 477.52 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 477.52 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 477.52 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6adee62-48b6-4f12-968f-b9019a2dabaa")
+		)
+		(instances
+			(project "mp153-carrier-board"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 30.48 419.1 0)
 		(mirror y)
@@ -47733,7 +47831,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 506.73 289.56 180)
+		(at 492.76 289.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47742,7 +47840,7 @@
 		(fields_autoplaced yes)
 		(uuid "f5555dbf-e9ac-4020-9baf-568b22e5e93f")
 		(property "Reference" "#FLG010"
-			(at 506.73 291.465 0)
+			(at 492.76 291.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47751,7 +47849,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 506.73 293.37 0)
+			(at 492.76 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47759,7 +47857,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 506.73 289.56 0)
+			(at 492.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47768,7 +47866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 506.73 289.56 0)
+			(at 492.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47777,7 +47875,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 506.73 289.56 0)
+			(at 492.76 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
