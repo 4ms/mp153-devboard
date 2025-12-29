@@ -22943,7 +22943,7 @@
 	)
 	(text "ADC-3"
 		(exclude_from_sim no)
-		(at 179.324 105.41 0)
+		(at 179.324 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23056,7 +23056,7 @@
 	)
 	(text "ADC-14"
 		(exclude_from_sim no)
-		(at 179.324 113.03 0)
+		(at 179.324 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23112,7 +23112,7 @@
 	)
 	(text "ADC-5"
 		(exclude_from_sim no)
-		(at 162.814 111.76 0)
+		(at 179.324 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23288,16 +23288,6 @@
 		)
 		(uuid "2cf1025b-eff4-426b-a7e2-13c6ad922b05")
 	)
-	(text "Can swap ADC pins including these:"
-		(exclude_from_sim no)
-		(at 153.416 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2d6fa434-5578-4949-a870-04e3898a3b5d")
-	)
 	(text "ADC-5"
 		(exclude_from_sim no)
 		(at 202.692 421.64 0)
@@ -23366,7 +23356,7 @@
 	)
 	(text "ADC-2"
 		(exclude_from_sim no)
-		(at 179.324 115.57 0)
+		(at 179.324 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23558,7 +23548,7 @@
 	)
 	(text "ADC-8"
 		(exclude_from_sim no)
-		(at 164.592 125.73 0)
+		(at 179.324 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23780,7 +23770,7 @@
 	)
 	(text "ADC-15"
 		(exclude_from_sim no)
-		(at 179.324 125.73 0)
+		(at 179.324 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23791,7 +23781,7 @@
 	)
 	(text "ADC-7"
 		(exclude_from_sim no)
-		(at 179.324 102.87 0)
+		(at 179.324 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23901,7 +23891,7 @@
 	)
 	(text "ADC-1"
 		(exclude_from_sim no)
-		(at 179.324 107.95 0)
+		(at 179.324 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23989,7 +23979,7 @@
 	)
 	(text "ADC-16"
 		(exclude_from_sim no)
-		(at 179.324 120.65 0)
+		(at 179.324 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24000,7 +23990,7 @@
 	)
 	(text "ADC-10"
 		(exclude_from_sim no)
-		(at 179.324 130.81 0)
+		(at 179.324 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24070,7 +24060,7 @@
 	)
 	(text "ADC-4"
 		(exclude_from_sim no)
-		(at 179.324 128.27 0)
+		(at 179.324 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24081,7 +24071,7 @@
 	)
 	(text "ADC-0"
 		(exclude_from_sim no)
-		(at 179.324 118.11 0)
+		(at 164.084 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24116,7 +24106,7 @@
 	)
 	(text "ADC2-2"
 		(exclude_from_sim no)
-		(at 179.324 123.444 0)
+		(at 179.324 128.524 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24474,17 +24464,6 @@
 		)
 		(uuid "cf1977fd-810d-4556-a79f-ef7526c172b0")
 	)
-	(text "SAI2_MCLK_A"
-		(exclude_from_sim no)
-		(at 200.152 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d07d7b71-8474-433f-9350-faf2e9dae0f2")
-	)
 	(text "ON = allow USB jack to\nprovide +5V to board"
 		(exclude_from_sim no)
 		(at 259.588 141.478 0)
@@ -24524,7 +24503,7 @@
 	)
 	(text "ADC-9"
 		(exclude_from_sim no)
-		(at 179.324 143.51 0)
+		(at 164.084 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24657,7 +24636,7 @@
 	)
 	(text "ADC2-6"
 		(exclude_from_sim no)
-		(at 164.592 130.81 0)
+		(at 179.832 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24775,6 +24754,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "043ae0ae-5115-4458-b527-c213ac19e441")
+	)
+	(junction
+		(at 585.47 570.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0522ab73-dcde-4bb3-8712-b3ff7903d681")
 	)
 	(junction
 		(at 201.93 158.75)
@@ -25179,12 +25164,6 @@
 		(uuid "3145ead3-05c1-4088-ad03-7b1982e17293")
 	)
 	(junction
-		(at 480.06 468.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31d75a4a-f28b-471c-a875-550e018cdd06")
-	)
-	(junction
 		(at 549.91 570.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -25261,12 +25240,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36e30971-ef89-49df-a89c-ce2e2e9e3b72")
-	)
-	(junction
-		(at 480.06 450.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "36f0fafd-32c5-4683-a655-d9826773f308")
 	)
 	(junction
 		(at 502.92 575.31)
@@ -26703,6 +26676,12 @@
 		(uuid "d4f31508-e37e-454b-a0b2-cc7020a99c1c")
 	)
 	(junction
+		(at 585.47 575.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d60d8e1b-f233-45e6-b131-359566fbb5a0")
+	)
+	(junction
 		(at 398.78 279.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -26767,12 +26746,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dce65c52-af74-47e3-9cd0-d710fa7d24f1")
-	)
-	(junction
-		(at 571.5 450.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd267cd1-a3e5-4b49-a078-92689a57f83c")
 	)
 	(junction
 		(at 201.93 118.11)
@@ -27205,16 +27178,6 @@
 			(type default)
 		)
 		(uuid "01dc7d4e-ec03-4747-9562-f81d4d7e4bec")
-	)
-	(wire
-		(pts
-			(xy 571.5 448.31) (xy 571.5 450.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01f1459d-c6ba-4535-8d5b-5d4c79c0c399")
 	)
 	(wire
 		(pts
@@ -28208,16 +28171,6 @@
 	)
 	(wire
 		(pts
-			(xy 480.06 450.85) (xy 480.06 457.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dcbe915-f2ab-470f-a035-6f83e626dd42")
-	)
-	(wire
-		(pts
 			(xy 528.32 331.47) (xy 528.32 334.01)
 		)
 		(stroke
@@ -28265,6 +28218,16 @@
 			(type default)
 		)
 		(uuid "1f071c84-37df-45e3-84b6-39b8e2811c4c")
+	)
+	(wire
+		(pts
+			(xy 571.5 443.23) (xy 571.5 448.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f7ebd63-3064-4900-b2f3-946d331cd428")
 	)
 	(wire
 		(pts
@@ -30075,6 +30038,16 @@
 			(type default)
 		)
 		(uuid "4acf558c-264b-4ba4-891d-80890bac7f4d")
+	)
+	(wire
+		(pts
+			(xy 585.47 575.31) (xy 594.36 575.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ae5daa2-27a6-41dc-8918-85495ab44d4a")
 	)
 	(wire
 		(pts
@@ -33898,6 +33871,16 @@
 	)
 	(wire
 		(pts
+			(xy 585.47 570.23) (xy 594.36 570.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1db1c80-38fa-4fc7-9824-935976475c1c")
+	)
+	(wire
+		(pts
 			(xy 434.34 220.98) (xy 458.47 220.98)
 		)
 		(stroke
@@ -36758,16 +36741,6 @@
 	)
 	(wire
 		(pts
-			(xy 480.06 462.28) (xy 480.06 468.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbcbbe60-e23a-4e6e-a4ec-24186cfb5e9e")
-	)
-	(wire
-		(pts
 			(xy 173.99 128.27) (xy 201.93 128.27)
 		)
 		(stroke
@@ -37017,7 +36990,7 @@
 		(uuid "041a813e-e7cb-488e-aff4-603ff5b26d46")
 	)
 	(label "PC5"
-		(at 173.99 130.81 0)
+		(at 173.99 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37417,7 +37390,7 @@
 		(uuid "23c150c2-bbb7-45ea-ad81-bff0cff2df8a")
 	)
 	(label "PA0"
-		(at 173.99 102.87 0)
+		(at 173.99 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37447,7 +37420,7 @@
 		(uuid "27dd2beb-2a2c-450f-b5a9-325fe8d98f26")
 	)
 	(label "PA7"
-		(at 173.99 120.65 0)
+		(at 173.99 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37597,7 +37570,7 @@
 		(uuid "3a795a0b-6470-4681-9d0e-616c8edb0d41")
 	)
 	(label "PA5"
-		(at 173.99 115.57 0)
+		(at 173.99 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37637,7 +37610,7 @@
 		(uuid "3ccaccb2-5eb6-47b2-9551-28600a08a7ec")
 	)
 	(label "PF11"
-		(at 158.75 125.73 0)
+		(at 173.99 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37737,7 +37710,7 @@
 		(uuid "47a5b657-9568-461c-b45f-c93107b2310f")
 	)
 	(label "PC4"
-		(at 173.99 128.27 0)
+		(at 173.99 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37787,7 +37760,7 @@
 		(uuid "4d9afc6b-eb9b-4767-92cd-9a1decc183f1")
 	)
 	(label "PC0"
-		(at 173.99 118.11 0)
+		(at 158.75 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37857,7 +37830,7 @@
 		(uuid "51d3f058-4483-40ae-b2b5-cf89c82aea25")
 	)
 	(label "PC2"
-		(at 173.99 125.73 0)
+		(at 173.99 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -38047,7 +38020,7 @@
 		(uuid "63911151-87b9-4839-8d97-250c16447d54")
 	)
 	(label "PA1"
-		(at 173.99 105.41 0)
+		(at 173.99 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -38117,7 +38090,7 @@
 		(uuid "657dcbf6-a147-4518-9c71-d0e6f3e19ef4")
 	)
 	(label "PC1"
-		(at 173.99 123.19 0)
+		(at 173.99 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -38437,7 +38410,7 @@
 		(uuid "82b9cfce-0bda-4530-bb49-4856b9d1fbe4")
 	)
 	(label "PB0"
-		(at 173.99 143.51 0)
+		(at 158.75 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -38787,7 +38760,7 @@
 		(uuid "a7adbb4a-1acd-4399-8acf-76bb12a25d40")
 	)
 	(label "PB1"
-		(at 157.48 111.76 0)
+		(at 173.99 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39237,7 +39210,7 @@
 		(uuid "cc572059-b78a-44aa-9e28-3b1a197a5dcf")
 	)
 	(label "PA4"
-		(at 173.99 113.03 0)
+		(at 173.99 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39327,7 +39300,7 @@
 		(uuid "d1af655f-97be-4596-8d87-798bd5e5bdf3")
 	)
 	(label "PG13"
-		(at 158.75 130.81 0)
+		(at 173.99 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39457,7 +39430,7 @@
 		(uuid "db9a8709-f0b3-4a38-839e-6f411b38e197")
 	)
 	(label "PA2"
-		(at 173.99 107.95 0)
+		(at 173.99 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46475,6 +46448,161 @@
 			(project "MetaModule"
 				(path "/65ef787c-9247-43b2-969c-f86513538daf"
 					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Capacitor:1uF_0201_4V")
+		(at 594.36 572.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "346cbf8f-30e7-4762-b90c-9d4a21c8c3e7")
+		(property "Reference" "C1"
+			(at 596.6841 571.7523 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF_0201_4V"
+			(at 594.36 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "4ms_Capacitor:C_0201"
+			(at 591.82 577.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 594.36 572.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 594.36 572.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
+			(at 591.82 580.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Display" "1uF"
+			(at 596.6841 573.8003 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 595.63 586.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0201MRX5R5BB105"
+			(at 601.98 589.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB ID" "C272877"
+			(at 595.63 585.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Murata"
+			(at 591.82 582.168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "GRM033D70G105ME01D"
+			(at 591.82 583.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Production Stage" "A"
+			(at 591.82 589.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt Part Number" ""
+			(at 594.36 572.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f97d8d7d-ac86-45a6-8827-41c65b51f986")
+		)
+		(pin "2"
+			(uuid "1215f032-cd8e-4c6c-996c-91c2b5e7a023")
+		)
+		(instances
+			(project "mp133-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -68966,161 +69094,6 @@
 			(project "mp153-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
 					(reference "#PWR0256")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 480.06 459.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c3632ed2-58cc-47bc-9eb3-81106a449f70")
-		(property "Reference" "C30"
-			(at 482.3841 459.1026 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF_0402_16V"
-			(at 480.06 455.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 477.52 464.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 480.06 459.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 480.06 459.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Display" "0.1uF"
-			(at 482.3841 461.0236 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 477.52 467.614 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 477.52 469.138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "GCM155R71C104KA55D"
-			(at 477.52 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB ID" "C1525"
-			(at 481.33 472.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 481.33 473.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 487.68 476.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Production Stage" "A"
-			(at 477.52 476.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Alt Part Number" ""
-			(at 480.06 459.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "35bf930b-e30b-4275-9f2b-3964c7e789b0")
-		)
-		(pin "2"
-			(uuid "1423d4e4-c87f-4ca0-8e20-679c7b3797e3")
-		)
-		(instances
-			(project "mp153-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "C30")
 					(unit 1)
 				)
 			)
