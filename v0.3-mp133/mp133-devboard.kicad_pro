@@ -59,7 +59,72 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|227330000|73760000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|d259b43f-1d4f-4824-a3d6-acb19db774d8",
+          ""
+        ],
+        [
+          "clearance|227330000|74070000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|d259b43f-1d4f-4824-a3d6-acb19db774d8",
+          ""
+        ],
+        [
+          "clearance|227590000|73760000|3746b42d-eb1c-4842-afd1-068ebd6b53a3|2df91c6c-c951-409d-8313-dd3ded016b6d",
+          ""
+        ],
+        [
+          "clearance|227590000|74070000|03e65bf0-ba86-4c89-8d53-15beb8e7917b|2df91c6c-c951-409d-8313-dd3ded016b6d",
+          ""
+        ],
+        [
+          "footprint_type_mismatch|225335000|81325000|96b4f17f-7c50-42f1-8151-9b152695dbdb|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|187525800|75317400|d3b1f298-5855-4f20-8378-594aad0fdc27|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|192395800|102187400|39612d5f-be77-4f53-9dc1-3149aa71d79c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|192395800|66375000|3194a7c5-0953-45e4-98f1-2ffc6742bc77|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|226395800|102187400|35193627-e5db-4493-be31-23dad6b1dff0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|226395800|52187400|80bff451-dbfc-4204-bf54-180b5c788116|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "solder_mask_bridge|227330000|73760000|d259b43f-1d4f-4824-a3d6-acb19db774d8|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
+          ""
+        ],
+        [
+          "solder_mask_bridge|227330000|74070000|d259b43f-1d4f-4824-a3d6-acb19db774d8|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
+          ""
+        ],
+        [
+          "solder_mask_bridge|227590000|73760000|2df91c6c-c951-409d-8313-dd3ded016b6d|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
+          ""
+        ],
+        [
+          "solder_mask_bridge|227590000|74070000|2df91c6c-c951-409d-8313-dd3ded016b6d|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
+          ""
+        ],
+        [
+          "text_thickness|210700000|50570000|21ab28d5-3da6-4252-ba49-8626f035de3b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_thickness|211345800|49200000|3a1cc481-85d1-4265-b883-d549525a0264|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -139,10 +204,10 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.64,
         "min_text_thickness": 0.149,
-        "min_through_hole_diameter": 0.2,
+        "min_through_hole_diameter": 0.15,
         "min_track_width": 0.09,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.4,
+        "min_via_diameter": 0.35,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.005,
@@ -810,7 +875,7 @@
           "group_by": false,
           "label": "JLCPCB ID",
           "name": "JLCPCB ID",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -871,8 +936,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Production Stage"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
