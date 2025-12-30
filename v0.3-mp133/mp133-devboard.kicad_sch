@@ -22988,7 +22988,7 @@
 	)
 	(text "SAI2_SCK"
 		(exclude_from_sim no)
-		(at 161.29 72.136 0)
+		(at 149.098 76.708 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23198,25 +23198,14 @@
 		)
 		(uuid "22cf69d7-3556-466f-a900-f3e12e90e14b")
 	)
-	(text "SAI2_SD_B"
+	(text "I2C3_SDA"
 		(exclude_from_sim no)
-		(at 93.98 69.596 0)
+		(at 294.64 411.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
-		)
-		(uuid "237508f0-79cb-40cf-9c5e-48819c721a3d")
-	)
-	(text "I2C3_SDA"
-		(exclude_from_sim no)
-		(at 132.842 419.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
 		)
 		(uuid "25e5cc40-597f-4590-95a5-8d5bed72281c")
 	)
@@ -23691,7 +23680,7 @@
 	)
 	(text "SPI3_MOSI"
 		(exclude_from_sim no)
-		(at 3.556 70.866 0)
+		(at 3.556 70.358 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23800,6 +23789,17 @@
 			(justify left bottom)
 		)
 		(uuid "6b901399-99fa-4ff5-843b-575e23b0cc44")
+	)
+	(text "SPI3_MOSI"
+		(exclude_from_sim no)
+		(at 49.53 439.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c5dd52c-022b-4cf8-889f-6ca9a236ae43")
 	)
 	(text "SD_CARD_DETECT"
 		(exclude_from_sim no)
@@ -23933,6 +23933,17 @@
 		)
 		(uuid "79d01e02-5e09-497f-97c6-c2c6b771bcb2")
 	)
+	(text "TIM1_CH3"
+		(exclude_from_sim no)
+		(at 48.768 383.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "809fb20f-1f2e-48e1-85fc-9dcca1fc1591")
+	)
 	(text "ADC-5"
 		(exclude_from_sim no)
 		(at 48.514 403.86 0)
@@ -23987,6 +23998,17 @@
 			(justify left bottom)
 		)
 		(uuid "891abd0c-5598-4401-ba66-36894ed14220")
+	)
+	(text "UART_RX, I2C_SCL"
+		(exclude_from_sim no)
+		(at 217.678 69.596 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "898d83f9-16ec-4132-9377-bb5cbfd04d8c")
 	)
 	(text "I2C1_SDA"
 		(exclude_from_sim no)
@@ -24539,6 +24561,17 @@
 		)
 		(uuid "cdac625f-4e4d-45be-ad66-bfd7d6430947")
 	)
+	(text "SPI3_MOSI"
+		(exclude_from_sim no)
+		(at 76.2 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cde0e5f8-45c5-4a5a-8b38-46d5108fa17a")
+	)
 	(text "          BOOT0  BOOT2\nSD Card    On     On\nFlash      On    Off\nDebugger   Off    On"
 		(exclude_from_sim no)
 		(at 441.96 525.272 0)
@@ -24597,6 +24630,17 @@
 			(justify left bottom)
 		)
 		(uuid "d212cb36-88c5-426b-917d-992cd7059e13")
+	)
+	(text "TIM1_CH3"
+		(exclude_from_sim no)
+		(at 76.962 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d4b86341-fb9e-436e-9228-415b9ecf956e")
 	)
 	(text "ADC-9"
 		(exclude_from_sim no)
@@ -24730,17 +24774,6 @@
 			(justify left bottom)
 		)
 		(uuid "e89de417-724d-4dd4-ab1a-3c92be6342dc")
-	)
-	(text "TIM PWM"
-		(exclude_from_sim no)
-		(at 26.67 145.796 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e9e845b3-30eb-462b-8d6c-265b855aa866")
 	)
 	(text "SAI1_SCK"
 		(exclude_from_sim no)
@@ -27576,6 +27609,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 411.48) (xy 299.72 411.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c82f53d-4f6c-430d-b1ff-c8f2713145f0")
+	)
+	(wire
+		(pts
 			(xy 528.32 374.65) (xy 528.32 377.19)
 		)
 		(stroke
@@ -28516,16 +28559,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 408.94) (xy 69.85 408.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24b0709b-c4db-4c37-982b-deb82170951d")
-	)
-	(wire
-		(pts
 			(xy 204.47 609.6) (xy 184.15 609.6)
 		)
 		(stroke
@@ -29363,16 +29396,6 @@
 			(type default)
 		)
 		(uuid "38e210a6-dd98-4ba5-942c-044acc2d05c7")
-	)
-	(wire
-		(pts
-			(xy 55.88 381) (xy 69.85 381)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38fd7d09-48c5-4d41-8924-35f0920ef129")
 	)
 	(wire
 		(pts
@@ -32316,6 +32339,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 381) (xy 69.85 381)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "862062e6-0264-413c-83de-5304717528c2")
+	)
+	(wire
+		(pts
 			(xy 458.47 264.16) (xy 458.47 259.08)
 		)
 		(stroke
@@ -34636,6 +34669,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 408.94) (xy 69.85 408.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c24cce26-650c-4dcb-9bb8-be1eb20558dc")
+	)
+	(wire
+		(pts
 			(xy 54.61 544.83) (xy 39.37 544.83)
 		)
 		(stroke
@@ -35453,6 +35496,16 @@
 			(type default)
 		)
 		(uuid "d6f85a30-6bd0-440c-85ad-352355ecadef")
+	)
+	(wire
+		(pts
+			(xy 43.18 439.42) (xy 69.85 439.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d793b856-8ca6-4489-919b-a6cd03e26291")
 	)
 	(wire
 		(pts
@@ -37114,6 +37167,16 @@
 		)
 		(uuid "016794ad-a2ea-480b-a629-fbc62fb53587")
 	)
+	(label "PB8"
+		(at 82.55 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "01b0eb65-64c8-4fbe-82d5-2508ba62ab26")
+	)
 	(label "DDR_A8"
 		(at 113.03 552.45 180)
 		(effects
@@ -37163,16 +37226,6 @@
 			(justify left bottom)
 		)
 		(uuid "042dd886-e196-4b80-a7f7-89097610fc2f")
-	)
-	(label "UART_TX"
-		(at 55.88 381 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0460a5a1-a25d-4c01-a4f3-6c8c6dd7ddc9")
 	)
 	(label "DDR_BA2"
 		(at 184.15 629.92 0)
@@ -37574,6 +37627,16 @@
 		)
 		(uuid "2789b836-25d5-4d8f-9934-f2ffc5150eb0")
 	)
+	(label "PH8"
+		(at 173.99 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "27d78952-4c85-4826-a8a5-b1cb0219e9f7")
+	)
 	(label "FLASH_CLK"
 		(at 153.67 278.13 180)
 		(effects
@@ -37693,6 +37756,16 @@
 			(justify right bottom)
 		)
 		(uuid "355c842d-a35d-4d4c-abc1-70351002d2ec")
+	)
+	(label "PH8"
+		(at 299.72 411.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35d6f058-2260-4cd7-9ff1-bacb22625b78")
 	)
 	(label "DDR_DQ11"
 		(at 39.37 562.61 0)
@@ -37873,6 +37946,16 @@
 			(justify left bottom)
 		)
 		(uuid "46681f5b-5138-48a2-98d2-91dde8c7dd87")
+	)
+	(label "PA9"
+		(at 173.99 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "468a2d31-28aa-4365-95f1-02f1da4afcfc")
 	)
 	(label "DDR_DQ14"
 		(at 184.15 528.32 0)
@@ -38464,6 +38547,16 @@
 		)
 		(uuid "773bd97e-667c-4e74-b78f-13499d1e9e34")
 	)
+	(label "PA10"
+		(at 82.55 146.05 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "77562c72-3b72-4cb6-8bac-12ae937332d5")
+	)
 	(label "PC2"
 		(at 147.32 363.22 180)
 		(effects
@@ -39014,6 +39107,16 @@
 		)
 		(uuid "a82722eb-2fe2-466d-ae27-6d5c7ec1952f")
 	)
+	(label "PB15"
+		(at 82.55 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a8984b2f-a4ba-4b1e-bdd1-ebe122e99a4b")
+	)
 	(label "USB_HS_D+"
 		(at 314.96 66.04 0)
 		(effects
@@ -39073,16 +39176,6 @@
 			(justify right bottom)
 		)
 		(uuid "ac4cb46d-f17f-4ac8-bab0-03cb7f0dba5f")
-	)
-	(label "PD7"
-		(at 173.99 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ad1ee4db-4a0d-4acc-bdfa-5bcdb6cefb2a")
 	)
 	(label "DDR_DQ8"
 		(at 184.15 510.54 0)
@@ -39273,6 +39366,16 @@
 			(justify right bottom)
 		)
 		(uuid "c37c1094-8a85-409a-9e51-a7cf6c7fe4d0")
+	)
+	(label "PB15"
+		(at 43.18 439.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c39a8494-112e-4291-a23b-9bcf26415188")
 	)
 	(label "PB7"
 		(at 43.18 419.1 0)
@@ -39535,7 +39638,7 @@
 		(uuid "d1c5054f-7142-44af-a204-bc608417add6")
 	)
 	(label "DEBUG0"
-		(at 55.88 408.94 0)
+		(at 26.67 412.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -39774,6 +39877,16 @@
 		)
 		(uuid "e5c03bd9-1bf3-4c11-9ae8-c80b75e8505a")
 	)
+	(label "PA9"
+		(at 43.18 381 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e68313ef-bbb3-4b3a-bb16-8cc736b2ad2f")
+	)
 	(label "PG7"
 		(at 173.99 92.71 0)
 		(effects
@@ -39935,7 +40048,7 @@
 		(uuid "f4201100-2e2e-40bf-9ed0-4673b7876c36")
 	)
 	(label "PG12"
-		(at 167.64 72.39 180)
+		(at 147.32 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
