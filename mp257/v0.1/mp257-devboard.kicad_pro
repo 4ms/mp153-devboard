@@ -993,6 +993,14 @@
     [
       "64ec1a6b-f4f9-4414-abbd-a05816451f08",
       "Root"
+    ],
+    [
+      "2d5e657e-c95b-4ad6-b4dc-8f322bebdc60",
+      "DDR"
+    ],
+    [
+      "200f2e9a-f79b-4306-8e51-ebf831da81bb",
+      "Power"
     ]
   ],
   "text_variables": {}
