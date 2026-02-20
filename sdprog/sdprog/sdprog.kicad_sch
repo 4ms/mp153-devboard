@@ -1351,131 +1351,19 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:VDD"
-			(power)
-			(pin_numbers
-				(hide yes)
+	)
+	(text "SD card => 1.27mm adaptor"
+		(exclude_from_sim no)
+		(at 221.742 173.482 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+				(italic yes)
 			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "VDD"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VDD\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VDD_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VDD_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
 		)
+		(uuid "22284370-d565-4a28-b193-76e13d1f7eb5")
 	)
 	(text "microSD"
 		(exclude_from_sim no)
@@ -1508,7 +1396,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 121.92) (xy 82.55 121.92)
+			(xy 60.96 128.27) (xy 81.28 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1518,7 +1406,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 93.98) (xy 64.77 93.98)
+			(xy 52.07 93.98) (xy 64.77 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1658,7 +1546,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 111.76) (xy 87.63 111.76)
+			(xy 60.96 119.38) (xy 81.28 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1708,7 +1596,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 165.1) (xy 82.55 165.1)
+			(xy 60.96 154.94) (xy 81.28 154.94)
 		)
 		(stroke
 			(width 0)
@@ -1738,7 +1626,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 148.59) (xy 82.55 148.59)
+			(xy 60.96 146.05) (xy 81.28 146.05)
 		)
 		(stroke
 			(width 0)
@@ -1778,7 +1666,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 105.41) (xy 67.31 105.41)
+			(xy 81.28 111.76) (xy 60.96 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1788,7 +1676,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 130.81) (xy 82.55 130.81)
+			(xy 60.96 137.16) (xy 81.28 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1826,7 +1714,7 @@
 		)
 		(uuid "050e06d3-7e5b-44a6-ae32-253038288d89")
 	)
-	(label "BOOT2"
+	(label "CD1"
 		(at 91.44 93.98 180)
 		(effects
 			(font
@@ -1835,6 +1723,26 @@
 			(justify right bottom)
 		)
 		(uuid "241086cf-4784-4171-9c82-0d5db6142182")
+	)
+	(label "CD1"
+		(at 81.28 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46396d8d-6fe2-4318-a47e-4f1da0780bc4")
+	)
+	(label "CD0"
+		(at 52.07 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d149ed3-2974-4de5-a506-d6e2c668b629")
 	)
 	(label "SDMMC_D0"
 		(at 91.44 88.9 180)
@@ -1847,7 +1755,7 @@
 		(uuid "5f40d344-b6a2-4d84-9efd-383b69345d56")
 	)
 	(label "SDMMC_CLK"
-		(at 82.55 148.59 0)
+		(at 81.28 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1857,7 +1765,7 @@
 		(uuid "6105b189-5479-4a5f-b7a5-37a6cfad7303")
 	)
 	(label "SDMMC_D1"
-		(at 82.55 165.1 0)
+		(at 81.28 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1906,8 +1814,18 @@
 		)
 		(uuid "6f200c8f-2e0e-4cd4-af71-f7df6e278d02")
 	)
+	(label "CD0"
+		(at 81.28 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73232444-6c14-4764-8eb3-f1b53751c4c1")
+	)
 	(label "SDMMC_D2"
-		(at 82.55 121.92 0)
+		(at 81.28 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1916,7 +1834,7 @@
 		)
 		(uuid "756f7ad0-5acb-4e29-924d-bd8c1c12c8af")
 	)
-	(label "BOOT2"
+	(label "CD1"
 		(at 124.46 115.57 0)
 		(effects
 			(font
@@ -1987,7 +1905,7 @@
 		(uuid "b1268cff-a599-4c8d-9910-981574a682e4")
 	)
 	(label "SDMMC_D3"
-		(at 82.55 130.81 0)
+		(at 81.28 137.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1996,15 +1914,15 @@
 		)
 		(uuid "b1af59a9-2bec-4855-b380-6f478f8636f0")
 	)
-	(label "BOOT2"
-		(at 82.55 105.41 0)
+	(label "CD0"
+		(at 124.46 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e24ba8b9-60e7-4978-b564-340ec157f691")
+		(uuid "b45c58ba-9200-40a9-a91e-1c4c7195c723")
 	)
 	(symbol
 		(lib_id "4ms_Power_Symbol:+3.3V")
@@ -2212,7 +2130,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Connector:TestPoint")
-		(at 67.31 111.76 0)
+		(at 60.96 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2221,7 +2139,7 @@
 		(fields_autoplaced yes)
 		(uuid "24428a6a-7bdc-4758-bbc8-05b407ea0cd7")
 		(property "Reference" "V0"
-			(at 69.85 107.1879 0)
+			(at 63.5 114.8079 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2230,7 +2148,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 69.85 109.7279 0)
+			(at 63.5 117.3479 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2239,7 +2157,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 72.39 111.76 0)
+			(at 66.04 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2248,7 +2166,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 111.76 0)
+			(at 66.04 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2257,7 +2175,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 67.31 111.76 0)
+			(at 60.96 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2278,74 +2196,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VDD")
-		(at 48.26 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "26202024-e55c-4f89-9ece-7cf35881ada6")
-		(property "Reference" "#PWR0527"
-			(at 48.26 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD"
-			(at 48.26 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c86f22f-594e-47ce-a4a8-ceb61b0bb659")
-		)
-		(instances
-			(project "sdprog"
-				(path "/3ed7d8ec-bc06-42d0-9d37-570240a62e4c"
-					(reference "#PWR0527")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "4ms_Connector:TestPoint")
-		(at 68.58 130.81 0)
+		(at 60.96 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2354,7 +2206,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a6ee59a-2dd7-47a7-8ee8-0ac4826c4bd1")
 		(property "Reference" "D3"
-			(at 71.12 126.2379 0)
+			(at 63.5 132.5879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2363,7 +2215,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 71.12 128.7779 0)
+			(at 63.5 135.1279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2372,7 +2224,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 73.66 130.81 0)
+			(at 66.04 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2381,7 +2233,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 130.81 0)
+			(at 66.04 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2390,7 +2242,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 68.58 130.81 0)
+			(at 60.96 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,72 +2257,6 @@
 			(project "sdprog"
 				(path "/3ed7d8ec-bc06-42d0-9d37-570240a62e4c"
 					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDD")
-		(at 87.63 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a876d9e-77f3-478b-9639-037918dbc6f4")
-		(property "Reference" "#PWR02"
-			(at 87.63 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD"
-			(at 87.63 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 87.63 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 87.63 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9d451ca8-c0f8-422a-9d1b-1c96bfcd56fe")
-		)
-		(instances
-			(project "sdprog"
-				(path "/3ed7d8ec-bc06-42d0-9d37-570240a62e4c"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -2627,7 +2413,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Connector:TestPoint")
-		(at 68.58 121.92 0)
+		(at 60.96 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2636,7 +2422,7 @@
 		(fields_autoplaced yes)
 		(uuid "4339b3af-56f7-4e29-9f93-773bcc92e355")
 		(property "Reference" "D2"
-			(at 71.12 117.3479 0)
+			(at 63.5 123.6979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2645,7 +2431,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 71.12 119.8879 0)
+			(at 63.5 126.2379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2654,7 +2440,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 73.66 121.92 0)
+			(at 66.04 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2663,7 +2449,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 121.92 0)
+			(at 66.04 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2672,7 +2458,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 68.58 121.92 0)
+			(at 60.96 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2886,72 +2672,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VDD")
-		(at 124.46 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5dcb79b1-7cf5-4b6b-b4b6-6c526428af34")
-		(property "Reference" "#PWR0525"
-			(at 124.46 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD"
-			(at 124.46 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 124.46 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 124.46 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 124.46 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cf0d0782-53bd-42a4-809f-ddd9e919e2d1")
-		)
-		(instances
-			(project "sdprog"
-				(path "/3ed7d8ec-bc06-42d0-9d37-570240a62e4c"
-					(reference "#PWR0525")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 226.06 115.57 0)
 		(unit 1)
@@ -3018,7 +2738,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Connector:TestPoint")
-		(at 68.58 148.59 0)
+		(at 60.96 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3027,7 +2747,7 @@
 		(fields_autoplaced yes)
 		(uuid "6d0a269c-dbbb-4904-b9f8-a5a5a1332957")
 		(property "Reference" "CK0"
-			(at 71.12 144.0179 0)
+			(at 63.5 141.4779 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3036,7 +2756,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 71.12 146.5579 0)
+			(at 63.5 144.0179 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3045,7 +2765,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 73.66 148.59 0)
+			(at 66.04 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3054,7 +2774,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 148.59 0)
+			(at 66.04 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3063,7 +2783,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 68.58 148.59 0)
+			(at 60.96 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3224,7 +2944,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Connector:TestPoint")
-		(at 67.31 105.41 0)
+		(at 60.96 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3233,7 +2953,7 @@
 		(fields_autoplaced yes)
 		(uuid "9d5aee85-c4f3-4f1f-99bb-6a5fa66b1f9c")
 		(property "Reference" "B0"
-			(at 69.85 100.8379 0)
+			(at 63.5 107.1879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3242,7 +2962,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 69.85 103.3779 0)
+			(at 63.5 109.7279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3251,7 +2971,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 72.39 105.41 0)
+			(at 66.04 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3260,7 +2980,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 105.41 0)
+			(at 66.04 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3269,7 +2989,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 67.31 105.41 0)
+			(at 60.96 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3421,7 +3141,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Connector:TestPoint")
-		(at 68.58 165.1 0)
+		(at 60.96 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3430,7 +3150,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5364efc-b2f1-4c7e-9422-39dbc2e6a675")
 		(property "Reference" "D1"
-			(at 71.12 160.5279 0)
+			(at 63.5 150.3679 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3439,7 +3159,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 71.12 163.0679 0)
+			(at 63.5 152.9079 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3448,7 +3168,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 73.66 165.1 0)
+			(at 66.04 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3457,7 +3177,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 165.1 0)
+			(at 66.04 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3466,7 +3186,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 68.58 165.1 0)
+			(at 60.96 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
