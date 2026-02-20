@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C0, C1, CK0, D1, D2, D3",TestPoint_Pad_1.0x1.0mm,6,TestPoint,
+CON1,CardSlot_MicroSD_Molex_104031-0811,1,microSDCon_SMT_104031-0811,C585350
+J1,Socket_2x05_1.27mm_SMD,1,Socket_02x05_P1.27mm_SMT,
+"R1, R2",R_0603,2,10k_0603,C98220
