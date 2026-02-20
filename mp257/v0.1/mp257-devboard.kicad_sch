@@ -60910,6 +60910,10 @@
 		(uuid "211065cb-a7ae-4010-a63b-e859523c2c6e")
 	)
 	(no_connect
+		(at 189.23 481.33)
+		(uuid "21e4a2fc-6916-4dd1-9c72-d39c911e66e1")
+	)
+	(no_connect
 		(at 346.71 518.16)
 		(uuid "2223bcc4-3512-49a4-83c9-3d6534db8a68")
 	)
@@ -71091,7 +71095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f93a5bc-6316-4584-9cb3-2ef1d8029fb5")
-		(property "Reference" "R2"
+		(property "Reference" "R9"
 			(at 175.26 275.5899 0)
 			(effects
 				(font
@@ -71214,7 +71218,7 @@
 		(instances
 			(project "mp153-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "R2")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -75144,7 +75148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a7414d9-7c9f-4cf9-b6e9-a016692f3143")
-		(property "Reference" "C21"
+		(property "Reference" "C210"
 			(at 231.14 202.5586 0)
 			(effects
 				(font
@@ -75284,7 +75288,7 @@
 		(instances
 			(project "Kit-Brainboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "C21")
+					(reference "C210")
 					(unit 1)
 				)
 			)
@@ -85688,7 +85692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc7448de-6a93-46d8-bc02-2e7e7414b149")
-		(property "Reference" "R11"
+		(property "Reference" "R12"
 			(at 279.4 88.8999 0)
 			(effects
 				(font
@@ -85811,7 +85815,7 @@
 		(instances
 			(project "mp153-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "R11")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -87868,8 +87872,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecba4167-0dd6-48bc-a0a6-3ee813a4c7b1")
-		(property "Reference" "C12"
-			(at 102.87 268.6113 0)
+		(property "Reference" "C120"
+			(at 102.87 267.9762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87945,7 +87949,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 102.87 271.1513 0)
+			(at 102.87 270.5162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -88008,7 +88012,7 @@
 		(instances
 			(project "Kit-Brainboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "C12")
+					(reference "C120")
 					(unit 1)
 				)
 			)
