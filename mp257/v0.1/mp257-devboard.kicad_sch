@@ -222,6 +222,205 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "4ms_Capacitor:6.8pF_0402_25V"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "6.8pF_0402_25V"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Capacitor:C_0402"
+				(at -2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "6.8pF, Min. 25V 10%, NP0/C0G 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "6.8pF, Min. 25V 10%, NP0/C0G"
+				(at -2.54 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "CC0402CRNPO9BN6R8"
+				(at -2.54 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "6.8pF"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "JLCPCB ID" "C1576"
+				(at 1.27 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "6.8pF_0402_25V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "6.8pF_0402_25V_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "6.8pF_0402_25V_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "4ms_Connector:Conn_01x02"
 			(pin_names
 				(offset 1.016)
@@ -4750,6 +4949,306 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "4ms_Crystal:40MHz_6.8pF_2x1.6mm"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Y"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "40MHz_6.8pF_2x1.6mm"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "4ms_Crystal:Crystal_2.0x1.6mm_4pin"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "40MHz Resonator, 2x1.6mm, GND on pins 2 and 4"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "ECS"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part Number" ""
+				(at 1.27 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB ID" ""
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "40MHz 6.8pF Crystal Resonator, 10ppm, 2016 2x1.6mm"
+				(at 1.27 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "quartz ceramic resonator oscillator"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Crystal*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "40MHz_6.8pF_2x1.6mm_0_1"
+				(polyline
+					(pts
+						(xy -2.54 2.286) (xy -2.54 3.556) (xy 2.54 3.556) (xy 2.54 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.032 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.286) (xy -2.54 -3.556) (xy 2.54 -3.556) (xy 2.54 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -3.556) (xy -2.54 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -1.27) (xy -2.032 1.27)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.143 2.54)
+					(end 1.143 -2.54)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -1.27) (xy 2.032 1.27)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -3.81) (xy 2.54 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "40MHz_6.8pF_2x1.6mm_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -5.08 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 1.27)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16383,6 +16882,205 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "6.8pF_0402_25V_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "6.8pF_0402_25V"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Capacitor:C_0402"
+				(at -2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "6.8pF, Min. 25V 10%, NP0/C0G 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "6.8pF, Min. 25V 10%, NP0/C0G"
+				(at -2.54 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "CC0402CRNPO9BN6R8"
+				(at -2.54 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "6.8pF"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "JLCPCB ID" "C1576"
+				(at 1.27 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "6.8pF_0402_25V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "6.8pF_0402_25V_1_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "6.8pF_0402_25V_1_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Jumper:Jumper_3_Open"
 			(pin_names
 				(offset 0)
@@ -16832,549 +17530,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MCD_PARTS_database:U_STM32MP25XXAK I_Os_0_XTAL_4_PINS_MCD_PARTS_database.DbLib"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Crystal, 40MHz, 6pF, +/-20ppm, 80R, 1.6x1.2mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*CRY_NX1612SA_4P*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_STM32MP25XXAK I_Os_0_XTAL_4_PINS_MCD_PARTS_database.DbLib_1_0"
-				(polyline
-					(pts
-						(xy -4.826 1.016) (xy -0.254 1.016)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.826 -1.016) (xy -4.826 1.016)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.826 -1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.064 2.032) (xy -1.016 2.032)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.064 -2.032) (xy -1.016 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.032) (xy -2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -1.016) (xy -0.254 1.016)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 2.54)
-					(end -5.08 -2.54)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 5.08 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 90)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MCD_PARTS_database:U_STM32MP25XXAK I_Os_0_mirrored_Capacitor_MCD_PARTS_database.DbLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Capacitor, MLCC, 6.8pF, 50V, NPO, +-0.25pF, 0402, T=0.5mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*C0402*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_STM32MP25XXAK I_Os_0_mirrored_Capacitor_MCD_PARTS_database.DbLib_1_0"
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -1.778 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.508) (xy -1.778 -4.572)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.762 -4.572) (xy -0.762 -0.508)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy -0.762 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -2.54 180)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MCD_PARTS_database:U_STM32MP25XXAK I_Os_2_mirrored_Capacitor_MCD_PARTS_database.DbLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Capacitor, MLCC, 6.8pF, 50V, NPO, +-0.25pF, 0402, T=0.5mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*C0402*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_STM32MP25XXAK I_Os_2_mirrored_Capacitor_MCD_PARTS_database.DbLib_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 4.572) (xy 0.762 0.508)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 0.508) (xy 1.778 4.572)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 1.778 2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -20888,7 +21043,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 372.11) (xy 278.13 367.03)
+			(xy 278.13 373.38) (xy 278.13 367.03)
 		)
 		(stroke
 			(width 0)
@@ -21758,7 +21913,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 382.27) (xy 278.13 389.89)
+			(xy 278.13 381) (xy 278.13 389.89)
 		)
 		(stroke
 			(width 0)
@@ -22928,7 +23083,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 367.03) (xy 288.29 367.03)
+			(xy 278.13 367.03) (xy 290.83 367.03)
 		)
 		(stroke
 			(width 0)
@@ -23398,7 +23553,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 389.89) (xy 288.29 389.89)
+			(xy 278.13 389.89) (xy 290.83 389.89)
 		)
 		(stroke
 			(width 0)
@@ -31358,7 +31513,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 283.21 372.11 90)
+		(at 283.21 374.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31366,7 +31521,7 @@
 		(dnp no)
 		(uuid "29a0707d-d098-4ea9-ba66-370e924dc2be")
 		(property "Reference" "#PWR054"
-			(at 283.21 372.11 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31375,7 +31530,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 287.02 372.11 0)
+			(at 287.02 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31383,7 +31538,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 283.21 372.11 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31392,7 +31547,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 283.21 372.11 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31401,7 +31556,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 283.21 372.11 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32289,7 +32444,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 283.21 382.27 90)
+		(at 283.21 379.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32297,7 +32452,7 @@
 		(dnp no)
 		(uuid "52350572-f3fb-4168-ba99-3a38ed5c8dcc")
 		(property "Reference" "#PWR069"
-			(at 283.21 382.27 0)
+			(at 283.21 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32306,7 +32461,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 287.02 382.27 0)
+			(at 287.02 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32314,7 +32469,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 283.21 382.27 0)
+			(at 283.21 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32323,7 +32478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 283.21 382.27 0)
+			(at 283.21 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32332,7 +32487,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 283.21 382.27 0)
+			(at 283.21 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38423,44 +38578,45 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_STM32MP25XXAK I_Os_0_mirrored_Capacitor_MCD_PARTS_database.DbLib")
-		(at 293.37 364.49 0)
+		(lib_name "6.8pF_0402_25V_1")
+		(lib_id "4ms_Capacitor:6.8pF_0402_25V")
+		(at 293.37 367.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "89589051-d0bc-4928-a1ca-2e40c8d6ccf1")
 		(property "Reference" "C90"
-			(at 290.576 364.744 0)
+			(at 293.3763 360.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Capacitor"
-			(at 287.782 364.744 0)
+		(property "Value" "6.8pF_0402_25V"
+			(at 289.56 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "C0402"
-			(at 293.37 364.49 0)
+		(property "Footprint" "4ms_Capacitor:C_0402"
+			(at 298.45 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 364.49 0)
+			(at 293.37 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38468,8 +38624,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Capacitor, MLCC, 6.8pF, 50V, NPO, +-0.25pF, 0402, T=0.5mm"
-			(at 293.37 364.49 0)
+		(property "Description" "6.8pF, Min. 25V 10%, NP0/C0G 0402"
+			(at 293.37 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38477,287 +38633,46 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 287.782 364.744 0)
+		(property "Specifications" "6.8pF, Min. 25V 10%, NP0/C0G"
+			(at 301.244 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-00674"
-			(at 287.782 364.744 0)
+		(property "Manufacturer" "Yageo"
+			(at 302.768 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "6.8pF"
-			(at 290.576 371.856 0)
+		(property "Part Number" "CC0402CRNPO9BN6R8"
+			(at 304.292 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Released"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Capacitor"
-			(at 287.782 364.744 0)
+		(property "Display" "6.8pF"
+			(at 293.3763 363.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "CC0402CRNPO9BN6R8"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "YAGEO"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0402"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Capacitor/YAGEO_NP0_Series"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ECCN_US" "n/a"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ECCN_EU" "n/a"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PROVIDED_BY" "SUBCO"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INITIAL_BOARD_REFERENCE" "MB1319"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER" "N/A"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" "N/A"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "311-3327-1-ND"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "China"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "3068"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 287.782 364.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 293.37 364.49 0)
+		(property "JLCPCB ID" "C1576"
+			(at 306.07 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38765,48 +38680,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 293.37 364.49 0)
+		(property "Production Stage" "A"
+			(at 309.88 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 293.37 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 293.37 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 293.37 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 293.37 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -38826,8 +38706,9 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_STM32MP25XXAK I_Os_0_XTAL_4_PINS_MCD_PARTS_database.DbLib")
-		(at 280.67 377.19 0)
+		(lib_id "4ms_Crystal:40MHz_6.8pF_2x1.6mm")
+		(at 278.13 377.19 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38835,26 +38716,25 @@
 		(dnp no)
 		(uuid "8e4b64b2-2149-4fb1-90f3-8cb5a939e017")
 		(property "Reference" "X2"
-			(at 285.75 376.936 0)
+			(at 279.654 360.934 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
-		(property "Value" "XTAL_4_PINS"
-			(at 275.59 371.602 0)
+		(property "Value" "40MHz_6.8pF_2x1.6mm"
+			(at 279.654 363.474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Footprint" "CRY_NX1612SA_4P"
-			(at 280.67 377.19 0)
+		(property "Footprint" "4ms_Crystal:Crystal_2.0x1.6mm_4pin"
+			(at 285.75 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38863,7 +38743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 377.19 0)
+			(at 278.13 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38871,8 +38751,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Crystal, 40MHz, 6pF, +/-20ppm, 80R, 1.6x1.2mm"
-			(at 280.67 377.19 0)
+		(property "Description" "40MHz Resonator, 2x1.6mm, GND on pins 2 and 4"
+			(at 278.13 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38880,157 +38760,8 @@
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02344"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "40MHz"
-			(at 285.75 379.476 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Crystal_Osc"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "NDK"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "NX1612SA-40MHZ-EXS00A-CS13836"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "1.6x1.2mm"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Crytal_Oscillator/NDK_NX1612SA_Series/"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Unknown"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4450"
-			(at 275.59 371.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 280.67 377.19 0)
+		(property "Manufacturer" "ECS"
+			(at 290.83 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39038,8 +38769,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 280.67 377.19 0)
+		(property "Part Number" ""
+			(at 288.29 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39047,8 +38778,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 4" ""
-			(at 280.67 377.19 0)
+		(property "JLCPCB ID" ""
+			(at 298.45 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39056,8 +38787,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 280.67 377.19 0)
+		(property "Specifications" "40MHz 6.8pF Crystal Resonator, 10ppm, 2016 2x1.6mm"
+			(at 300.99 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39065,21 +38796,13 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 3" ""
-			(at 280.67 377.19 0)
+		(property "Production Stage" "A"
+			(at 294.64 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 280.67 377.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -42244,44 +41967,44 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_STM32MP25XXAK I_Os_2_mirrored_Capacitor_MCD_PARTS_database.DbLib")
-		(at 290.83 392.43 0)
+		(lib_id "4ms_Capacitor:6.8pF_0402_25V")
+		(at 293.37 389.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c9b6a89c-03df-4629-8a12-18640a4b8b7c")
 		(property "Reference" "C92"
-			(at 290.576 387.604 0)
+			(at 293.3763 383.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Capacitor"
-			(at 287.782 387.604 0)
+		(property "Value" "6.8pF_0402_25V"
+			(at 289.56 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "C0402"
-			(at 290.83 392.43 0)
+		(property "Footprint" "4ms_Capacitor:C_0402"
+			(at 298.45 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 290.83 392.43 0)
+			(at 293.37 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42289,8 +42012,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Capacitor, MLCC, 6.8pF, 50V, NPO, +-0.25pF, 0402, T=0.5mm"
-			(at 290.83 392.43 0)
+		(property "Description" "6.8pF, Min. 25V 10%, NP0/C0G 0402"
+			(at 293.37 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42298,287 +42021,46 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 287.782 387.604 0)
+		(property "Specifications" "6.8pF, Min. 25V 10%, NP0/C0G"
+			(at 301.244 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-00674"
-			(at 287.782 387.604 0)
+		(property "Manufacturer" "Yageo"
+			(at 302.768 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "6.8pF"
-			(at 290.576 394.716 0)
+		(property "Part Number" "CC0402CRNPO9BN6R8"
+			(at 304.292 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Released"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Capacitor"
-			(at 287.782 387.604 0)
+		(property "Display" "6.8pF"
+			(at 293.3763 386.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "CC0402CRNPO9BN6R8"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "YAGEO"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0402"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Capacitor/YAGEO_NP0_Series"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ECCN_US" "n/a"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ECCN_EU" "n/a"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PROVIDED_BY" "SUBCO"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INITIAL_BOARD_REFERENCE" "MB1319"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER" "N/A"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" "N/A"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "311-3327-1-ND"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "China"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "3068"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 287.782 387.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 290.83 392.43 0)
+		(property "JLCPCB ID" "C1576"
+			(at 306.07 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42586,48 +42068,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 290.83 392.43 0)
+		(property "Production Stage" "A"
+			(at 309.88 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 290.83 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 290.83 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 290.83 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 290.83 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
