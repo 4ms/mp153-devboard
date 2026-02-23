@@ -13530,6 +13530,699 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "4ms_Inductor:0.68uH_3.1A_2016"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -1.27 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0.68uH_3.1A_2016"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+				(at 1.27 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+				(at -2.54 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Murata"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "DFE201610E-R68M=P2"
+				(at -2.54 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "0.68uH"
+				(at 2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Display 2" "3.1A"
+				(at 4.4196 0.1016 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Part Number 2" ""
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" ""
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "0.68uH_3.1A_2016"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0.68uH_3.1A_2016_0_1"
+				(arc
+					(start 0 2.54)
+					(mid 0.6323 1.905)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0.68uH_3.1A_2016_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "4ms_Inductor:0.68uH_3.9A_2520"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -1.27 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0.68uH_3.9A_2520"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Inductor:COIL_2520_Murata_Handsolder"
+				(at 1.27 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.68uH, Isat>5.4A, Imax>=3.9A, Rdc<=50mOhms, shielded"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "0.68uH, Isat>5.4A, Imax>=3.9A, Rdc<=50mOhms, shielded"
+				(at -2.54 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Murata"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "DFE252012F-R68M=P2"
+				(at -2.54 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "0.68uH"
+				(at 2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Display 2" "3.9A"
+				(at 4.4196 0.1016 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Part Number 2" ""
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" ""
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "0.68uH_3.9A_2520"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0.68uH_3.9A_2520_0_1"
+				(arc
+					(start 0 2.54)
+					(mid 0.6323 1.905)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0.68uH_3.9A_2520_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "4ms_Inductor:2.2uH_1.7A_2016"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -1.27 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "2.2uH_1.7A_2016"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+				(at 1.27 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "2.2uH, Isat>2.4A, Imax>=1.7A, Rdc<=120mOhms, shielded"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "2.2uH, Isat>2.4A, Imax>=1.7A, Rdc<=120mOhms, shielded"
+				(at -2.54 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Murata"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "DFE201610E-2R2M=P2"
+				(at -2.54 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "2.2uH"
+				(at 2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Display 2" "1.7A"
+				(at 4.4196 0.1016 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "2.2uH_1.7A_2016 2.2µH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "2.2uH_1.7A_2016_0_1"
+				(arc
+					(start 0 2.54)
+					(mid 0.6323 1.905)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "2.2uH_1.7A_2016_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "4ms_Net_Tie:NetTie"
 			(pin_numbers
 				(hide yes)
@@ -15330,434 +16023,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3100mA, Isat= 4300mA, 0R043, 0806, T=1mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IND_2016_MURATA_LQM2MPN2R2NG0*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_1_0"
-				(arc
-					(start 0 -2.54)
-					(mid 0.372 -1.642)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.27 -1.27)
-					(mid 2.168 -1.642)
-					(end 2.54 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.54)
-					(mid 2.912 -1.642)
-					(end 3.81 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 3.81 -1.27)
-					(mid 4.708 -1.642)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 5.08 -2.54)
-					(mid 5.452 -1.642)
-					(end 6.35 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 6.35 -1.27)
-					(mid 7.248 -1.642)
-					(end 7.62 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 -2.54)
-					(mid 7.992 -1.642)
-					(end 8.89 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 8.89 -1.27)
-					(mid 9.788 -1.642)
-					(end 10.16 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MCD_PARTS_database:U_PMIC_1_link_200_MCD_PARTS_database.DbLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Track link on PCB 200um width for layout routing"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*LINK200*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_1_link_200_MCD_PARTS_database.DbLib_1_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.508)
-						(type solid)
-						(color 0 0 191 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MCD_PARTS_database:U_PMIC_3_link_200_MCD_PARTS_database.DbLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Track link on PCB 200um width for layout routing"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*LINK200*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_3_link_200_MCD_PARTS_database.DbLib_1_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy -5.08 0)
-					)
-					(stroke
-						(width 0.508)
-						(type solid)
-						(color 0 0 191 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Reference_Voltage:MCP1501-18xCH"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -15945,798 +16210,6 @@
 					)
 					(fill
 						(type background)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_1"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor, 2.2uH, +/-20%, Itemp= 1700mA, Isat= 2400mA, 0R140, 0806, T=1mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IND_2016_MURATA_LQM2MPN2R2NG0*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_1_1_0"
-				(arc
-					(start 0 -2.54)
-					(mid 0.372 -1.642)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.27 -1.27)
-					(mid 2.168 -1.642)
-					(end 2.54 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.54)
-					(mid 2.912 -1.642)
-					(end 3.81 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 3.81 -1.27)
-					(mid 4.708 -1.642)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 5.08 -2.54)
-					(mid 5.452 -1.642)
-					(end 6.35 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 6.35 -1.27)
-					(mid 7.248 -1.642)
-					(end 7.62 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 -2.54)
-					(mid 7.992 -1.642)
-					(end 8.89 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 8.89 -1.27)
-					(mid 9.788 -1.642)
-					(end 10.16 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_2"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3900mA, Isat= 5400mA, 0R031, 1008, T=1.2mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IND_2520_TOKO_DFE252012P*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_2_1_0"
-				(arc
-					(start 0 -2.54)
-					(mid 0.372 -1.642)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.27 -1.27)
-					(mid 2.168 -1.642)
-					(end 2.54 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.54)
-					(mid 2.912 -1.642)
-					(end 3.81 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 3.81 -1.27)
-					(mid 4.708 -1.642)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 5.08 -2.54)
-					(mid 5.452 -1.642)
-					(end 6.35 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 6.35 -1.27)
-					(mid 7.248 -1.642)
-					(end 7.62 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 -2.54)
-					(mid 7.992 -1.642)
-					(end 8.89 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 8.89 -1.27)
-					(mid 9.788 -1.642)
-					(end 10.16 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_3"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor, 2.2uH, +/-20%, Itemp= 1700mA, Isat= 2400mA, 0R140, 0806, T=1mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IND_2016_MURATA_LQM2MPN2R2NG0*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_3_1_0"
-				(arc
-					(start 0 -2.54)
-					(mid 0.372 -1.642)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.27 -1.27)
-					(mid 2.168 -1.642)
-					(end 2.54 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.54)
-					(mid 2.912 -1.642)
-					(end 3.81 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 3.81 -1.27)
-					(mid 4.708 -1.642)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 5.08 -2.54)
-					(mid 5.452 -1.642)
-					(end 6.35 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 6.35 -1.27)
-					(mid 7.248 -1.642)
-					(end 7.62 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 -2.54)
-					(mid 7.992 -1.642)
-					(end 8.89 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 8.89 -1.27)
-					(mid 9.788 -1.642)
-					(end 10.16 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_4"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3900mA, Isat= 5400mA, 0R031, 1008, T=1.2mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IND_2520_TOKO_DFE252012P*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_4_1_0"
-				(arc
-					(start 0 -2.54)
-					(mid 0.372 -1.642)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.27 -1.27)
-					(mid 2.168 -1.642)
-					(end 2.54 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.54)
-					(mid 2.912 -1.642)
-					(end 3.81 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 3.81 -1.27)
-					(mid 4.708 -1.642)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 5.08 -2.54)
-					(mid 5.452 -1.642)
-					(end 6.35 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 6.35 -1.27)
-					(mid 7.248 -1.642)
-					(end 7.62 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 -2.54)
-					(mid 7.992 -1.642)
-					(end 8.89 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 8.89 -1.27)
-					(mid 9.788 -1.642)
-					(end 10.16 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 			)
@@ -17233,7 +16706,7 @@
 	)
 	(text "3V3"
 		(exclude_from_sim no)
-		(at 226.822 157.734 0)
+		(at 226.568 149.606 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17255,7 +16728,7 @@
 	)
 	(text "Not used"
 		(exclude_from_sim no)
-		(at 210.566 252.73 0)
+		(at 238.252 249.428 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17311,12 +16784,12 @@
 	)
 	(text "670mV/ 820mV"
 		(exclude_from_sim no)
-		(at 227.33 92.71 0)
+		(at 270.764 94.742 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "b4674fda-c80b-4f4b-ac3b-02c81bc7c055")
 	)
@@ -17388,7 +16861,7 @@
 	)
 	(text "VDD_EMMC"
 		(exclude_from_sim no)
-		(at 222.758 155.448 0)
+		(at 222.504 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17438,7 +16911,7 @@
 		(uuid "0270a8d8-85fe-4174-b11e-77008560619c")
 	)
 	(junction
-		(at 213.36 359.41)
+		(at 207.01 361.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "027d1f39-7973-4e61-82d5-8ccb14ecee2f")
@@ -17490,12 +16963,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0884f802-74f6-4ae0-9c94-5f160b26c90a")
-	)
-	(junction
-		(at 250.19 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08de11c2-cab5-4769-9dad-98c5ca94f73b")
 	)
 	(junction
 		(at 501.65 161.29)
@@ -17760,12 +17227,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a127f1b-4a4a-4313-a32b-fa57937c1d68")
-	)
-	(junction
-		(at 250.19 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3a231f18-5a97-4a16-8189-1ff8c25aabd5")
 	)
 	(junction
 		(at 204.47 212.09)
@@ -18056,12 +17517,6 @@
 		(uuid "6c6e9298-6090-4f73-8381-1a7167bd4c5c")
 	)
 	(junction
-		(at 250.19 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6cc2c40c-e9e1-41b6-a878-b375fae017a8")
-	)
-	(junction
 		(at 501.65 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18236,7 +17691,7 @@
 		(uuid "875e3dc7-bc91-4ab2-9e9c-d264432e2963")
 	)
 	(junction
-		(at 204.47 143.51)
+		(at 241.3 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88b1a249-001d-45e1-9365-22cdc7c41cea")
@@ -18296,7 +17751,7 @@
 		(uuid "913e7dde-de08-4b0a-8cdb-bc93afa3c5c8")
 	)
 	(junction
-		(at 36.83 212.09)
+		(at 49.53 212.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "926a180a-d0f3-4784-87ff-de2036dc6453")
@@ -18462,12 +17917,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abe19cb6-78d4-4aad-80c7-99ed29d1da59")
-	)
-	(junction
-		(at 250.19 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac793b04-2efb-43e8-b840-9045c5735eca")
 	)
 	(junction
 		(at 394.97 140.97)
@@ -18674,12 +18123,6 @@
 		(uuid "d05b767e-f3f5-4fa0-bd2e-ce01b3d23a96")
 	)
 	(junction
-		(at 250.19 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d063a899-bf6a-4cd1-ace3-0066dfd82277")
-	)
-	(junction
 		(at 501.65 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18872,12 +18315,6 @@
 		(uuid "f0baace2-5a59-4671-9d5c-64a0d2dd5049")
 	)
 	(junction
-		(at 250.19 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f17477fd-eb41-4043-a086-d7c31892628e")
-	)
-	(junction
 		(at 405.13 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18997,7 +18434,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 143.51) (xy 204.47 143.51)
+			(xy 267.97 143.51) (xy 241.3 143.51)
 		)
 		(stroke
 			(width 0)
@@ -19007,7 +18444,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 95.25) (xy 267.97 95.25)
+			(xy 212.09 95.25) (xy 267.97 95.25)
 		)
 		(stroke
 			(width 0)
@@ -19037,7 +18474,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 125.73) (xy 267.97 125.73)
+			(xy 212.09 125.73) (xy 267.97 125.73)
 		)
 		(stroke
 			(width 0)
@@ -19094,16 +18531,6 @@
 			(type default)
 		)
 		(uuid "055d05d6-d7a2-4815-b553-fab5960b70cf")
-	)
-	(wire
-		(pts
-			(xy 212.09 110.49) (xy 250.19 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "057e3b21-4dc8-416f-b135-000990f42267")
 	)
 	(wire
 		(pts
@@ -19187,7 +18614,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 212.09) (xy 72.39 212.09)
+			(xy 49.53 212.09) (xy 72.39 212.09)
 		)
 		(stroke
 			(width 0)
@@ -19257,6 +18684,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 118.11) (xy 181.61 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d1ffbe3-f434-4e03-a39f-3bd4db8a0264")
+	)
+	(wire
+		(pts
 			(xy 143.51 306.07) (xy 146.05 306.07)
 		)
 		(stroke
@@ -19284,6 +18721,16 @@
 			(type default)
 		)
 		(uuid "0eabfbf9-ceb3-465d-83ff-faea5b27250b")
+	)
+	(wire
+		(pts
+			(xy 149.86 100.33) (xy 143.51 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ed15053-5e98-4d48-a92c-e793ebf30640")
 	)
 	(wire
 		(pts
@@ -19317,7 +18764,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 130.81) (xy 151.13 130.81)
+			(xy 149.86 133.35) (xy 151.13 133.35)
 		)
 		(stroke
 			(width 0)
@@ -19334,16 +18781,6 @@
 			(type default)
 		)
 		(uuid "10118cbb-3494-435a-9cc4-dfcb265c10ff")
-	)
-	(wire
-		(pts
-			(xy 237.49 115.57) (xy 240.03 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10250a84-2ab0-4494-b71b-51ce9e147c09")
 	)
 	(wire
 		(pts
@@ -19407,7 +18844,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 143.51) (xy 204.47 148.59)
+			(xy 241.3 143.51) (xy 241.3 148.59)
 		)
 		(stroke
 			(width 0)
@@ -19627,16 +19064,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 80.01) (xy 250.19 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f062227-f6ed-449e-bb4e-a2c7e4bf7a52")
-	)
-	(wire
-		(pts
 			(xy 425.45 171.45) (xy 425.45 173.99)
 		)
 		(stroke
@@ -19654,16 +19081,6 @@
 			(type default)
 		)
 		(uuid "1fbd6b94-bda0-468e-9a38-d7f7b746651d")
-	)
-	(wire
-		(pts
-			(xy 250.19 110.49) (xy 250.19 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20339e05-3876-4ba2-b235-252f859e9e8a")
 	)
 	(wire
 		(pts
@@ -19697,7 +19114,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 196.85) (xy 143.51 196.85)
+			(xy 151.13 196.85) (xy 143.51 196.85)
 		)
 		(stroke
 			(width 0)
@@ -19707,7 +19124,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 95.25) (xy 181.61 95.25)
+			(xy 172.72 95.25) (xy 181.61 95.25)
 		)
 		(stroke
 			(width 0)
@@ -19937,6 +19354,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 163.83) (xy 143.51 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d4aaa3f-ebbc-44ac-9110-fa59bdbad86e")
+	)
+	(wire
+		(pts
 			(xy 181.61 111.76) (xy 181.61 110.49)
 		)
 		(stroke
@@ -19997,7 +19424,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 100.33) (xy 151.13 100.33)
+			(xy 149.86 101.6) (xy 152.4 101.6)
 		)
 		(stroke
 			(width 0)
@@ -20247,7 +19674,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 173.99) (xy 191.77 173.99)
+			(xy 171.45 173.99) (xy 191.77 173.99)
 		)
 		(stroke
 			(width 0)
@@ -20337,16 +19764,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 151.13) (xy 204.47 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cc5ea27-9943-47e6-b691-10d31ebc29d4")
-	)
-	(wire
-		(pts
 			(xy 181.61 245.11) (xy 181.61 250.19)
 		)
 		(stroke
@@ -20357,16 +19774,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 118.11) (xy 191.77 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ce15a5f-3683-4725-bce8-a7f3c9c3894e")
-	)
-	(wire
-		(pts
 			(xy 204.47 217.17) (xy 212.09 217.17)
 		)
 		(stroke
@@ -20374,16 +19781,6 @@
 			(type default)
 		)
 		(uuid "3d2c8516-f761-4e87-9554-9292a08e1be7")
-	)
-	(wire
-		(pts
-			(xy 212.09 95.25) (xy 250.19 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d631818-cbe4-4b45-9342-0929bcc9e0cd")
 	)
 	(wire
 		(pts
@@ -20737,6 +20134,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 115.57) (xy 143.51 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50738d54-0570-4bfd-8e38-476d95f1b43c")
+	)
+	(wire
+		(pts
 			(xy 201.93 201.93) (xy 201.93 204.47)
 		)
 		(stroke
@@ -20757,7 +20164,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 361.95) (xy 213.36 359.41)
+			(xy 207.01 364.49) (xy 207.01 361.95)
 		)
 		(stroke
 			(width 0)
@@ -20867,7 +20274,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 218.44) (xy 36.83 219.71)
+			(xy 49.53 218.44) (xy 49.53 219.71)
 		)
 		(stroke
 			(width 0)
@@ -20917,7 +20324,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 80.01) (xy 161.29 80.01)
+			(xy 143.51 80.01) (xy 165.1 80.01)
 		)
 		(stroke
 			(width 0)
@@ -21067,6 +20474,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 130.81) (xy 143.51 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d11a1b5-b4f2-4e68-bbca-e3766a58ccef")
+	)
+	(wire
+		(pts
 			(xy 328.93 262.89) (xy 328.93 260.35)
 		)
 		(stroke
@@ -21094,16 +20511,6 @@
 			(type default)
 		)
 		(uuid "5ef7be75-06ce-486d-a130-75ddcd04b744")
-	)
-	(wire
-		(pts
-			(xy 250.19 125.73) (xy 250.19 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f84862b-bd0f-4770-bdde-781ef0e7aa50")
 	)
 	(wire
 		(pts
@@ -21157,7 +20564,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 80.01) (xy 250.19 80.01)
+			(xy 212.09 80.01) (xy 267.97 80.01)
 		)
 		(stroke
 			(width 0)
@@ -21387,7 +20794,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 151.13) (xy 204.47 151.13)
+			(xy 143.51 151.13) (xy 209.55 151.13)
 		)
 		(stroke
 			(width 0)
@@ -21417,7 +20824,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 359.41) (xy 196.85 359.41)
+			(xy 168.91 361.95) (xy 190.5 361.95)
 		)
 		(stroke
 			(width 0)
@@ -21427,7 +20834,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 359.41) (xy 204.47 359.41)
+			(xy 207.01 361.95) (xy 198.12 361.95)
 		)
 		(stroke
 			(width 0)
@@ -21447,7 +20854,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 163.83) (xy 143.51 163.83)
+			(xy 149.86 166.37) (xy 147.32 166.37)
 		)
 		(stroke
 			(width 0)
@@ -21477,23 +20884,13 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 158.75) (xy 143.51 158.75)
+			(xy 165.1 158.75) (xy 143.51 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6bd0c583-782e-40f1-95ab-c150b034f0c9")
-	)
-	(wire
-		(pts
-			(xy 182.88 116.84) (xy 182.88 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6be3d303-f23e-44c2-ae20-e31797cc7ec6")
 	)
 	(wire
 		(pts
@@ -21607,7 +21004,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 361.95) (xy 213.36 361.95)
+			(xy 198.12 364.49) (xy 207.01 364.49)
 		)
 		(stroke
 			(width 0)
@@ -21827,16 +21224,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 222.25) (xy 59.69 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7783b73d-eade-40d1-a8b9-9b75f8ed8bec")
-	)
-	(wire
-		(pts
 			(xy 212.09 163.83) (xy 212.09 166.37)
 		)
 		(stroke
@@ -21907,7 +21294,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 158.75) (xy 191.77 158.75)
+			(xy 172.72 158.75) (xy 191.77 158.75)
 		)
 		(stroke
 			(width 0)
@@ -22117,16 +21504,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 156.21) (xy 209.55 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "843e2bfd-8de4-4802-88f9-eb62f0fcc89c")
-	)
-	(wire
-		(pts
 			(xy 425.45 146.05) (xy 427.99 146.05)
 		)
 		(stroke
@@ -22207,6 +21584,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 85.09) (xy 143.51 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86df17b9-5214-4b87-a55a-91725270591f")
+	)
+	(wire
+		(pts
 			(xy 64.77 101.6) (xy 64.77 102.87)
 		)
 		(stroke
@@ -22277,16 +21664,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 173.99) (xy 267.97 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a1d7784-1288-443a-92a9-5d3a1f7ddc0f")
-	)
-	(wire
-		(pts
 			(xy 464.82 68.58) (xy 461.01 68.58)
 		)
 		(stroke
@@ -22314,6 +21691,16 @@
 			(type default)
 		)
 		(uuid "8c883530-461a-4c95-9840-1409ea33b9cc")
+	)
+	(wire
+		(pts
+			(xy 147.32 166.37) (xy 147.32 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d7cbc4b-7945-418b-bbd7-9cf35e6da369")
 	)
 	(wire
 		(pts
@@ -22437,7 +21824,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 361.95) (xy 196.85 361.95)
+			(xy 168.91 364.49) (xy 190.5 364.49)
 		)
 		(stroke
 			(width 0)
@@ -22727,7 +22114,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 125.73) (xy 161.29 125.73)
+			(xy 143.51 125.73) (xy 165.1 125.73)
 		)
 		(stroke
 			(width 0)
@@ -22807,6 +22194,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 101.6) (xy 149.86 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0425ee9-9c28-4dae-a01c-6341b87343a3")
+	)
+	(wire
+		(pts
 			(xy 501.65 232.41) (xy 501.65 229.87)
 		)
 		(stroke
@@ -22827,7 +22224,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 110.49) (xy 267.97 110.49)
+			(xy 212.09 110.49) (xy 267.97 110.49)
 		)
 		(stroke
 			(width 0)
@@ -22837,7 +22234,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 173.99) (xy 143.51 173.99)
+			(xy 163.83 173.99) (xy 143.51 173.99)
 		)
 		(stroke
 			(width 0)
@@ -22927,7 +22324,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 143.51) (xy 143.51 143.51)
+			(xy 241.3 143.51) (xy 143.51 143.51)
 		)
 		(stroke
 			(width 0)
@@ -23017,16 +22414,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 212.09) (xy 36.83 212.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a989efcf-17ff-4c3d-a4d8-0e43762f49bf")
-	)
-	(wire
-		(pts
 			(xy 384.81 184.15) (xy 425.45 184.15)
 		)
 		(stroke
@@ -23037,7 +22424,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 85.09) (xy 151.13 85.09)
+			(xy 148.59 86.36) (xy 151.13 86.36)
 		)
 		(stroke
 			(width 0)
@@ -23067,7 +22454,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 125.73) (xy 191.77 125.73)
+			(xy 172.72 125.73) (xy 191.77 125.73)
 		)
 		(stroke
 			(width 0)
@@ -23157,7 +22544,17 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 148.59) (xy 209.55 148.59)
+			(xy 152.4 118.11) (xy 152.4 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad707615-d5e4-49ea-9259-63b3f10e13e3")
+	)
+	(wire
+		(pts
+			(xy 241.3 148.59) (xy 246.38 148.59)
 		)
 		(stroke
 			(width 0)
@@ -23207,7 +22604,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 95.25) (xy 161.29 95.25)
+			(xy 143.51 95.25) (xy 165.1 95.25)
 		)
 		(stroke
 			(width 0)
@@ -23294,6 +22691,16 @@
 			(type default)
 		)
 		(uuid "b2ca7c34-5b03-4478-adca-9dc7fbb2835b")
+	)
+	(wire
+		(pts
+			(xy 148.59 86.36) (xy 148.59 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3175a15-52a5-44fc-89a7-b3a0e8c3d49f")
 	)
 	(wire
 		(pts
@@ -23477,16 +22884,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 80.01) (xy 267.97 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b95e0948-85ab-4f15-9a73-83bb4eeed444")
-	)
-	(wire
-		(pts
 			(xy 52.07 266.7) (xy 52.07 265.43)
 		)
 		(stroke
@@ -23627,16 +23024,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 158.75) (xy 267.97 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c06a7985-cf68-413b-a734-946c3f00e3a1")
-	)
-	(wire
-		(pts
 			(xy 195.58 180.34) (xy 195.58 181.61)
 		)
 		(stroke
@@ -23657,7 +23044,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 213.36) (xy 36.83 212.09)
+			(xy 49.53 213.36) (xy 49.53 212.09)
 		)
 		(stroke
 			(width 0)
@@ -23677,7 +23064,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 196.85) (xy 163.83 196.85)
+			(xy 171.45 196.85) (xy 158.75 196.85)
 		)
 		(stroke
 			(width 0)
@@ -23774,6 +23161,16 @@
 			(type default)
 		)
 		(uuid "c4254514-5de3-4739-97d7-133e7742c960")
+	)
+	(wire
+		(pts
+			(xy 149.86 133.35) (xy 149.86 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4297838-463c-41d3-ae28-4656f540abb1")
 	)
 	(wire
 		(pts
@@ -23907,7 +23304,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 115.57) (xy 143.51 115.57)
+			(xy 153.67 118.11) (xy 152.4 118.11)
 		)
 		(stroke
 			(width 0)
@@ -24127,7 +23524,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 116.84) (xy 182.88 116.84)
+			(xy 181.61 118.11) (xy 191.77 118.11)
 		)
 		(stroke
 			(width 0)
@@ -24277,17 +23674,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 173.99) (xy 250.19 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d641bd71-0ead-4ddb-b8fc-6737291983cf")
-	)
-	(wire
-		(pts
-			(xy 217.17 148.59) (xy 214.63 148.59)
+			(xy 254 148.59) (xy 251.46 148.59)
 		)
 		(stroke
 			(width 0)
@@ -24357,7 +23744,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 80.01) (xy 191.77 80.01)
+			(xy 172.72 80.01) (xy 191.77 80.01)
 		)
 		(stroke
 			(width 0)
@@ -24717,16 +24104,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 179.07) (xy 240.03 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e32e039f-f97a-4f33-be36-46ba7ef0fe7c")
-	)
-	(wire
-		(pts
 			(xy 425.45 95.25) (xy 425.45 97.79)
 		)
 		(stroke
@@ -24744,26 +24121,6 @@
 			(type default)
 		)
 		(uuid "e3a90fed-06b3-4a26-b266-96a678652ad9")
-	)
-	(wire
-		(pts
-			(xy 212.09 125.73) (xy 250.19 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3ffb53c-9b25-4f94-adde-b7bc5e63a302")
-	)
-	(wire
-		(pts
-			(xy 237.49 130.81) (xy 240.03 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4b9dddb-4e46-4e5a-9160-563c27ae16ee")
 	)
 	(wire
 		(pts
@@ -24857,16 +24214,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 158.75) (xy 250.19 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e64f8f0b-576e-48f5-ae35-fda286acd67a")
-	)
-	(wire
-		(pts
 			(xy 425.45 146.05) (xy 425.45 148.59)
 		)
 		(stroke
@@ -24917,7 +24264,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 110.49) (xy 181.61 110.49)
+			(xy 172.72 110.49) (xy 181.61 110.49)
 		)
 		(stroke
 			(width 0)
@@ -25047,16 +24394,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 163.83) (xy 237.49 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eaefa827-5842-413a-8852-5b30ac10fbbe")
-	)
-	(wire
-		(pts
 			(xy 501.65 133.35) (xy 499.11 133.35)
 		)
 		(stroke
@@ -25074,16 +24411,6 @@
 			(type default)
 		)
 		(uuid "eb8b99ef-9cea-4e49-aeda-754bdf3dd532")
-	)
-	(wire
-		(pts
-			(xy 237.49 100.33) (xy 240.03 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec8de935-df7f-47d0-9dce-93118e0f422a")
 	)
 	(wire
 		(pts
@@ -25117,7 +24444,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 110.49) (xy 163.83 110.49)
+			(xy 143.51 110.49) (xy 165.1 110.49)
 		)
 		(stroke
 			(width 0)
@@ -25237,16 +24564,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 85.09) (xy 240.03 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2d408a8-18ed-4380-8913-d96b90b0a786")
-	)
-	(wire
-		(pts
 			(xy 425.45 153.67) (xy 427.99 153.67)
 		)
 		(stroke
@@ -25257,7 +24574,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 156.21) (xy 214.63 156.21)
+			(xy 217.17 151.13) (xy 214.63 151.13)
 		)
 		(stroke
 			(width 0)
@@ -25274,16 +24591,6 @@
 			(type default)
 		)
 		(uuid "f3401e4f-63d1-46c3-bb8a-0e1160b6fac5")
-	)
-	(wire
-		(pts
-			(xy 250.19 100.33) (xy 250.19 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3487e36-9aa1-45d4-9ffc-8e11384e1fea")
 	)
 	(wire
 		(pts
@@ -25357,7 +24664,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 173.99) (xy 250.19 173.99)
+			(xy 212.09 173.99) (xy 267.97 173.99)
 		)
 		(stroke
 			(width 0)
@@ -25377,7 +24684,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 337.82) (xy 196.85 337.82)
+			(xy 168.91 337.82) (xy 196.85 337.82)
 		)
 		(stroke
 			(width 0)
@@ -25517,7 +24824,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 158.75) (xy 250.19 158.75)
+			(xy 212.09 158.75) (xy 267.97 158.75)
 		)
 		(stroke
 			(width 0)
@@ -25585,16 +24892,6 @@
 		)
 		(uuid "ffa2b8f0-0ec8-48a3-b89b-8ce458fea570")
 	)
-	(label "VDDIO_FB"
-		(at 237.49 130.81 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "20348ac8-ea2f-499a-bcc8-b4b7803240c3")
-	)
 	(label "VDDIO_SDCARD"
 		(at 255.27 273.05 0)
 		(effects
@@ -25604,46 +24901,6 @@
 			(justify left bottom)
 		)
 		(uuid "3de6fed0-9ec3-44a9-b3cd-30bcee64291f")
-	)
-	(label "1V8_FB"
-		(at 148.59 163.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "436abf24-2b11-4bfa-b402-202d19693fa3")
-	)
-	(label "VDD_DDR_FB"
-		(at 237.49 179.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "614edc27-88d9-45e0-86f0-20daffed4b52")
-	)
-	(label "VDDCORE_FB"
-		(at 151.13 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "69760af5-8efa-4200-9f70-6070a8bad07e")
-	)
-	(label "VDDCORE_FB"
-		(at 237.49 100.33 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6dace707-86e8-436a-b62a-cd2912ab9cd3")
 	)
 	(label "VPP_DDR"
 		(at 267.97 245.11 0)
@@ -25664,76 +24921,6 @@
 			(justify right bottom)
 		)
 		(uuid "7f3db519-f75a-410e-b3df-2712a3c4bf99")
-	)
-	(label "VDDCPU_FB"
-		(at 237.49 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7ff1f641-9c8f-4d22-9988-bebdead48b47")
-	)
-	(label "VDDGPU_FB"
-		(at 237.49 115.57 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "89b06a3c-10c5-4e68-96c4-38b3c31f8d81")
-	)
-	(label "VDDGPU_FB"
-		(at 151.13 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a966b980-86ca-4afc-a8ec-a86b3ee32d27")
-	)
-	(label "VDDIO_FB"
-		(at 151.13 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a9c93c42-b97c-42d9-88e9-b31fc9664dc8")
-	)
-	(label "1V8_FB"
-		(at 237.49 163.83 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ca562af6-dc69-49cf-85c0-400723f13ed0")
-	)
-	(label "VDD_DDR_FB"
-		(at 151.13 179.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ece3bb34-06bb-4d61-94c5-74df1d162d27")
-	)
-	(label "VDDCPU_FB"
-		(at 151.13 85.09 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ee727cf4-14b4-4581-8abe-f9eb47ed5b0f")
 	)
 	(hierarchical_label "MP257_WAKEUP"
 		(shape output)
@@ -25770,7 +24957,7 @@
 	)
 	(hierarchical_label "I2C7.SCL"
 		(shape input)
-		(at 175.26 361.95 180)
+		(at 168.91 364.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25803,7 +24990,7 @@
 	)
 	(hierarchical_label "I2C7.SDA"
 		(shape input)
-		(at 175.26 359.41 180)
+		(at 168.91 361.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25858,7 +25045,7 @@
 	)
 	(hierarchical_label "NRST"
 		(shape input)
-		(at 173.99 337.82 180)
+		(at 168.91 337.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27394,6 +26581,72 @@
 		)
 	)
 	(symbol
+		(lib_id "4ms_Power_Symbol:VDD_CORE")
+		(at 152.4 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09099421-d4d6-48e6-894f-b780c7d6aa80")
+		(property "Reference" "#PWR0153"
+			(at 152.4 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_CORE"
+			(at 152.4 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f19bb2f-879c-4544-96ee-f25b59f5bf80")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR0153")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "4ms_Capacitor:100nF_0201_16V")
 		(at 415.29 350.52 0)
 		(unit 1)
@@ -27689,7 +26942,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:4.7uF_0402_6.3V")
-		(at 212.09 148.59 90)
+		(at 248.92 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27697,7 +26950,7 @@
 		(dnp no)
 		(uuid "09c53ed0-80d9-4a85-a3a5-d3616dfc25e3")
 		(property "Reference" "C189"
-			(at 216.154 144.78 90)
+			(at 252.984 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27705,7 +26958,7 @@
 			)
 		)
 		(property "Value" "4.7uF_0402_6.3V"
-			(at 208.28 148.59 0)
+			(at 245.11 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27714,7 +26967,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 217.17 151.13 0)
+			(at 254 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27724,7 +26977,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 148.59 0)
+			(at 248.92 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27733,7 +26986,7 @@
 			)
 		)
 		(property "Description" "4.7uF, Min. 6.3V 20%, X7R or X5R or similar 0402"
-			(at 212.09 148.59 0)
+			(at 248.92 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27742,7 +26995,7 @@
 			)
 		)
 		(property "Specifications" "4.7uF, Min. 6.3V 20%, X7R or X5R or similar"
-			(at 219.964 151.13 0)
+			(at 256.794 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27752,7 +27005,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 221.488 151.13 0)
+			(at 258.318 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27762,7 +27015,7 @@
 			)
 		)
 		(property "Part Number" "GRM155R60J475ME47"
-			(at 223.012 151.13 0)
+			(at 259.842 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27772,7 +27025,7 @@
 			)
 		)
 		(property "Display" "4.7uF"
-			(at 216.154 147.32 90)
+			(at 252.984 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27780,7 +27033,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C23733"
-			(at 224.79 147.32 0)
+			(at 261.62 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27789,7 +27042,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 228.6 151.13 0)
+			(at 265.43 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28011,36 +27264,34 @@
 		)
 	)
 	(symbol
-		(lib_name "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_4")
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 163.83 92.71 0)
+		(lib_id "4ms_Inductor:0.68uH_3.9A_2520")
+		(at 168.91 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "0e027fd4-1996-414a-b668-9150748f2dbc")
 		(property "Reference" "L2"
-			(at 163.83 92.71 0)
+			(at 168.91 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Inductor"
-			(at 158.75 95.25 0)
+		(property "Value" "0.68uH_3.9A_2520"
+			(at 163.83 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2520_TOKO_DFE252012P"
-			(at 163.83 92.71 0)
+		(property "Footprint" "4ms_Inductor:COIL_2520_Murata_Handsolder"
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28049,7 +27300,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 92.71 0)
+			(at 168.91 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28057,8 +27308,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3900mA, Isat= 5400mA, 0R031, 1008, T=1.2mm"
-			(at 163.83 92.71 0)
+		(property "Description" "0.68uH, Isat>5.4A, Imax>=3.9A, Rdc<=50mOhms, shielded"
+			(at 168.91 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28066,217 +27317,54 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 160.782 93.98 0)
+		(property "Display 2" "3.9A"
+			(at 168.91 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "0.68uH, Isat>5.4A, Imax>=3.9A, Rdc<=50mOhms, shielded"
+			(at 176.784 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03142"
-			(at 160.782 90.17 0)
+		(property "Manufacturer" "Murata"
+			(at 178.308 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "0.68µH"
-			(at 163.83 98.552 0)
+		(property "Part Number" "DFE252012F-R68M=P2"
+			(at 179.832 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 160.782 87.63 0)
+		(property "Display" "0.68uH"
+			(at 168.91 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE252012F-R68M=P2"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "1008"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE252012F-6R8M=P2"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "490-13044-2-ND"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5258"
-			(at 160.782 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 160.782 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 160.782 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 160.782 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 160.782 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 163.83 92.71 0)
+		(property "Part Number 2" ""
+			(at 186.69 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28284,8 +27372,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 163.83 92.71 0)
+		(property "Manufacturer 2" ""
+			(at 184.15 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28293,39 +27381,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 4" ""
-			(at 163.83 92.71 0)
+		(property "Production Stage" "A"
+			(at 185.42 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 163.83 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -28541,35 +27603,34 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 163.83 171.45 0)
+		(lib_id "4ms_Inductor:0.68uH_3.1A_2016")
+		(at 167.64 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "106fc561-82a0-4dab-8427-3e222afff123")
 		(property "Reference" "L5"
-			(at 163.83 171.45 0)
+			(at 167.64 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Inductor"
-			(at 158.75 173.99 0)
+		(property "Value" "0.68uH_3.1A_2016"
+			(at 162.56 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2016_MURATA_LQM2MPN2R2NG0"
-			(at 163.83 171.45 0)
+		(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+			(at 180.34 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28578,7 +27639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 171.45 0)
+			(at 167.64 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28586,8 +27647,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3100mA, Isat= 4300mA, 0R043, 0806, T=1mm"
-			(at 163.83 171.45 0)
+		(property "Description" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+			(at 167.64 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28595,217 +27656,54 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 160.782 172.72 0)
+		(property "Display 2" "3.1A"
+			(at 167.64 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+			(at 175.514 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03141"
-			(at 160.782 168.91 0)
+		(property "Manufacturer" "Murata"
+			(at 177.038 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "0.68uH"
-			(at 163.83 177.292 0)
+		(property "Part Number" "DFE201610E-R68M=P2"
+			(at 178.562 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 160.782 166.37 0)
+		(property "Display" "0.68uH"
+			(at 167.64 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE201610E-R68M=P2"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0806"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE201610E_Series"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5257"
-			(at 160.782 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 160.782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 160.782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 160.782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 160.782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 163.83 171.45 0)
+		(property "Part Number 2" ""
+			(at 185.42 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28813,8 +27711,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 163.83 171.45 0)
+		(property "Manufacturer 2" ""
+			(at 182.88 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28822,39 +27720,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 4" ""
-			(at 163.83 171.45 0)
+		(property "Production Stage" "A"
+			(at 184.15 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 163.83 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 163.83 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 163.83 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -29123,330 +27995,6 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_1_link_200_MCD_PARTS_database.DbLib")
-		(at 242.57 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "12eff35f-171d-43d9-9114-1491d3ec47ef")
-		(property "Reference" "LNK4"
-			(at 241.808 88.392 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "${ALTIUM_VALUE}"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "LINK200"
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Track link on PCB 200um width for layout routing"
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "link_200"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4889"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02777"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "link_200"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Misc"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 242.57 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "717c8ac4-61ed-4bc0-89d5-804764796f66")
-		)
-		(pin "1"
-			(uuid "fe7407d9-5128-460b-a16d-9ec1f7dbf559")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "LNK4")
 					(unit 1)
 				)
 			)
@@ -29875,35 +28423,34 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 163.83 77.47 0)
+		(lib_id "4ms_Inductor:0.68uH_3.1A_2016")
+		(at 168.91 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "17e4b4d4-7cc6-4e4d-abf0-69cfa05fdeb7")
 		(property "Reference" "L3"
-			(at 163.83 77.47 0)
+			(at 168.91 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Inductor"
-			(at 158.75 80.01 0)
+		(property "Value" "0.68uH_3.1A_2016"
+			(at 163.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2016_MURATA_LQM2MPN2R2NG0"
-			(at 163.83 77.47 0)
+		(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+			(at 181.61 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29912,7 +28459,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 77.47 0)
+			(at 168.91 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29920,8 +28467,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3100mA, Isat= 4300mA, 0R043, 0806, T=1mm"
-			(at 163.83 77.47 0)
+		(property "Description" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+			(at 168.91 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29929,217 +28476,54 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 160.782 78.74 0)
+		(property "Display 2" "3.1A"
+			(at 168.91 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+			(at 176.784 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03141"
-			(at 160.782 74.93 0)
+		(property "Manufacturer" "Murata"
+			(at 178.308 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "0.68uH"
-			(at 166.37 82.55 0)
+		(property "Part Number" "DFE201610E-R68M=P2"
+			(at 179.832 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 160.782 72.39 0)
+		(property "Display" "0.68uH"
+			(at 168.91 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE201610E-R68M=P2"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0806"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE201610E_Series"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5257"
-			(at 160.782 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 158.75 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 158.75 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 158.75 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 158.75 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 158.75 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 158.75 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 163.83 77.47 0)
+		(property "Part Number 2" ""
+			(at 186.69 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30147,8 +28531,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 163.83 77.47 0)
+		(property "Manufacturer 2" ""
+			(at 184.15 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30156,39 +28540,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 4" ""
-			(at 163.83 77.47 0)
+		(property "Production Stage" "A"
+			(at 185.42 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 163.83 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 163.83 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 163.83 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -30822,330 +29180,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_3_link_200_MCD_PARTS_database.DbLib")
-		(at 247.65 163.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1c3d5cd3-05e5-42d2-9f5c-661ad7d3fad6")
-		(property "Reference" "LNK1"
-			(at 241.808 167.132 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "${ALTIUM_VALUE}"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "LINK200"
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Track link on PCB 200um width for layout routing"
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "link_200"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4889"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02777"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "link_200"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Misc"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 247.65 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e4d8bd05-dc5d-44ef-9ff6-eb114c386159")
-		)
-		(pin "1"
-			(uuid "c84bebbc-b161-4ba2-88f4-fe36034fcbcf")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "LNK1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "4ms_Power_Symbol:VREF+")
 		(at 476.25 39.37 0)
 		(unit 1)
@@ -31763,330 +29797,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_3_link_200_MCD_PARTS_database.DbLib")
-		(at 247.65 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2883521c-972d-4b32-ab62-72e8711e69ef")
-		(property "Reference" "LNK11"
-			(at 241.808 134.112 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "${ALTIUM_VALUE}"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "LINK200"
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Track link on PCB 200um width for layout routing"
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "link_200"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4889"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02777"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "link_200"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Misc"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 247.65 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "145d46cd-2096-45be-b1ab-b62c8201f7b0")
-		)
-		(pin "1"
-			(uuid "c3b518e3-bcf1-4ae8-a504-ce29e83b67bb")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "LNK11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "4ms_Capacitor:1uF_0402_25V")
 		(at 52.07 269.24 0)
 		(unit 1)
@@ -32572,7 +30282,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 148.59 90)
+		(at 254 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32580,7 +30290,7 @@
 		(dnp no)
 		(uuid "2bb90645-25d1-4493-994a-f595c7e0fcf4")
 		(property "Reference" "#PWR0166"
-			(at 217.17 148.59 0)
+			(at 254 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32589,7 +30299,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 220.98 148.59 0)
+			(at 257.81 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32597,7 +30307,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 148.59 0)
+			(at 254 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32606,7 +30316,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 148.59 0)
+			(at 254 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32615,7 +30325,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 148.59 0)
+			(at 254 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32630,330 +30340,6 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "#PWR0166")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_3_link_200_MCD_PARTS_database.DbLib")
-		(at 247.65 179.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2bc9ff21-74be-49b3-861e-aef515a04327")
-		(property "Reference" "LNK8"
-			(at 241.808 182.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "${ALTIUM_VALUE}"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "LINK200"
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Track link on PCB 200um width for layout routing"
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "link_200"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4889"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02777"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "link_200"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Misc"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 178.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 247.65 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9d47db75-b12f-40bc-b9f0-4d7512218f6f")
-		)
-		(pin "1"
-			(uuid "d2a49a30-4084-49d1-be03-05e33f78c6df")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "LNK8")
 					(unit 1)
 				)
 			)
@@ -34028,9 +31414,8 @@
 		)
 	)
 	(symbol
-		(lib_name "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_1")
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 163.83 156.21 0)
+		(lib_id "4ms_Inductor:2.2uH_1.7A_2016")
+		(at 168.91 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34038,26 +31423,24 @@
 		(dnp no)
 		(uuid "338b6a92-429c-439f-85e3-d6cb85dd6adc")
 		(property "Reference" "L1"
-			(at 163.83 156.21 0)
+			(at 164.084 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Inductor"
-			(at 158.75 158.75 0)
+		(property "Value" "2.2uH_1.7A_2016"
+			(at 163.83 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2016_MURATA_LQM2MPN2R2NG0"
-			(at 163.83 156.21 0)
+		(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+			(at 181.61 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34066,7 +31449,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 156.21 0)
+			(at 168.91 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34074,8 +31457,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 2.2uH, +/-20%, Itemp= 1700mA, Isat= 2400mA, 0R140, 0806, T=1mm"
-			(at 163.83 156.21 0)
+		(property "Description" "2.2uH, Isat>2.4A, Imax>=1.7A, Rdc<=120mOhms, shielded"
+			(at 175.26 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34083,266 +31466,59 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 160.782 157.48 0)
+		(property "Display 2" "1.7A"
+			(at 168.91 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "2.2uH, Isat>2.4A, Imax>=1.7A, Rdc<=120mOhms, shielded"
+			(at 176.784 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03143"
-			(at 160.782 153.67 0)
+		(property "Manufacturer" "Murata"
+			(at 178.308 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "2.2uH"
-			(at 163.83 162.052 0)
+		(property "Part Number" "DFE201610E-2R2M=P2"
+			(at 179.832 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 160.782 151.13 0)
+		(property "Display" "2.2uH"
+			(at 168.91 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 160.782 151.13 0)
+		(property "Production Stage" "A"
+			(at 185.42 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE201610E-2R2M=P2"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0806"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE201610E_Series"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "490-17728-2-ND -"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5259"
-			(at 160.782 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 160.782 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 160.782 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 160.782 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 160.782 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 163.83 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 163.83 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 163.83 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 163.83 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 163.83 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 163.83 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -34356,330 +31532,6 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_3_link_200_MCD_PARTS_database.DbLib")
-		(at 247.65 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "33e85682-05d1-452f-82c0-ce3a91f4e5f6")
-		(property "Reference" "LNK7"
-			(at 241.808 118.872 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "${ALTIUM_VALUE}"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "LINK200"
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Track link on PCB 200um width for layout routing"
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "link_200"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4889"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02777"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "link_200"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Misc"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 247.65 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "31f92553-0bd4-43b2-9c85-bc3702854e49")
-		)
-		(pin "1"
-			(uuid "d066b099-a95b-47cd-b029-a55dd26bf4fd")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "LNK7")
 					(unit 1)
 				)
 			)
@@ -37857,35 +34709,34 @@
 		)
 	)
 	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 151.13 194.31 0)
+		(lib_id "4ms_Inductor:0.68uH_3.1A_2016")
+		(at 154.94 196.85 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "5b42d947-7e8c-4cd0-8112-9c05a6e0a764")
 		(property "Reference" "L7"
-			(at 151.13 194.31 0)
+			(at 154.94 199.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Inductor"
-			(at 146.05 196.85 0)
+		(property "Value" "0.68uH_3.1A_2016"
+			(at 149.86 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2016_MURATA_LQM2MPN2R2NG0"
-			(at 151.13 194.31 0)
+		(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+			(at 167.64 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37894,7 +34745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 194.31 0)
+			(at 154.94 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37902,8 +34753,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3100mA, Isat= 4300mA, 0R043, 0806, T=1mm"
-			(at 151.13 194.31 0)
+		(property "Description" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+			(at 154.94 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37911,217 +34762,54 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 148.082 195.58 0)
+		(property "Display 2" "3.1A"
+			(at 154.94 201.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "0.68uH, Isat>4.3A, Imax>=3.1A, Rdc<=50mOhms, shielded"
+			(at 162.814 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03141"
-			(at 148.082 191.77 0)
+		(property "Manufacturer" "Murata"
+			(at 164.338 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "0.68uH"
-			(at 151.13 200.152 0)
+		(property "Part Number" "DFE201610E-R68M=P2"
+			(at 165.862 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 148.082 189.23 0)
+		(property "Display" "0.68uH"
+			(at 154.94 204.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE201610E-R68M=P2"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0806"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE201610E_Series"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5257"
-			(at 148.082 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 148.082 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 148.082 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 148.082 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 148.082 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 148.082 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 148.082 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 151.13 194.31 0)
+		(property "Part Number 2" ""
+			(at 172.72 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38129,8 +34817,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 151.13 194.31 0)
+		(property "Manufacturer 2" ""
+			(at 170.18 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38138,39 +34826,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 4" ""
-			(at 151.13 194.31 0)
+		(property "Production Stage" "A"
+			(at 171.45 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 151.13 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 151.13 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 151.13 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -38342,10 +35004,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5dadc34b-8fd3-42d7-979e-e5e4f15b2ed9")
 		(property "Reference" "C1141"
-			(at 217.1763 251.46 90)
+			(at 212.852 256.286 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38420,7 +35081,7 @@
 			)
 		)
 		(property "Display" "4.7uF"
-			(at 217.1763 254 90)
+			(at 212.852 259.334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38787,7 +35448,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 156.21 90)
+		(at 217.17 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38795,7 +35456,7 @@
 		(dnp no)
 		(uuid "654c3a89-e64e-401d-9773-612017907045")
 		(property "Reference" "#PWR0167"
-			(at 217.17 156.21 0)
+			(at 217.17 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38804,7 +35465,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 220.98 156.21 0)
+			(at 220.98 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38812,7 +35473,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 156.21 0)
+			(at 217.17 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38821,7 +35482,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 156.21 0)
+			(at 217.17 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38830,7 +35491,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 156.21 0)
+			(at 217.17 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38999,7 +35660,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Resistor_0402:1.5k_0402")
-		(at 200.66 359.41 90)
+		(at 194.31 361.95 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39008,7 +35669,7 @@
 		(fields_autoplaced yes)
 		(uuid "66378579-4321-46db-a51c-b7225a13ac2d")
 		(property "Reference" "R260"
-			(at 200.66 353.06 90)
+			(at 194.31 355.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39016,7 +35677,7 @@
 			)
 		)
 		(property "Value" "1.5k_0402"
-			(at 200.66 361.95 90)
+			(at 194.31 364.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39025,7 +35686,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 213.614 361.95 0)
+			(at 207.264 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39035,7 +35696,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 359.41 0)
+			(at 194.31 361.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39044,7 +35705,7 @@
 			)
 		)
 		(property "Description" "1.5k, 1%, 1/16W, 0402"
-			(at 200.66 359.41 0)
+			(at 194.31 361.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39053,7 +35714,7 @@
 			)
 		)
 		(property "Specifications" "1.5k, 1%, 1/16W, 0402"
-			(at 208.28 361.95 0)
+			(at 201.93 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39063,7 +35724,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 210.058 361.95 0)
+			(at 203.708 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39073,7 +35734,7 @@
 			)
 		)
 		(property "Part Number" "RC0402FR-071K5L"
-			(at 211.836 361.95 0)
+			(at 205.486 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39083,7 +35744,7 @@
 			)
 		)
 		(property "Display" "1.5k"
-			(at 200.66 355.6 90)
+			(at 194.31 358.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39091,7 +35752,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C114759"
-			(at 215.392 361.95 0)
+			(at 209.042 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39101,7 +35762,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 217.17 361.95 0)
+			(at 210.82 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39120,6 +35781,71 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "R260")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Power_Symbol:VDD_DDR")
+		(at 151.13 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6fdbba3e-81ab-41eb-aa09-bd041c6d118d")
+		(property "Reference" "#PWR0127"
+			(at 151.13 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_DDR"
+			(at 151.13 175.514 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93c943b5-27df-4744-b33b-4adb096e848c")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -39462,6 +36188,72 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Power_Symbol:VDD_CPU")
+		(at 151.13 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72746438-9004-474f-a06c-3149e8757ce1")
+		(property "Reference" "#PWR0154"
+			(at 157.48 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_CPU"
+			(at 151.13 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "150dfdc4-e1f3-409d-8073-82a025fbc60a")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -39984,7 +36776,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0402_6.3V")
-		(at 36.83 215.9 0)
+		(at 49.53 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39992,7 +36784,7 @@
 		(dnp no)
 		(uuid "7a7cd3f4-5dbc-4574-8dc8-bc222ded17bd")
 		(property "Reference" "C39"
-			(at 41.656 215.646 0)
+			(at 54.356 215.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40001,7 +36793,7 @@
 			)
 		)
 		(property "Value" "10uF_0402_6.3V"
-			(at 37.084 210.312 0)
+			(at 49.784 210.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40011,7 +36803,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 36.83 219.71 0)
+			(at 49.53 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40020,7 +36812,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 215.9 0)
+			(at 49.53 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40029,7 +36821,7 @@
 			)
 		)
 		(property "Description" "10uF, Min. 6.3V, 0402, Ceramic/MLCC"
-			(at 36.83 215.9 0)
+			(at 49.53 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40038,7 +36830,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 6.3V, 0402, Ceramic/MLCC"
-			(at 34.29 223.774 0)
+			(at 46.99 223.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40048,7 +36840,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 34.29 225.298 0)
+			(at 46.99 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40058,7 +36850,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 34.29 226.822 0)
+			(at 46.99 226.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40068,7 +36860,7 @@
 			)
 		)
 		(property "Display" "10uF"
-			(at 39.37 217.17 0)
+			(at 52.07 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40077,7 +36869,7 @@
 			)
 		)
 		(property "JLCPCB ID" ""
-			(at 38.1 228.6 0)
+			(at 50.8 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40086,7 +36878,7 @@
 			)
 		)
 		(property "Manufacturer 2" ""
-			(at 38.1 228.6 0)
+			(at 50.8 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40095,7 +36887,7 @@
 			)
 		)
 		(property "Part Number 2" ""
-			(at 45.72 231.14 0)
+			(at 58.42 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40104,7 +36896,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 34.29 232.41 0)
+			(at 46.99 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40496,10 +37288,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7ebb9ec2-4fbb-40dd-a660-c9248fcde779")
 		(property "Reference" "C142"
-			(at 217.1763 259.08 90)
+			(at 213.36 263.906 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40574,7 +37365,7 @@
 			)
 		)
 		(property "Display" "4.7uF"
-			(at 217.1763 261.62 90)
+			(at 213.36 266.954 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41978,36 +38769,34 @@
 		)
 	)
 	(symbol
-		(lib_name "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_2")
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 166.37 107.95 0)
+		(lib_id "4ms_Inductor:0.68uH_3.9A_2520")
+		(at 168.91 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "872afd5d-0e4a-47ca-82d7-eebb2f4bdf05")
 		(property "Reference" "L4"
+			(at 168.91 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.68uH_3.9A_2520"
 			(at 163.83 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Inductor"
-			(at 161.29 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2520_TOKO_DFE252012P"
-			(at 166.37 107.95 0)
+		(property "Footprint" "4ms_Inductor:COIL_2520_Murata_Handsolder"
+			(at 181.61 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42016,7 +38805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 107.95 0)
+			(at 168.91 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42024,8 +38813,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 0.68uH, +/-20%, Itemp= 3900mA, Isat= 5400mA, 0R031, 1008, T=1.2mm"
-			(at 166.37 107.95 0)
+		(property "Description" "0.68uH, Isat>5.4A, Imax>=3.9A, Rdc<=50mOhms, shielded"
+			(at 168.91 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42033,217 +38822,54 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 163.322 109.22 0)
+		(property "Display 2" "3.9A"
+			(at 168.91 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "0.68uH, Isat>5.4A, Imax>=3.9A, Rdc<=50mOhms, shielded"
+			(at 176.784 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03142"
-			(at 163.322 105.41 0)
+		(property "Manufacturer" "Murata"
+			(at 178.308 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "0.68µH"
-			(at 166.37 113.792 0)
+		(property "Part Number" "DFE252012F-R68M=P2"
+			(at 179.832 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 163.322 102.87 0)
+		(property "Display" "0.68uH"
+			(at 168.91 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE252012F-R68M=P2"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "1008"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE252012F-6R8M=P2"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "490-13044-2-ND"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5258"
-			(at 163.322 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 163.322 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 163.322 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 163.322 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 163.322 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 163.322 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 163.322 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 166.37 107.95 0)
+		(property "Part Number 2" ""
+			(at 186.69 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42251,8 +38877,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 3" ""
-			(at 166.37 107.95 0)
+		(property "Manufacturer 2" ""
+			(at 184.15 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42260,39 +38886,13 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 4" ""
-			(at 166.37 107.95 0)
+		(property "Production Stage" "A"
+			(at 185.42 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 166.37 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 166.37 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 166.37 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -43373,7 +39973,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 49.53 222.25 0)
+		(at 59.69 222.25 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43382,7 +39982,7 @@
 		(dnp no)
 		(uuid "99201033-4d05-4f36-8a6e-aec1afa938ea")
 		(property "Reference" "#PWR0114"
-			(at 49.53 226.06 0)
+			(at 59.69 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43391,7 +39991,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 49.53 218.694 0)
+			(at 59.69 218.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43399,7 +39999,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 222.25 0)
+			(at 59.69 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43408,7 +40008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 222.25 0)
+			(at 59.69 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43417,7 +40017,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 49.53 222.25 0)
+			(at 59.69 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43846,7 +40446,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Power_Symbol:VDD_IO")
-		(at 213.36 359.41 0)
+		(at 207.01 361.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43855,7 +40455,7 @@
 		(fields_autoplaced yes)
 		(uuid "9d847ea6-69ed-4db3-9557-f1e78234369d")
 		(property "Reference" "#PWR067"
-			(at 213.36 363.22 0)
+			(at 207.01 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43864,7 +40464,7 @@
 			)
 		)
 		(property "Value" "VDD_IO"
-			(at 213.36 354.33 0)
+			(at 207.01 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43872,7 +40472,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 359.41 0)
+			(at 207.01 361.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43881,7 +40481,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 359.41 0)
+			(at 207.01 361.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43890,7 +40490,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 359.41 0)
+			(at 207.01 361.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46193,7 +42793,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Power_Symbol:VDD_DDR")
-		(at 29.21 212.09 0)
+		(at 49.53 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46201,7 +42801,7 @@
 		(dnp no)
 		(uuid "a6323301-3b94-4de3-97ca-9b523491dcf5")
 		(property "Reference" "#PWR0131"
-			(at 29.21 212.09 0)
+			(at 49.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46210,7 +42810,7 @@
 			)
 		)
 		(property "Value" "VDD_DDR"
-			(at 29.21 208.534 0)
+			(at 49.53 208.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46218,7 +42818,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 212.09 0)
+			(at 49.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46227,7 +42827,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 212.09 0)
+			(at 49.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46236,7 +42836,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 212.09 0)
+			(at 49.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47536,36 +44136,34 @@
 		)
 	)
 	(symbol
-		(lib_name "U_PMIC_0_Inductor_MCD_PARTS_database.DbLib_3")
-		(lib_id "MCD_PARTS_database:U_PMIC_0_Inductor_MCD_PARTS_database.DbLib")
-		(at 163.83 123.19 0)
+		(lib_id "4ms_Inductor:2.2uH_1.7A_2016")
+		(at 168.91 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "afff457f-7d90-4926-b222-9810969a6741")
 		(property "Reference" "L6"
-			(at 163.83 123.19 0)
+			(at 168.91 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "Inductor"
-			(at 158.75 125.73 0)
+		(property "Value" "2.2uH_1.7A_2016"
+			(at 163.83 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "IND_2016_MURATA_LQM2MPN2R2NG0"
-			(at 163.83 123.19 0)
+		(property "Footprint" "4ms_Inductor:COIL_2016_Murata_Handsolder"
+			(at 181.61 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47574,7 +44172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 123.19 0)
+			(at 168.91 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47582,8 +44180,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, 2.2uH, +/-20%, Itemp= 1700mA, Isat= 2400mA, 0R140, 0806, T=1mm"
-			(at 163.83 123.19 0)
+		(property "Description" "2.2uH, Isat>2.4A, Imax>=1.7A, Rdc<=120mOhms, shielded"
+			(at 175.26 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47591,266 +44189,59 @@
 				(hide yes)
 			)
 		)
-		(property "REVISION" ""
-			(at 160.782 124.46 0)
+		(property "Display 2" "1.7A"
+			(at 168.91 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+			)
+		)
+		(property "Specifications" "2.2uH, Isat>2.4A, Imax>=1.7A, Rdc<=120mOhms, shielded"
+			(at 176.784 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "INTERNAL_PART_NUMBER" "MCD-03143"
-			(at 160.782 120.65 0)
+		(property "Manufacturer" "Murata"
+			(at 178.308 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "2.2uH"
-			(at 163.83 129.032 0)
+		(property "Part Number" "DFE201610E-2R2M=P2"
+			(at 179.832 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "PART_TYPE" "Inductor"
-			(at 160.782 118.11 0)
+		(property "Display" "2.2uH"
+			(at 168.91 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 160.782 118.11 0)
+		(property "Production Stage" "A"
+			(at 185.42 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MURATA"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "DFE201610E-2R2M=P2"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0806"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Inductor/MURATA_DFE201610E_Series"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "490-17728-2-ND -"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "5259"
-			(at 160.782 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 160.782 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 160.782 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" "Vietnam"
-			(at 160.782 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 160.782 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 160.782 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -47864,330 +44255,6 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "L6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MCD_PARTS_database:U_PMIC_3_link_200_MCD_PARTS_database.DbLib")
-		(at 247.65 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b22769d3-7c61-498c-a3db-15c918a41e42")
-		(property "Reference" "LNK2"
-			(at 241.808 103.632 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "${ALTIUM_VALUE}"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "LINK200"
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Track link on PCB 200um width for layout routing"
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "link_200"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ID" "4889"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTERNAL_PART_NUMBER" "MCD-02777"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "link_200"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_DIGIKEY" "N/A"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_FARNELL" "N/A"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ORDER_CODE_RS" "N/A"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_PREFERENCE" "Recommended"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_TYPE" "Misc"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SHOWFIELDS" "YES"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "Checked"
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENT_COUNTRY_OF_ORIGIN" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 239.522 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 247.65 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "202e27e1-5480-4a93-8259-e30b07331c1d")
-		)
-		(pin "1"
-			(uuid "9cd94889-f3ad-4901-bb87-d2eb4948621c")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "LNK2")
 					(unit 1)
 				)
 			)
@@ -48814,7 +44881,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:4.7uF_0402_6.3V")
-		(at 212.09 156.21 90)
+		(at 212.09 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -48822,7 +44889,7 @@
 		(dnp no)
 		(uuid "bafbb269-47e5-417e-bcec-51c23afe3c8d")
 		(property "Reference" "C190"
-			(at 216.408 151.638 90)
+			(at 216.408 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48830,7 +44897,7 @@
 			)
 		)
 		(property "Value" "4.7uF_0402_6.3V"
-			(at 208.28 156.21 0)
+			(at 208.28 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48839,7 +44906,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 217.17 158.75 0)
+			(at 217.17 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48849,7 +44916,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 156.21 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48858,7 +44925,7 @@
 			)
 		)
 		(property "Description" "4.7uF, Min. 6.3V 20%, X7R or X5R or similar 0402"
-			(at 212.09 156.21 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48867,7 +44934,7 @@
 			)
 		)
 		(property "Specifications" "4.7uF, Min. 6.3V 20%, X7R or X5R or similar"
-			(at 219.964 158.75 0)
+			(at 219.964 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48877,7 +44944,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 221.488 158.75 0)
+			(at 221.488 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48887,7 +44954,7 @@
 			)
 		)
 		(property "Part Number" "GRM155R60J475ME47"
-			(at 223.012 158.75 0)
+			(at 223.012 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48897,7 +44964,7 @@
 			)
 		)
 		(property "Display" "4.7uF"
-			(at 216.408 154.178 90)
+			(at 216.408 149.098 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48905,7 +44972,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C23733"
-			(at 224.79 154.94 0)
+			(at 224.79 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48914,7 +44981,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 228.6 158.75 0)
+			(at 228.6 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54255,7 +50322,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 36.83 219.71 0)
+		(at 49.53 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -54263,7 +50330,7 @@
 		(dnp no)
 		(uuid "e3c5825f-8419-4a4c-bf7b-8234498e6074")
 		(property "Reference" "#PWR0132"
-			(at 36.83 219.71 0)
+			(at 49.53 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54272,7 +50339,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.83 223.52 0)
+			(at 49.53 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54280,7 +50347,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 36.83 219.71 0)
+			(at 49.53 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54289,7 +50356,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 219.71 0)
+			(at 49.53 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54298,7 +50365,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 36.83 219.71 0)
+			(at 49.53 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54320,7 +50387,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Resistor_0402:1.5k_0402")
-		(at 200.66 361.95 90)
+		(at 194.31 364.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -54329,7 +50396,7 @@
 		(fields_autoplaced yes)
 		(uuid "e407ce10-d777-4417-b31a-67e9a5dad9ac")
 		(property "Reference" "R261"
-			(at 200.66 365.76 90)
+			(at 194.31 368.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54337,7 +50404,7 @@
 			)
 		)
 		(property "Value" "1.5k_0402"
-			(at 200.66 364.49 90)
+			(at 194.31 367.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54346,7 +50413,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 213.614 364.49 0)
+			(at 207.264 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54356,7 +50423,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 361.95 0)
+			(at 194.31 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54365,7 +50432,7 @@
 			)
 		)
 		(property "Description" "1.5k, 1%, 1/16W, 0402"
-			(at 200.66 361.95 0)
+			(at 194.31 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54374,7 +50441,7 @@
 			)
 		)
 		(property "Specifications" "1.5k, 1%, 1/16W, 0402"
-			(at 208.28 364.49 0)
+			(at 201.93 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54384,7 +50451,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 210.058 364.49 0)
+			(at 203.708 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54394,7 +50461,7 @@
 			)
 		)
 		(property "Part Number" "RC0402FR-071K5L"
-			(at 211.836 364.49 0)
+			(at 205.486 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54404,7 +50471,7 @@
 			)
 		)
 		(property "Display" "1.5k"
-			(at 200.66 368.3 90)
+			(at 194.31 370.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54412,7 +50479,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C114759"
-			(at 215.392 364.49 0)
+			(at 209.042 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54422,7 +50489,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 217.17 364.49 0)
+			(at 210.82 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54441,6 +50508,72 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "R261")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V8")
+		(at 149.86 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5388c78-66ac-4533-b5d9-5709b593553f")
+		(property "Reference" "#PWR0129"
+			(at 149.86 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 149.86 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+			(at 149.86 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63c66669-103e-401c-9a90-c73f944674ea")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -56137,6 +52270,72 @@
 		)
 	)
 	(symbol
+		(lib_id "4ms_Power_Symbol:VDD_IO")
+		(at 151.13 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8f3b4de-7516-424e-bc75-b0ba18e0ebb2")
+		(property "Reference" "#PWR0150"
+			(at 151.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_IO"
+			(at 151.13 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85fa388c-a556-4f6d-b4d8-b1a42e1fcd4e")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "4ms_Net_Tie:NetTie")
 		(at 458.47 68.58 0)
 		(unit 1)
@@ -56281,6 +52480,72 @@
 			(project ""
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "NT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Power_Symbol:VDD_GPU")
+		(at 153.67 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe026a06-93df-4779-bedf-8b3ea8d32438")
+		(property "Reference" "#PWR0152"
+			(at 160.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_GPU"
+			(at 153.67 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1dfc8a9a-0a37-4087-9605-4156d66b84cc")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
