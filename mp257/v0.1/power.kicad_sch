@@ -1886,204 +1886,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "4ms_Capacitor:2.2uF_0603_25V"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 1.905 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "2.2uF_0603_25V"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Capacitor:C_0603"
-				(at 8.255 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2.2uF, Min 25V 10% X5R"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "2.2uF, Min 25V 10% X5R"
-				(at -2.54 -7.874 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Murata"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "GRM188R6YA225KA12D"
-				(at -2.54 -10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "2.2uF"
-				(at 1.905 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "JLCPCB ID" "C57895"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "2.2uF_0603_25V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2.2uF_0603_25V_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "2.2uF_0603_25V_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "4ms_Capacitor:22uF_0603_6.3V"
 			(pin_numbers
 				(hide yes)
@@ -17001,6 +16803,12 @@
 		(uuid "0ddaa3a1-8986-4c68-8ae9-cfd0cd6d2ca9")
 	)
 	(junction
+		(at 364.49 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e3e9393-ac68-454c-b3a9-85dffe2d46ee")
+	)
+	(junction
 		(at 354.33 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17011,12 +16819,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fa9ddff-e3ec-4142-9d7a-7017ec2a1145")
-	)
-	(junction
-		(at 364.49 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0fca046a-34f0-4329-8682-6e01a41b0c3c")
 	)
 	(junction
 		(at 191.77 102.87)
@@ -17053,6 +16855,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1354ef3e-d833-441d-a7c7-3d13a6583b1c")
+	)
+	(junction
+		(at 405.13 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14e5895c-c957-4e14-8b0e-a46abbe81108")
 	)
 	(junction
 		(at 59.69 250.19)
@@ -17155,6 +16963,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24dc99ff-38cf-4a94-ba3a-e7ec456bfc9a")
+	)
+	(junction
+		(at 384.81 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2621c24c-2437-4d0a-a6c8-e18a04f65219")
 	)
 	(junction
 		(at 509.27 273.05)
@@ -17373,12 +17187,6 @@
 		(uuid "586a2d18-4f23-46e3-b7bf-f717fbf6b789")
 	)
 	(junction
-		(at 394.97 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "59c573b2-701e-476b-8c53-b7629353cfe1")
-	)
-	(junction
 		(at 201.93 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17547,6 +17355,12 @@
 		(uuid "71455960-2754-4ec7-b67f-4594496ae2ec")
 	)
 	(junction
+		(at 394.97 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74133e8d-0ad9-4bf5-bf3d-0b6391e83974")
+	)
+	(junction
 		(at 425.45 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17587,6 +17401,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78e494da-fc65-4646-8309-13fc09690189")
+	)
+	(junction
+		(at 354.33 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a2fae1e-5e6e-4eb7-b162-0d861ce4a780")
 	)
 	(junction
 		(at 501.65 163.83)
@@ -17881,12 +17701,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3a9a3df-b32a-4cc0-996a-ccc15f8fe5c1")
-	)
-	(junction
-		(at 384.81 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a4dcd340-8e15-4380-8ab0-d5937412ae10")
 	)
 	(junction
 		(at 458.47 55.88)
@@ -18231,12 +18045,6 @@
 		(uuid "de4173a8-fe77-460c-94c0-58a3fd684b36")
 	)
 	(junction
-		(at 354.33 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "df34bef0-73e8-430d-a460-55d435f012e3")
-	)
-	(junction
 		(at 501.65 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18313,12 +18121,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0baace2-5a59-4671-9d5c-64a0d2dd5049")
-	)
-	(junction
-		(at 405.13 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f19e84c7-6b40-47fc-b0a0-4e5d1b7cc4e0")
 	)
 	(junction
 		(at 64.77 80.01)
@@ -18714,6 +18516,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 90.17) (xy 374.65 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e0beb9a-5752-48c4-bc91-8194ba009ac4")
+	)
+	(wire
+		(pts
 			(xy 501.65 214.63) (xy 499.11 214.63)
 		)
 		(stroke
@@ -18971,16 +18783,6 @@
 			(type default)
 		)
 		(uuid "17f52f31-0876-47c9-bb5d-7c2f1e7149de")
-	)
-	(wire
-		(pts
-			(xy 354.33 90.17) (xy 364.49 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19a05a1c-d0c0-4bad-8d1e-bc048a98be75")
 	)
 	(wire
 		(pts
@@ -21984,16 +21786,6 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 90.17) (xy 405.13 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "997b8bf2-e730-4b48-9957-770fce79374d")
-	)
-	(wire
-		(pts
 			(xy 501.65 102.87) (xy 501.65 100.33)
 		)
 		(stroke
@@ -22034,13 +21826,13 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 90.17) (xy 374.65 90.17)
+			(xy 354.33 90.17) (xy 364.49 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a6b7502-2f81-4ed9-8af5-a8f4e877a415")
+		(uuid "9a0901a1-712f-44d6-934e-98fde4d14608")
 	)
 	(wire
 		(pts
@@ -22131,6 +21923,16 @@
 			(type default)
 		)
 		(uuid "9e37e37b-4b33-446e-9b27-04300d6f0c86")
+	)
+	(wire
+		(pts
+			(xy 394.97 90.17) (xy 405.13 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e4d2d19-dc2c-46ea-8266-87d007fa3811")
 	)
 	(wire
 		(pts
@@ -22884,6 +22686,16 @@
 	)
 	(wire
 		(pts
+			(xy 384.81 90.17) (xy 394.97 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b95d64e8-3dcf-49b3-b131-43ce32d9de47")
+	)
+	(wire
+		(pts
 			(xy 52.07 266.7) (xy 52.07 265.43)
 		)
 		(stroke
@@ -23514,16 +23326,6 @@
 	)
 	(wire
 		(pts
-			(xy 405.13 90.17) (xy 415.29 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1d98b72-68d0-48e0-9e42-0556cdeddde6")
-	)
-	(wire
-		(pts
 			(xy 181.61 118.11) (xy 191.77 118.11)
 		)
 		(stroke
@@ -23891,16 +23693,6 @@
 			(type default)
 		)
 		(uuid "db30fac2-a2be-42b4-bd13-93847fad4e92")
-	)
-	(wire
-		(pts
-			(xy 384.81 90.17) (xy 394.97 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db78c749-f610-416f-9c68-52a81e801f5f")
 	)
 	(wire
 		(pts
@@ -24441,6 +24233,16 @@
 			(type default)
 		)
 		(uuid "ee40251d-09c6-4d53-9b8d-997e0f9b7b5f")
+	)
+	(wire
+		(pts
+			(xy 405.13 90.17) (xy 415.29 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee9647c8-a10f-4972-9bbd-8c080b30ff8a")
 	)
 	(wire
 		(pts
@@ -25056,7 +24858,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 212.09 114.3 0)
+		(at 212.09 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25065,16 +24867,16 @@
 		(fields_autoplaced yes)
 		(uuid "00b39ac8-3ef6-47e7-9060-1353b3bb3076")
 		(property "Reference" "C37"
-			(at 214.63 113.0362 0)
+			(at 214.63 113.0235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 212.09 110.49 0)
+			(at 212.09 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25083,7 +24885,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 209.55 119.38 0)
+			(at 214.63 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25111,7 +24913,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 209.55 122.174 0)
+			(at 214.63 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25121,7 +24923,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 209.55 123.698 0)
+			(at 214.63 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25131,7 +24933,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 209.55 125.222 0)
+			(at 214.63 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25141,12 +24943,12 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 214.63 115.5762 0)
+			(at 214.63 115.5635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "JLCPCB ID" "C59461"
@@ -25159,7 +24961,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 209.55 130.81 0)
+			(at 214.63 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25509,7 +25311,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 181.61 114.3 0)
+		(at 181.61 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25517,7 +25319,7 @@
 		(dnp no)
 		(uuid "0474bac1-1234-485d-a494-47a7e5b541fe")
 		(property "Reference" "C34"
-			(at 184.15 113.0362 0)
+			(at 179.07 115.5638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25526,7 +25328,7 @@
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 181.61 110.49 0)
+			(at 181.61 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25535,7 +25337,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 179.07 119.38 0)
+			(at 184.15 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25563,7 +25365,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 179.07 122.174 0)
+			(at 184.15 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25573,7 +25375,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 179.07 123.698 0)
+			(at 184.15 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25583,7 +25385,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 179.07 125.222 0)
+			(at 184.15 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25593,7 +25395,7 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 179.07 108.458 0)
+			(at 184.15 120.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25611,7 +25413,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 179.07 130.81 0)
+			(at 184.15 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25898,7 +25700,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:1uF_0201_4V")
-		(at 384.81 92.71 0)
+		(at 384.81 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25907,16 +25709,16 @@
 		(fields_autoplaced yes)
 		(uuid "06948897-20d0-4f4e-a4da-c6b4169d0ef8")
 		(property "Reference" "C48"
-			(at 387.35 91.4462 0)
+			(at 387.35 91.4335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1uF_0201_4V"
-			(at 384.81 88.9 0)
+			(at 384.81 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25925,7 +25727,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0201"
-			(at 382.27 97.79 0)
+			(at 387.35 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25953,7 +25755,7 @@
 			)
 		)
 		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
-			(at 382.27 100.584 0)
+			(at 387.35 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25963,16 +25765,16 @@
 			)
 		)
 		(property "Display" "1uF"
-			(at 387.35 93.9862 0)
+			(at 387.35 93.9735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 386.08 106.68 0)
+			(at 383.54 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25981,7 +25783,7 @@
 			)
 		)
 		(property "Part Number" "CC0201MRX5R5BB105"
-			(at 392.43 109.22 0)
+			(at 377.19 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25990,7 +25792,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C272877"
-			(at 386.08 105.41 0)
+			(at 383.54 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25999,7 +25801,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Murata"
-			(at 382.27 102.108 0)
+			(at 387.35 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26009,7 +25811,7 @@
 			)
 		)
 		(property "Part Number 2" "GRM033D70G105ME01D"
-			(at 382.27 103.632 0)
+			(at 387.35 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26019,7 +25821,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 382.27 109.22 0)
+			(at 387.35 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27290,7 +27092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Inductor:COIL_2520_Murata_Handsolder"
+		(property "Footprint" "4ms_Inductor:COIL_2520_TOKO_Handsolder"
 			(at 181.61 93.98 0)
 			(effects
 				(font
@@ -27874,7 +27676,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0603_10V")
-		(at 64.77 162.56 0)
+		(at 64.77 162.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27882,7 +27684,7 @@
 		(dnp no)
 		(uuid "12b7742b-613b-4a1a-be9b-98fd18031a82")
 		(property "Reference" "C30"
-			(at 69.85 160.02 0)
+			(at 59.69 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27891,7 +27693,7 @@
 			)
 		)
 		(property "Value" "10uF_0603_10V"
-			(at 64.77 158.75 0)
+			(at 64.77 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27900,7 +27702,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 62.23 167.64 0)
+			(at 67.31 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27928,7 +27730,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 10V X5R 10%"
-			(at 62.23 170.434 0)
+			(at 67.31 154.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27938,7 +27740,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 62.23 171.958 0)
+			(at 67.31 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27948,7 +27750,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R61A106KE69D"
-			(at 62.23 173.482 0)
+			(at 67.31 151.638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27958,7 +27760,7 @@
 			)
 		)
 		(property "Display" "10uF/10V"
-			(at 66.675 163.83 0)
+			(at 62.865 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27967,7 +27769,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C19702"
-			(at 66.04 175.26 0)
+			(at 63.5 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27976,7 +27778,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 62.23 179.07 0)
+			(at 67.31 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28002,7 +27804,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:1uF_0201_4V")
-		(at 405.13 92.71 0)
+		(at 405.13 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28011,16 +27813,16 @@
 		(fields_autoplaced yes)
 		(uuid "13e777be-958e-4d51-9182-d51e66da1734")
 		(property "Reference" "C50"
-			(at 407.67 91.4462 0)
+			(at 407.67 91.4335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1uF_0201_4V"
-			(at 405.13 88.9 0)
+			(at 405.13 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28029,7 +27831,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0201"
-			(at 402.59 97.79 0)
+			(at 407.67 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28057,7 +27859,7 @@
 			)
 		)
 		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
-			(at 402.59 100.584 0)
+			(at 407.67 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28067,16 +27869,16 @@
 			)
 		)
 		(property "Display" "1uF"
-			(at 407.67 93.9862 0)
+			(at 407.67 93.9735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 406.4 106.68 0)
+			(at 403.86 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28085,7 +27887,7 @@
 			)
 		)
 		(property "Part Number" "CC0201MRX5R5BB105"
-			(at 412.75 109.22 0)
+			(at 397.51 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28094,7 +27896,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C272877"
-			(at 406.4 105.41 0)
+			(at 403.86 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28103,7 +27905,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Murata"
-			(at 402.59 102.108 0)
+			(at 407.67 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28113,7 +27915,7 @@
 			)
 		)
 		(property "Part Number 2" "GRM033D70G105ME01D"
-			(at 402.59 103.632 0)
+			(at 407.67 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28123,7 +27925,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 402.59 109.22 0)
+			(at 407.67 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29439,7 +29241,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:1uF_0201_4V")
-		(at 354.33 92.71 0)
+		(at 354.33 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29448,16 +29250,16 @@
 		(fields_autoplaced yes)
 		(uuid "2213b7fe-2624-47c1-b3ae-818e66b06896")
 		(property "Reference" "C45"
-			(at 356.87 91.4462 0)
+			(at 356.87 91.4335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1uF_0201_4V"
-			(at 354.33 88.9 0)
+			(at 354.33 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29466,7 +29268,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0201"
-			(at 351.79 97.79 0)
+			(at 356.87 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29494,7 +29296,7 @@
 			)
 		)
 		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
-			(at 351.79 100.584 0)
+			(at 356.87 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29504,16 +29306,16 @@
 			)
 		)
 		(property "Display" "1uF"
-			(at 356.87 93.9862 0)
+			(at 356.87 93.9735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 355.6 106.68 0)
+			(at 353.06 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29522,7 +29324,7 @@
 			)
 		)
 		(property "Part Number" "CC0201MRX5R5BB105"
-			(at 361.95 109.22 0)
+			(at 346.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29531,7 +29333,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C272877"
-			(at 355.6 105.41 0)
+			(at 353.06 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29540,7 +29342,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Murata"
-			(at 351.79 102.108 0)
+			(at 356.87 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29550,7 +29352,7 @@
 			)
 		)
 		(property "Part Number 2" "GRM033D70G105ME01D"
-			(at 351.79 103.632 0)
+			(at 356.87 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29560,7 +29362,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 351.79 109.22 0)
+			(at 356.87 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30089,7 +29891,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:10uF_0603_10V")
+		(lib_id "4ms_Capacitor:10uF_0402_6.3V")
 		(at 476.25 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30107,22 +29909,22 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF_0603_10V"
-			(at 476.25 46.99 0)
+		(property "Value" "10uF_0402_6.3V"
+			(at 476.504 45.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 473.71 55.88 0)
+		(property "Footprint" "4ms_Capacitor:C_0402"
+			(at 476.25 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -30135,7 +29937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF, Min. 6.3V, 0402, Ceramic/MLCC"
 			(at 476.25 50.8 0)
 			(effects
 				(font
@@ -30144,7 +29946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "10uF, Min. 10V X5R 10%"
+		(property "Specifications" "10uF, Min. 6.3V, 0402, Ceramic/MLCC"
 			(at 473.71 58.674 0)
 			(effects
 				(font
@@ -30154,7 +29956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" ""
 			(at 473.71 60.198 0)
 			(effects
 				(font
@@ -30164,7 +29966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM188R61A106KE69D"
+		(property "Part Number" ""
 			(at 473.71 61.722 0)
 			(effects
 				(font
@@ -30174,7 +29976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "10uF/10V"
+		(property "Display" "10uF"
 			(at 478.79 52.0762 0)
 			(effects
 				(font
@@ -30183,7 +29985,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C19702"
+		(property "JLCPCB ID" ""
 			(at 477.52 63.5 0)
 			(effects
 				(font
@@ -30202,8 +30004,8 @@
 				(hide yes)
 			)
 		)
-		(property "Alt Part Number" ""
-			(at 476.25 50.8 0)
+		(property "Manufacturer 2" ""
+			(at 477.52 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30211,53 +30013,8 @@
 				(hide yes)
 			)
 		)
-		(property "Display 2" ""
-			(at 476.25 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 476.25 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 476.25 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 476.25 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 476.25 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 476.25 50.8 0)
+		(property "Part Number 2" ""
+			(at 485.14 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30606,7 +30363,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 201.93 83.82 0)
+		(at 201.93 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30614,16 +30371,16 @@
 		(dnp no)
 		(uuid "2dce1651-5a47-41bd-86fa-22ca31cfb8b7")
 		(property "Reference" "C27"
-			(at 204.47 82.5562 0)
+			(at 204.47 82.5435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 201.93 80.01 0)
+			(at 201.93 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30632,7 +30389,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 199.39 88.9 0)
+			(at 204.47 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30660,7 +30417,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 199.39 91.694 0)
+			(at 204.47 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30670,7 +30427,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 199.39 93.218 0)
+			(at 204.47 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30680,7 +30437,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 199.39 94.742 0)
+			(at 204.47 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30690,12 +30447,12 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 196.85 78.74 0)
+			(at 197.104 77.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "JLCPCB ID" "C59461"
@@ -30708,7 +30465,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 199.39 100.33 0)
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31927,7 +31684,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 201.93 114.3 0)
+		(at 201.93 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31935,7 +31692,7 @@
 		(dnp no)
 		(uuid "3775225b-1005-4f27-9acb-02808b57eeb7")
 		(property "Reference" "C36"
-			(at 204.47 113.0362 0)
+			(at 199.39 115.5638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31944,7 +31701,7 @@
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 201.93 110.49 0)
+			(at 201.93 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31953,7 +31710,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 199.39 119.38 0)
+			(at 204.47 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31981,7 +31738,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 199.39 122.174 0)
+			(at 204.47 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31991,7 +31748,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 199.39 123.698 0)
+			(at 204.47 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32001,7 +31758,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 199.39 125.222 0)
+			(at 204.47 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32011,7 +31768,7 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 202.946 108.712 0)
+			(at 200.914 119.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32029,7 +31786,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 199.39 130.81 0)
+			(at 204.47 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34853,7 +34610,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0402_6.3V")
-		(at 214.63 217.17 90)
+		(at 214.63 217.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34862,7 +34619,7 @@
 		(fields_autoplaced yes)
 		(uuid "5cf982f0-6620-4430-9a77-ba40972e884d")
 		(property "Reference" "C40"
-			(at 214.6363 220.98 90)
+			(at 214.6236 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34870,7 +34627,7 @@
 			)
 		)
 		(property "Value" "10uF_0402_6.3V"
-			(at 209.042 216.916 0)
+			(at 220.218 217.424 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34880,7 +34637,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 218.44 217.17 0)
+			(at 210.82 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34907,7 +34664,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 6.3V, 0402, Ceramic/MLCC"
-			(at 222.504 219.71 0)
+			(at 206.756 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34917,7 +34674,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 224.028 219.71 0)
+			(at 205.232 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34927,7 +34684,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 225.552 219.71 0)
+			(at 203.708 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34937,7 +34694,7 @@
 			)
 		)
 		(property "Display" "10uF"
-			(at 214.6363 223.52 90)
+			(at 214.6236 223.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34945,7 +34702,7 @@
 			)
 		)
 		(property "JLCPCB ID" ""
-			(at 227.33 215.9 0)
+			(at 201.93 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34954,7 +34711,7 @@
 			)
 		)
 		(property "Manufacturer 2" ""
-			(at 227.33 215.9 0)
+			(at 201.93 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34963,7 +34720,7 @@
 			)
 		)
 		(property "Part Number 2" ""
-			(at 229.87 208.28 0)
+			(at 199.39 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34972,7 +34729,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 231.14 219.71 0)
+			(at 198.12 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35124,24 +34881,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0603_10V")
-		(at 64.77 83.82 0)
+		(at 64.77 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "60be3b46-00dd-4f4c-a581-87c1aaece346")
 		(property "Reference" "C29"
-			(at 69.85 81.28 0)
+			(at 62.23 82.5435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
 		(property "Value" "10uF_0603_10V"
-			(at 64.77 80.01 0)
+			(at 64.77 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35149,8 +34907,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 62.23 88.9 0)
+		(property "Footprint" "C30"
+			(at 67.31 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35178,7 +34936,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 10V X5R 10%"
-			(at 62.23 91.694 0)
+			(at 67.31 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35188,7 +34946,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 62.23 93.218 0)
+			(at 67.31 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35198,7 +34956,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R61A106KE69D"
-			(at 62.23 94.742 0)
+			(at 67.31 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35208,7 +34966,7 @@
 			)
 		)
 		(property "Display" "10uF/10V"
-			(at 66.675 85.09 0)
+			(at 62.23 85.0835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35217,7 +34975,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C19702"
-			(at 66.04 96.52 0)
+			(at 63.5 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35226,7 +34984,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 62.23 100.33 0)
+			(at 67.31 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36261,24 +36019,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0603_10V")
-		(at 64.77 114.3 0)
+		(at 64.77 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "76666879-e468-498f-9872-0a6e5194db62")
 		(property "Reference" "C38"
-			(at 69.85 111.76 0)
+			(at 62.23 113.0235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
 		(property "Value" "10uF_0603_10V"
-			(at 64.77 110.49 0)
+			(at 64.77 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36287,7 +36046,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 62.23 119.38 0)
+			(at 67.31 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36315,7 +36074,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 10V X5R 10%"
-			(at 62.23 122.174 0)
+			(at 67.31 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36325,7 +36084,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 62.23 123.698 0)
+			(at 67.31 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36335,7 +36094,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R61A106KE69D"
-			(at 62.23 125.222 0)
+			(at 67.31 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36345,7 +36104,7 @@
 			)
 		)
 		(property "Display" "10uF/10V"
-			(at 66.675 115.57 0)
+			(at 62.23 115.5635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36354,7 +36113,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C19702"
-			(at 66.04 127 0)
+			(at 63.5 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36363,7 +36122,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 62.23 130.81 0)
+			(at 67.31 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36648,7 +36407,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 191.77 114.3 0)
+		(at 191.77 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36656,7 +36415,7 @@
 		(dnp no)
 		(uuid "79e315f4-d68e-4840-9989-73e7943f55f6")
 		(property "Reference" "C35"
-			(at 194.31 113.0362 0)
+			(at 189.23 115.5638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36665,7 +36424,7 @@
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 191.77 110.49 0)
+			(at 191.77 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36674,7 +36433,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 189.23 119.38 0)
+			(at 194.31 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36702,7 +36461,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 189.23 122.174 0)
+			(at 194.31 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36712,7 +36471,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 189.23 123.698 0)
+			(at 194.31 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36722,7 +36481,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 189.23 125.222 0)
+			(at 194.31 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36732,7 +36491,7 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 191.008 108.712 0)
+			(at 192.532 119.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36750,7 +36509,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 189.23 130.81 0)
+			(at 194.31 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36776,7 +36535,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0402_6.3V")
-		(at 49.53 215.9 0)
+		(at 49.53 215.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36784,7 +36543,7 @@
 		(dnp no)
 		(uuid "7a7cd3f4-5dbc-4574-8dc8-bc222ded17bd")
 		(property "Reference" "C39"
-			(at 54.356 215.646 0)
+			(at 44.704 216.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36793,7 +36552,7 @@
 			)
 		)
 		(property "Value" "10uF_0402_6.3V"
-			(at 49.784 210.312 0)
+			(at 49.276 221.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36803,7 +36562,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 49.53 219.71 0)
+			(at 49.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36830,7 +36589,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 6.3V, 0402, Ceramic/MLCC"
-			(at 46.99 223.774 0)
+			(at 52.07 208.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36840,7 +36599,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 46.99 225.298 0)
+			(at 52.07 206.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36850,7 +36609,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 46.99 226.822 0)
+			(at 52.07 204.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36860,7 +36619,7 @@
 			)
 		)
 		(property "Display" "10uF"
-			(at 52.07 217.17 0)
+			(at 46.99 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36869,7 +36628,7 @@
 			)
 		)
 		(property "JLCPCB ID" ""
-			(at 50.8 228.6 0)
+			(at 48.26 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36878,7 +36637,7 @@
 			)
 		)
 		(property "Manufacturer 2" ""
-			(at 50.8 228.6 0)
+			(at 48.26 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36887,7 +36646,7 @@
 			)
 		)
 		(property "Part Number 2" ""
-			(at 58.42 231.14 0)
+			(at 40.64 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36896,7 +36655,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 46.99 232.41 0)
+			(at 52.07 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37812,7 +37571,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:2.2uF_0603_25V")
+		(lib_id "4ms_Capacitor:1uF_0402_25V")
 		(at 438.15 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37822,7 +37581,7 @@
 		(fields_autoplaced yes)
 		(uuid "816611dc-8cb3-4d4b-929e-e6ba68eff3f6")
 		(property "Reference" "C42"
-			(at 440.69 50.1713 0)
+			(at 440.69 49.5362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37830,17 +37589,18 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF_0603_25V"
-			(at 438.15 46.99 0)
+		(property "Value" "1uF_0402_25V"
+			(at 438.404 45.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 446.405 63.5 0)
+		(property "Footprint" "4ms_Capacitor:C_0402"
+			(at 438.15 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37857,7 +37617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1uF, Min. 25V, 0402, Ceramic/MLCC"
 			(at 438.15 50.8 0)
 			(effects
 				(font
@@ -37866,7 +37626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2.2uF, Min 25V 10% X5R"
+		(property "Specifications" "1uF, Min. 25V, 0402, Ceramic/MLCC"
 			(at 435.61 58.674 0)
 			(effects
 				(font
@@ -37876,7 +37636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Taiyo Yuden"
 			(at 435.61 60.198 0)
 			(effects
 				(font
@@ -37886,7 +37646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM188R6YA225KA12D"
+		(property "Part Number" "GMK105CC6105KV-F"
 			(at 435.61 61.722 0)
 			(effects
 				(font
@@ -37896,8 +37656,8 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "2.2uF"
-			(at 440.69 52.7113 0)
+		(property "Display" "1uF"
+			(at 440.69 52.0762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37905,8 +37665,8 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C57895"
-			(at 438.15 50.8 0)
+		(property "JLCPCB ID" "C52923"
+			(at 439.42 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37924,8 +37684,8 @@
 				(hide yes)
 			)
 		)
-		(property "Alt Part Number" ""
-			(at 438.15 50.8 0)
+		(property "Manufacturer 2" "Murata"
+			(at 439.42 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37933,53 +37693,8 @@
 				(hide yes)
 			)
 		)
-		(property "Display 2" ""
-			(at 438.15 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 438.15 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 438.15 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 438.15 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 438.15 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 438.15 50.8 0)
+		(property "Part Number 2" "GRM155C81E105ME11J"
+			(at 447.04 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38428,7 +38143,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:1uF_0201_4V")
-		(at 364.49 92.71 0)
+		(at 364.49 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38437,16 +38152,16 @@
 		(fields_autoplaced yes)
 		(uuid "83c3ef8e-4f02-4249-a943-5df7e12108a6")
 		(property "Reference" "C46"
-			(at 367.03 91.4462 0)
+			(at 367.03 91.4335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1uF_0201_4V"
-			(at 364.49 88.9 0)
+			(at 364.49 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38455,7 +38170,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0201"
-			(at 361.95 97.79 0)
+			(at 367.03 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38483,7 +38198,7 @@
 			)
 		)
 		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
-			(at 361.95 100.584 0)
+			(at 367.03 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38493,16 +38208,16 @@
 			)
 		)
 		(property "Display" "1uF"
-			(at 367.03 93.9862 0)
+			(at 367.03 93.9735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 365.76 106.68 0)
+			(at 363.22 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38511,7 +38226,7 @@
 			)
 		)
 		(property "Part Number" "CC0201MRX5R5BB105"
-			(at 372.11 109.22 0)
+			(at 356.87 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38520,7 +38235,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C272877"
-			(at 365.76 105.41 0)
+			(at 363.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38529,7 +38244,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Murata"
-			(at 361.95 102.108 0)
+			(at 367.03 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38539,7 +38254,7 @@
 			)
 		)
 		(property "Part Number 2" "GRM033D70G105ME01D"
-			(at 361.95 103.632 0)
+			(at 367.03 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38549,7 +38264,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 361.95 109.22 0)
+			(at 367.03 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38795,7 +38510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Inductor:COIL_2520_Murata_Handsolder"
+		(property "Footprint" "4ms_Inductor:COIL_2520_TOKO_Handsolder"
 			(at 181.61 109.22 0)
 			(effects
 				(font
@@ -42858,7 +42573,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 191.77 83.82 0)
+		(at 191.77 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42867,16 +42582,16 @@
 		(fields_autoplaced yes)
 		(uuid "a683f89d-a3bc-424c-a554-51f0ffcce22b")
 		(property "Reference" "C26"
-			(at 189.23 82.5562 0)
+			(at 189.23 82.5435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 191.77 80.01 0)
+			(at 191.77 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42885,7 +42600,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 189.23 88.9 0)
+			(at 194.31 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42913,7 +42628,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 189.23 91.694 0)
+			(at 194.31 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42923,7 +42638,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 189.23 93.218 0)
+			(at 194.31 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42933,7 +42648,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 189.23 94.742 0)
+			(at 194.31 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42943,12 +42658,12 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 189.23 85.0962 0)
+			(at 189.23 85.0835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "JLCPCB ID" "C59461"
@@ -42961,7 +42676,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 189.23 100.33 0)
+			(at 194.31 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44327,24 +44042,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 212.09 177.8 0)
+		(at 212.09 177.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b3080a0b-4eb2-4743-9fa8-156b493c01ed")
 		(property "Reference" "C41"
-			(at 214.63 176.5362 0)
+			(at 214.63 176.5235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 212.09 173.99 0)
+			(at 212.09 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44353,7 +44069,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 209.55 182.88 0)
+			(at 214.63 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44381,7 +44097,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 209.55 185.674 0)
+			(at 214.63 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44391,7 +44107,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 209.55 187.198 0)
+			(at 214.63 168.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44401,7 +44117,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 209.55 188.722 0)
+			(at 214.63 166.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44411,12 +44127,12 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 210.566 172.72 0)
+			(at 214.63 179.0635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "JLCPCB ID" "C59461"
@@ -44429,7 +44145,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 209.55 194.31 0)
+			(at 214.63 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45138,24 +44854,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
-		(at 212.09 83.82 0)
+		(at 212.09 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "bc4eccec-36d0-46b9-9871-db7e8855d4f1")
 		(property "Reference" "C28"
-			(at 214.63 82.5562 0)
+			(at 214.63 82.5435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "22uF_0603_6.3V"
-			(at 212.09 80.01 0)
+			(at 212.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45164,7 +44881,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 209.55 88.9 0)
+			(at 214.63 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45192,7 +44909,7 @@
 			)
 		)
 		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
-			(at 209.55 91.694 0)
+			(at 214.63 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45202,7 +44919,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 209.55 93.218 0)
+			(at 214.63 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45212,7 +44929,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R60J226MEA0J"
-			(at 209.55 94.742 0)
+			(at 214.63 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45222,12 +44939,12 @@
 			)
 		)
 		(property "Display" "22uF/6.3V"
-			(at 210.058 78.232 0)
+			(at 214.63 85.0835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "JLCPCB ID" "C59461"
@@ -45240,7 +44957,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 209.55 100.33 0)
+			(at 214.63 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49148,24 +48865,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:10uF_0603_10V")
-		(at 64.77 99.06 0)
+		(at 64.77 99.06 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d5520fec-6dc1-4667-91bf-d8e1c068c839")
 		(property "Reference" "C32"
-			(at 69.85 96.52 0)
+			(at 62.23 97.7835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
 		(property "Value" "10uF_0603_10V"
-			(at 64.77 95.25 0)
+			(at 64.77 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49174,7 +48892,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0603"
-			(at 62.23 104.14 0)
+			(at 67.31 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49202,7 +48920,7 @@
 			)
 		)
 		(property "Specifications" "10uF, Min. 10V X5R 10%"
-			(at 62.23 106.934 0)
+			(at 67.31 91.186 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49212,7 +48930,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 62.23 108.458 0)
+			(at 67.31 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49222,7 +48940,7 @@
 			)
 		)
 		(property "Part Number" "GRM188R61A106KE69D"
-			(at 62.23 109.982 0)
+			(at 67.31 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49232,7 +48950,7 @@
 			)
 		)
 		(property "Display" "10uF/10V"
-			(at 66.675 100.33 0)
+			(at 62.23 100.3235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49241,7 +48959,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C19702"
-			(at 66.04 111.76 0)
+			(at 63.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49250,7 +48968,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 62.23 115.57 0)
+			(at 67.31 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51781,7 +51499,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:1uF_0201_4V")
-		(at 394.97 92.71 0)
+		(at 394.97 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -51790,16 +51508,16 @@
 		(fields_autoplaced yes)
 		(uuid "f74dbafa-97cb-4230-87bf-476a991f4868")
 		(property "Reference" "C49"
-			(at 397.51 91.4462 0)
+			(at 397.51 91.4335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1uF_0201_4V"
-			(at 394.97 88.9 0)
+			(at 394.97 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51808,7 +51526,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0201"
-			(at 392.43 97.79 0)
+			(at 397.51 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51836,7 +51554,7 @@
 			)
 		)
 		(property "Specifications" "1uF, Min. 4V 10%, X7R or X5R or X6S or similar"
-			(at 392.43 100.584 0)
+			(at 397.51 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51846,16 +51564,16 @@
 			)
 		)
 		(property "Display" "1uF"
-			(at 397.51 93.9862 0)
+			(at 397.51 93.9735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 396.24 106.68 0)
+			(at 393.7 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51864,7 +51582,7 @@
 			)
 		)
 		(property "Part Number" "CC0201MRX5R5BB105"
-			(at 402.59 109.22 0)
+			(at 387.35 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51873,7 +51591,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C272877"
-			(at 396.24 105.41 0)
+			(at 393.7 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51882,7 +51600,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Murata"
-			(at 392.43 102.108 0)
+			(at 397.51 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51892,7 +51610,7 @@
 			)
 		)
 		(property "Part Number 2" "GRM033D70G105ME01D"
-			(at 392.43 103.632 0)
+			(at 397.51 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51902,7 +51620,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 392.43 109.22 0)
+			(at 397.51 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52345,7 +52063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb883e20-ba28-491b-80d0-cbaa823ce6b7")
-		(property "Reference" "NT1"
+		(property "Reference" "NT2"
 			(at 458.47 70.485 0)
 			(effects
 				(font
@@ -52479,7 +52197,7 @@
 		(instances
 			(project ""
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "NT1")
+					(reference "NT2")
 					(unit 1)
 				)
 			)

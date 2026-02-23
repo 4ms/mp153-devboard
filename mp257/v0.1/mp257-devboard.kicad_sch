@@ -34861,24 +34861,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Resistor_0402:10k_0402")
-		(at 153.67 485.14 0)
+		(at 153.67 485.14 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6d46ee25-da66-4b34-aff3-196f3d70312e")
 		(property "Reference" "R272"
-			(at 156.972 482.346 0)
+			(at 156.21 483.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify right)
 			)
 		)
 		(property "Value" "10k_0402"
-			(at 151.13 485.14 90)
+			(at 156.21 485.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34887,7 +34888,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 151.13 498.094 0)
+			(at 156.21 472.186 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34915,7 +34916,7 @@
 			)
 		)
 		(property "Specifications" "10k, 1%, 1/16W, 0402"
-			(at 151.13 492.76 0)
+			(at 156.21 477.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34925,7 +34926,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 151.13 494.538 0)
+			(at 156.21 475.742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34935,7 +34936,7 @@
 			)
 		)
 		(property "Part Number" "RC0402FR-0710KL"
-			(at 151.13 496.316 0)
+			(at 156.21 473.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34945,15 +34946,16 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 157.48 485.14 90)
+			(at 156.21 486.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "JLCPCB ID" "C60490"
-			(at 151.13 499.872 0)
+			(at 156.21 470.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34963,7 +34965,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 151.13 501.65 0)
+			(at 156.21 468.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

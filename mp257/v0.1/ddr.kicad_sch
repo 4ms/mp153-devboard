@@ -11818,26 +11818,6 @@
 	)
 	(text "X"
 		(exclude_from_sim no)
-		(at 328.168 137.414 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "09d14652-2536-4cee-b619-9787d3624ede")
-	)
-	(text "X"
-		(exclude_from_sim no)
-		(at 327.66 73.406 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0c389423-9159-44af-8df0-f98431a402b2")
-	)
-	(text "X"
-		(exclude_from_sim no)
 		(at 324.612 63.754 0)
 		(effects
 			(font
@@ -11848,17 +11828,7 @@
 	)
 	(text "X"
 		(exclude_from_sim no)
-		(at 326.644 157.734 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2fb1fc2f-84ba-4400-a795-d83b3a133867")
-	)
-	(text "X"
-		(exclude_from_sim no)
-		(at 388.62 115.824 0)
+		(at 388.874 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11885,16 +11855,6 @@
 			)
 		)
 		(uuid "9fc03dbf-2984-46e3-94bf-2b8a0133b699")
-	)
-	(text "X"
-		(exclude_from_sim no)
-		(at 326.39 115.824 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c3e164f7-b0fd-400b-92dc-75ebd51bfed8")
 	)
 	(text "DDR RAM"
 		(exclude_from_sim no)
@@ -12228,6 +12188,12 @@
 		(uuid "72325199-cf21-4af5-951f-412bf840502e")
 	)
 	(junction
+		(at 314.96 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e68bbb2-3f2a-4310-a2fb-25c887437e76")
+	)
+	(junction
 		(at 241.3 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12292,6 +12258,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a72c862c-765e-4a6b-a732-95e245db6761")
+	)
+	(junction
+		(at 377.19 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a871914a-b177-476f-a9ad-7c25e5784b13")
 	)
 	(junction
 		(at 307.34 139.7)
@@ -12402,12 +12374,6 @@
 		(uuid "e9fc1c63-296e-4d19-a457-fdf86afcbf12")
 	)
 	(junction
-		(at 314.96 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eba336f4-a93a-4c98-9f36-22056ad8a985")
-	)
-	(junction
 		(at 369.57 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12418,12 +12384,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2335198-2253-46b3-b099-2acf011b1e39")
-	)
-	(junction
-		(at 377.19 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f7f55d75-06d9-41f7-8a19-da36d84ab8af")
 	)
 	(junction
 		(at 369.57 130.81)
@@ -12582,16 +12542,6 @@
 			(type default)
 		)
 		(uuid "022c73e6-76e5-41b2-b27d-407bdb862888")
-	)
-	(wire
-		(pts
-			(xy 314.96 48.26) (xy 325.12 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02880aaa-6c58-4705-95b0-34401d145991")
 	)
 	(wire
 		(pts
@@ -13872,6 +13822,16 @@
 			(type default)
 		)
 		(uuid "69a54a23-4ade-40d6-ab1d-b4e688f90934")
+	)
+	(wire
+		(pts
+			(xy 314.96 48.26) (xy 325.12 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a0a4275-56a0-4d33-b747-5d0336d15e28")
 	)
 	(wire
 		(pts
@@ -17351,14 +17311,160 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 314.96 111.76 0)
+		(at 314.96 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "1167a1a6-1366-4562-81d9-d8261358cc8e")
-		(property "Reference" "C127"
+		(property "Reference" "C213"
+			(at 319.786 131.826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100nF_0402_16V"
+			(at 314.96 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "4ms_Capacitor:C_0402"
+			(at 312.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 314.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+			(at 314.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+			(at 312.42 139.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 312.42 141.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "GCM155R71C104KA55D"
+			(at 312.42 143.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Display" "0.1uF"
+			(at 316.865 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "JLCPCB ID" "C1525"
+			(at 316.23 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 316.23 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 322.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Production Stage" "A"
+			(at 312.42 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2fe1b604-7e9c-44dc-a64c-cdda2e5d157e")
+		)
+		(pin "2"
+			(uuid "3d255e44-fa85-4be0-86bf-bd4e8b089db1")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
+					(reference "C213")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(at 314.96 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1423a381-20d0-4dfe-99ed-42b0ec48153d")
+		(property "Reference" "C214"
 			(at 319.786 111.506 0)
 			(effects
 				(font
@@ -17481,152 +17587,6 @@
 			)
 		)
 		(pin "1"
-			(uuid "2fe1b604-7e9c-44dc-a64c-cdda2e5d157e")
-		)
-		(pin "2"
-			(uuid "3d255e44-fa85-4be0-86bf-bd4e8b089db1")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
-					(reference "C127")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 314.96 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1423a381-20d0-4dfe-99ed-42b0ec48153d")
-		(property "Reference" "C146"
-			(at 319.786 91.186 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "100nF_0402_16V"
-			(at 314.96 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 312.42 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 314.96 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 314.96 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 312.42 99.314 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 312.42 100.838 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "GCM155R71C104KA55D"
-			(at 312.42 102.362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Display" "0.1uF"
-			(at 316.865 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "JLCPCB ID" "C1525"
-			(at 316.23 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 316.23 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 322.58 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Production Stage" "A"
-			(at 312.42 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
 			(uuid "3b8cfeb5-5d63-4218-b8f6-3eac3736443e")
 		)
 		(pin "2"
@@ -17635,7 +17595,7 @@
 		(instances
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
-					(reference "C146")
+					(reference "C214")
 					(unit 1)
 				)
 			)
@@ -17982,7 +17942,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 377.19 92.71 0)
+		(at 314.96 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17990,7 +17950,7 @@
 		(dnp no)
 		(uuid "2088b09d-a533-4ef4-b15d-a8dee1fd12b8")
 		(property "Reference" "C216"
-			(at 382.016 92.456 0)
+			(at 319.786 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17999,7 +17959,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 377.19 88.9 0)
+			(at 314.96 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18008,7 +17968,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 374.65 97.79 0)
+			(at 312.42 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18018,7 +17978,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 92.71 0)
+			(at 314.96 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18027,7 +17987,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 377.19 92.71 0)
+			(at 314.96 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18036,7 +17996,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 374.65 100.584 0)
+			(at 312.42 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18046,7 +18006,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 374.65 102.108 0)
+			(at 312.42 80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18056,7 +18016,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 374.65 103.632 0)
+			(at 312.42 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18066,7 +18026,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 379.095 93.98 0)
+			(at 316.865 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18075,7 +18035,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 378.46 105.41 0)
+			(at 316.23 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18084,7 +18044,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 378.46 106.68 0)
+			(at 316.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18093,7 +18053,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 384.81 109.22 0)
+			(at 322.58 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18102,7 +18062,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 374.65 109.22 0)
+			(at 312.42 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19853,24 +19813,25 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 314.96 50.8 0)
+		(at 377.19 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3c2c7e6f-a6fb-4e07-8327-ec16d36414eb")
 		(property "Reference" "C148"
-			(at 312.674 46.99 0)
+			(at 379.73 91.4462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 314.96 46.99 0)
+			(at 377.19 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19879,7 +19840,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 312.42 55.88 0)
+			(at 374.65 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19889,7 +19850,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 50.8 0)
+			(at 377.19 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19898,7 +19859,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 314.96 50.8 0)
+			(at 377.19 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19907,7 +19868,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 312.42 58.674 0)
+			(at 374.65 100.584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19917,7 +19878,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 312.42 60.198 0)
+			(at 374.65 102.108 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19927,7 +19888,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 312.42 61.722 0)
+			(at 374.65 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19937,7 +19898,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 316.865 52.07 0)
+			(at 379.73 93.9862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19946,7 +19907,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 316.23 63.5 0)
+			(at 378.46 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19955,7 +19916,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 316.23 64.77 0)
+			(at 378.46 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19964,7 +19925,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 322.58 67.31 0)
+			(at 384.81 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19973,7 +19934,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 312.42 67.31 0)
+			(at 374.65 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22208,15 +22169,15 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 377.19 133.35 0)
+		(at 377.19 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "589c909f-47bf-49c1-a2a2-2cf42ca1ba27")
-		(property "Reference" "C214"
-			(at 382.016 133.096 0)
+		(property "Reference" "C146"
+			(at 382.016 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22225,7 +22186,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 377.19 129.54 0)
+			(at 377.19 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22234,7 +22195,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 374.65 138.43 0)
+			(at 374.65 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22244,7 +22205,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 133.35 0)
+			(at 377.19 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22253,7 +22214,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 377.19 133.35 0)
+			(at 377.19 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22262,7 +22223,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 374.65 141.224 0)
+			(at 374.65 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22272,7 +22233,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 374.65 142.748 0)
+			(at 374.65 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22282,7 +22243,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 374.65 144.272 0)
+			(at 374.65 62.992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22292,7 +22253,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 379.095 134.62 0)
+			(at 379.095 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22301,7 +22262,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 378.46 146.05 0)
+			(at 378.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22310,7 +22271,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 378.46 147.32 0)
+			(at 378.46 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22319,7 +22280,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 384.81 149.86 0)
+			(at 384.81 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22328,7 +22289,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 374.65 149.86 0)
+			(at 374.65 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22346,7 +22307,7 @@
 		(instances
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
-					(reference "C214")
+					(reference "C146")
 					(unit 1)
 				)
 			)
@@ -23207,7 +23168,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 377.19 113.03 0)
+		(at 377.19 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23215,7 +23176,7 @@
 		(dnp no)
 		(uuid "6e178cfc-409d-4748-b682-52ecc6b79bdd")
 		(property "Reference" "C129"
-			(at 382.016 112.776 0)
+			(at 382.016 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23224,7 +23185,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 377.19 109.22 0)
+			(at 377.19 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23233,7 +23194,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 374.65 118.11 0)
+			(at 374.65 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23243,7 +23204,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 113.03 0)
+			(at 377.19 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23252,7 +23213,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 377.19 113.03 0)
+			(at 377.19 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23261,7 +23222,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 374.65 120.904 0)
+			(at 374.65 141.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23271,7 +23232,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 374.65 122.428 0)
+			(at 374.65 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23281,7 +23242,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 374.65 123.952 0)
+			(at 374.65 144.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23291,7 +23252,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 379.095 114.3 0)
+			(at 379.095 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23300,7 +23261,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 378.46 125.73 0)
+			(at 378.46 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23309,7 +23270,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 378.46 127 0)
+			(at 378.46 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23318,7 +23279,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 384.81 129.54 0)
+			(at 384.81 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23327,7 +23288,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 374.65 129.54 0)
+			(at 374.65 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23546,7 +23507,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 314.96 152.4 0)
+		(at 314.96 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23554,7 +23515,7 @@
 		(dnp no)
 		(uuid "763f73a9-7ab5-43ce-8ee2-f91efd0ce5b1")
 		(property "Reference" "C128"
-			(at 319.786 152.146 0)
+			(at 319.786 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23563,7 +23524,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 314.96 148.59 0)
+			(at 314.96 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23572,7 +23533,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 312.42 157.48 0)
+			(at 312.42 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23582,7 +23543,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 152.4 0)
+			(at 314.96 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23591,7 +23552,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 314.96 152.4 0)
+			(at 314.96 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23600,7 +23561,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 312.42 160.274 0)
+			(at 312.42 58.674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23610,7 +23571,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 312.42 161.798 0)
+			(at 312.42 60.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23620,7 +23581,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 312.42 163.322 0)
+			(at 312.42 61.722 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23630,7 +23591,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 316.865 153.67 0)
+			(at 316.865 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23639,7 +23600,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 316.23 165.1 0)
+			(at 316.23 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23648,7 +23609,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 316.23 166.37 0)
+			(at 316.23 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23657,7 +23618,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 322.58 168.91 0)
+			(at 322.58 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23666,7 +23627,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 312.42 168.91 0)
+			(at 312.42 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24032,15 +23993,15 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 314.96 132.08 0)
+		(at 314.96 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "81815304-d967-4571-bc6e-8655168495c4")
-		(property "Reference" "C170"
-			(at 319.786 131.826 0)
+		(property "Reference" "C212"
+			(at 319.786 152.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24049,7 +24010,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 314.96 128.27 0)
+			(at 314.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24058,7 +24019,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 312.42 137.16 0)
+			(at 312.42 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24068,7 +24029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 132.08 0)
+			(at 314.96 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24077,7 +24038,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 314.96 132.08 0)
+			(at 314.96 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24086,7 +24047,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 312.42 139.954 0)
+			(at 312.42 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24096,7 +24057,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 312.42 141.478 0)
+			(at 312.42 161.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24106,7 +24067,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 312.42 143.002 0)
+			(at 312.42 163.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24116,7 +24077,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 316.865 133.35 0)
+			(at 316.865 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24125,7 +24086,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 316.23 144.78 0)
+			(at 316.23 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24134,7 +24095,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 316.23 146.05 0)
+			(at 316.23 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24143,7 +24104,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 322.58 148.59 0)
+			(at 322.58 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24152,7 +24113,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 312.42 148.59 0)
+			(at 312.42 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24170,7 +24131,7 @@
 		(instances
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
-					(reference "C170")
+					(reference "C212")
 					(unit 1)
 				)
 			)
@@ -24809,15 +24770,15 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 314.96 71.12 0)
+		(at 314.96 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8f46f53a-52e6-4d66-94bb-df72378ee901")
-		(property "Reference" "C126"
-			(at 319.786 70.866 0)
+		(property "Reference" "C215"
+			(at 319.786 91.186 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24826,7 +24787,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 314.96 67.31 0)
+			(at 314.96 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24835,7 +24796,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 312.42 76.2 0)
+			(at 312.42 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24845,7 +24806,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 71.12 0)
+			(at 314.96 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24854,7 +24815,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 314.96 71.12 0)
+			(at 314.96 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24863,7 +24824,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 312.42 78.994 0)
+			(at 312.42 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24873,7 +24834,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 312.42 80.518 0)
+			(at 312.42 100.838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24883,7 +24844,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 312.42 82.042 0)
+			(at 312.42 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24893,7 +24854,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 316.865 72.39 0)
+			(at 316.865 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24902,7 +24863,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 316.23 83.82 0)
+			(at 316.23 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24911,7 +24872,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 316.23 85.09 0)
+			(at 316.23 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24920,7 +24881,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 322.58 87.63 0)
+			(at 322.58 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24929,7 +24890,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 312.42 87.63 0)
+			(at 312.42 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24947,7 +24908,7 @@
 		(instances
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
-					(reference "C126")
+					(reference "C215")
 					(unit 1)
 				)
 			)
@@ -26974,7 +26935,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 377.19 72.39 0)
+		(at 377.19 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26982,7 +26943,7 @@
 		(dnp no)
 		(uuid "c84faebd-f607-4e29-95cd-17c88e30b697")
 		(property "Reference" "C149"
-			(at 382.016 72.136 0)
+			(at 382.016 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26991,7 +26952,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 377.19 68.58 0)
+			(at 377.19 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27000,7 +26961,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 374.65 77.47 0)
+			(at 374.65 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27010,7 +26971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 72.39 0)
+			(at 377.19 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27019,7 +26980,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 377.19 72.39 0)
+			(at 377.19 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27028,7 +26989,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 374.65 80.264 0)
+			(at 374.65 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27038,7 +26999,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 374.65 81.788 0)
+			(at 374.65 122.428 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27048,7 +27009,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 374.65 83.312 0)
+			(at 374.65 123.952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27058,7 +27019,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 379.095 73.66 0)
+			(at 379.095 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27067,7 +27028,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 378.46 85.09 0)
+			(at 378.46 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27076,7 +27037,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 378.46 86.36 0)
+			(at 378.46 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27085,7 +27046,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 384.81 88.9 0)
+			(at 384.81 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27094,7 +27055,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 374.65 88.9 0)
+			(at 374.65 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27378,7 +27339,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Capacitor:100nF_0402_16V")
-		(at 377.19 52.07 0)
+		(at 377.19 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27386,7 +27347,7 @@
 		(dnp no)
 		(uuid "d13ac15c-2b61-4fad-8b22-41e40f37bc9c")
 		(property "Reference" "C147"
-			(at 382.016 51.816 0)
+			(at 382.016 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27395,7 +27356,7 @@
 			)
 		)
 		(property "Value" "100nF_0402_16V"
-			(at 377.19 48.26 0)
+			(at 377.19 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27404,7 +27365,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Capacitor:C_0402"
-			(at 374.65 57.15 0)
+			(at 374.65 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27414,7 +27375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 52.07 0)
+			(at 377.19 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27423,7 +27384,7 @@
 			)
 		)
 		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 377.19 52.07 0)
+			(at 377.19 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27432,7 +27393,7 @@
 			)
 		)
 		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-			(at 374.65 59.944 0)
+			(at 374.65 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27442,7 +27403,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 374.65 61.468 0)
+			(at 374.65 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27452,7 +27413,7 @@
 			)
 		)
 		(property "Part Number" "GCM155R71C104KA55D"
-			(at 374.65 62.992 0)
+			(at 374.65 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27462,7 +27423,7 @@
 			)
 		)
 		(property "Display" "0.1uF"
-			(at 379.095 53.34 0)
+			(at 379.095 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27471,7 +27432,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C1525"
-			(at 378.46 64.77 0)
+			(at 378.46 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27480,7 +27441,7 @@
 			)
 		)
 		(property "Manufacturer 2" "Yageo"
-			(at 378.46 66.04 0)
+			(at 378.46 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27489,7 +27450,7 @@
 			)
 		)
 		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 384.81 68.58 0)
+			(at 384.81 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27498,7 +27459,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 374.65 68.58 0)
+			(at 374.65 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
