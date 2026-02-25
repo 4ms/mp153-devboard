@@ -34907,7 +34907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "C30"
+		(property "Footprint" "4ms_Capacitor:C_0603"
 			(at 67.31 78.74 0)
 			(effects
 				(font

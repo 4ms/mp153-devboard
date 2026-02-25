@@ -12224,6 +12224,12 @@
 		(uuid "9021847d-514a-4f66-beab-fcfe994536e8")
 	)
 	(junction
+		(at 377.19 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "937c805b-7005-4d3b-aa43-f66c208fc782")
+	)
+	(junction
 		(at 307.34 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14491,6 +14497,16 @@
 	)
 	(wire
 		(pts
+			(xy 377.19 57.15) (xy 389.89 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96ee705d-ee70-4920-9139-13489a15ce96")
+	)
+	(wire
+		(pts
 			(xy 307.34 68.58) (xy 314.96 68.58)
 		)
 		(stroke
@@ -14598,6 +14614,16 @@
 			(type default)
 		)
 		(uuid "9e39fdd3-c5bb-4875-8228-954fcbe34894")
+	)
+	(wire
+		(pts
+			(xy 389.89 57.15) (xy 389.89 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eb776ee-c1a6-4fb5-a2e3-edb6296a1ae1")
 	)
 	(wire
 		(pts
@@ -15308,6 +15334,16 @@
 			(type default)
 		)
 		(uuid "d06370c4-6cef-4f3c-bf6c-131b3cbcde0c")
+	)
+	(wire
+		(pts
+			(xy 377.19 49.53) (xy 389.89 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d19a6252-65e0-411a-8c69-4dd2376ccad0")
 	)
 	(wire
 		(pts
@@ -25624,6 +25660,134 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
 					(reference "C219")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Capacitor:22uF_0603_6.3V")
+		(at 389.89 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e4868a1-bd78-4911-9492-e22eb94b8515")
+		(property "Reference" "C211"
+			(at 390.906 49.022 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22uF_0603_6.3V"
+			(at 389.89 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "4ms_Capacitor:C_0603"
+			(at 387.35 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 389.89 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "22uF, 6.3V,10%,X5R or X7R, 0603"
+			(at 389.89 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Specifications" "22uF, 6.3V,10%,X5R or X7R,0603"
+			(at 387.35 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 387.35 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "GRM188R60J226MEA0J"
+			(at 387.35 62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Display" "22uF/6.3V"
+			(at 392.43 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "JLCPCB ID" "C59461"
+			(at 389.89 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Production Stage" "A"
+			(at 387.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "991cd429-5184-4740-b9ca-4980070a67f0")
+		)
+		(pin "2"
+			(uuid "71c99259-70c9-4ad7-bbbb-cb51c2335ab1")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
+					(reference "C211")
 					(unit 1)
 				)
 			)
