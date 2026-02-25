@@ -12236,6 +12236,12 @@
 		(uuid "9e857549-c74c-4f86-973f-964551520e88")
 	)
 	(junction
+		(at 208.28 243.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ee48754-6110-490f-a663-848fc0fe84f4")
+	)
+	(junction
 		(at 241.3 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13325,6 +13331,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 251.46) (xy 208.28 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f8505de-6ca9-47fc-82c9-28e9cda026de")
+	)
+	(wire
+		(pts
 			(xy 241.3 123.19) (xy 241.3 120.65)
 		)
 		(stroke
@@ -13682,6 +13698,16 @@
 			(type default)
 		)
 		(uuid "5c8b5f2a-87e3-461e-a44d-6ac46b7b5eaf")
+	)
+	(wire
+		(pts
+			(xy 208.28 243.84) (xy 198.12 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d314f63-01fb-4ec9-9c06-a84b8c572538")
 	)
 	(wire
 		(pts
@@ -15782,6 +15808,16 @@
 			(type default)
 		)
 		(uuid "fec43e60-6e3d-47f2-80cf-025f0dc9825c")
+	)
+	(wire
+		(pts
+			(xy 198.12 243.84) (xy 198.12 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fef18fcd-fd8b-4e33-a94b-1014effd86ab")
 	)
 	(label "DDR_A13"
 		(at 349.25 59.69 0)
@@ -26102,6 +26138,153 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
 					(reference "R189")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(at 198.12 248.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a82cba45-374a-434b-b3d1-6932420877ac")
+		(property "Reference" "C158"
+			(at 195.58 247.6562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nF_0402_16V"
+			(at 198.12 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "4ms_Capacitor:C_0402"
+			(at 195.58 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+			(at 198.12 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+			(at 195.58 256.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 195.58 258.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "GCM155R71C104KA55D"
+			(at 195.58 259.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Display" "0.1uF"
+			(at 195.58 250.1962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "JLCPCB ID" "C1525"
+			(at 199.39 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 199.39 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 205.74 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Production Stage" "A"
+			(at 195.58 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d298e106-10a1-4196-88b4-641117486573")
+		)
+		(pin "2"
+			(uuid "0ff4952a-b537-4ce1-9498-e56fa9e95692")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/2d5e657e-c95b-4ad6-b4dc-8f322bebdc60"
+					(reference "C158")
 					(unit 1)
 				)
 			)

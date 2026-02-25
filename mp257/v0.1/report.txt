@@ -1,0 +1,3012 @@
+
+
+
+
+Add C128 (footprint '4ms_Capacitor:C_0402').
+Add C129 (footprint '4ms_Capacitor:C_0402').
+Add C130 (footprint '4ms_Capacitor:C_0402').
+Add C131 (footprint '4ms_Capacitor:C_0603').
+Add C151 (footprint '4ms_Capacitor:C_0402').
+Add C33 (footprint '4ms_Capacitor:C_0402').
+Add C42 (footprint '4ms_Capacitor:C_0402').
+Add C53 (footprint '4ms_Capacitor:C_0402').
+Add C87 (footprint '4ms_Capacitor:C_0402').
+Add R163 (footprint '4ms_Resistor:R_0402').
+Add R3 (footprint '4ms_Resistor:R_0603').
+Add R6 (footprint '4ms_Resistor:R_0603').
+Add R7 (footprint '4ms_Resistor:R_0603').
+Add R8 (footprint '4ms_Resistor:R_0603').
+Add U9 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Add net +1V8.
+Add net /DDR/DDR_A0.
+Add net /DDR/DDR_A1.
+Add net /DDR/DDR_A10.
+Add net /DDR/DDR_A11.
+Add net /DDR/DDR_A12.
+Add net /DDR/DDR_A13.
+Add net /DDR/DDR_A2.
+Add net /DDR/DDR_A3.
+Add net /DDR/DDR_A4.
+Add net /DDR/DDR_A5.
+Add net /DDR/DDR_A6.
+Add net /DDR/DDR_A7.
+Add net /DDR/DDR_A8.
+Add net /DDR/DDR_A9.
+Add net /DDR/DDR_ACTN.
+Add net /DDR/DDR_BA0.
+Add net /DDR/DDR_BA1.
+Add net /DDR/DDR_BG0.
+Add net /DDR/DDR_CASN.
+Add net /DDR/DDR_CKE.
+Add net /DDR/DDR_CLK_N.
+Add net /DDR/DDR_CLK_P.
+Add net /DDR/DDR_CSN.
+Add net /DDR/DDR_DQ0.
+Add net /DDR/DDR_DQ1.
+Add net /DDR/DDR_DQ10.
+Add net /DDR/DDR_DQ11.
+Add net /DDR/DDR_DQ12.
+Add net /DDR/DDR_DQ13.
+Add net /DDR/DDR_DQ14.
+Add net /DDR/DDR_DQ15.
+Add net /DDR/DDR_DQ2.
+Add net /DDR/DDR_DQ3.
+Add net /DDR/DDR_DQ4.
+Add net /DDR/DDR_DQ5.
+Add net /DDR/DDR_DQ6.
+Add net /DDR/DDR_DQ7.
+Add net /DDR/DDR_DQ8.
+Add net /DDR/DDR_DQ9.
+Add net /DDR/DDR_DQM0.
+Add net /DDR/DDR_DQM1.
+Add net /DDR/DDR_DQS0_N.
+Add net /DDR/DDR_DQS0_P.
+Add net /DDR/DDR_DQS1_N.
+Add net /DDR/DDR_DQS1_P.
+Add net /DDR/DDR_ODT.
+Add net /DDR/DDR_RASN.
+Add net /DDR/DDR_RESETN.
+Add net /DDR/DDR_WEN.
+Add net /DDR/VPP_DDR.
+Add net /HSE_IN.
+Add net /HSE_OUT.
+Add net /I2C7.SCL.
+Add net /I2C7.SDA.
+Add net /MP257_WAKEUP.
+Add net /NRSTC1MS.
+Add net /PMIC_WAKEUPn.
+Add net /PWR_CPU_ON.
+Add net /PWR_ON.
+Add net /Power/VDDIO_SDCARD.
+Add net /Power/VPP_DDR.
+Add net /SDMMC_CLK.
+Add net /SDMMC_CMD.
+Add net /SDMMC_D0.
+Add net /SDMMC_D1.
+Add net /SDMMC_D2.
+Add net /SDMMC_D3.
+Add net /USB3_DM.
+Add net /USB3_DP.
+Add net Net-(R3-Pad1).
+Add net Net-(R7-Pad1).
+Add net Net-(U15-VREFCA).
+Add net Net-(U15-ZQ).
+Add net Net-(U1F-DDR_ZQ).
+Add net Net-(U1G-V08CAP).
+Add net Net-(U1G-VDD33UCPD).
+Add net Net-(U1G-VDDA18ADC).
+Add net Net-(U1G-VDDCOMBOPHY).
+Add net Net-(U26-INTLDO).
+Add net Net-(U26-LDO2OUT).
+Add net Net-(U26-LDO6OUT).
+Add net Net-(U26-LDO7OUT).
+Add net Net-(U26-PWRCTRL1).
+Add net Net-(U26-PWRCTRL2).
+Add net Net-(U26-PWRCTRL3).
+Add net Net-(U26-REFDDR).
+Add net Net-(U26-RSTn).
+Add net Net-(U26-VBUS).
+Add net Net-(U26-VLX1).
+Add net Net-(U26-VLX2).
+Add net Net-(U26-VLX3).
+Add net Net-(U26-VLX4).
+Add net Net-(U26-VLX5).
+Add net Net-(U26-VLX6).
+Add net Net-(U26-VLX7).
+Add net Net-(U26-WAKEUPn).
+Add net VDDA_1V8.
+Add net VDD_CORE.
+Add net VDD_CPU.
+Add net VDD_GPU.
+Add net VDD_IO.
+Add net VDD_USB.
+Add net unconnected-(U15-ALERT_n-PadP9).
+Add net unconnected-(U15-NC-PadT7).
+Add net unconnected-(U1A-OSC32_IN-PadAA2).
+Add net unconnected-(U1A-OSC32_OUT-PadAA1).
+Add net unconnected-(U1A-PA1-PadAC19).
+Add net unconnected-(U1A-PA10-PadAE15).
+Add net unconnected-(U1A-PA11-PadAD12).
+Add net unconnected-(U1A-PA12-PadAC13).
+Add net unconnected-(U1A-PA13-PadAD14).
+Add net unconnected-(U1A-PA14-PadAB12).
+Add net unconnected-(U1A-PA15-PadAE13).
+Add net unconnected-(U1A-PA2-PadAF17).
+Add net unconnected-(U1A-PA3-PadAD18).
+Add net unconnected-(U1A-PA4-PadAG17).
+Add net unconnected-(U1A-PA5-PadAE17).
+Add net unconnected-(U1A-PA6-PadAF18).
+Add net unconnected-(U1A-PA7-PadAE18).
+Add net unconnected-(U1A-PA8-PadAA17).
+Add net unconnected-(U1A-PA9-PadAF15).
+Add net unconnected-(U1A-PB0-PadB13).
+Add net unconnected-(U1A-PB1-PadC12).
+Add net unconnected-(U1A-PB10-PadB11).
+Add net unconnected-(U1A-PB11-PadA11).
+Add net unconnected-(U1A-PB12-PadC26).
+Add net unconnected-(U1A-PB13-PadA26).
+Add net unconnected-(U1A-PB14-PadC27).
+Add net unconnected-(U1A-PB15-PadAE6).
+Add net unconnected-(U1A-PB2-PadA14).
+Add net unconnected-(U1A-PB3-PadB14).
+Add net unconnected-(U1A-PB4-PadB15).
+Add net unconnected-(U1A-PB5-PadC14).
+Add net unconnected-(U1A-PB6-PadC13).
+Add net unconnected-(U1A-PB7-PadC11).
+Add net unconnected-(U1A-PB8-PadD8).
+Add net unconnected-(U1A-PB9-PadF10).
+Add net unconnected-(U1A-PC0-PadAB14).
+Add net unconnected-(U1A-PC1-PadAG14).
+Add net unconnected-(U1A-PC10-PadAG10).
+Add net unconnected-(U1A-PC11-PadAD8).
+Add net unconnected-(U1A-PC12-PadAE7).
+Add net unconnected-(U1A-PC2-PadAE12).
+Add net unconnected-(U1A-PC3-PadAA9).
+Add net unconnected-(U1A-PC4-PadAC9).
+Add net unconnected-(U1A-PC5-PadAD10).
+Add net unconnected-(U1A-PC6-PadAB10).
+Add net unconnected-(U1A-PC7-PadAF9).
+Add net unconnected-(U1A-PC8-PadAG9).
+Add net unconnected-(U1A-PC9-PadAE9).
+Add net unconnected-(U1A-PD0-PadB17).
+Add net unconnected-(U1A-PD1-PadA19).
+Add net unconnected-(U1A-PD10-PadC17).
+Add net unconnected-(U1A-PD11-PadA15).
+Add net unconnected-(U1A-PD12-PadB26).
+Add net unconnected-(U1A-PD13-PadD25).
+Add net unconnected-(U1A-PD2-PadD12).
+Add net unconnected-(U1A-PD3-PadG13).
+Add net unconnected-(U1A-PD4-PadC18).
+Add net unconnected-(U1A-PD5-PadB18).
+Add net unconnected-(U1A-PD6-PadA18).
+Add net unconnected-(U1A-PD7-PadD20).
+Add net unconnected-(U1A-PD8-PadC16).
+Add net unconnected-(U1A-PD9-PadC15).
+Add net unconnected-(U1B-PE0-PadB19).
+Add net unconnected-(U1B-PE1-PadC19).
+Add net unconnected-(U1B-PE10-PadD22).
+Add net unconnected-(U1B-PE11-PadB23).
+Add net unconnected-(U1B-PE12-PadC25).
+Add net unconnected-(U1B-PE13-PadC24).
+Add net unconnected-(U1B-PE14-PadB25).
+Add net unconnected-(U1B-PE15-PadD24).
+Add net unconnected-(U1B-PE2-PadC20).
+Add net unconnected-(U1B-PE3-PadC21).
+Add net unconnected-(U1B-PE4-PadB21).
+Add net unconnected-(U1B-PE5-PadC22).
+Add net unconnected-(U1B-PE6-PadA22).
+Add net unconnected-(U1B-PE7-PadB22).
+Add net unconnected-(U1B-PE8-PadC23).
+Add net unconnected-(U1B-PE9-PadA23).
+Add net unconnected-(U1B-PF0-PadAA15).
+Add net unconnected-(U1B-PF1-PadAE11).
+Add net unconnected-(U1B-PF10-PadAE5).
+Add net unconnected-(U1B-PF11-PadAE4).
+Add net unconnected-(U1B-PF12-PadP4).
+Add net unconnected-(U1B-PF13-PadP2).
+Add net unconnected-(U1B-PF14-PadP3).
+Add net unconnected-(U1B-PF15-PadR2).
+Add net unconnected-(U1B-PF2-PadAC15).
+Add net unconnected-(U1B-PF3-PadAF11).
+Add net unconnected-(U1B-PF4-PadAF10).
+Add net unconnected-(U1B-PF5-PadAA11).
+Add net unconnected-(U1B-PF6-PadAC7).
+Add net unconnected-(U1B-PF7-PadAB8).
+Add net unconnected-(U1B-PF8-PadAE10).
+Add net unconnected-(U1B-PF9-PadAE8).
+Add net unconnected-(U1B-PG0-PadAF7).
+Add net unconnected-(U1B-PG1-PadAD4).
+Add net unconnected-(U1B-PG10-PadM4).
+Add net unconnected-(U1B-PG11-PadN2).
+Add net unconnected-(U1B-PG12-PadN3).
+Add net unconnected-(U1B-PG13-PadP1).
+Add net unconnected-(U1B-PG14-PadN1).
+Add net unconnected-(U1B-PG15-PadK6).
+Add net unconnected-(U1B-PG2-PadAG5).
+Add net unconnected-(U1B-PG3-PadAA7).
+Add net unconnected-(U1B-PG4-PadAD6).
+Add net unconnected-(U1B-PG5-PadR3).
+Add net unconnected-(U1B-PG6-PadT3).
+Add net unconnected-(U1B-PG7-PadU2).
+Add net unconnected-(U1B-PG8-PadL5).
+Add net unconnected-(U1B-PG9-PadM3).
+Add net unconnected-(U1B-PH10-PadAF14).
+Add net unconnected-(U1B-PH11-PadAE14).
+Add net unconnected-(U1B-PH12-PadAF13).
+Add net unconnected-(U1B-PH13-PadAG13).
+Add net unconnected-(U1B-PH2-PadAC17).
+Add net unconnected-(U1B-PH3-PadAE19).
+Add net unconnected-(U1B-PH4-PadAB16).
+Add net unconnected-(U1B-PH5-PadAG18).
+Add net unconnected-(U1B-PH6-PadAF19).
+Add net unconnected-(U1B-PH7-PadAE16).
+Add net unconnected-(U1B-PH8-PadAD16).
+Add net unconnected-(U1B-PH9-PadAA13).
+Add net unconnected-(U1C-BOOT0-PadY3).
+Add net unconnected-(U1C-BOOT1-PadAA3).
+Add net unconnected-(U1C-BOOT2-PadAB1).
+Add net unconnected-(U1C-BOOT3-PadAB2).
+Add net unconnected-(U1C-JTCK_SWCLK-PadAA5).
+Add net unconnected-(U1C-JTDI-PadAE3).
+Add net unconnected-(U1C-JTDO_SWDO-PadAC2).
+Add net unconnected-(U1C-JTMS_SWDIO-PadAE2).
+Add net unconnected-(U1C-NJTRST-PadAF3).
+Add net unconnected-(U1C-PI0-PadL7).
+Add net unconnected-(U1C-PI1-PadM6).
+Add net unconnected-(U1C-PI10-PadD16).
+Add net unconnected-(U1C-PI11-PadB27).
+Add net unconnected-(U1C-PI2-PadN5).
+Add net unconnected-(U1C-PI3-PadN7).
+Add net unconnected-(U1C-PI4-PadP6).
+Add net unconnected-(U1C-PI5-PadK4).
+Add net unconnected-(U1C-PI6-PadJ3).
+Add net unconnected-(U1C-PI7-PadJ5).
+Add net unconnected-(U1C-PI8-PadU5).
+Add net unconnected-(U1C-PI9-PadU1).
+Add net unconnected-(U1C-PWR_LP-PadAF1).
+Add net unconnected-(U1C-PZ0-PadT4).
+Add net unconnected-(U1C-PZ1-PadU7).
+Add net unconnected-(U1C-PZ2-PadW5).
+Add net unconnected-(U1C-PZ3-PadY6).
+Add net unconnected-(U1C-PZ4-PadV3).
+Add net unconnected-(U1C-PZ5-PadR5).
+Add net unconnected-(U1C-PZ6-PadV4).
+Add net unconnected-(U1C-PZ7-PadV2).
+Add net unconnected-(U1C-PZ8-PadV1).
+Add net unconnected-(U1C-PZ9-PadU3).
+Add net unconnected-(U1D-DSI_CKN-PadC8).
+Add net unconnected-(U1D-DSI_CKP-PadC7).
+Add net unconnected-(U1D-DSI_D0N-PadC9).
+Add net unconnected-(U1D-DSI_D0P-PadB9).
+Add net unconnected-(U1D-DSI_D1N-PadA10).
+Add net unconnected-(U1D-DSI_D1P-PadB10).
+Add net unconnected-(U1D-DSI_D2N-PadA7).
+Add net unconnected-(U1D-DSI_D2P-PadB7).
+Add net unconnected-(U1D-DSI_D3N-PadB6).
+Add net unconnected-(U1D-DSI_D3P-PadA6).
+Add net unconnected-(U1D-DSI_REXT-PadD6).
+Add net unconnected-(U1E-COMBOPHY_REXT-PadAF27).
+Add net unconnected-(U1E-COMBOPHY_RX1N-PadAF25).
+Add net unconnected-(U1E-COMBOPHY_RX1P-PadAG25).
+Add net unconnected-(U1E-COMBOPHY_TX1N-PadAD24).
+Add net unconnected-(U1E-COMBOPHY_TX1P-PadAE24).
+Add net unconnected-(U1E-DNC-PadAD20).
+Add net unconnected-(U1E-PCIE_CLKINN-PadAE26).
+Add net unconnected-(U1E-PCIE_CLKINP-PadAE25).
+Add net unconnected-(U1E-PCIE_CLKOUTN-PadAG26).
+Add net unconnected-(U1E-PCIE_CLKOUTP-PadAF26).
+Add net unconnected-(U1E-UCPD1_CC1-PadAB18).
+Add net unconnected-(U1E-UCPD1_CC2-PadAA19).
+Add net unconnected-(U1E-USB3DR_TXRTUNE-PadAF23).
+Add net unconnected-(U1E-USBH_HS_TXRTUNE-PadAE20).
+Add net unconnected-(U1F-DDR_A1-PadAD25).
+Add net unconnected-(U1F-DDR_A18-PadG23).
+Add net unconnected-(U1F-DDR_A19-PadL21).
+Add net unconnected-(U1F-DDR_A6-PadY24).
+Add net unconnected-(U1F-DDR_A7-PadAC25).
+Add net unconnected-(U1F-DDR_DQ16-PadF25).
+Add net unconnected-(U1F-DDR_DQ17-PadE26).
+Add net unconnected-(U1F-DDR_DQ18-PadF24).
+Add net unconnected-(U1F-DDR_DQ19-PadE25).
+Add net unconnected-(U1F-DDR_DQ20-PadJ25).
+Add net unconnected-(U1F-DDR_DQ21-PadH25).
+Add net unconnected-(U1F-DDR_DQ22-PadG26).
+Add net unconnected-(U1F-DDR_DQ23-PadG25).
+Add net unconnected-(U1F-DDR_DQ24-PadJ26).
+Add net unconnected-(U1F-DDR_DQ25-PadK25).
+Add net unconnected-(U1F-DDR_DQ26-PadK26).
+Add net unconnected-(U1F-DDR_DQ27-PadK27).
+Add net unconnected-(U1F-DDR_DQ28-PadL25).
+Add net unconnected-(U1F-DDR_DQ29-PadN25).
+Add net unconnected-(U1F-DDR_DQ30-PadN26).
+Add net unconnected-(U1F-DDR_DQ31-PadP25).
+Add net unconnected-(U1F-DDR_DQM2-PadG27).
+Add net unconnected-(U1F-DDR_DQM3-PadM25).
+Add net unconnected-(U1F-DDR_DQS2N-PadF26).
+Add net unconnected-(U1F-DDR_DQS2P-PadF27).
+Add net unconnected-(U1F-DDR_DQS3N-PadL27).
+Add net unconnected-(U1F-DDR_DQS3P-PadL26).
+Add net unconnected-(U1F-DDR_VREF-PadG21).
+Add net unconnected-(U1H-LVDS1_D0N-PadG3).
+Add net unconnected-(U1H-LVDS1_D0P-PadG2).
+Add net unconnected-(U1H-LVDS1_D1N-PadH4).
+Add net unconnected-(U1H-LVDS1_D1P-PadH3).
+Add net unconnected-(U1H-LVDS1_D2N-PadJ2).
+Add net unconnected-(U1H-LVDS1_D2P-PadJ1).
+Add net unconnected-(U1H-LVDS1_D3N-PadL3).
+Add net unconnected-(U1H-LVDS1_D3P-PadL2).
+Add net unconnected-(U1H-LVDS1_D4N-PadK2).
+Add net unconnected-(U1H-LVDS1_D4P-PadK1).
+Add net unconnected-(U1H-LVDS2_D0N-PadB2).
+Add net unconnected-(U1H-LVDS2_D0P-PadB1).
+Add net unconnected-(U1H-LVDS2_D1N-PadC3).
+Add net unconnected-(U1H-LVDS2_D1P-PadC2).
+Add net unconnected-(U1H-LVDS2_D2N-PadD3).
+Add net unconnected-(U1H-LVDS2_D2P-PadE3).
+Add net unconnected-(U1H-LVDS2_D3N-PadE2).
+Add net unconnected-(U1H-LVDS2_D3P-PadE1).
+Add net unconnected-(U1H-LVDS2_D4N-PadF2).
+Add net unconnected-(U1H-LVDS2_D4P-PadF1).
+Add net unconnected-(U1I-CSI_CKN-PadD4).
+Add net unconnected-(U1I-CSI_CKP-PadC4).
+Add net unconnected-(U1I-CSI_D0N-PadA3).
+Add net unconnected-(U1I-CSI_D0P-PadB3).
+Add net unconnected-(U1I-CSI_D1N-PadC5).
+Add net unconnected-(U1I-CSI_D1P-PadB5).
+Add net unconnected-(U1I-CSI_REXT-PadF6).
+Change C1 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C1 value from 1uF to 1uF_0201_4V.
+Change C10 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C10 value from 1uF to 1uF_0201_4V.
+Change C11 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C11 value from 1uF to 1uF_0201_4V.
+Change C1141 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C1141 value from Capacitor to 4.7uF_0402_6.3V.
+Change C12 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C12 value from 1uF to 1uF_0201_4V.
+Change C13 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C13 value from 1uF to 1uF_0201_4V.
+Change C142 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C142 value from Capacitor to 4.7uF_0402_6.3V.
+Change C145 footprint from 'MCD_PARTS_CAPACITOR:C0603' to '4ms_Capacitor:C_0603'.
+Change C145 value from Capacitor to 22uF_0603_6.3V.
+Change C146 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C146 value from Capacitor to 100nF_0402_16V.
+Change C147 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C147 value from Capacitor to 100nF_0402_16V.
+Change C148 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C148 value from Capacitor to 100nF_0402_16V.
+Change C149 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C149 value from Capacitor to 100nF_0402_16V.
+Change C15 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C15 value from Capacitor to 1uF_0201_4V.
+Change C152 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C152 value from Capacitor to 22uF_0805_10V.
+Change C153 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C153 value from Capacitor to 1uF_0402_25V.
+Change C154 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C154 value from Capacitor to 1uF_0402_25V.
+Change C156 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C156 value from Capacitor to 4.7uF_0402_6.3V.
+Change C157 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C157 value from Capacitor to 22uF_0805_10V.
+Change C16 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C16 value from Capacitor to 100nF_0201_16V.
+Change C17 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C17 value from Capacitor to 100nF_0201_16V.
+Change C183 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C183 value from Capacitor to 22uF_0603_6.3V.
+Change C184 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C184 value from Capacitor to 10uF_0603_10V.
+Change C186 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C186 value from Capacitor to 22uF_0805_10V.
+Change C187 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C187 value from Capacitor to 22uF_0805_10V.
+Change C188 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C188 value from Capacitor to 1uF_0402_25V.
+Change C189 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C189 value from Capacitor to 4.7uF_0402_6.3V.
+Change C19 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C19 value from Capacitor to 22uF_0805_10V.
+Change C190 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C190 value from Capacitor to 4.7uF_0402_6.3V.
+Change C192 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C192 value from Capacitor to 100nF_0201_16V.
+Change C193 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C193 value from Capacitor to 22uF_0805_10V.
+Change C194 footprint from 'MCD_PARTS_CAPACITOR:C0603' to '4ms_Capacitor:C_0603'.
+Change C194 value from Capacitor to 10uF_0603_10V.
+Change C195 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C195 value from Capacitor to 100nF_0201_16V.
+Change C196 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C196 value from Capacitor to 100nF_0201_16V.
+Change C199 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C199 value from Capacitor to 10uF_0603_10V.
+Change C2 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C2 value from 1uF to 1uF_0201_4V.
+Change C20 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C20 value from Capacitor to 10uF_0603_10V.
+Change C200 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C200 value from Capacitor to 22uF_0603_6.3V.
+Change C201 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C201 value from Capacitor to 100nF_0201_16V.
+Change C202 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C202 value from Capacitor to 22uF_0603_6.3V.
+Change C203 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C203 value from Capacitor to 100nF_0402_16V.
+Change C204 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C204 value from Capacitor to 22uF_0805_10V.
+Change C205 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C205 value from Capacitor to 100nF_0402_16V.
+Change C206 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C206 value from Capacitor to 22uF_0805_10V.
+Change C207 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C207 value from Capacitor to 22uF_0805_10V.
+Change C208 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C208 value from Capacitor to 4.7uF_0402_6.3V.
+Change C209 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C209 value from Capacitor to 4.7uF_0402_6.3V.
+Change C21 footprint from 'MCD_PARTS_database:C0805' to '4ms_Capacitor:C_0805'.
+Change C21 value from Capacitor to 22uF_0805_10V.
+Change C212 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C212 value from Capacitor to 100nF_0402_16V.
+Change C213 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C213 value from Capacitor to 100nF_0402_16V.
+Change C214 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C214 value from Capacitor to 100nF_0402_16V.
+Change C215 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C215 value from Capacitor to 100nF_0402_16V.
+Change C216 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C216 value from Capacitor to 100nF_0402_16V.
+Change C217 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C217 value from Capacitor to 4.7uF_0402_6.3V.
+Change C218 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C218 value from Capacitor to 100nF_0402_16V.
+Change C219 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C219 value from Capacitor to 100nF_0402_16V.
+Change C22 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C22 value from Capacitor to 22uF_0603_6.3V.
+Change C220 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C220 value from Capacitor to 100nF_0201_16V.
+Change C221 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C221 value from Capacitor to 100nF_0402_16V.
+Change C225 footprint from 'MCD_PARTS_database:C0201_H0P5' to '4ms_Capacitor:C_0201'.
+Change C225 value from Capacitor to 4.7uF_0201_6.3V.
+Change C23 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C23 value from Capacitor to 22uF_0603_6.3V.
+Change C234 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C234 value from Capacitor to 100nF_0201_16V.
+Change C235 footprint from 'MCD_PARTS_CAPACITOR:C0201_H0P5' to '4ms_Capacitor:C_0201'.
+Change C235 value from Capacitor to 2.2uF_0201_10V.
+Change C236 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C236 value from Capacitor to 100nF_0201_16V.
+Change C237 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C237 value from Capacitor to 100nF_0201_16V.
+Change C238 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C238 value from Capacitor to 100nF_0201_16V.
+Change C239 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C239 value from Capacitor to 100nF_0201_16V.
+Change C24 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C24 value from Capacitor to 22uF_0603_6.3V.
+Change C240 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C240 value from Capacitor to 100nF_0201_16V.
+Change C244 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C244 value from Capacitor to 100nF_0201_16V.
+Change C246 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C246 value from Capacitor to 100nF_0201_16V.
+Change C248 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C248 value from Capacitor to 100nF_0201_16V.
+Change C251 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C251 value from Capacitor to 100nF_0201_16V.
+Change C252 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C252 value from Capacitor to 1uF_0201_4V.
+Change C253 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C253 value from Capacitor to 100nF_0201_16V.
+Change C26 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C26 value from Capacitor to 22uF_0603_6.3V.
+Change C260 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C260 value from Capacitor to 1uF_0201_4V.
+Change C27 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C27 value from Capacitor to 22uF_0603_6.3V.
+Change C28 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C28 value from Capacitor to 22uF_0603_6.3V.
+Change C29 value from Capacitor to 10uF_0603_10V.
+Change C3 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C3 value from 1uF to 1uF_0201_4V.
+Change C30 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C30 value from Capacitor to 10uF_0603_10V.
+Change C32 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C32 value from Capacitor to 10uF_0603_10V.
+Change C34 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C34 value from Capacitor to 22uF_0603_6.3V.
+Change C35 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C35 value from Capacitor to 22uF_0603_6.3V.
+Change C36 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C36 value from Capacitor to 22uF_0603_6.3V.
+Change C37 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C37 value from Capacitor to 22uF_0603_6.3V.
+Change C38 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C38 value from Capacitor to 10uF_0603_10V.
+Change C39 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C39 value from Capacitor to 10uF_0402_6.3V.
+Change C4 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C4 value from 1uF to 1uF_0201_4V.
+Change C40 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C40 value from Capacitor to 10uF_0402_6.3V.
+Change C41 footprint from 'MCD_PARTS_database:C0603' to '4ms_Capacitor:C_0603'.
+Change C41 value from Capacitor to 22uF_0603_6.3V.
+Change C43 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C43 value from Capacitor to 1uF_0402_25V.
+Change C44 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C44 value from 1uF to 1uF_0201_4V.
+Change C45 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C45 value from 1uF to 1uF_0201_4V.
+Change C46 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C46 value from 1uF to 1uF_0201_4V.
+Change C47 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C47 value from 1uF to 1uF_0201_4V.
+Change C48 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C48 value from 1uF to 1uF_0201_4V.
+Change C49 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C49 value from 1uF to 1uF_0201_4V.
+Change C5 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C5 value from 1uF to 1uF_0201_4V.
+Change C50 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C50 value from 1uF to 1uF_0201_4V.
+Change C51 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C51 value from 1uF to 1uF_0201_4V.
+Change C52 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C52 value from 1uF to 1uF_0201_4V.
+Change C58 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C58 value from 1uF to 1uF_0201_4V.
+Change C59 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C59 value from 1uF to 1uF_0201_4V.
+Change C6 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C6 value from 1uF to 1uF_0201_4V.
+Change C60 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C60 value from Capacitor to 100nF_0402_16V.
+Change C61 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C61 value from Capacitor to 100nF_0402_16V.
+Change C62 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C62 value from Capacitor to 100nF_0402_16V.
+Change C63 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C63 value from Capacitor to 100nF_0402_16V.
+Change C64 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C64 value from 1uF to 1uF_0201_4V.
+Change C68 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C68 value from 1uF to 1uF_0201_4V.
+Change C69 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C69 value from 1uF to 1uF_0201_4V.
+Change C7 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C7 value from 1uF to 1uF_0201_4V.
+Change C70 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C70 value from 1uF to 1uF_0201_4V.
+Change C71 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C71 value from 1uF to 1uF_0201_4V.
+Change C72 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C72 value from 1uF to 1uF_0201_4V.
+Change C74 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C74 value from 1uF to 1uF_0201_4V.
+Change C75 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C75 value from 1uF to 1uF_0201_4V.
+Change C76 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C76 value from 1uF to 1uF_0201_4V.
+Change C77 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C77 value from 1uF to 1uF_0201_4V.
+Change C8 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C8 value from 1uF to 1uF_0201_4V.
+Change C82 footprint from 'MCD_PARTS_database:C0201_MURATA_GRM033_H0P3' to '4ms_Capacitor:C_0201'.
+Change C82 value from 1uF to 1uF_0201_4V.
+Change C83 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C83 value from Capacitor to 100nF_0402_16V.
+Change C84 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C84 value from Capacitor to 100nF_0402_16V.
+Change C85 footprint from 'MCD_PARTS_CAPACITOR:C0402' to '4ms_Capacitor:C_0402'.
+Change C85 value from Capacitor to 100nF_0402_16V.
+Change C88 footprint from 'MCD_PARTS_CAPACITOR:C0603' to '4ms_Capacitor:C_0603'.
+Change C88 value from Capacitor to 10uF_0603_10V.
+Change C90 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C90 value from Capacitor to 6.8pF_0402_25V.
+Change C91 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C91 value from Capacitor to 4.7uF_0402_6.3V.
+Change C92 footprint from 'MCD_PARTS_database:C0402' to '4ms_Capacitor:C_0402'.
+Change C92 value from Capacitor to 6.8pF_0402_25V.
+Change L1 footprint from 'MCD_PARTS_database:IND_2016_MURATA_LQM2MPN2R2NG0' to '4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Change L1 value from Inductor to 2.2uH_1.7A_2016.
+Change L2 footprint from 'MCD_PARTS_database:IND_2520_TOKO_DFE252012P' to '4ms_Inductor:COIL_2520_TOKO_Handsolder'.
+Change L2 value from Inductor to 0.68uH_3.9A_2520.
+Change L3 footprint from 'MCD_PARTS_database:IND_2016_MURATA_LQM2MPN2R2NG0' to '4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Change L3 value from Inductor to 0.68uH_3.1A_2016.
+Change L4 footprint from 'MCD_PARTS_database:IND_2520_TOKO_DFE252012P' to '4ms_Inductor:COIL_2520_TOKO_Handsolder'.
+Change L4 value from Inductor to 0.68uH_3.9A_2520.
+Change L5 footprint from 'MCD_PARTS_database:IND_2016_MURATA_LQM2MPN2R2NG0' to '4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Change L5 value from Inductor to 0.68uH_3.1A_2016.
+Change L6 footprint from 'MCD_PARTS_database:IND_2016_MURATA_LQM2MPN2R2NG0' to '4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Change L6 value from Inductor to 2.2uH_1.7A_2016.
+Change L7 footprint from 'MCD_PARTS_database:IND_2016_MURATA_LQM2MPN2R2NG0' to '4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Change L7 value from Inductor to 0.68uH_3.1A_2016.
+Change NT2 value from NetTie_2 to NetTie.
+Change R11 footprint from 'MCD_PARTS_RESISTOR:R0603' to '4ms_Resistor:R_0603'.
+Change R11 value from Resistor to 0Ω_0603.
+Change R141 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R141 value from Resistor to 1k_0402.
+Change R142 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R142 value from Resistor to 1k_0402.
+Change R165 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R165 value from Resistor to 56Ω_0402.
+Change R166 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R166 value from Resistor to 56Ω_0402.
+Change R167 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R167 value from Resistor to 56Ω_0402.
+Change R168 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R168 value from Resistor to 56Ω_0402.
+Change R169 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R169 value from Resistor to 56Ω_0402.
+Change R170 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R170 value from Resistor to 56Ω_0402.
+Change R171 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R171 value from Resistor to 56Ω_0402.
+Change R174 footprint from 'MCD_PARTS_database:R0201_H0P23' to '4ms_Resistor:R_0402'.
+Change R174 value from Resistor to 240Ω_0402.
+Change R175 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R175 value from Resistor to 56Ω_0402.
+Change R176 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R176 value from Resistor to 56Ω_0402.
+Change R177 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R177 value from Resistor to 56Ω_0402.
+Change R178 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R178 value from Resistor to 56Ω_0402.
+Change R180 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R180 value from Resistor to 56Ω_0402.
+Change R181 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R181 value from Resistor to 100Ω_0402.
+Change R182 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R182 value from Resistor to 56Ω_0402.
+Change R183 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R183 value from Resistor to 56Ω_0402.
+Change R185 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R185 value from Resistor to 56Ω_0402.
+Change R186 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R186 value from Resistor to 56Ω_0402.
+Change R187 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R187 value from Resistor to 56Ω_0402.
+Change R188 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R188 value from Resistor to 56Ω_0402.
+Change R189 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R189 value from Resistor to 56Ω_0402.
+Change R190 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R190 value from Resistor to 56Ω_0402.
+Change R191 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R191 value from Resistor to 56Ω_0402.
+Change R192 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R192 value from Resistor to 56Ω_0402.
+Change R193 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R193 value from Resistor to 56Ω_0402.
+Change R194 footprint from 'MCD_PARTS_RESISTOR:R0402' to '4ms_Resistor:R_0402'.
+Change R194 value from Resistor to 56Ω_0402.
+Change R2 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R2 value from  to 0Ω_0402.
+Change R260 footprint from 'MCD_PARTS:R0402' to '4ms_Resistor:R_0402'.
+Change R260 value from Resistor to 1.5k_0402.
+Change R261 footprint from 'MCD_PARTS:R0402' to '4ms_Resistor:R_0402'.
+Change R261 value from Resistor to 1.5k_0402.
+Change R267 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R267 value from  to 0Ω_0402.
+Change R27 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R27 value from Resistor to 10k_0402.
+Change R272 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R272 value from Resistor to 10k_0402.
+Change R286 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R286 value from  to 0Ω_0402.
+Change R46 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R46 value from  to 0Ω_0402.
+Change R57 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R57 value from  to 0Ω_0402.
+Change R59 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R59 value from  to 0Ω_0402.
+Change R60 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R60 value from  to 0Ω_0402.
+Change R75 footprint from 'MCD_PARTS_database:R0201_H0P23' to '4ms_Resistor:R_0402'.
+Change R75 value from Resistor to 240Ω_0402.
+Change R81 footprint from 'MCD_PARTS_database:R0402' to '4ms_Resistor:R_0402'.
+Change R81 value from  to 0Ω_0402.
+Change X2 footprint from 'MCD_PARTS$:CRY_NX1612SA_4P' to '4ms_Crystal:Crystal_2.0x1.6mm_4pin'.
+Change X2 value from XTAL_4_PINS to 40MHz_6.8pF_2x1.6mm.
+Connect U1 pin A10 to unconnected-(U1D-DSI_D1N-PadA10).
+Connect U1 pin A11 to unconnected-(U1A-PB11-PadA11).
+Connect U1 pin A14 to unconnected-(U1A-PB2-PadA14).
+Connect U1 pin A15 to unconnected-(U1A-PD11-PadA15).
+Connect U1 pin A18 to unconnected-(U1A-PD6-PadA18).
+Connect U1 pin A19 to unconnected-(U1A-PD1-PadA19).
+Connect U1 pin A26 to unconnected-(U1A-PB13-PadA26).
+Connect U1 pin A3 to unconnected-(U1I-CSI_D0N-PadA3).
+Connect U1 pin A6 to unconnected-(U1D-DSI_D3P-PadA6).
+Connect U1 pin A7 to unconnected-(U1D-DSI_D2N-PadA7).
+Connect U1 pin AA11 to unconnected-(U1B-PF5-PadAA11).
+Connect U1 pin AA13 to unconnected-(U1B-PH9-PadAA13).
+Connect U1 pin AA15 to unconnected-(U1B-PF0-PadAA15).
+Connect U1 pin AA17 to unconnected-(U1A-PA8-PadAA17).
+Connect U1 pin AA19 to unconnected-(U1E-UCPD1_CC2-PadAA19).
+Connect U1 pin AA3 to unconnected-(U1C-BOOT1-PadAA3).
+Connect U1 pin AA5 to unconnected-(U1C-JTCK_SWCLK-PadAA5).
+Connect U1 pin AA7 to unconnected-(U1B-PG3-PadAA7).
+Connect U1 pin AA9 to unconnected-(U1A-PC3-PadAA9).
+Connect U1 pin AB1 to unconnected-(U1C-BOOT2-PadAB1).
+Connect U1 pin AB10 to unconnected-(U1A-PC6-PadAB10).
+Connect U1 pin AB12 to unconnected-(U1A-PA14-PadAB12).
+Connect U1 pin AB14 to unconnected-(U1A-PC0-PadAB14).
+Connect U1 pin AB16 to unconnected-(U1B-PH4-PadAB16).
+Connect U1 pin AB18 to unconnected-(U1E-UCPD1_CC1-PadAB18).
+Connect U1 pin AB2 to unconnected-(U1C-BOOT3-PadAB2).
+Connect U1 pin AB8 to unconnected-(U1B-PF7-PadAB8).
+Connect U1 pin AC13 to unconnected-(U1A-PA12-PadAC13).
+Connect U1 pin AC15 to unconnected-(U1B-PF2-PadAC15).
+Connect U1 pin AC17 to unconnected-(U1B-PH2-PadAC17).
+Connect U1 pin AC19 to unconnected-(U1A-PA1-PadAC19).
+Connect U1 pin AC2 to unconnected-(U1C-JTDO_SWDO-PadAC2).
+Connect U1 pin AC25 to unconnected-(U1F-DDR_A7-PadAC25).
+Connect U1 pin AC7 to unconnected-(U1B-PF6-PadAC7).
+Connect U1 pin AC9 to unconnected-(U1A-PC4-PadAC9).
+Connect U1 pin AD10 to unconnected-(U1A-PC5-PadAD10).
+Connect U1 pin AD12 to unconnected-(U1A-PA11-PadAD12).
+Connect U1 pin AD14 to unconnected-(U1A-PA13-PadAD14).
+Connect U1 pin AD16 to unconnected-(U1B-PH8-PadAD16).
+Connect U1 pin AD18 to unconnected-(U1A-PA3-PadAD18).
+Connect U1 pin AD20 to unconnected-(U1E-DNC-PadAD20).
+Connect U1 pin AD24 to unconnected-(U1E-COMBOPHY_TX1N-PadAD24).
+Connect U1 pin AD25 to unconnected-(U1F-DDR_A1-PadAD25).
+Connect U1 pin AD4 to unconnected-(U1B-PG1-PadAD4).
+Connect U1 pin AD6 to unconnected-(U1B-PG4-PadAD6).
+Connect U1 pin AD8 to unconnected-(U1A-PC11-PadAD8).
+Connect U1 pin AE10 to unconnected-(U1B-PF8-PadAE10).
+Connect U1 pin AE11 to unconnected-(U1B-PF1-PadAE11).
+Connect U1 pin AE12 to unconnected-(U1A-PC2-PadAE12).
+Connect U1 pin AE13 to unconnected-(U1A-PA15-PadAE13).
+Connect U1 pin AE14 to unconnected-(U1B-PH11-PadAE14).
+Connect U1 pin AE15 to unconnected-(U1A-PA10-PadAE15).
+Connect U1 pin AE16 to unconnected-(U1B-PH7-PadAE16).
+Connect U1 pin AE17 to unconnected-(U1A-PA5-PadAE17).
+Connect U1 pin AE18 to unconnected-(U1A-PA7-PadAE18).
+Connect U1 pin AE19 to unconnected-(U1B-PH3-PadAE19).
+Connect U1 pin AE2 to unconnected-(U1C-JTMS_SWDIO-PadAE2).
+Connect U1 pin AE20 to unconnected-(U1E-USBH_HS_TXRTUNE-PadAE20).
+Connect U1 pin AE24 to unconnected-(U1E-COMBOPHY_TX1P-PadAE24).
+Connect U1 pin AE25 to unconnected-(U1E-PCIE_CLKINP-PadAE25).
+Connect U1 pin AE26 to unconnected-(U1E-PCIE_CLKINN-PadAE26).
+Connect U1 pin AE3 to unconnected-(U1C-JTDI-PadAE3).
+Connect U1 pin AE4 to unconnected-(U1B-PF11-PadAE4).
+Connect U1 pin AE5 to unconnected-(U1B-PF10-PadAE5).
+Connect U1 pin AE6 to unconnected-(U1A-PB15-PadAE6).
+Connect U1 pin AE7 to unconnected-(U1A-PC12-PadAE7).
+Connect U1 pin AE8 to unconnected-(U1B-PF9-PadAE8).
+Connect U1 pin AE9 to unconnected-(U1A-PC9-PadAE9).
+Connect U1 pin AF1 to unconnected-(U1C-PWR_LP-PadAF1).
+Connect U1 pin AF10 to unconnected-(U1B-PF4-PadAF10).
+Connect U1 pin AF11 to unconnected-(U1B-PF3-PadAF11).
+Connect U1 pin AF13 to unconnected-(U1B-PH12-PadAF13).
+Connect U1 pin AF14 to unconnected-(U1B-PH10-PadAF14).
+Connect U1 pin AF15 to unconnected-(U1A-PA9-PadAF15).
+Connect U1 pin AF17 to unconnected-(U1A-PA2-PadAF17).
+Connect U1 pin AF18 to unconnected-(U1A-PA6-PadAF18).
+Connect U1 pin AF19 to unconnected-(U1B-PH6-PadAF19).
+Connect U1 pin AF21 to /USB_HS_DP.
+Connect U1 pin AF22 to /USB3_DM.
+Connect U1 pin AF23 to unconnected-(U1E-USB3DR_TXRTUNE-PadAF23).
+Connect U1 pin AF25 to unconnected-(U1E-COMBOPHY_RX1N-PadAF25).
+Connect U1 pin AF26 to unconnected-(U1E-PCIE_CLKOUTP-PadAF26).
+Connect U1 pin AF27 to unconnected-(U1E-COMBOPHY_REXT-PadAF27).
+Connect U1 pin AF3 to unconnected-(U1C-NJTRST-PadAF3).
+Connect U1 pin AF7 to unconnected-(U1B-PG0-PadAF7).
+Connect U1 pin AF9 to unconnected-(U1A-PC7-PadAF9).
+Connect U1 pin AG10 to unconnected-(U1A-PC10-PadAG10).
+Connect U1 pin AG13 to unconnected-(U1B-PH13-PadAG13).
+Connect U1 pin AG14 to unconnected-(U1A-PC1-PadAG14).
+Connect U1 pin AG17 to unconnected-(U1A-PA4-PadAG17).
+Connect U1 pin AG18 to unconnected-(U1B-PH5-PadAG18).
+Connect U1 pin AG21 to /USB_HS_DM.
+Connect U1 pin AG22 to /USB3_DP.
+Connect U1 pin AG25 to unconnected-(U1E-COMBOPHY_RX1P-PadAG25).
+Connect U1 pin AG26 to unconnected-(U1E-PCIE_CLKOUTN-PadAG26).
+Connect U1 pin AG5 to unconnected-(U1B-PG2-PadAG5).
+Connect U1 pin AG9 to unconnected-(U1A-PC8-PadAG9).
+Connect U1 pin B1 to unconnected-(U1H-LVDS2_D0P-PadB1).
+Connect U1 pin B10 to unconnected-(U1D-DSI_D1P-PadB10).
+Connect U1 pin B11 to unconnected-(U1A-PB10-PadB11).
+Connect U1 pin B13 to unconnected-(U1A-PB0-PadB13).
+Connect U1 pin B14 to unconnected-(U1A-PB3-PadB14).
+Connect U1 pin B15 to unconnected-(U1A-PB4-PadB15).
+Connect U1 pin B17 to unconnected-(U1A-PD0-PadB17).
+Connect U1 pin B18 to unconnected-(U1A-PD5-PadB18).
+Connect U1 pin B19 to unconnected-(U1B-PE0-PadB19).
+Connect U1 pin B2 to unconnected-(U1H-LVDS2_D0N-PadB2).
+Connect U1 pin B21 to unconnected-(U1B-PE4-PadB21).
+Connect U1 pin B26 to unconnected-(U1A-PD12-PadB26).
+Connect U1 pin B27 to unconnected-(U1C-PI11-PadB27).
+Connect U1 pin B3 to unconnected-(U1I-CSI_D0P-PadB3).
+Connect U1 pin B5 to unconnected-(U1I-CSI_D1P-PadB5).
+Connect U1 pin B6 to unconnected-(U1D-DSI_D3N-PadB6).
+Connect U1 pin B7 to unconnected-(U1D-DSI_D2P-PadB7).
+Connect U1 pin B9 to unconnected-(U1D-DSI_D0P-PadB9).
+Connect U1 pin C11 to unconnected-(U1A-PB7-PadC11).
+Connect U1 pin C12 to unconnected-(U1A-PB1-PadC12).
+Connect U1 pin C13 to unconnected-(U1A-PB6-PadC13).
+Connect U1 pin C14 to unconnected-(U1A-PB5-PadC14).
+Connect U1 pin C15 to unconnected-(U1A-PD9-PadC15).
+Connect U1 pin C16 to unconnected-(U1A-PD8-PadC16).
+Connect U1 pin C17 to unconnected-(U1A-PD10-PadC17).
+Connect U1 pin C18 to unconnected-(U1A-PD4-PadC18).
+Connect U1 pin C19 to unconnected-(U1B-PE1-PadC19).
+Connect U1 pin C2 to unconnected-(U1H-LVDS2_D1P-PadC2).
+Connect U1 pin C20 to unconnected-(U1B-PE2-PadC20).
+Connect U1 pin C21 to unconnected-(U1B-PE3-PadC21).
+Connect U1 pin C22 to unconnected-(U1B-PE5-PadC22).
+Connect U1 pin C26 to unconnected-(U1A-PB12-PadC26).
+Connect U1 pin C27 to unconnected-(U1A-PB14-PadC27).
+Connect U1 pin C3 to unconnected-(U1H-LVDS2_D1N-PadC3).
+Connect U1 pin C4 to unconnected-(U1I-CSI_CKP-PadC4).
+Connect U1 pin C5 to unconnected-(U1I-CSI_D1N-PadC5).
+Connect U1 pin C7 to unconnected-(U1D-DSI_CKP-PadC7).
+Connect U1 pin C8 to unconnected-(U1D-DSI_CKN-PadC8).
+Connect U1 pin C9 to unconnected-(U1D-DSI_D0N-PadC9).
+Connect U1 pin D12 to unconnected-(U1A-PD2-PadD12).
+Connect U1 pin D16 to unconnected-(U1C-PI10-PadD16).
+Connect U1 pin D20 to unconnected-(U1A-PD7-PadD20).
+Connect U1 pin D25 to unconnected-(U1A-PD13-PadD25).
+Connect U1 pin D3 to unconnected-(U1H-LVDS2_D2N-PadD3).
+Connect U1 pin D4 to unconnected-(U1I-CSI_CKN-PadD4).
+Connect U1 pin D6 to unconnected-(U1D-DSI_REXT-PadD6).
+Connect U1 pin D8 to unconnected-(U1A-PB8-PadD8).
+Connect U1 pin E1 to unconnected-(U1H-LVDS2_D3P-PadE1).
+Connect U1 pin E2 to unconnected-(U1H-LVDS2_D3N-PadE2).
+Connect U1 pin E3 to unconnected-(U1H-LVDS2_D2P-PadE3).
+Connect U1 pin F1 to unconnected-(U1H-LVDS2_D4P-PadF1).
+Connect U1 pin F10 to unconnected-(U1A-PB9-PadF10).
+Connect U1 pin F2 to unconnected-(U1H-LVDS2_D4N-PadF2).
+Connect U1 pin F6 to unconnected-(U1I-CSI_REXT-PadF6).
+Connect U1 pin G13 to unconnected-(U1A-PD3-PadG13).
+Connect U1 pin G2 to unconnected-(U1H-LVDS1_D0P-PadG2).
+Connect U1 pin G21 to unconnected-(U1F-DDR_VREF-PadG21).
+Connect U1 pin G23 to unconnected-(U1F-DDR_A18-PadG23).
+Connect U1 pin G3 to unconnected-(U1H-LVDS1_D0N-PadG3).
+Connect U1 pin H3 to unconnected-(U1H-LVDS1_D1P-PadH3).
+Connect U1 pin H4 to unconnected-(U1H-LVDS1_D1N-PadH4).
+Connect U1 pin J1 to unconnected-(U1H-LVDS1_D2P-PadJ1).
+Connect U1 pin J2 to unconnected-(U1H-LVDS1_D2N-PadJ2).
+Connect U1 pin J3 to unconnected-(U1C-PI6-PadJ3).
+Connect U1 pin J5 to unconnected-(U1C-PI7-PadJ5).
+Connect U1 pin K1 to unconnected-(U1H-LVDS1_D4P-PadK1).
+Connect U1 pin K2 to unconnected-(U1H-LVDS1_D4N-PadK2).
+Connect U1 pin K4 to unconnected-(U1C-PI5-PadK4).
+Connect U1 pin K6 to unconnected-(U1B-PG15-PadK6).
+Connect U1 pin L2 to unconnected-(U1H-LVDS1_D3P-PadL2).
+Connect U1 pin L21 to unconnected-(U1F-DDR_A19-PadL21).
+Connect U1 pin L3 to unconnected-(U1H-LVDS1_D3N-PadL3).
+Connect U1 pin L5 to unconnected-(U1B-PG8-PadL5).
+Connect U1 pin L7 to unconnected-(U1C-PI0-PadL7).
+Connect U1 pin M3 to unconnected-(U1B-PG9-PadM3).
+Connect U1 pin M4 to unconnected-(U1B-PG10-PadM4).
+Connect U1 pin M6 to unconnected-(U1C-PI1-PadM6).
+Connect U1 pin N1 to unconnected-(U1B-PG14-PadN1).
+Connect U1 pin N2 to unconnected-(U1B-PG11-PadN2).
+Connect U1 pin N3 to unconnected-(U1B-PG12-PadN3).
+Connect U1 pin N5 to unconnected-(U1C-PI2-PadN5).
+Connect U1 pin N7 to unconnected-(U1C-PI3-PadN7).
+Connect U1 pin P1 to unconnected-(U1B-PG13-PadP1).
+Connect U1 pin P2 to unconnected-(U1B-PF13-PadP2).
+Connect U1 pin P3 to unconnected-(U1B-PF14-PadP3).
+Connect U1 pin P4 to unconnected-(U1B-PF12-PadP4).
+Connect U1 pin P6 to unconnected-(U1C-PI4-PadP6).
+Connect U1 pin R2 to unconnected-(U1B-PF15-PadR2).
+Connect U1 pin R3 to unconnected-(U1B-PG5-PadR3).
+Connect U1 pin R5 to unconnected-(U1C-PZ5-PadR5).
+Connect U1 pin T3 to unconnected-(U1B-PG6-PadT3).
+Connect U1 pin T4 to unconnected-(U1C-PZ0-PadT4).
+Connect U1 pin U1 to unconnected-(U1C-PI9-PadU1).
+Connect U1 pin U2 to unconnected-(U1B-PG7-PadU2).
+Connect U1 pin U3 to unconnected-(U1C-PZ9-PadU3).
+Connect U1 pin U5 to unconnected-(U1C-PI8-PadU5).
+Connect U1 pin U7 to unconnected-(U1C-PZ1-PadU7).
+Connect U1 pin V1 to unconnected-(U1C-PZ8-PadV1).
+Connect U1 pin V2 to unconnected-(U1C-PZ7-PadV2).
+Connect U1 pin V3 to unconnected-(U1C-PZ4-PadV3).
+Connect U1 pin V4 to unconnected-(U1C-PZ6-PadV4).
+Connect U1 pin W5 to unconnected-(U1C-PZ2-PadW5).
+Connect U1 pin Y24 to unconnected-(U1F-DDR_A6-PadY24).
+Connect U1 pin Y3 to unconnected-(U1C-BOOT0-PadY3).
+Connect U1 pin Y6 to unconnected-(U1C-PZ3-PadY6).
+Connect U15 pin P9 to unconnected-(U15-ALERT_n-PadP9).
+Connect U15 pin T7 to unconnected-(U15-NC-PadT7).
+Error: Cannot update C29 (footprint 'C30' not found).
+Info: Processing symbol 'BOOT0_2:4ms_Switch:SW_DIP_SPSTx02_CTS_219-2MSTR'.
+Info: Processing symbol 'C10:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C1141:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C11:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C120:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C128:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C129:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C12:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C130:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C131:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C13:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C142:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C145:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C146:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C147:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C148:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C149:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C151:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C152:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C153:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C154:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C156:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C157:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C15:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C16:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C17:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C183:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C184:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C186:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C187:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C188:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C189:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C190:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C192:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C193:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C194:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C195:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C196:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C199:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C19:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C1:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C200:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C201:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C202:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C203:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C204:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C205:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C206:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C207:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C208:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C209:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C20:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C210:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C212:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C213:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C214:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C215:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C216:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C217:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C218:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C219:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C21:4ms_Capacitor:C_0805'.
+Info: Processing symbol 'C220:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C221:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C225:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C22:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C234:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C235:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C236:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C237:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C238:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C239:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C23:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C240:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C244:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C246:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C248:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C24:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C251:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C252:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C253:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C260:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C26:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C27:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C28:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C29:C30'.
+Info: Processing symbol 'C2:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C30:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C32:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C33:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C34:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C35:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C36:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C37:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C38:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C39:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C3:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C40:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C41:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C42:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C43:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C44:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C45:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C46:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C47:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C48:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C49:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C4:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C50:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C51:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C52:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C53:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C58:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C59:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C5:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C60:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C61:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C62:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C63:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C64:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C68:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C69:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C6:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C70:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C71:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C72:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C74:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C75:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C76:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C77:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C7:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C82:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C83:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C84:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C85:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C87:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C88:4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C8:4ms_Capacitor:C_0201'.
+Info: Processing symbol 'C90:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C91:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'C92:4ms_Capacitor:C_0402'.
+Info: Processing symbol 'CON1:4ms_Connector_Card:CardSlot_MicroSD_Molex_104031-0811'.
+Info: Processing symbol 'H1:4ms_Hardware:MountingHole_Generic_3mm'.
+Info: Processing symbol 'H2:4ms_Hardware:MountingHole_Generic_3mm'.
+Info: Processing symbol 'H3:4ms_Hardware:MountingHole_Generic_3mm'.
+Info: Processing symbol 'H4:4ms_Hardware:MountingHole_Generic_3mm'.
+Info: Processing symbol 'J1:4ms_Connector:Connector-80pin-P0.4mm-W3.0mm'.
+Info: Processing symbol 'J2:4ms_Connector:Connector-80pin-P0.4mm-W3.0mm'.
+Info: Processing symbol 'J3:4ms_Connector:USB_C_Receptacle_Molex_2171790001'.
+Info: Processing symbol 'J4:4ms_Connector:Pins_2x04_P2.54mm_Horizontal_CroppedSilk'.
+Info: Processing symbol 'J5:4ms_Connector:Pins_1x02_2.54mm_TH'.
+Info: Processing symbol 'J6:4ms_Connector:Pins_2x05_1.27mm_SMD'.
+Info: Processing symbol 'JP1:4ms_SolderJumper:JUMPER_SMD_1x3_tiny'.
+Info: Processing symbol 'JP2:4ms_SolderJumper:JUMPER_SMD_1x3_tiny_open'.
+Info: Processing symbol 'JP3:4ms_SolderJumper:JUMPER_SMD_1x3_tiny_open'.
+Info: Processing symbol 'L1:4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Info: Processing symbol 'L2:4ms_Inductor:COIL_2520_TOKO_Handsolder'.
+Info: Processing symbol 'L3:4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Info: Processing symbol 'L4:4ms_Inductor:COIL_2520_TOKO_Handsolder'.
+Info: Processing symbol 'L5:4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Info: Processing symbol 'L6:4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Info: Processing symbol 'L7:4ms_Inductor:COIL_2016_Murata_Handsolder'.
+Info: Processing symbol 'NT2:4ms_SolderJumper:NetTie-2_SMD_Pad0.16mm_6mil'.
+Info: Processing symbol 'R10:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R11:4ms_Resistor:R_0603'.
+Info: Processing symbol 'R12:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R141:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R142:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R163:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R165:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R166:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R167:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R168:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R169:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R170:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R171:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R174:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R175:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R176:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R177:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R178:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R180:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R181:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R182:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R183:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R185:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R186:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R187:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R188:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R189:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R190:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R191:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R192:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R193:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R194:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R1:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R260:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R261:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R267:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R272:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R27:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R286:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R2:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R3:4ms_Resistor:R_0603'.
+Info: Processing symbol 'R46:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R4:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R57:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R59:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R5:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R60:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R6:4ms_Resistor:R_0603'.
+Info: Processing symbol 'R72:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R75:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R7:4ms_Resistor:R_0603'.
+Info: Processing symbol 'R81:4ms_Resistor:R_0402'.
+Info: Processing symbol 'R8:4ms_Resistor:R_0603'.
+Info: Processing symbol 'R9:4ms_Resistor:R_0402'.
+Info: Processing symbol 'S2:4ms_Switch:Button_Tact_PTS526'.
+Info: Processing symbol 'S3:4ms_Switch:Button_Tact_PTS526'.
+Info: Processing symbol 'TP1:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'U15:4ms_Package_QFP:FBGA-96_Layout2x3x16_Body8x14_P0.8mm'.
+Info: Processing symbol 'U1:4ms_Package_QFP:TFBGA-424_14x14mm_P0.5_STM_AK'.
+Info: Processing symbol 'U26:4ms_Package_QFP:QFN-56_EP_7x7_Pitch0.4mm'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U5:4ms_Package_SOIC:SOIC-8_5.28x4.9mm_Pitch1.27mm'.
+Info: Processing symbol 'U9:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'X2:4ms_Crystal:Crystal_2.0x1.6mm_4pin'.
+Info: Total warnings: 87, errors: 1.
+Info: Total warnings: 87, errors: 1.
+Reconnect C1 pin 1 from GND to VDD_GPU.
+Reconnect C1 pin 2 from VDDGPU to GND.
+Reconnect C10 pin 1 from GND to VDD_CPU.
+Reconnect C10 pin 2 from VDDCPU to GND.
+Reconnect C11 pin 1 from GND to VDD_CPU.
+Reconnect C11 pin 2 from VDDCPU to GND.
+Reconnect C1141 pin 1 from 5V_VCONN to Net-(U26-LDO6OUT).
+Reconnect C12 pin 1 from VDDIO to VDD_IO.
+Reconnect C13 pin 1 from GND to VDD_DDR.
+Reconnect C13 pin 2 from VDD_DDR to GND.
+Reconnect C142 pin 1 from VDD_SDCARD to Net-(U26-LDO7OUT).
+Reconnect C145 pin 1 from GND to VTT_DDR.
+Reconnect C145 pin 2 from VTT_DDR to GND.
+Reconnect C146 pin 1 from GND to VTT_DDR.
+Reconnect C146 pin 2 from VTT_DDR to GND.
+Reconnect C147 pin 1 from GND to VTT_DDR.
+Reconnect C147 pin 2 from VTT_DDR to GND.
+Reconnect C148 pin 1 from GND to VTT_DDR.
+Reconnect C148 pin 2 from VTT_DDR to GND.
+Reconnect C149 pin 1 from GND to VTT_DDR.
+Reconnect C149 pin 2 from VTT_DDR to GND.
+Reconnect C15 pin 1 from GND to Net-(U1G-VDDCOMBOPHY).
+Reconnect C15 pin 2 from NetC15_2 to GND.
+Reconnect C152 pin 1 from GND to +1V8.
+Reconnect C152 pin 2 from 1V8 to GND.
+Reconnect C153 pin 1 from GND to +5V.
+Reconnect C153 pin 2 from 5V_STLK to GND.
+Reconnect C154 pin 1 from GND to +3V3.
+Reconnect C154 pin 2 from 3V3 to GND.
+Reconnect C156 pin 1 from GND to VDD_USB.
+Reconnect C156 pin 2 from VDD3V3_USB to GND.
+Reconnect C157 pin 1 from GND to +1V8.
+Reconnect C157 pin 2 from 1V8 to GND.
+Reconnect C16 pin 1 from GND to VDD_CORE.
+Reconnect C16 pin 2 from VDDCORE to GND.
+Reconnect C17 pin 1 from GND to VDD_IO.
+Reconnect C17 pin 2 from VDDIO to GND.
+Reconnect C183 pin 1 from GND to VDD_CORE.
+Reconnect C183 pin 2 from VDDCORE to GND.
+Reconnect C184 pin 1 from GND to +5V.
+Reconnect C184 pin 2 from 5V_STLK to GND.
+Reconnect C186 pin 1 from GND to VDD_IO.
+Reconnect C186 pin 2 from VDDIO to GND.
+Reconnect C187 pin 1 from GND to VDD_IO.
+Reconnect C187 pin 2 from VDDIO to GND.
+Reconnect C188 pin 1 from GND to +5V.
+Reconnect C188 pin 2 from 5V_STLK to GND.
+Reconnect C189 pin 1 from GND to VDDA_1V8.
+Reconnect C189 pin 2 from VDDA1V8_AON to GND.
+Reconnect C19 pin 1 from GND to VDD_IO.
+Reconnect C19 pin 2 from VDDIO to GND.
+Reconnect C190 pin 1 from VDD_EMMC to Net-(U26-LDO2OUT).
+Reconnect C192 pin 1 from GND to VDD_CORE.
+Reconnect C192 pin 2 from VDDCORE to GND.
+Reconnect C193 pin 1 from GND to +1V8.
+Reconnect C193 pin 2 from 1V8 to GND.
+Reconnect C194 pin 1 from GND to VDD_DDR.
+Reconnect C194 pin 2 from VDD_DDR to GND.
+Reconnect C195 pin 1 from GND to /Power/VDDIO_SDCARD.
+Reconnect C195 pin 2 from VDDIO_SDCARD to GND.
+Reconnect C196 pin 1 from GND to VDD_IO.
+Reconnect C196 pin 2 from VDDIO to GND.
+Reconnect C199 pin 1 from GND to +5V.
+Reconnect C199 pin 2 from 5V_STLK to GND.
+Reconnect C2 pin 1 from GND to VDD_GPU.
+Reconnect C2 pin 2 from VDDGPU to GND.
+Reconnect C20 pin 1 from GND to +5V.
+Reconnect C20 pin 2 from 5V_STLK to GND.
+Reconnect C200 pin 1 from GND to VDD_DDR.
+Reconnect C200 pin 2 from VDD_DDR to GND.
+Reconnect C201 pin 1 from GND to VDD_CORE.
+Reconnect C201 pin 2 from VDDCORE to GND.
+Reconnect C202 pin 1 from GND to VDD_DDR.
+Reconnect C202 pin 2 from VDD_DDR to GND.
+Reconnect C203 pin 1 from GND to /DDR/VPP_DDR.
+Reconnect C203 pin 2 from VPP_DDR to GND.
+Reconnect C204 pin 1 from GND to +3V3.
+Reconnect C204 pin 2 from 3V3 to GND.
+Reconnect C205 pin 1 from GND to VDD_DDR.
+Reconnect C205 pin 2 from VDD_DDR to GND.
+Reconnect C206 pin 1 from GND to +3V3.
+Reconnect C206 pin 2 from 3V3 to GND.
+Reconnect C207 pin 1 from GND to +3V3.
+Reconnect C207 pin 2 from 3V3 to GND.
+Reconnect C208 pin 1 from NetC208_1 to Net-(U26-INTLDO).
+Reconnect C209 pin 1 from GND to +5V.
+Reconnect C209 pin 2 from 5V_STLK to GND.
+Reconnect C21 pin 1 from GND to +3V3.
+Reconnect C21 pin 2 from 3V3 to GND.
+Reconnect C212 pin 1 from GND to VTT_DDR.
+Reconnect C212 pin 2 from VTT_DDR to GND.
+Reconnect C213 pin 1 from GND to VTT_DDR.
+Reconnect C213 pin 2 from VTT_DDR to GND.
+Reconnect C214 pin 1 from GND to VTT_DDR.
+Reconnect C214 pin 2 from VTT_DDR to GND.
+Reconnect C215 pin 1 from GND to VTT_DDR.
+Reconnect C215 pin 2 from VTT_DDR to GND.
+Reconnect C216 pin 1 from GND to VTT_DDR.
+Reconnect C216 pin 2 from VTT_DDR to GND.
+Reconnect C217 pin 1 from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect C218 pin 1 from GND to VDD_DDR.
+Reconnect C218 pin 2 from VDD_DDR to GND.
+Reconnect C219 pin 1 from GND to VDD_DDR.
+Reconnect C219 pin 2 from VDD_DDR to GND.
+Reconnect C22 pin 1 from GND to VDD_CORE.
+Reconnect C22 pin 2 from VDDCORE to GND.
+Reconnect C220 pin 1 from GND to +1V8.
+Reconnect C220 pin 2 from 1V8 to GND.
+Reconnect C221 pin 1 from GND to VDD_DDR.
+Reconnect C221 pin 2 from VDD_DDR to GND.
+Reconnect C225 pin 1 from GND to Net-(U1G-V08CAP).
+Reconnect C225 pin 2 from NetC225_2 to GND.
+Reconnect C23 pin 1 from GND to VDD_CORE.
+Reconnect C23 pin 2 from VDDCORE to GND.
+Reconnect C234 pin 1 from GND to VDDA_1V8.
+Reconnect C234 pin 2 from VDDA1V8_AON to GND.
+Reconnect C235 pin 1 from GND to Net-(U1G-VDDA18ADC).
+Reconnect C235 pin 2 from NetC235_2 to GND.
+Reconnect C236 pin 1 from GND to +1V8.
+Reconnect C236 pin 2 from 1V8 to GND.
+Reconnect C237 pin 1 from GND to +1V8.
+Reconnect C237 pin 2 from 1V8 to GND.
+Reconnect C238 pin 1 from GND to +1V8.
+Reconnect C238 pin 2 from 1V8 to GND.
+Reconnect C239 pin 1 from GND to +1V8.
+Reconnect C239 pin 2 from 1V8 to GND.
+Reconnect C24 pin 1 from GND to VDD_CORE.
+Reconnect C24 pin 2 from VDDCORE to GND.
+Reconnect C240 pin 1 from GND to +1V8.
+Reconnect C240 pin 2 from 1V8 to GND.
+Reconnect C244 pin 1 from GND to Net-(U1G-VDDA18ADC).
+Reconnect C244 pin 2 from NetC235_2 to GND.
+Reconnect C246 pin 1 from GND to +1V8.
+Reconnect C246 pin 2 from 1V8 to GND.
+Reconnect C248 pin 1 from GND to VREF+.
+Reconnect C248 pin 2 from VREF+ to GND.
+Reconnect C251 pin 1 from GND to Net-(U1G-VDD33UCPD).
+Reconnect C251 pin 2 from NetC251_2 to GND.
+Reconnect C252 pin 1 from GND to Net-(U1G-VDDCOMBOPHY).
+Reconnect C252 pin 2 from NetC15_2 to GND.
+Reconnect C253 pin 1 from GND to +1V8.
+Reconnect C253 pin 2 from 1V8 to GND.
+Reconnect C26 pin 2 from VDDCPU to VDD_CPU.
+Reconnect C260 pin 1 from GND to Net-(U1G-VDDCOMBOPHY).
+Reconnect C260 pin 2 from NetC15_2 to GND.
+Reconnect C27 pin 2 from VDDCPU to VDD_CPU.
+Reconnect C28 pin 2 from VDDCPU to VDD_CPU.
+Reconnect C29 pin 2 from 5V_STLK to +5V.
+Reconnect C3 pin 1 from GND to VDD_GPU.
+Reconnect C3 pin 2 from VDDGPU to GND.
+Reconnect C30 pin 2 from 5V_STLK to +5V.
+Reconnect C32 pin 2 from 5V_STLK to +5V.
+Reconnect C34 pin 2 from VDDGPU to VDD_GPU.
+Reconnect C35 pin 2 from VDDGPU to VDD_GPU.
+Reconnect C36 pin 2 from VDDGPU to VDD_GPU.
+Reconnect C37 pin 2 from VDDGPU to VDD_GPU.
+Reconnect C38 pin 2 from 5V_STLK to +5V.
+Reconnect C4 pin 1 from GND to VDD_GPU.
+Reconnect C4 pin 2 from VDDGPU to GND.
+Reconnect C43 pin 1 from GND to Net-(U26-REFDDR).
+Reconnect C43 pin 2 from NetC43_2 to GND.
+Reconnect C44 pin 1 from VDDCORE to VDD_CORE.
+Reconnect C45 pin 2 from VDDCORE to VDD_CORE.
+Reconnect C46 pin 2 from VDDCORE to VDD_CORE.
+Reconnect C47 pin 1 from VDDCORE to VDD_CORE.
+Reconnect C48 pin 2 from VDDCORE to VDD_CORE.
+Reconnect C49 pin 2 from VDDCORE to VDD_CORE.
+Reconnect C5 pin 1 from GND to VDD_GPU.
+Reconnect C5 pin 2 from VDDGPU to GND.
+Reconnect C50 pin 2 from VDDCORE to VDD_CORE.
+Reconnect C51 pin 1 from GND to VDD_CORE.
+Reconnect C51 pin 2 from VDDCORE to GND.
+Reconnect C52 pin 1 from GND to VDD_GPU.
+Reconnect C52 pin 2 from VDDGPU to GND.
+Reconnect C58 pin 1 from GND to VDD_GPU.
+Reconnect C58 pin 2 from VDDGPU to GND.
+Reconnect C59 pin 1 from GND to VDD_GPU.
+Reconnect C59 pin 2 from VDDGPU to GND.
+Reconnect C6 pin 1 from VDDCPU to VDD_CPU.
+Reconnect C60 pin 1 from GND to VDD_DDR.
+Reconnect C60 pin 2 from VDD_DDR to GND.
+Reconnect C61 pin 1 from GND to Net-(U15-VREFCA).
+Reconnect C61 pin 2 from NetC61_2 to GND.
+Reconnect C62 pin 1 from GND to VDD_DDR.
+Reconnect C62 pin 2 from VDD_DDR to GND.
+Reconnect C63 pin 1 from GND to VDD_DDR.
+Reconnect C63 pin 2 from VDD_DDR to GND.
+Reconnect C64 pin 1 from GND to VDD_CPU.
+Reconnect C64 pin 2 from VDDCPU to GND.
+Reconnect C68 pin 1 from GND to VDD_CPU.
+Reconnect C68 pin 2 from VDDCPU to GND.
+Reconnect C69 pin 1 from GND to VDD_CPU.
+Reconnect C69 pin 2 from VDDCPU to GND.
+Reconnect C7 pin 1 from GND to VDD_CPU.
+Reconnect C7 pin 2 from VDDCPU to GND.
+Reconnect C70 pin 1 from VDDIO to VDD_IO.
+Reconnect C71 pin 1 from GND to VDD_IO.
+Reconnect C71 pin 2 from VDDIO to GND.
+Reconnect C72 pin 1 from GND to VDD_IO.
+Reconnect C72 pin 2 from VDDIO to GND.
+Reconnect C74 pin 1 from GND to VDD_IO.
+Reconnect C74 pin 2 from VDDIO to GND.
+Reconnect C75 pin 1 from GND to VDD_DDR.
+Reconnect C75 pin 2 from VDD_DDR to GND.
+Reconnect C76 pin 1 from GND to VDD_DDR.
+Reconnect C76 pin 2 from VDD_DDR to GND.
+Reconnect C8 pin 1 from VDDCPU to VDD_CPU.
+Reconnect C82 pin 1 from GND to VDD_DDR.
+Reconnect C82 pin 2 from VDD_DDR to GND.
+Reconnect C83 pin 1 from GND to VDD_DDR.
+Reconnect C83 pin 2 from VDD_DDR to GND.
+Reconnect C84 pin 1 from GND to VDD_DDR.
+Reconnect C84 pin 2 from VDD_DDR to GND.
+Reconnect C85 pin 1 from GND to /DDR/VPP_DDR.
+Reconnect C85 pin 2 from VPP_DDR to GND.
+Reconnect C88 pin 1 from GND to VDD_DDR.
+Reconnect C88 pin 2 from VDD_DDR to GND.
+Reconnect C90 pin 1 from GND to /HSE_IN.
+Reconnect C90 pin 2 from HSE_IN to GND.
+Reconnect C91 pin 1 from VPP_DDR to /Power/VPP_DDR.
+Reconnect C92 pin 1 from NetC92_1 to /HSE_OUT.
+Reconnect CON1 pin 1 from /PC10 to /SDMMC_D2.
+Reconnect CON1 pin 2 from /PC11 to /SDMMC_D3.
+Reconnect CON1 pin 3 from /PD2 to /SDMMC_CMD.
+Reconnect CON1 pin 5 from /PC12 to /SDMMC_CLK.
+Reconnect CON1 pin 7 from /PC8 to /SDMMC_D0.
+Reconnect CON1 pin 8 from /PC9 to /SDMMC_D1.
+Reconnect J1 pin 10 from /PC9 to /SDMMC_D1.
+Reconnect J1 pin 13 from /PC10 to /SDMMC_D2.
+Reconnect J1 pin 14 from /PC10 to /SDMMC_D2.
+Reconnect J1 pin 15 from /PC11 to /SDMMC_D3.
+Reconnect J1 pin 16 from /PC11 to /SDMMC_D3.
+Reconnect J1 pin 17 from /PD2 to /SDMMC_CMD.
+Reconnect J1 pin 18 from /PD2 to /SDMMC_CMD.
+Reconnect J1 pin 19 from /PC12 to /SDMMC_CLK.
+Reconnect J1 pin 20 from /PC12 to /SDMMC_CLK.
+Reconnect J1 pin 7 from /PC8 to /SDMMC_D0.
+Reconnect J1 pin 8 from /PC8 to /SDMMC_D0.
+Reconnect J1 pin 9 from /PC9 to /SDMMC_D1.
+Reconnect L1 pin 1 from NetL1_1 to Net-(U26-VLX5).
+Reconnect L1 pin 2 from 1V8 to +1V8.
+Reconnect L2 pin 1 from NetL2_1 to Net-(U26-VLX2).
+Reconnect L2 pin 2 from VDDCORE to VDD_CORE.
+Reconnect L3 pin 1 from NetL3_1 to Net-(U26-VLX1).
+Reconnect L3 pin 2 from VDDCPU to VDD_CPU.
+Reconnect L4 pin 1 from NetL4_1 to Net-(U26-VLX3).
+Reconnect L4 pin 2 from VDDGPU to VDD_GPU.
+Reconnect L5 pin 1 from NetL5_1 to Net-(U26-VLX6).
+Reconnect L6 pin 1 from NetL6_1 to Net-(U26-VLX4).
+Reconnect L6 pin 2 from VDDIO to VDD_IO.
+Reconnect L7 pin 1 from NetL7_1 to Net-(U26-VLX7).
+Reconnect L7 pin 2 from 3V3 to +3V3.
+Reconnect NT2 pin 1 from GNDADC to GND.
+Reconnect NT2 pin 2 from GND to GNDADC.
+Reconnect R1 pin 2 from /PC8 to /SDMMC_D0.
+Reconnect R11 pin 1 from VDDCORE to VDD_CORE.
+Reconnect R11 pin 2 from NetC15_2 to Net-(U1G-VDDCOMBOPHY).
+Reconnect R141 pin 1 from NetC61_2 to VDD_DDR.
+Reconnect R141 pin 2 from VDD_DDR to Net-(U15-VREFCA).
+Reconnect R142 pin 1 from GND to Net-(U15-VREFCA).
+Reconnect R142 pin 2 from NetC61_2 to GND.
+Reconnect R165 pin 1 from DDR_BA0 to /DDR/DDR_BA0.
+Reconnect R166 pin 1 from DDR_A10 to /DDR/DDR_A10.
+Reconnect R167 pin 1 from DDR_BG0 to /DDR/DDR_BG0.
+Reconnect R168 pin 1 from DDR_ACTN to /DDR/DDR_ACTN.
+Reconnect R169 pin 1 from DDR_WEN to /DDR/DDR_WEN.
+Reconnect R170 pin 1 from DDR_ODT to /DDR/DDR_ODT.
+Reconnect R171 pin 1 from DDR_CKE to /DDR/DDR_CKE.
+Reconnect R174 pin 1 from GND to Net-(U1F-DDR_ZQ).
+Reconnect R174 pin 2 from NetR174_2 to GND.
+Reconnect R175 pin 1 from DDR_A4 to /DDR/DDR_A4.
+Reconnect R176 pin 1 from DDR_A6 to /DDR/DDR_A6.
+Reconnect R177 pin 1 from DDR_A0 to /DDR/DDR_A0.
+Reconnect R178 pin 1 from DDR_A8 to /DDR/DDR_A8.
+Reconnect R180 pin 1 from DDR_A2 to /DDR/DDR_A2.
+Reconnect R181 pin 1 from DDR_CLK_P to /DDR/DDR_CLK_P.
+Reconnect R181 pin 2 from DDR_CLK_N to /DDR/DDR_CLK_N.
+Reconnect R182 pin 1 from DDR_A11 to /DDR/DDR_A11.
+Reconnect R183 pin 1 from DDR_CSN to /DDR/DDR_CSN.
+Reconnect R185 pin 1 from DDR_RASN to /DDR/DDR_RASN.
+Reconnect R186 pin 1 from DDR_A12 to /DDR/DDR_A12.
+Reconnect R187 pin 1 from DDR_CASN to /DDR/DDR_CASN.
+Reconnect R188 pin 1 from DDR_A3 to /DDR/DDR_A3.
+Reconnect R189 pin 1 from DDR_BA1 to /DDR/DDR_BA1.
+Reconnect R190 pin 1 from DDR_A1 to /DDR/DDR_A1.
+Reconnect R191 pin 1 from DDR_A5 to /DDR/DDR_A5.
+Reconnect R192 pin 1 from DDR_A9 to /DDR/DDR_A9.
+Reconnect R193 pin 1 from DDR_A7 to /DDR/DDR_A7.
+Reconnect R194 pin 1 from DDR_A13 to /DDR/DDR_A13.
+Reconnect R2 pin 1 from PWR_ON to /PWR_ON.
+Reconnect R2 pin 2 from NetR2_2 to Net-(U26-PWRCTRL1).
+Reconnect R260 pin 1 from I2C7.SDA to /I2C7.SDA.
+Reconnect R260 pin 2 from VDDIO to VDD_IO.
+Reconnect R261 pin 1 from I2C7.SCL to /I2C7.SCL.
+Reconnect R261 pin 2 from VDDIO to VDD_IO.
+Reconnect R267 pin 1 from NetC235_2 to Net-(U1G-VDDA18ADC).
+Reconnect R267 pin 2 from 1V8 to +1V8.
+Reconnect R27 pin 1 from NRSTC1MS to VDD_IO.
+Reconnect R27 pin 2 from VDDIO to /NRSTC1MS.
+Reconnect R272 pin 1 from NRSTC1MS to /NRSTC1MS.
+Reconnect R272 pin 2 from PWR_CPU_ON to /PWR_CPU_ON.
+Reconnect R286 pin 1 from VDD3V3_USB to VDD_USB.
+Reconnect R286 pin 2 from NetC251_2 to Net-(U1G-VDD33UCPD).
+Reconnect R46 pin 1 from PMIC_WAKEUPn to /PMIC_WAKEUPn.
+Reconnect R46 pin 2 from NetR46_2 to Net-(U26-WAKEUPn).
+Reconnect R57 pin 1 from GND to Net-(U26-VBUS).
+Reconnect R57 pin 2 from NetR57_2 to GND.
+Reconnect R59 pin 1 from NRSTC1MS to /NRSTC1MS.
+Reconnect R59 pin 2 from NetR59_2 to Net-(U26-PWRCTRL3).
+Reconnect R60 pin 1 from PWR_CPU_ON to /PWR_CPU_ON.
+Reconnect R60 pin 2 from NetR60_2 to Net-(U26-PWRCTRL2).
+Reconnect R72 pin 2 from GND to VDD.
+Reconnect R75 pin 1 from GND to Net-(U15-ZQ).
+Reconnect R75 pin 2 from NetR75_2 to GND.
+Reconnect R81 pin 1 from NRST to /NRST.
+Reconnect R81 pin 2 from NetR81_2 to Net-(U26-RSTn).
+Reconnect R9 pin 2 from /PD2 to /SDMMC_CMD.
+Reconnect S3 pin 1 from VDD to GND.
+Reconnect U1 pin 1C1 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1C3 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1C5 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1C7 from VDDCPU to VDD_CPU.
+Reconnect U1 pin 1C9 from VDDCPU to VDD_CPU.
+Reconnect U1 pin 1D10 from VDDCPU to VDD_CPU.
+Reconnect U1 pin 1D2 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1D4 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1D6 from VDDCPU to VDD_CPU.
+Reconnect U1 pin 1D8 from VDDCPU to VDD_CPU.
+Reconnect U1 pin 1E1 from 1V8 to +1V8.
+Reconnect U1 pin 1E3 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1E5 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1F2 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1F4 from VDDCORE to VDD_CORE.
+Reconnect U1 pin 1G7 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1G9 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1H10 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1H6 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1H8 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1L1 from VDDIO to VDD_IO.
+Reconnect U1 pin 1L3 from VDDIO to VDD_IO.
+Reconnect U1 pin 1L5 from VDDIO to VDD_IO.
+Reconnect U1 pin 1L7 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1L9 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1M10 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1M2 from VDDIO to VDD_IO.
+Reconnect U1 pin 1M4 from VDDIO to VDD_IO.
+Reconnect U1 pin 1M6 from VDDGPU to VDD_GPU.
+Reconnect U1 pin 1M8 from VDDGPU to VDD_GPU.
+Reconnect U1 pin A22 from eMMC.SDMMC2_D6 to unconnected-(U1B-PE6-PadA22).
+Reconnect U1 pin A23 from eMMC.SDMMC2_D5 to unconnected-(U1B-PE9-PadA23).
+Reconnect U1 pin AA1 from OSC32_OUT to unconnected-(U1A-OSC32_OUT-PadAA1).
+Reconnect U1 pin AA2 from OSC32_IN to unconnected-(U1A-OSC32_IN-PadAA2).
+Reconnect U1 pin AA21 from DDR_A7 to /DDR/DDR_A7.
+Reconnect U1 pin AA23 from DDR_BA1 to /DDR/DDR_BA1.
+Reconnect U1 pin AA25 from DDR_DQS0_P to /DDR/DDR_DQS0_P.
+Reconnect U1 pin AA26 from DDR_DQS0_N to /DDR/DDR_DQS0_N.
+Reconnect U1 pin AB20 from NetC15_2 to Net-(U1G-VDDCOMBOPHY).
+Reconnect U1 pin AB22 from NetC15_2 to Net-(U1G-VDDCOMBOPHY).
+Reconnect U1 pin AB24 from DDR_A9 to /DDR/DDR_A9.
+Reconnect U1 pin AB25 from DDR_DQM0 to /DDR/DDR_DQM0.
+Reconnect U1 pin AB26 from DDR_DQ0 to /DDR/DDR_DQ0.
+Reconnect U1 pin AB27 from DDR_DQ2 to /DDR/DDR_DQ2.
+Reconnect U1 pin AB3 from VDDA1V8_AON to VDDA_1V8.
+Reconnect U1 pin AB4 from PWR_CPU_ON to /PWR_CPU_ON.
+Reconnect U1 pin AB6 from NetC235_2 to Net-(U1G-VDDA18ADC).
+Reconnect U1 pin AC21 from NetC15_2 to Net-(U1G-VDDCOMBOPHY).
+Reconnect U1 pin AC23 from DDR_A13 to /DDR/DDR_A13.
+Reconnect U1 pin AC26 from DDR_DQ1 to /DDR/DDR_DQ1.
+Reconnect U1 pin AC27 from DDR_DQ3 to /DDR/DDR_DQ3.
+Reconnect U1 pin AD22 from 1V8 to +1V8.
+Reconnect U1 pin AD3 from PWR_ON to /PWR_ON.
+Reconnect U1 pin AE1 from NRST to /NRST.
+Reconnect U1 pin AE21 from NetC251_2 to Net-(U1G-VDD33UCPD).
+Reconnect U1 pin AE22 from NetC251_2 to Net-(U1G-VDD33UCPD).
+Reconnect U1 pin AE23 from 1V8 to +1V8.
+Reconnect U1 pin AF2 from HSE_OUT to /HSE_OUT.
+Reconnect U1 pin AF5 from MP257_WAKEUP to /MP257_WAKEUP.
+Reconnect U1 pin AF6 from GND to GNDADC.
+Reconnect U1 pin AG2 from HSE_IN to /HSE_IN.
+Reconnect U1 pin B22 from eMMC.SDMMC2_D7 to unconnected-(U1B-PE7-PadB22).
+Reconnect U1 pin B23 from eMMC.SDMMC2_D1 to unconnected-(U1B-PE11-PadB23).
+Reconnect U1 pin B25 from eMMC.SDMMC2_CK to unconnected-(U1B-PE14-PadB25).
+Reconnect U1 pin C23 from eMMC.SDMMC2_D2 to unconnected-(U1B-PE8-PadC23).
+Reconnect U1 pin C24 from eMMC.SDMMC2_D0 to unconnected-(U1B-PE13-PadC24).
+Reconnect U1 pin C25 from eMMC.SDMMC2_D3 to unconnected-(U1B-PE12-PadC25).
+Reconnect U1 pin D10 from VDDIO to VDD_IO.
+Reconnect U1 pin D14 from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect U1 pin D18 from 1V8 to +1V8.
+Reconnect U1 pin D22 from eMMC.SDMMC2_D4 to unconnected-(U1B-PE10-PadD22).
+Reconnect U1 pin D24 from eMMC.SDMMC2_CMD to unconnected-(U1B-PE15-PadD24).
+Reconnect U1 pin E11 from VDDIO to VDD_IO.
+Reconnect U1 pin E13 from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect U1 pin E15 from I2C7.SCL to /I2C7.SCL.
+Reconnect U1 pin E17 from 1V8 to +1V8.
+Reconnect U1 pin E19 from I2C7.SDA to /I2C7.SDA.
+Reconnect U1 pin E21 from DDR_RESETN to /DDR/DDR_RESETN.
+Reconnect U1 pin E23 from DDR_WEN to /DDR/DDR_WEN.
+Reconnect U1 pin E25 from DDR_DQ19 to unconnected-(U1F-DDR_DQ19-PadE25).
+Reconnect U1 pin E26 from DDR_DQ17 to unconnected-(U1F-DDR_DQ17-PadE26).
+Reconnect U1 pin E5 from VDDCORE to VDD_CORE.
+Reconnect U1 pin E9 from VDDIO to VDD_IO.
+Reconnect U1 pin F18 from VDDCPU to VDD_CPU.
+Reconnect U1 pin F20 from 1V8 to +1V8.
+Reconnect U1 pin F22 from DDR_ACTN to /DDR/DDR_ACTN.
+Reconnect U1 pin F24 from DDR_DQ18 to unconnected-(U1F-DDR_DQ18-PadF24).
+Reconnect U1 pin F25 from DDR_DQ16 to unconnected-(U1F-DDR_DQ16-PadF25).
+Reconnect U1 pin F26 from DDR_DQS2_N to unconnected-(U1F-DDR_DQS2N-PadF26).
+Reconnect U1 pin F27 from DDR_DQS2_P to unconnected-(U1F-DDR_DQS2P-PadF27).
+Reconnect U1 pin F4 from VDDCORE to VDD_CORE.
+Reconnect U1 pin F8 from VDDCORE to VDD_CORE.
+Reconnect U1 pin G11 from VDDIO to VDD_IO.
+Reconnect U1 pin G15 from VDDCPU to VDD_CPU.
+Reconnect U1 pin G17 from VDDCPU to VDD_CPU.
+Reconnect U1 pin G19 from 1V8 to +1V8.
+Reconnect U1 pin G25 from DDR_DQ23 to unconnected-(U1F-DDR_DQ23-PadG25).
+Reconnect U1 pin G26 from DDR_DQ22 to unconnected-(U1F-DDR_DQ22-PadG26).
+Reconnect U1 pin G27 from DDR_DQM2 to unconnected-(U1F-DDR_DQM2-PadG27).
+Reconnect U1 pin G5 from 1V8 to +1V8.
+Reconnect U1 pin G7 from 1V8 to +1V8.
+Reconnect U1 pin G9 from 1V8 to +1V8.
+Reconnect U1 pin H22 from DDR_BG0 to /DDR/DDR_BG0.
+Reconnect U1 pin H24 from DDR_A10 to /DDR/DDR_A10.
+Reconnect U1 pin H25 from DDR_DQ21 to unconnected-(U1F-DDR_DQ21-PadH25).
+Reconnect U1 pin H6 from 1V8 to +1V8.
+Reconnect U1 pin J21 from DDR_A4 to /DDR/DDR_A4.
+Reconnect U1 pin J23 from DDR_BA0 to /DDR/DDR_BA0.
+Reconnect U1 pin J25 from DDR_DQ20 to unconnected-(U1F-DDR_DQ20-PadJ25).
+Reconnect U1 pin J26 from DDR_DQ24 to unconnected-(U1F-DDR_DQ24-PadJ26).
+Reconnect U1 pin K22 from NetR174_2 to Net-(U1F-DDR_ZQ).
+Reconnect U1 pin K24 from DDR_A6 to /DDR/DDR_A6.
+Reconnect U1 pin K25 from DDR_DQ25 to unconnected-(U1F-DDR_DQ25-PadK25).
+Reconnect U1 pin K26 from DDR_DQ26 to unconnected-(U1F-DDR_DQ26-PadK26).
+Reconnect U1 pin K27 from DDR_DQ27 to unconnected-(U1F-DDR_DQ27-PadK27).
+Reconnect U1 pin L23 from DDR_A0 to /DDR/DDR_A0.
+Reconnect U1 pin L25 from DDR_DQ28 to unconnected-(U1F-DDR_DQ28-PadL25).
+Reconnect U1 pin L26 from DDR_DQS3_P to unconnected-(U1F-DDR_DQS3P-PadL26).
+Reconnect U1 pin L27 from DDR_DQS3_N to unconnected-(U1F-DDR_DQS3N-PadL27).
+Reconnect U1 pin M24 from DDR_A8 to /DDR/DDR_A8.
+Reconnect U1 pin M25 from DDR_DQM3 to unconnected-(U1F-DDR_DQM3-PadM25).
+Reconnect U1 pin N23 from DDR_A2 to /DDR/DDR_A2.
+Reconnect U1 pin N25 from DDR_DQ29 to unconnected-(U1F-DDR_DQ29-PadN25).
+Reconnect U1 pin N26 from DDR_DQ30 to unconnected-(U1F-DDR_DQ30-PadN26).
+Reconnect U1 pin P22 from DDR_ODT to /DDR/DDR_ODT.
+Reconnect U1 pin P24 from DDR_A11 to /DDR/DDR_A11.
+Reconnect U1 pin P25 from DDR_DQ31 to unconnected-(U1F-DDR_DQ31-PadP25).
+Reconnect U1 pin P26 from DDR_DQ11 to /DDR/DDR_DQ11.
+Reconnect U1 pin P27 from DDR_DQ10 to /DDR/DDR_DQ10.
+Reconnect U1 pin R23 from DDR_RASN to /DDR/DDR_RASN.
+Reconnect U1 pin R25 from DDR_DQS1_N to /DDR/DDR_DQS1_N.
+Reconnect U1 pin R26 from DDR_DQ9 to /DDR/DDR_DQ9.
+Reconnect U1 pin R27 from DDR_DQ8 to /DDR/DDR_DQ8.
+Reconnect U1 pin R7 from NetC225_2 to Net-(U1G-V08CAP).
+Reconnect U1 pin T22 from DDR_CASN to /DDR/DDR_CASN.
+Reconnect U1 pin T24 from DDR_CLK_N to /DDR/DDR_CLK_N.
+Reconnect U1 pin T25 from DDR_DQS1_P to /DDR/DDR_DQS1_P.
+Reconnect U1 pin T6 from VBAT to VDD_IO.
+Reconnect U1 pin U21 from DDR_CKE to /DDR/DDR_CKE.
+Reconnect U1 pin U23 from DDR_CLK_P to /DDR/DDR_CLK_P.
+Reconnect U1 pin U25 from DDR_DQ15 to /DDR/DDR_DQ15.
+Reconnect U1 pin U26 from DDR_DQM1 to /DDR/DDR_DQM1.
+Reconnect U1 pin V22 from DDR_A3 to /DDR/DDR_A3.
+Reconnect U1 pin V24 from DDR_CSN to /DDR/DDR_CSN.
+Reconnect U1 pin V25 from DDR_DQ14 to /DDR/DDR_DQ14.
+Reconnect U1 pin V26 from DDR_DQ12 to /DDR/DDR_DQ12.
+Reconnect U1 pin V27 from DDR_DQ13 to /DDR/DDR_DQ13.
+Reconnect U1 pin W2 from VDDA1V8_AON to VDDA_1V8.
+Reconnect U1 pin W21 from DDR_A5 to /DDR/DDR_A5.
+Reconnect U1 pin W23 from DDR_A12 to /DDR/DDR_A12.
+Reconnect U1 pin W25 from DDR_DQ4 to /DDR/DDR_DQ4.
+Reconnect U1 pin W26 from DDR_DQ6 to /DDR/DDR_DQ6.
+Reconnect U1 pin W27 from DDR_DQ5 to /DDR/DDR_DQ5.
+Reconnect U1 pin W3 from NRSTC1MS to /NRSTC1MS.
+Reconnect U1 pin W7 from PMIC_WAKEUPn to /PMIC_WAKEUPn.
+Reconnect U1 pin Y22 from DDR_A1 to /DDR/DDR_A1.
+Reconnect U1 pin Y25 from DDR_DQ7 to /DDR/DDR_DQ7.
+Reconnect U15 pin A3 from DDR_DQ15 to /DDR/DDR_DQ15.
+Reconnect U15 pin A7 from DDR_DQS1_N to /DDR/DDR_DQS1_N.
+Reconnect U15 pin B1 from VPP_DDR to /DDR/VPP_DDR.
+Reconnect U15 pin B7 from DDR_DQS1_P to /DDR/DDR_DQS1_P.
+Reconnect U15 pin B8 from DDR_DQ9 to /DDR/DDR_DQ9.
+Reconnect U15 pin C2 from DDR_DQ14 to /DDR/DDR_DQ14.
+Reconnect U15 pin C3 from DDR_DQ12 to /DDR/DDR_DQ12.
+Reconnect U15 pin C7 from DDR_DQ10 to /DDR/DDR_DQ10.
+Reconnect U15 pin C8 from DDR_DQ11 to /DDR/DDR_DQ11.
+Reconnect U15 pin D3 from DDR_DQ13 to /DDR/DDR_DQ13.
+Reconnect U15 pin D7 from DDR_DQ8 to /DDR/DDR_DQ8.
+Reconnect U15 pin E2 from DDR_DQM1 to /DDR/DDR_DQM1.
+Reconnect U15 pin E7 from DDR_DQM0 to /DDR/DDR_DQM0.
+Reconnect U15 pin F3 from DDR_DQS0_N to /DDR/DDR_DQS0_N.
+Reconnect U15 pin F7 from DDR_DQ0 to /DDR/DDR_DQ0.
+Reconnect U15 pin F9 from NetR75_2 to Net-(U15-ZQ).
+Reconnect U15 pin G2 from DDR_DQ7 to /DDR/DDR_DQ7.
+Reconnect U15 pin G3 from DDR_DQS0_P to /DDR/DDR_DQS0_P.
+Reconnect U15 pin H2 from DDR_DQ5 to /DDR/DDR_DQ5.
+Reconnect U15 pin H3 from DDR_DQ6 to /DDR/DDR_DQ6.
+Reconnect U15 pin H7 from DDR_DQ1 to /DDR/DDR_DQ1.
+Reconnect U15 pin H8 from DDR_DQ3 to /DDR/DDR_DQ3.
+Reconnect U15 pin J3 from DDR_DQ4 to /DDR/DDR_DQ4.
+Reconnect U15 pin J7 from DDR_DQ2 to /DDR/DDR_DQ2.
+Reconnect U15 pin K2 from DDR_CKE to /DDR/DDR_CKE.
+Reconnect U15 pin K3 from DDR_ODT to /DDR/DDR_ODT.
+Reconnect U15 pin K7 from DDR_CLK_P to /DDR/DDR_CLK_P.
+Reconnect U15 pin K8 from DDR_CLK_N to /DDR/DDR_CLK_N.
+Reconnect U15 pin L2 from DDR_WEN to /DDR/DDR_WEN.
+Reconnect U15 pin L3 from DDR_ACTN to /DDR/DDR_ACTN.
+Reconnect U15 pin L7 from DDR_CSN to /DDR/DDR_CSN.
+Reconnect U15 pin L8 from DDR_RASN to /DDR/DDR_RASN.
+Reconnect U15 pin M1 from NetC61_2 to Net-(U15-VREFCA).
+Reconnect U15 pin M2 from DDR_BG0 to /DDR/DDR_BG0.
+Reconnect U15 pin M3 from DDR_A10 to /DDR/DDR_A10.
+Reconnect U15 pin M7 from DDR_A12 to /DDR/DDR_A12.
+Reconnect U15 pin M8 from DDR_CASN to /DDR/DDR_CASN.
+Reconnect U15 pin N2 from DDR_BA0 to /DDR/DDR_BA0.
+Reconnect U15 pin N3 from DDR_A4 to /DDR/DDR_A4.
+Reconnect U15 pin N7 from DDR_A3 to /DDR/DDR_A3.
+Reconnect U15 pin N8 from DDR_BA1 to /DDR/DDR_BA1.
+Reconnect U15 pin P1 from DDR_RESETN to /DDR/DDR_RESETN.
+Reconnect U15 pin P2 from DDR_A6 to /DDR/DDR_A6.
+Reconnect U15 pin P3 from DDR_A0 to /DDR/DDR_A0.
+Reconnect U15 pin P7 from DDR_A1 to /DDR/DDR_A1.
+Reconnect U15 pin P8 from DDR_A5 to /DDR/DDR_A5.
+Reconnect U15 pin R2 from DDR_A8 to /DDR/DDR_A8.
+Reconnect U15 pin R3 from DDR_A2 to /DDR/DDR_A2.
+Reconnect U15 pin R7 from DDR_A9 to /DDR/DDR_A9.
+Reconnect U15 pin R8 from DDR_A7 to /DDR/DDR_A7.
+Reconnect U15 pin R9 from VPP_DDR to /DDR/VPP_DDR.
+Reconnect U15 pin T2 from DDR_A11 to /DDR/DDR_A11.
+Reconnect U15 pin T8 from DDR_A13 to /DDR/DDR_A13.
+Reconnect U26 pin 1 from NetB2_2 to /DFU_BOOT.
+Reconnect U26 pin 11 from 5V_STLK to +5V.
+Reconnect U26 pin 12 from NetR57_2 to Net-(U26-VBUS).
+Reconnect U26 pin 13 from VDD3V3_USB to VDD_USB.
+Reconnect U26 pin 14 from VDDA1V8_AON to VDDA_1V8.
+Reconnect U26 pin 15 from 5V_STLK to +5V.
+Reconnect U26 pin 16 from VDD_EMMC to Net-(U26-LDO2OUT).
+Reconnect U26 pin 17 from VDDIO_FB to VDD_IO.
+Reconnect U26 pin 19 from NetL6_1 to Net-(U26-VLX4).
+Reconnect U26 pin 2 from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect U26 pin 20 from 5V_STLK to +5V.
+Reconnect U26 pin 21 from VDDGPU_FB to VDD_GPU.
+Reconnect U26 pin 23 from NetL4_1 to Net-(U26-VLX3).
+Reconnect U26 pin 24 from 5V_STLK to +5V.
+Reconnect U26 pin 25 from 5V_STLK to +5V.
+Reconnect U26 pin 26 from NetL2_1 to Net-(U26-VLX2).
+Reconnect U26 pin 28 from VDDCORE_FB to VDD_CORE.
+Reconnect U26 pin 29 from VDDIO to VDD_IO.
+Reconnect U26 pin 3 from 3V3 to +3V3.
+Reconnect U26 pin 30 from NetR46_2 to Net-(U26-WAKEUPn).
+Reconnect U26 pin 31 from NetR81_2 to Net-(U26-RSTn).
+Reconnect U26 pin 32 from MP257_WAKEUP to /MP257_WAKEUP.
+Reconnect U26 pin 33 from I2C7.SCL to /I2C7.SCL.
+Reconnect U26 pin 34 from I2C7.SDA to /I2C7.SDA.
+Reconnect U26 pin 35 from 1V8_FB to +1V8.
+Reconnect U26 pin 37 from NetL1_1 to Net-(U26-VLX5).
+Reconnect U26 pin 38 from 5V_STLK to +5V.
+Reconnect U26 pin 39 from 5V_STLK to +5V.
+Reconnect U26 pin 4 from VDD_SDCARD to Net-(U26-LDO7OUT).
+Reconnect U26 pin 40 from NetL3_1 to Net-(U26-VLX1).
+Reconnect U26 pin 42 from VDDCPU_FB to VDD_CPU.
+Reconnect U26 pin 45 from NetC43_2 to Net-(U26-REFDDR).
+Reconnect U26 pin 46 from VDD_DDR_FB to VDD_DDR.
+Reconnect U26 pin 48 from NetL5_1 to Net-(U26-VLX6).
+Reconnect U26 pin 49 from 5V_STLK to +5V.
+Reconnect U26 pin 5 from 5V_VCONN to Net-(U26-LDO6OUT).
+Reconnect U26 pin 50 from 5V_STLK to +5V.
+Reconnect U26 pin 51 from NetL7_1 to Net-(U26-VLX7).
+Reconnect U26 pin 53 from 3V3 to +3V3.
+Reconnect U26 pin 54 from NetR59_2 to Net-(U26-PWRCTRL3).
+Reconnect U26 pin 55 from NetR60_2 to Net-(U26-PWRCTRL2).
+Reconnect U26 pin 56 from NetR2_2 to Net-(U26-PWRCTRL1).
+Reconnect U26 pin 6 from 5V_STLK to +5V.
+Reconnect U26 pin 7 from VPP_DDR to /Power/VPP_DDR.
+Reconnect U26 pin 8 from NetC208_1 to Net-(U26-INTLDO).
+Reconnect U3 pin 1 from /USB_HS_DP to Net-(R7-Pad1).
+Reconnect U3 pin 3 from /USB_HS_DM to Net-(R3-Pad1).
+Reconnect X2 pin 1 from HSE_IN to /HSE_IN.
+Reconnect X2 pin 3 from NetC92_1 to /HSE_OUT.
+Reconnect copper zone from 3V3 to +3V3.
+Reconnect copper zone from 3V3 to +3V3.
+Reconnect copper zone from 5V_STLK to +5V.
+Reconnect copper zone from 5V_STLK to +5V.
+Reconnect copper zone from NetL6_1 to Net-(U26-VLX4).
+Reconnect copper zone from VDDCORE to VDD_CORE.
+Reconnect copper zone from VDDCORE to VDD_CORE.
+Reconnect copper zone from VDDCPU to VDD_CPU.
+Reconnect copper zone from VDDCPU to VDD_CPU.
+Reconnect copper zone from VDDGPU to VDD_GPU.
+Reconnect copper zone from VDDGPU to VDD_GPU.
+Reconnect copper zone from VDDIO to VDD_IO.
+Reconnect copper zone from VDDIO to VDD_IO.
+Reconnect via from /PC10 to /SDMMC_D2.
+Reconnect via from /PC11 to /SDMMC_D3.
+Reconnect via from /PC12 to /SDMMC_CLK.
+Reconnect via from /PC8 to /SDMMC_D0.
+Reconnect via from /PC8 to /SDMMC_D0.
+Reconnect via from /PC9 to /SDMMC_D1.
+Reconnect via from /PD2 to /SDMMC_CMD.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 1V8 to +1V8.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 3V3 to +3V3.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_STLK to +5V.
+Reconnect via from 5V_VCONN to Net-(U26-LDO6OUT).
+Reconnect via from DDR_A0 to /DDR/DDR_A0.
+Reconnect via from DDR_A0 to /DDR/DDR_A0.
+Reconnect via from DDR_A1 to /DDR/DDR_A1.
+Reconnect via from DDR_A1 to /DDR/DDR_A1.
+Reconnect via from DDR_A10 to /DDR/DDR_A10.
+Reconnect via from DDR_A10 to /DDR/DDR_A10.
+Reconnect via from DDR_A11 to /DDR/DDR_A11.
+Reconnect via from DDR_A11 to /DDR/DDR_A11.
+Reconnect via from DDR_A12 to /DDR/DDR_A12.
+Reconnect via from DDR_A12 to /DDR/DDR_A12.
+Reconnect via from DDR_A13 to /DDR/DDR_A13.
+Reconnect via from DDR_A13 to /DDR/DDR_A13.
+Reconnect via from DDR_A2 to /DDR/DDR_A2.
+Reconnect via from DDR_A2 to /DDR/DDR_A2.
+Reconnect via from DDR_A3 to /DDR/DDR_A3.
+Reconnect via from DDR_A3 to /DDR/DDR_A3.
+Reconnect via from DDR_A4 to /DDR/DDR_A4.
+Reconnect via from DDR_A4 to /DDR/DDR_A4.
+Reconnect via from DDR_A5 to /DDR/DDR_A5.
+Reconnect via from DDR_A5 to /DDR/DDR_A5.
+Reconnect via from DDR_A6 to /DDR/DDR_A6.
+Reconnect via from DDR_A6 to /DDR/DDR_A6.
+Reconnect via from DDR_A7 to /DDR/DDR_A7.
+Reconnect via from DDR_A7 to /DDR/DDR_A7.
+Reconnect via from DDR_A8 to /DDR/DDR_A8.
+Reconnect via from DDR_A8 to /DDR/DDR_A8.
+Reconnect via from DDR_A9 to /DDR/DDR_A9.
+Reconnect via from DDR_A9 to /DDR/DDR_A9.
+Reconnect via from DDR_ACTN to /DDR/DDR_ACTN.
+Reconnect via from DDR_ACTN to /DDR/DDR_ACTN.
+Reconnect via from DDR_BA0 to /DDR/DDR_BA0.
+Reconnect via from DDR_BA0 to /DDR/DDR_BA0.
+Reconnect via from DDR_BA1 to /DDR/DDR_BA1.
+Reconnect via from DDR_BA1 to /DDR/DDR_BA1.
+Reconnect via from DDR_BG0 to /DDR/DDR_BG0.
+Reconnect via from DDR_BG0 to /DDR/DDR_BG0.
+Reconnect via from DDR_CASN to /DDR/DDR_CASN.
+Reconnect via from DDR_CASN to /DDR/DDR_CASN.
+Reconnect via from DDR_CKE to /DDR/DDR_CKE.
+Reconnect via from DDR_CKE to /DDR/DDR_CKE.
+Reconnect via from DDR_CLK_N to /DDR/DDR_CLK_N.
+Reconnect via from DDR_CLK_N to /DDR/DDR_CLK_N.
+Reconnect via from DDR_CLK_P to /DDR/DDR_CLK_P.
+Reconnect via from DDR_CLK_P to /DDR/DDR_CLK_P.
+Reconnect via from DDR_CSN to /DDR/DDR_CSN.
+Reconnect via from DDR_CSN to /DDR/DDR_CSN.
+Reconnect via from DDR_ODT to /DDR/DDR_ODT.
+Reconnect via from DDR_ODT to /DDR/DDR_ODT.
+Reconnect via from DDR_RASN to /DDR/DDR_RASN.
+Reconnect via from DDR_RASN to /DDR/DDR_RASN.
+Reconnect via from DDR_RESETN to /DDR/DDR_RESETN.
+Reconnect via from DDR_RESETN to /DDR/DDR_RESETN.
+Reconnect via from DDR_WEN to /DDR/DDR_WEN.
+Reconnect via from DDR_WEN to /DDR/DDR_WEN.
+Reconnect via from I2C7.SCL to /I2C7.SCL.
+Reconnect via from I2C7.SCL to /I2C7.SCL.
+Reconnect via from I2C7.SDA to /I2C7.SDA.
+Reconnect via from I2C7.SDA to /I2C7.SDA.
+Reconnect via from MP257_WAKEUP to /MP257_WAKEUP.
+Reconnect via from MP257_WAKEUP to /MP257_WAKEUP.
+Reconnect via from NRSTC1MS to /NRSTC1MS.
+Reconnect via from NRSTC1MS to /NRSTC1MS.
+Reconnect via from NetC15_2 to Net-(U1G-VDDCOMBOPHY).
+Reconnect via from NetC15_2 to Net-(U1G-VDDCOMBOPHY).
+Reconnect via from NetC225_2 to Net-(U1G-V08CAP).
+Reconnect via from NetC235_2 to Net-(U1G-VDDA18ADC).
+Reconnect via from NetC251_2 to Net-(U1G-VDD33UCPD).
+Reconnect via from NetC61_2 to Net-(U15-VREFCA).
+Reconnect via from NetR174_2 to Net-(U1F-DDR_ZQ).
+Reconnect via from PMIC_WAKEUPn to /PMIC_WAKEUPn.
+Reconnect via from PMIC_WAKEUPn to /PMIC_WAKEUPn.
+Reconnect via from PMIC_WAKEUPn to /PMIC_WAKEUPn.
+Reconnect via from PWR_CPU_ON to /PWR_CPU_ON.
+Reconnect via from PWR_CPU_ON to /PWR_CPU_ON.
+Reconnect via from PWR_ON to /PWR_ON.
+Reconnect via from PWR_ON to /PWR_ON.
+Reconnect via from VBAT to VDD_IO.
+Reconnect via from VDD3V3_USB to VDD_USB.
+Reconnect via from VDD3V3_USB to VDD_USB.
+Reconnect via from VDDA1V8_AON to VDDA_1V8.
+Reconnect via from VDDA1V8_AON to VDDA_1V8.
+Reconnect via from VDDA1V8_AON to VDDA_1V8.
+Reconnect via from VDDA1V8_AON to VDDA_1V8.
+Reconnect via from VDDA1V8_AON to VDDA_1V8.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE to VDD_CORE.
+Reconnect via from VDDCORE_FB to VDD_CORE.
+Reconnect via from VDDCORE_FB to VDD_CORE.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU to VDD_CPU.
+Reconnect via from VDDCPU_FB to VDD_CPU.
+Reconnect via from VDDCPU_FB to VDD_CPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDGPU to VDD_GPU.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO to VDD_IO.
+Reconnect via from VDDIO_FB to VDD_IO.
+Reconnect via from VDDIO_FB to VDD_IO.
+Reconnect via from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect via from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect via from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect via from VDDIO_SDCARD to /Power/VDDIO_SDCARD.
+Reconnect via from VDD_EMMC to Net-(U26-LDO2OUT).
+Reconnect via from VDD_SDCARD to Net-(U26-LDO7OUT).
+Reconnect via from VPP_DDR to /Power/VPP_DDR.
+Reconnect via from VPP_DDR to /Power/VPP_DDR.
+Reconnect via from VPP_DDR to /Power/VPP_DDR.
+Reconnect via from VPP_DDR to /Power/VPP_DDR.
+Reconnect via from VPP_DDR to /Power/VPP_DDR.
+Remove unused footprint C158.
+Remove unused footprint C162.
+Remove unused footprint C211.
+Remove unused footprint C250.
+Remove unused footprint LNK1.
+Remove unused footprint LNK11.
+Remove unused footprint LNK2.
+Remove unused footprint LNK4.
+Remove unused footprint LNK7.
+Remove unused footprint LNK8.
+Remove unused footprint R67.
+Update BOOT0_2 fields.
+Update BOOT0_2 sheetfile to 'mp257-devboard.kicad_sch'.
+Update C1 fields.
+Update C1 footprint filters to 'C_*'.
+Update C1 sheetfile to 'power.kicad_sch'.
+Update C1 sheetname to '/Power/'.
+Update C1 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/b7ba7f76-4602-47f2-b287-a3bbd126b44a.
+Update C10 fields.
+Update C10 footprint filters to 'C_*'.
+Update C10 sheetfile to 'power.kicad_sch'.
+Update C10 sheetname to '/Power/'.
+Update C10 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/ae5aee76-c278-4cb8-bb99-1022469dd673.
+Update C11 fields.
+Update C11 footprint filters to 'C_*'.
+Update C11 sheetfile to 'power.kicad_sch'.
+Update C11 sheetname to '/Power/'.
+Update C11 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/31283919-9b0d-49fe-87b5-c5d76bb1d614.
+Update C1141 fields.
+Update C1141 footprint filters to 'C_*'.
+Update C1141 sheetfile to 'power.kicad_sch'.
+Update C1141 sheetname to '/Power/'.
+Update C1141 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/5dadc34b-8fd3-42d7-979e-e5e4f15b2ed9.
+Update C12 fields.
+Update C12 footprint filters to 'C_*'.
+Update C12 sheetfile to 'power.kicad_sch'.
+Update C12 sheetname to '/Power/'.
+Update C12 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c355bb2c-0ca8-4c3a-b559-9841417c97b6.
+Update C120 fields.
+Update C120 sheetfile to 'mp257-devboard.kicad_sch'.
+Update C13 fields.
+Update C13 footprint filters to 'C_*'.
+Update C13 sheetfile to 'power.kicad_sch'.
+Update C13 sheetname to '/Power/'.
+Update C13 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/1743e3ca-2e3a-436e-a03a-a3848df087ec.
+Update C142 fields.
+Update C142 footprint filters to 'C_*'.
+Update C142 sheetfile to 'power.kicad_sch'.
+Update C142 sheetname to '/Power/'.
+Update C142 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/7ebb9ec2-4fbb-40dd-a660-c9248fcde779.
+Update C145 fields.
+Update C145 footprint filters to 'C_*'.
+Update C145 sheetfile to 'ddr.kicad_sch'.
+Update C145 sheetname to '/DDR/'.
+Update C145 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/cae70e41-626b-4547-9d08-69ad85effc04.
+Update C146 fields.
+Update C146 footprint filters to 'C_*'.
+Update C146 sheetfile to 'ddr.kicad_sch'.
+Update C146 sheetname to '/DDR/'.
+Update C146 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/589c909f-47bf-49c1-a2a2-2cf42ca1ba27.
+Update C147 fields.
+Update C147 footprint filters to 'C_*'.
+Update C147 sheetfile to 'ddr.kicad_sch'.
+Update C147 sheetname to '/DDR/'.
+Update C147 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/d13ac15c-2b61-4fad-8b22-41e40f37bc9c.
+Update C148 fields.
+Update C148 footprint filters to 'C_*'.
+Update C148 sheetfile to 'ddr.kicad_sch'.
+Update C148 sheetname to '/DDR/'.
+Update C148 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/3c2c7e6f-a6fb-4e07-8327-ec16d36414eb.
+Update C149 fields.
+Update C149 footprint filters to 'C_*'.
+Update C149 sheetfile to 'ddr.kicad_sch'.
+Update C149 sheetname to '/DDR/'.
+Update C149 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/c84faebd-f607-4e29-95cd-17c88e30b697.
+Update C15 fields.
+Update C15 footprint filters to 'C_*'.
+Update C15 sheetfile to 'power.kicad_sch'.
+Update C15 sheetname to '/Power/'.
+Update C15 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/96083eda-27ef-43c6-8cca-847ad99b0107.
+Update C152 fields.
+Update C152 footprint filters to 'C_*'.
+Update C152 sheetfile to 'power.kicad_sch'.
+Update C152 sheetname to '/Power/'.
+Update C152 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/48dba6cd-f211-454f-a3df-aac17d6e070c.
+Update C153 fields.
+Update C153 footprint filters to 'C_*'.
+Update C153 sheetfile to 'power.kicad_sch'.
+Update C153 sheetname to '/Power/'.
+Update C153 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/295cae37-d655-4cf2-88b0-68aa51356286.
+Update C154 fields.
+Update C154 footprint filters to 'C_*'.
+Update C154 sheetfile to 'power.kicad_sch'.
+Update C154 sheetname to '/Power/'.
+Update C154 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/29445bf4-1be2-487f-a4e2-1c7fdb00e7c8.
+Update C156 fields.
+Update C156 footprint filters to 'C_*'.
+Update C156 sheetfile to 'power.kicad_sch'.
+Update C156 sheetname to '/Power/'.
+Update C156 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/11e3c351-a46c-45ca-a9a4-31f7a585ee46.
+Update C157 fields.
+Update C157 footprint filters to 'C_*'.
+Update C157 sheetfile to 'power.kicad_sch'.
+Update C157 sheetname to '/Power/'.
+Update C157 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/07f40144-cd9a-4292-bc3d-734e974099cf.
+Update C16 fields.
+Update C16 footprint filters to 'C_*'.
+Update C16 sheetfile to 'power.kicad_sch'.
+Update C16 sheetname to '/Power/'.
+Update C16 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d545d1d6-db72-426c-aa52-f2c0f03ca915.
+Update C17 fields.
+Update C17 footprint filters to 'C_*'.
+Update C17 sheetfile to 'power.kicad_sch'.
+Update C17 sheetname to '/Power/'.
+Update C17 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/0944d4cb-62c3-48d5-9035-b2d3b9afb07b.
+Update C183 fields.
+Update C183 footprint filters to 'C_*'.
+Update C183 sheetfile to 'power.kicad_sch'.
+Update C183 sheetname to '/Power/'.
+Update C183 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c8eed0d0-84fa-4d76-acf9-357bd8ddfc03.
+Update C184 fields.
+Update C184 footprint filters to 'C_*'.
+Update C184 sheetfile to 'power.kicad_sch'.
+Update C184 sheetname to '/Power/'.
+Update C184 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/bf27faae-6d6c-4fb3-a6aa-6fb0f81c521f.
+Update C186 fields.
+Update C186 footprint filters to 'C_*'.
+Update C186 sheetfile to 'power.kicad_sch'.
+Update C186 sheetname to '/Power/'.
+Update C186 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/4af32fa1-cc7e-42b3-b326-5c1d0cdaaf4d.
+Update C187 fields.
+Update C187 footprint filters to 'C_*'.
+Update C187 sheetfile to 'power.kicad_sch'.
+Update C187 sheetname to '/Power/'.
+Update C187 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/afdb3c30-b50d-4ec1-9f29-6d9130166511.
+Update C188 fields.
+Update C188 footprint filters to 'C_*'.
+Update C188 sheetfile to 'power.kicad_sch'.
+Update C188 sheetname to '/Power/'.
+Update C188 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c5124fd5-51c8-4d26-b97f-987f38b6dd1f.
+Update C189 fields.
+Update C189 footprint filters to 'C_*'.
+Update C189 sheetfile to 'power.kicad_sch'.
+Update C189 sheetname to '/Power/'.
+Update C189 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/09c53ed0-80d9-4a85-a3a5-d3616dfc25e3.
+Update C19 fields.
+Update C19 footprint filters to 'C_*'.
+Update C19 sheetfile to 'power.kicad_sch'.
+Update C19 sheetname to '/Power/'.
+Update C19 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d3c13919-ad0c-4f34-bf16-183aa3e2f11c.
+Update C190 fields.
+Update C190 footprint filters to 'C_*'.
+Update C190 sheetfile to 'power.kicad_sch'.
+Update C190 sheetname to '/Power/'.
+Update C190 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/bafbb269-47e5-417e-bcec-51c23afe3c8d.
+Update C192 fields.
+Update C192 footprint filters to 'C_*'.
+Update C192 sheetfile to 'power.kicad_sch'.
+Update C192 sheetname to '/Power/'.
+Update C192 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/b46f0b7c-76ed-46d2-bbed-79491879bc1a.
+Update C193 fields.
+Update C193 footprint filters to 'C_*'.
+Update C193 sheetfile to 'power.kicad_sch'.
+Update C193 sheetname to '/Power/'.
+Update C193 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/208c6416-02bc-401f-9120-a7aeb0c0c6ab.
+Update C194 fields.
+Update C194 footprint filters to 'C_*'.
+Update C194 sheetfile to 'ddr.kicad_sch'.
+Update C194 sheetname to '/DDR/'.
+Update C194 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/2257073b-36a7-4663-a3f0-374ca96cb709.
+Update C195 fields.
+Update C195 footprint filters to 'C_*'.
+Update C195 sheetfile to 'power.kicad_sch'.
+Update C195 sheetname to '/Power/'.
+Update C195 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/18cb729b-88e4-4fb8-846a-81814485bb58.
+Update C196 fields.
+Update C196 footprint filters to 'C_*'.
+Update C196 sheetfile to 'power.kicad_sch'.
+Update C196 sheetname to '/Power/'.
+Update C196 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a5b2f13a-75b5-4336-a7e0-8b2a42aa33f3.
+Update C199 fields.
+Update C199 footprint filters to 'C_*'.
+Update C199 sheetfile to 'power.kicad_sch'.
+Update C199 sheetname to '/Power/'.
+Update C199 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/573de141-c728-4009-b966-ba73616fdc13.
+Update C2 fields.
+Update C2 footprint filters to 'C_*'.
+Update C2 sheetfile to 'power.kicad_sch'.
+Update C2 sheetname to '/Power/'.
+Update C2 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/716e7032-24c0-4209-877c-9789a430637c.
+Update C20 fields.
+Update C20 footprint filters to 'C_*'.
+Update C20 sheetfile to 'power.kicad_sch'.
+Update C20 sheetname to '/Power/'.
+Update C20 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/bd4a3f83-0bc2-4983-9a21-471d031ed5bf.
+Update C200 fields.
+Update C200 footprint filters to 'C_*'.
+Update C200 sheetfile to 'power.kicad_sch'.
+Update C200 sheetname to '/Power/'.
+Update C200 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/31b11983-5dd7-462a-a433-466cd82d1d54.
+Update C201 fields.
+Update C201 footprint filters to 'C_*'.
+Update C201 sheetfile to 'power.kicad_sch'.
+Update C201 sheetname to '/Power/'.
+Update C201 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/1b57b2f1-1250-4fcf-92c4-5ec0ee8bf841.
+Update C202 fields.
+Update C202 footprint filters to 'C_*'.
+Update C202 sheetfile to 'power.kicad_sch'.
+Update C202 sheetname to '/Power/'.
+Update C202 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/17d46b84-372f-4448-a507-ca71bdfdc4a5.
+Update C203 fields.
+Update C203 footprint filters to 'C_*'.
+Update C203 sheetfile to 'ddr.kicad_sch'.
+Update C203 sheetname to '/DDR/'.
+Update C203 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/e9d397eb-049d-4274-ad29-c40415578f21.
+Update C204 fields.
+Update C204 footprint filters to 'C_*'.
+Update C204 sheetfile to 'power.kicad_sch'.
+Update C204 sheetname to '/Power/'.
+Update C204 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a807160c-3e3e-46e6-ba1a-1a035be4f1f6.
+Update C205 fields.
+Update C205 footprint filters to 'C_*'.
+Update C205 sheetfile to 'ddr.kicad_sch'.
+Update C205 sheetname to '/DDR/'.
+Update C205 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/8ced3ee6-946e-4feb-bd6c-cf37a7fb75ea.
+Update C206 fields.
+Update C206 footprint filters to 'C_*'.
+Update C206 sheetfile to 'power.kicad_sch'.
+Update C206 sheetname to '/Power/'.
+Update C206 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/1967a504-6703-41b4-a80d-74543df4c858.
+Update C207 fields.
+Update C207 footprint filters to 'C_*'.
+Update C207 sheetfile to 'power.kicad_sch'.
+Update C207 sheetname to '/Power/'.
+Update C207 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d2cfaa10-efcb-4451-9154-c0b7015f8e4e.
+Update C208 fields.
+Update C208 footprint filters to 'C_*'.
+Update C208 sheetfile to 'power.kicad_sch'.
+Update C208 sheetname to '/Power/'.
+Update C208 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/30ce2e1d-5460-4894-9c97-4789d7b35ead.
+Update C209 fields.
+Update C209 footprint filters to 'C_*'.
+Update C209 sheetfile to 'power.kicad_sch'.
+Update C209 sheetname to '/Power/'.
+Update C209 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d1e77911-2b08-4e9a-9a7e-9db2aa5f8d05.
+Update C21 fields.
+Update C21 footprint filters to 'C_*'.
+Update C21 sheetfile to 'power.kicad_sch'.
+Update C21 sheetname to '/Power/'.
+Update C21 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/1a76e337-4b20-44b9-9747-71b7dd8dae01.
+Update C210 fields.
+Update C210 sheetfile to 'mp257-devboard.kicad_sch'.
+Update C212 fields.
+Update C212 footprint filters to 'C_*'.
+Update C212 sheetfile to 'ddr.kicad_sch'.
+Update C212 sheetname to '/DDR/'.
+Update C212 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/81815304-d967-4571-bc6e-8655168495c4.
+Update C213 fields.
+Update C213 footprint filters to 'C_*'.
+Update C213 sheetfile to 'ddr.kicad_sch'.
+Update C213 sheetname to '/DDR/'.
+Update C213 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/1167a1a6-1366-4562-81d9-d8261358cc8e.
+Update C214 fields.
+Update C214 footprint filters to 'C_*'.
+Update C214 sheetfile to 'ddr.kicad_sch'.
+Update C214 sheetname to '/DDR/'.
+Update C214 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/1423a381-20d0-4dfe-99ed-42b0ec48153d.
+Update C215 fields.
+Update C215 footprint filters to 'C_*'.
+Update C215 sheetfile to 'ddr.kicad_sch'.
+Update C215 sheetname to '/DDR/'.
+Update C215 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/8f46f53a-52e6-4d66-94bb-df72378ee901.
+Update C216 fields.
+Update C216 footprint filters to 'C_*'.
+Update C216 sheetfile to 'ddr.kicad_sch'.
+Update C216 sheetname to '/DDR/'.
+Update C216 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/2088b09d-a533-4ef4-b15d-a8dee1fd12b8.
+Update C217 fields.
+Update C217 footprint filters to 'C_*'.
+Update C217 sheetfile to 'power.kicad_sch'.
+Update C217 sheetname to '/Power/'.
+Update C217 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/4bfc1638-d1f7-42f8-a4f1-af0471e18138.
+Update C218 fields.
+Update C218 footprint filters to 'C_*'.
+Update C218 sheetfile to 'ddr.kicad_sch'.
+Update C218 sheetname to '/DDR/'.
+Update C218 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/7f32ab30-6279-4b94-b54f-7c79e110c184.
+Update C219 fields.
+Update C219 footprint filters to 'C_*'.
+Update C219 sheetfile to 'ddr.kicad_sch'.
+Update C219 sheetname to '/DDR/'.
+Update C219 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/9d39c764-3613-43e6-b7af-385b98214cf4.
+Update C22 fields.
+Update C22 footprint filters to 'C_*'.
+Update C22 sheetfile to 'power.kicad_sch'.
+Update C22 sheetname to '/Power/'.
+Update C22 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/ae610b27-c2c3-46c6-9cff-7c394d15310f.
+Update C220 fields.
+Update C220 footprint filters to 'C_*'.
+Update C220 sheetfile to 'power.kicad_sch'.
+Update C220 sheetname to '/Power/'.
+Update C220 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/490871bc-d487-4762-b8e8-4ba539642f95.
+Update C221 fields.
+Update C221 footprint filters to 'C_*'.
+Update C221 sheetfile to 'ddr.kicad_sch'.
+Update C221 sheetname to '/DDR/'.
+Update C221 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/914d36c7-bd22-46df-baa7-c5f4f762481a.
+Update C225 fields.
+Update C225 footprint filters to 'C_*'.
+Update C225 sheetfile to 'power.kicad_sch'.
+Update C225 sheetname to '/Power/'.
+Update C225 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/3adcec2d-4054-4f9d-8b7c-cd7620700ec6.
+Update C23 fields.
+Update C23 footprint filters to 'C_*'.
+Update C23 sheetfile to 'power.kicad_sch'.
+Update C23 sheetname to '/Power/'.
+Update C23 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/8032e039-3a6a-4f48-9646-601abf286a20.
+Update C234 fields.
+Update C234 footprint filters to 'C_*'.
+Update C234 sheetfile to 'power.kicad_sch'.
+Update C234 sheetname to '/Power/'.
+Update C234 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/7d8c2de9-2af7-4c12-a4a5-208cf089c3a2.
+Update C235 fields.
+Update C235 footprint filters to 'C_*'.
+Update C235 sheetfile to 'power.kicad_sch'.
+Update C235 sheetname to '/Power/'.
+Update C235 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/9e6f5dfe-6473-481b-9585-10238e9268fe.
+Update C236 fields.
+Update C236 footprint filters to 'C_*'.
+Update C236 sheetfile to 'power.kicad_sch'.
+Update C236 sheetname to '/Power/'.
+Update C236 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/07c13a9c-b79a-4ba4-968b-5068b4e5fbb0.
+Update C237 fields.
+Update C237 footprint filters to 'C_*'.
+Update C237 sheetfile to 'power.kicad_sch'.
+Update C237 sheetname to '/Power/'.
+Update C237 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/099584d2-511c-49ee-ac20-695aa7f78ce3.
+Update C238 fields.
+Update C238 footprint filters to 'C_*'.
+Update C238 sheetfile to 'power.kicad_sch'.
+Update C238 sheetname to '/Power/'.
+Update C238 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/3f8cf6a3-c336-4b0d-978b-9b6e1d086f01.
+Update C239 fields.
+Update C239 footprint filters to 'C_*'.
+Update C239 sheetfile to 'power.kicad_sch'.
+Update C239 sheetname to '/Power/'.
+Update C239 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/8d2ac6d9-2823-4768-af92-f1a744530d55.
+Update C24 fields.
+Update C24 footprint filters to 'C_*'.
+Update C24 sheetfile to 'power.kicad_sch'.
+Update C24 sheetname to '/Power/'.
+Update C24 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/eb014ca6-93e9-4f93-9737-498a3725ae0a.
+Update C240 fields.
+Update C240 footprint filters to 'C_*'.
+Update C240 sheetfile to 'power.kicad_sch'.
+Update C240 sheetname to '/Power/'.
+Update C240 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/660efdf1-8023-4050-9639-c878c0532834.
+Update C244 fields.
+Update C244 footprint filters to 'C_*'.
+Update C244 sheetfile to 'power.kicad_sch'.
+Update C244 sheetname to '/Power/'.
+Update C244 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/9371ae91-ef85-44ba-9dc9-188d89d70063.
+Update C246 fields.
+Update C246 footprint filters to 'C_*'.
+Update C246 sheetfile to 'power.kicad_sch'.
+Update C246 sheetname to '/Power/'.
+Update C246 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/e0f65b2f-f222-41a2-bdab-eb70200c97e4.
+Update C248 fields.
+Update C248 footprint filters to 'C_*'.
+Update C248 sheetfile to 'power.kicad_sch'.
+Update C248 sheetname to '/Power/'.
+Update C248 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/9332431b-6f41-4dd9-a022-71f70410f013.
+Update C251 fields.
+Update C251 footprint filters to 'C_*'.
+Update C251 sheetfile to 'power.kicad_sch'.
+Update C251 sheetname to '/Power/'.
+Update C251 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/996145b8-4e54-47f8-93b4-b8b106c7a545.
+Update C252 fields.
+Update C252 footprint filters to 'C_*'.
+Update C252 sheetfile to 'power.kicad_sch'.
+Update C252 sheetname to '/Power/'.
+Update C252 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/f7ccb303-eecb-4707-8fdc-a3d2ba78b5f8.
+Update C253 fields.
+Update C253 footprint filters to 'C_*'.
+Update C253 sheetfile to 'power.kicad_sch'.
+Update C253 sheetname to '/Power/'.
+Update C253 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/e5df8132-187d-476d-b461-5bc8992098ae.
+Update C26 fields.
+Update C26 footprint filters to 'C_*'.
+Update C26 sheetfile to 'power.kicad_sch'.
+Update C26 sheetname to '/Power/'.
+Update C26 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a683f89d-a3bc-424c-a554-51f0ffcce22b.
+Update C260 fields.
+Update C260 footprint filters to 'C_*'.
+Update C260 sheetfile to 'power.kicad_sch'.
+Update C260 sheetname to '/Power/'.
+Update C260 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/ee1e2b96-e25b-4bfd-a443-81cf890ea231.
+Update C27 fields.
+Update C27 footprint filters to 'C_*'.
+Update C27 sheetfile to 'power.kicad_sch'.
+Update C27 sheetname to '/Power/'.
+Update C27 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/2dce1651-5a47-41bd-86fa-22ca31cfb8b7.
+Update C28 fields.
+Update C28 footprint filters to 'C_*'.
+Update C28 sheetfile to 'power.kicad_sch'.
+Update C28 sheetname to '/Power/'.
+Update C28 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/bc4eccec-36d0-46b9-9871-db7e8855d4f1.
+Update C29 fields.
+Update C29 footprint filters to 'C_*'.
+Update C29 sheetfile to 'power.kicad_sch'.
+Update C29 sheetname to '/Power/'.
+Update C29 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/60be3b46-00dd-4f4c-a581-87c1aaece346.
+Update C3 fields.
+Update C3 footprint filters to 'C_*'.
+Update C3 sheetfile to 'power.kicad_sch'.
+Update C3 sheetname to '/Power/'.
+Update C3 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d07c0438-573d-48c2-9b52-b62dfa7af605.
+Update C30 fields.
+Update C30 footprint filters to 'C_*'.
+Update C30 sheetfile to 'power.kicad_sch'.
+Update C30 sheetname to '/Power/'.
+Update C30 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/12b7742b-613b-4a1a-be9b-98fd18031a82.
+Update C32 fields.
+Update C32 footprint filters to 'C_*'.
+Update C32 sheetfile to 'power.kicad_sch'.
+Update C32 sheetname to '/Power/'.
+Update C32 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d5520fec-6dc1-4667-91bf-d8e1c068c839.
+Update C34 fields.
+Update C34 footprint filters to 'C_*'.
+Update C34 sheetfile to 'power.kicad_sch'.
+Update C34 sheetname to '/Power/'.
+Update C34 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/0474bac1-1234-485d-a494-47a7e5b541fe.
+Update C35 fields.
+Update C35 footprint filters to 'C_*'.
+Update C35 sheetfile to 'power.kicad_sch'.
+Update C35 sheetname to '/Power/'.
+Update C35 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/79e315f4-d68e-4840-9989-73e7943f55f6.
+Update C36 fields.
+Update C36 footprint filters to 'C_*'.
+Update C36 sheetfile to 'power.kicad_sch'.
+Update C36 sheetname to '/Power/'.
+Update C36 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/3775225b-1005-4f27-9acb-02808b57eeb7.
+Update C37 fields.
+Update C37 footprint filters to 'C_*'.
+Update C37 sheetfile to 'power.kicad_sch'.
+Update C37 sheetname to '/Power/'.
+Update C37 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/00b39ac8-3ef6-47e7-9060-1353b3bb3076.
+Update C38 fields.
+Update C38 footprint filters to 'C_*'.
+Update C38 sheetfile to 'power.kicad_sch'.
+Update C38 sheetname to '/Power/'.
+Update C38 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/76666879-e468-498f-9872-0a6e5194db62.
+Update C39 fields.
+Update C39 footprint filters to 'C_*'.
+Update C39 sheetfile to 'power.kicad_sch'.
+Update C39 sheetname to '/Power/'.
+Update C39 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/7a7cd3f4-5dbc-4574-8dc8-bc222ded17bd.
+Update C4 fields.
+Update C4 footprint filters to 'C_*'.
+Update C4 sheetfile to 'power.kicad_sch'.
+Update C4 sheetname to '/Power/'.
+Update C4 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/32997369-df45-434b-b7bc-bf09350da8aa.
+Update C40 fields.
+Update C40 footprint filters to 'C_*'.
+Update C40 sheetfile to 'power.kicad_sch'.
+Update C40 sheetname to '/Power/'.
+Update C40 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/5cf982f0-6620-4430-9a77-ba40972e884d.
+Update C41 fields.
+Update C41 footprint filters to 'C_*'.
+Update C41 sheetfile to 'power.kicad_sch'.
+Update C41 sheetname to '/Power/'.
+Update C41 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/b3080a0b-4eb2-4743-9fa8-156b493c01ed.
+Update C43 fields.
+Update C43 footprint filters to 'C_*'.
+Update C43 sheetfile to 'power.kicad_sch'.
+Update C43 sheetname to '/Power/'.
+Update C43 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c014a1a2-8428-4aa6-8f32-3890103cdc28.
+Update C44 fields.
+Update C44 footprint filters to 'C_*'.
+Update C44 sheetfile to 'power.kicad_sch'.
+Update C44 sheetname to '/Power/'.
+Update C44 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c177c520-7521-44fd-9aad-a6b4c7b3a9e8.
+Update C45 fields.
+Update C45 footprint filters to 'C_*'.
+Update C45 sheetfile to 'power.kicad_sch'.
+Update C45 sheetname to '/Power/'.
+Update C45 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/2213b7fe-2624-47c1-b3ae-818e66b06896.
+Update C46 fields.
+Update C46 footprint filters to 'C_*'.
+Update C46 sheetfile to 'power.kicad_sch'.
+Update C46 sheetname to '/Power/'.
+Update C46 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/83c3ef8e-4f02-4249-a943-5df7e12108a6.
+Update C47 fields.
+Update C47 footprint filters to 'C_*'.
+Update C47 sheetfile to 'power.kicad_sch'.
+Update C47 sheetname to '/Power/'.
+Update C47 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c6542b76-1b08-490a-bbf9-a20ca7bbddd5.
+Update C48 fields.
+Update C48 footprint filters to 'C_*'.
+Update C48 sheetfile to 'power.kicad_sch'.
+Update C48 sheetname to '/Power/'.
+Update C48 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/06948897-20d0-4f4e-a4da-c6b4169d0ef8.
+Update C49 fields.
+Update C49 footprint filters to 'C_*'.
+Update C49 sheetfile to 'power.kicad_sch'.
+Update C49 sheetname to '/Power/'.
+Update C49 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/f74dbafa-97cb-4230-87bf-476a991f4868.
+Update C5 fields.
+Update C5 footprint filters to 'C_*'.
+Update C5 sheetfile to 'power.kicad_sch'.
+Update C5 sheetname to '/Power/'.
+Update C5 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/80268417-4a74-4fde-a5e1-860d318d38f6.
+Update C50 fields.
+Update C50 footprint filters to 'C_*'.
+Update C50 sheetfile to 'power.kicad_sch'.
+Update C50 sheetname to '/Power/'.
+Update C50 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/13e777be-958e-4d51-9182-d51e66da1734.
+Update C51 fields.
+Update C51 footprint filters to 'C_*'.
+Update C51 sheetfile to 'power.kicad_sch'.
+Update C51 sheetname to '/Power/'.
+Update C51 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/cc304e7e-406d-41f1-860d-e57156a42608.
+Update C52 fields.
+Update C52 footprint filters to 'C_*'.
+Update C52 sheetfile to 'power.kicad_sch'.
+Update C52 sheetname to '/Power/'.
+Update C52 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/829edc43-6d77-4fa4-9adb-69925f20219b.
+Update C58 fields.
+Update C58 footprint filters to 'C_*'.
+Update C58 sheetfile to 'power.kicad_sch'.
+Update C58 sheetname to '/Power/'.
+Update C58 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c2ed2aa5-9417-4ba0-b1c4-4fae77118bd6.
+Update C59 fields.
+Update C59 footprint filters to 'C_*'.
+Update C59 sheetfile to 'power.kicad_sch'.
+Update C59 sheetname to '/Power/'.
+Update C59 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c308b821-dfe6-4cc6-abec-af060b98df11.
+Update C6 fields.
+Update C6 footprint filters to 'C_*'.
+Update C6 sheetfile to 'power.kicad_sch'.
+Update C6 sheetname to '/Power/'.
+Update C6 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/3f481471-008e-4cb9-95bb-02647a730ad6.
+Update C60 fields.
+Update C60 footprint filters to 'C_*'.
+Update C60 sheetfile to 'ddr.kicad_sch'.
+Update C60 sheetname to '/DDR/'.
+Update C60 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/59ee3bd7-0bd6-4dbe-ae85-7d16dca3d7a0.
+Update C61 fields.
+Update C61 footprint filters to 'C_*'.
+Update C61 sheetfile to 'ddr.kicad_sch'.
+Update C61 sheetname to '/DDR/'.
+Update C61 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/bd14a887-5980-4403-a6bd-78ee5fcd4d01.
+Update C62 fields.
+Update C62 footprint filters to 'C_*'.
+Update C62 sheetfile to 'ddr.kicad_sch'.
+Update C62 sheetname to '/DDR/'.
+Update C62 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/b5608414-34f9-48de-ab38-8e6e750d0ee3.
+Update C63 fields.
+Update C63 footprint filters to 'C_*'.
+Update C63 sheetfile to 'ddr.kicad_sch'.
+Update C63 sheetname to '/DDR/'.
+Update C63 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/8ca3654e-284f-4af9-96d9-e1d1bcd147d7.
+Update C64 fields.
+Update C64 footprint filters to 'C_*'.
+Update C64 sheetfile to 'power.kicad_sch'.
+Update C64 sheetname to '/Power/'.
+Update C64 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/3d9394f0-7cec-4688-ac7b-157d2d3d8900.
+Update C68 fields.
+Update C68 footprint filters to 'C_*'.
+Update C68 sheetfile to 'power.kicad_sch'.
+Update C68 sheetname to '/Power/'.
+Update C68 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/7eb2bd2a-5d11-470d-8c6c-641d16a680f2.
+Update C69 fields.
+Update C69 footprint filters to 'C_*'.
+Update C69 sheetfile to 'power.kicad_sch'.
+Update C69 sheetname to '/Power/'.
+Update C69 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/52f10561-6e83-45e1-9954-8b1369eb8218.
+Update C7 fields.
+Update C7 footprint filters to 'C_*'.
+Update C7 sheetfile to 'power.kicad_sch'.
+Update C7 sheetname to '/Power/'.
+Update C7 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/226ae2e4-128f-4da9-9367-26314771821b.
+Update C70 fields.
+Update C70 footprint filters to 'C_*'.
+Update C70 sheetfile to 'power.kicad_sch'.
+Update C70 sheetname to '/Power/'.
+Update C70 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a7578e3c-a497-424e-8698-606ae17a8ba5.
+Update C71 fields.
+Update C71 footprint filters to 'C_*'.
+Update C71 sheetfile to 'power.kicad_sch'.
+Update C71 sheetname to '/Power/'.
+Update C71 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/e3af59a8-620d-48ab-8add-f232004cf82a.
+Update C72 fields.
+Update C72 footprint filters to 'C_*'.
+Update C72 sheetfile to 'power.kicad_sch'.
+Update C72 sheetname to '/Power/'.
+Update C72 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/939eb04a-e65b-40e6-8b4a-e0f4bcb8b40d.
+Update C74 fields.
+Update C74 footprint filters to 'C_*'.
+Update C74 sheetfile to 'power.kicad_sch'.
+Update C74 sheetname to '/Power/'.
+Update C74 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/cc1de392-9f03-48bd-a7aa-1e66f65952a7.
+Update C75 fields.
+Update C75 footprint filters to 'C_*'.
+Update C75 sheetfile to 'power.kicad_sch'.
+Update C75 sheetname to '/Power/'.
+Update C75 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/ac0deb03-9500-4622-9296-6503c55d0178.
+Update C76 fields.
+Update C76 footprint filters to 'C_*'.
+Update C76 sheetfile to 'power.kicad_sch'.
+Update C76 sheetname to '/Power/'.
+Update C76 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/ce5cd0f9-87b6-4893-8d5b-f7514d66a819.
+Update C77 fields.
+Update C77 footprint filters to 'C_*'.
+Update C77 sheetfile to 'power.kicad_sch'.
+Update C77 sheetname to '/Power/'.
+Update C77 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/81d952dc-82e0-4bf4-9f39-7a406ae71d27.
+Update C8 fields.
+Update C8 footprint filters to 'C_*'.
+Update C8 sheetfile to 'power.kicad_sch'.
+Update C8 sheetname to '/Power/'.
+Update C8 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/d785d6e4-a699-4635-9948-d4649dd489f3.
+Update C82 fields.
+Update C82 footprint filters to 'C_*'.
+Update C82 sheetfile to 'power.kicad_sch'.
+Update C82 sheetname to '/Power/'.
+Update C82 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/4fb276ab-0b78-4173-b4b9-c5b9ae7caddb.
+Update C83 fields.
+Update C83 footprint filters to 'C_*'.
+Update C83 sheetfile to 'ddr.kicad_sch'.
+Update C83 sheetname to '/DDR/'.
+Update C83 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/1ec09311-c6a8-491f-818c-1b376febd58c.
+Update C84 fields.
+Update C84 footprint filters to 'C_*'.
+Update C84 sheetfile to 'ddr.kicad_sch'.
+Update C84 sheetname to '/DDR/'.
+Update C84 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/ae8f1c6b-c86c-4d8f-97ab-889a986bf213.
+Update C85 fields.
+Update C85 footprint filters to 'C_*'.
+Update C85 sheetfile to 'ddr.kicad_sch'.
+Update C85 sheetname to '/DDR/'.
+Update C85 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/53420a4f-5396-49aa-b955-2c8609b88afb.
+Update C88 fields.
+Update C88 footprint filters to 'C_*'.
+Update C88 sheetfile to 'ddr.kicad_sch'.
+Update C88 sheetname to '/DDR/'.
+Update C88 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/f6d82bbe-c792-4bf6-8a56-cb582e823515.
+Update C90 fields.
+Update C90 footprint filters to 'C_*'.
+Update C90 sheetfile to 'mp257-devboard.kicad_sch'.
+Update C90 sheetname to '/'.
+Update C90 symbol association from  to /89589051-d0bc-4928-a1ca-2e40c8d6ccf1.
+Update C91 fields.
+Update C91 footprint filters to 'C_*'.
+Update C91 sheetfile to 'power.kicad_sch'.
+Update C91 sheetname to '/Power/'.
+Update C91 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a60618a8-0bc7-42e7-8c4a-e046e4ac47ae.
+Update C92 fields.
+Update C92 footprint filters to 'C_*'.
+Update C92 sheetfile to 'mp257-devboard.kicad_sch'.
+Update C92 sheetname to '/'.
+Update C92 symbol association from  to /c9b6a89c-03df-4629-8a12-18640a4b8b7c.
+Update CON1 fields.
+Update CON1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update H1 fields.
+Update H1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update H2 fields.
+Update H2 sheetfile to 'mp257-devboard.kicad_sch'.
+Update H3 fields.
+Update H3 sheetfile to 'mp257-devboard.kicad_sch'.
+Update H4 fields.
+Update H4 sheetfile to 'mp257-devboard.kicad_sch'.
+Update J1 fields.
+Update J1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update J2 fields.
+Update J2 sheetfile to 'mp257-devboard.kicad_sch'.
+Update J3 fields.
+Update J3 sheetfile to 'mp257-devboard.kicad_sch'.
+Update J4 fields.
+Update J4 sheetfile to 'mp257-devboard.kicad_sch'.
+Update J5 fields.
+Update J5 sheetfile to 'mp257-devboard.kicad_sch'.
+Update J6 fields.
+Update J6 sheetfile to 'mp257-devboard.kicad_sch'.
+Update JP1 fields.
+Update JP1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update JP2 fields.
+Update JP2 sheetfile to 'mp257-devboard.kicad_sch'.
+Update JP3 fields.
+Update JP3 sheetfile to 'mp257-devboard.kicad_sch'.
+Update L1 fields.
+Update L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L1 sheetfile to 'power.kicad_sch'.
+Update L1 sheetname to '/Power/'.
+Update L1 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/338b6a92-429c-439f-85e3-d6cb85dd6adc.
+Update L2 fields.
+Update L2 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L2 sheetfile to 'power.kicad_sch'.
+Update L2 sheetname to '/Power/'.
+Update L2 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/0e027fd4-1996-414a-b668-9150748f2dbc.
+Update L3 fields.
+Update L3 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L3 sheetfile to 'power.kicad_sch'.
+Update L3 sheetname to '/Power/'.
+Update L3 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/17e4b4d4-7cc6-4e4d-abf0-69cfa05fdeb7.
+Update L4 fields.
+Update L4 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L4 sheetfile to 'power.kicad_sch'.
+Update L4 sheetname to '/Power/'.
+Update L4 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/872afd5d-0e4a-47ca-82d7-eebb2f4bdf05.
+Update L5 fields.
+Update L5 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L5 sheetfile to 'power.kicad_sch'.
+Update L5 sheetname to '/Power/'.
+Update L5 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/106fc561-82a0-4dab-8427-3e222afff123.
+Update L6 fields.
+Update L6 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L6 sheetfile to 'power.kicad_sch'.
+Update L6 sheetname to '/Power/'.
+Update L6 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/afff457f-7d90-4926-b222-9810969a6741.
+Update L7 fields.
+Update L7 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Update L7 sheetfile to 'power.kicad_sch'.
+Update L7 sheetname to '/Power/'.
+Update L7 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/5b42d947-7e8c-4cd0-8112-9c05a6e0a764.
+Update NT2 fields.
+Update NT2 footprint filters to ''.
+Update NT2 sheetfile to 'power.kicad_sch'.
+Update NT2 sheetname to '/Power/'.
+Update NT2 symbol association from /88f7976c-b68e-4a07-b333-29c46f290c30 to /200f2e9a-f79b-4306-8e51-ebf831da81bb/fb883e20-ba28-491b-80d0-cbaa823ce6b7.
+Update R1 fields.
+Update R1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R10 fields.
+Update R10 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R11 fields.
+Update R11 footprint filters to 'R_* R*'.
+Update R11 sheetfile to 'power.kicad_sch'.
+Update R11 sheetname to '/Power/'.
+Update R11 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/4fc5c18c-3811-44a4-a37d-07c706fd672e.
+Update R12 fields.
+Update R12 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R141 fields.
+Update R141 footprint filters to 'R_* R*'.
+Update R141 sheetfile to 'ddr.kicad_sch'.
+Update R141 sheetname to '/DDR/'.
+Update R141 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/4dbde6d8-5ce3-4dad-b014-25d871843707.
+Update R142 fields.
+Update R142 footprint filters to 'R_* R*'.
+Update R142 sheetfile to 'ddr.kicad_sch'.
+Update R142 sheetname to '/DDR/'.
+Update R142 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/3a06ae26-f579-40da-9650-1f045b46ced9.
+Update R165 fields.
+Update R165 footprint filters to 'R_* R*'.
+Update R165 sheetfile to 'ddr.kicad_sch'.
+Update R165 sheetname to '/DDR/'.
+Update R165 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/9f74bf09-f672-4ef3-92f5-3eb39d21dac9.
+Update R166 fields.
+Update R166 footprint filters to 'R_* R*'.
+Update R166 sheetfile to 'ddr.kicad_sch'.
+Update R166 sheetname to '/DDR/'.
+Update R166 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/d3e7e0a8-76da-41f5-aea8-d17009a98a68.
+Update R167 fields.
+Update R167 footprint filters to 'R_* R*'.
+Update R167 sheetfile to 'ddr.kicad_sch'.
+Update R167 sheetname to '/DDR/'.
+Update R167 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/6f426332-6bd0-40f1-a23b-d506cee4fa3a.
+Update R168 fields.
+Update R168 footprint filters to 'R_* R*'.
+Update R168 sheetfile to 'ddr.kicad_sch'.
+Update R168 sheetname to '/DDR/'.
+Update R168 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/e404a83f-e2a9-4fd4-8cb1-b8485d63a9d5.
+Update R169 fields.
+Update R169 footprint filters to 'R_* R*'.
+Update R169 sheetfile to 'ddr.kicad_sch'.
+Update R169 sheetname to '/DDR/'.
+Update R169 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/2c859bf0-87ec-46b5-bf3b-60c015ff522d.
+Update R170 fields.
+Update R170 footprint filters to 'R_* R*'.
+Update R170 sheetfile to 'ddr.kicad_sch'.
+Update R170 sheetname to '/DDR/'.
+Update R170 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/1a94f647-4dcf-4669-a0ab-e72845f5cce5.
+Update R171 fields.
+Update R171 footprint filters to 'R_* R*'.
+Update R171 sheetfile to 'ddr.kicad_sch'.
+Update R171 sheetname to '/DDR/'.
+Update R171 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/2d5f4bea-d940-4a12-8ae2-b09f28a21d92.
+Update R174 fields.
+Update R174 footprint filters to 'R_* R*'.
+Update R174 sheetfile to 'ddr.kicad_sch'.
+Update R174 sheetname to '/DDR/'.
+Update R174 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/399c911b-4fb0-43cf-aa58-3e303f9c8de5.
+Update R175 fields.
+Update R175 footprint filters to 'R_* R*'.
+Update R175 sheetfile to 'ddr.kicad_sch'.
+Update R175 sheetname to '/DDR/'.
+Update R175 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/f5f19737-fa86-44f3-b4d1-0ca52a76ab93.
+Update R176 fields.
+Update R176 footprint filters to 'R_* R*'.
+Update R176 sheetfile to 'ddr.kicad_sch'.
+Update R176 sheetname to '/DDR/'.
+Update R176 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/5a4fbe96-9dc2-4896-a006-6af1b6f4b7c0.
+Update R177 fields.
+Update R177 footprint filters to 'R_* R*'.
+Update R177 sheetfile to 'ddr.kicad_sch'.
+Update R177 sheetname to '/DDR/'.
+Update R177 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/7ab14777-cf4c-4848-bd85-2b6f53a0c3a5.
+Update R178 fields.
+Update R178 footprint filters to 'R_* R*'.
+Update R178 sheetfile to 'ddr.kicad_sch'.
+Update R178 sheetname to '/DDR/'.
+Update R178 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/5b18e1ad-829a-40fc-b61d-2555ac177517.
+Update R180 fields.
+Update R180 footprint filters to 'R_* R*'.
+Update R180 sheetfile to 'ddr.kicad_sch'.
+Update R180 sheetname to '/DDR/'.
+Update R180 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/b9c0b508-0187-4432-8524-716add042984.
+Update R181 fields.
+Update R181 footprint filters to 'R_* R*'.
+Update R181 sheetfile to 'ddr.kicad_sch'.
+Update R181 sheetname to '/DDR/'.
+Update R181 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/9bfb975a-8243-4608-8d5c-887b6b79e784.
+Update R182 fields.
+Update R182 footprint filters to 'R_* R*'.
+Update R182 sheetfile to 'ddr.kicad_sch'.
+Update R182 sheetname to '/DDR/'.
+Update R182 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/3be5005f-c882-4f86-99b0-c8a366fc6e34.
+Update R183 fields.
+Update R183 footprint filters to 'R_* R*'.
+Update R183 sheetfile to 'ddr.kicad_sch'.
+Update R183 sheetname to '/DDR/'.
+Update R183 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/37f0ab3e-61a0-4b97-a035-cec2efd16141.
+Update R185 fields.
+Update R185 footprint filters to 'R_* R*'.
+Update R185 sheetfile to 'ddr.kicad_sch'.
+Update R185 sheetname to '/DDR/'.
+Update R185 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/db5bc878-c490-4fd9-b470-c0fc202f20d3.
+Update R186 fields.
+Update R186 footprint filters to 'R_* R*'.
+Update R186 sheetfile to 'ddr.kicad_sch'.
+Update R186 sheetname to '/DDR/'.
+Update R186 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/2b4f2f5d-cfbe-4cc9-ad7a-3991fb187419.
+Update R187 fields.
+Update R187 footprint filters to 'R_* R*'.
+Update R187 sheetfile to 'ddr.kicad_sch'.
+Update R187 sheetname to '/DDR/'.
+Update R187 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/59bee01d-710a-4e49-af7c-566fcdac0815.
+Update R188 fields.
+Update R188 footprint filters to 'R_* R*'.
+Update R188 sheetfile to 'ddr.kicad_sch'.
+Update R188 sheetname to '/DDR/'.
+Update R188 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/06bd4be3-9867-41ad-af0e-22e53ea75380.
+Update R189 fields.
+Update R189 footprint filters to 'R_* R*'.
+Update R189 sheetfile to 'ddr.kicad_sch'.
+Update R189 sheetname to '/DDR/'.
+Update R189 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/a63bbe0d-5a4d-46ff-8e00-32c5c56a72e3.
+Update R190 fields.
+Update R190 footprint filters to 'R_* R*'.
+Update R190 sheetfile to 'ddr.kicad_sch'.
+Update R190 sheetname to '/DDR/'.
+Update R190 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/91b09d2b-1682-4e8f-bea2-668be3fcffb7.
+Update R191 fields.
+Update R191 footprint filters to 'R_* R*'.
+Update R191 sheetfile to 'ddr.kicad_sch'.
+Update R191 sheetname to '/DDR/'.
+Update R191 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/098088e7-642d-49cb-88fa-1ff8c828ed45.
+Update R192 fields.
+Update R192 footprint filters to 'R_* R*'.
+Update R192 sheetfile to 'ddr.kicad_sch'.
+Update R192 sheetname to '/DDR/'.
+Update R192 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/5ed14ab1-fb72-4557-ac1f-c3058ae73872.
+Update R193 fields.
+Update R193 footprint filters to 'R_* R*'.
+Update R193 sheetfile to 'ddr.kicad_sch'.
+Update R193 sheetname to '/DDR/'.
+Update R193 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/92abbb1d-b81d-4c8d-8638-992a79dd7445.
+Update R194 fields.
+Update R194 footprint filters to 'R_* R*'.
+Update R194 sheetfile to 'ddr.kicad_sch'.
+Update R194 sheetname to '/DDR/'.
+Update R194 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/89013333-808f-476c-851c-d9de8fecbb9c.
+Update R2 fields.
+Update R2 footprint filters to 'R_* R*'.
+Update R2 sheetfile to 'power.kicad_sch'.
+Update R2 sheetname to '/Power/'.
+Update R2 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/ea02ac3d-f7f5-4e6b-bcce-e577982cf903.
+Update R260 fields.
+Update R260 footprint filters to 'R_* R*'.
+Update R260 sheetfile to 'power.kicad_sch'.
+Update R260 sheetname to '/Power/'.
+Update R260 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/66378579-4321-46db-a51c-b7225a13ac2d.
+Update R261 fields.
+Update R261 footprint filters to 'R_* R*'.
+Update R261 sheetfile to 'power.kicad_sch'.
+Update R261 sheetname to '/Power/'.
+Update R261 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/e407ce10-d777-4417-b31a-67e9a5dad9ac.
+Update R267 fields.
+Update R267 footprint filters to 'R_* R*'.
+Update R267 sheetfile to 'power.kicad_sch'.
+Update R267 sheetname to '/Power/'.
+Update R267 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/065ba364-009a-426c-bb8d-bb2d3a3e115a.
+Update R27 fields.
+Update R27 footprint filters to 'R_* R*'.
+Update R27 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R27 sheetname to '/'.
+Update R27 symbol association from  to /0bfaf73e-24ee-4e44-9e32-918233b5cf78.
+Update R272 fields.
+Update R272 footprint filters to 'R_* R*'.
+Update R272 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R272 sheetname to '/'.
+Update R272 symbol association from  to /6d46ee25-da66-4b34-aff3-196f3d70312e.
+Update R286 fields.
+Update R286 footprint filters to 'R_* R*'.
+Update R286 sheetfile to 'power.kicad_sch'.
+Update R286 sheetname to '/Power/'.
+Update R286 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/2c45600f-9535-461b-8074-7b78b1e1be66.
+Update R4 fields.
+Update R4 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R46 fields.
+Update R46 footprint filters to 'R_* R*'.
+Update R46 sheetfile to 'power.kicad_sch'.
+Update R46 sheetname to '/Power/'.
+Update R46 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/34a3f86f-6bd6-425f-bc03-72c8467b8d27.
+Update R5 fields.
+Update R5 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R57 fields.
+Update R57 footprint filters to 'R_* R*'.
+Update R57 sheetfile to 'power.kicad_sch'.
+Update R57 sheetname to '/Power/'.
+Update R57 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a535f2d4-473d-4667-a1fc-f099949a309d.
+Update R59 fields.
+Update R59 footprint filters to 'R_* R*'.
+Update R59 sheetfile to 'power.kicad_sch'.
+Update R59 sheetname to '/Power/'.
+Update R59 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/af192b8a-7ea9-404a-ba47-fcebeda1e796.
+Update R60 fields.
+Update R60 footprint filters to 'R_* R*'.
+Update R60 sheetfile to 'power.kicad_sch'.
+Update R60 sheetname to '/Power/'.
+Update R60 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/02d2a8d6-a590-432f-b56f-1d8a14c7279f.
+Update R72 fields.
+Update R72 sheetfile to 'mp257-devboard.kicad_sch'.
+Update R75 fields.
+Update R75 footprint filters to 'R_* R*'.
+Update R75 sheetfile to 'ddr.kicad_sch'.
+Update R75 sheetname to '/DDR/'.
+Update R75 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/e7de1271-5e37-4049-b4f7-7966ce566ff7.
+Update R81 fields.
+Update R81 footprint filters to 'R_* R*'.
+Update R81 sheetfile to 'power.kicad_sch'.
+Update R81 sheetname to '/Power/'.
+Update R81 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/a108ef39-2ff6-4aa5-891c-1d6fcfbcf2aa.
+Update R9 fields.
+Update R9 sheetfile to 'mp257-devboard.kicad_sch'.
+Update S2 fields.
+Update S2 sheetfile to 'mp257-devboard.kicad_sch'.
+Update S3 fields.
+Update S3 sheetfile to 'mp257-devboard.kicad_sch'.
+Update TP1 fields.
+Update TP1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update U1 fields.
+Update U1 footprint filters to '*ICC_TFBGA424_14X14_P050_H1P20_CODE-B0A2*'.
+Update U1 sheetfile to 'mp257-devboard.kicad_sch'.
+Update U1 sheetname to '/'.
+Update U1 symbol association from  to /ea0c2daa-827c-410c-a26d-4bc484e3ff72.
+Update U15 fields.
+Update U15 footprint filters to '*ICC_FBGA96_TB_7P5X13_P080*'.
+Update U15 sheetfile to 'ddr.kicad_sch'.
+Update U15 sheetname to '/DDR/'.
+Update U15 symbol association from  to /2d5e657e-c95b-4ad6-b4dc-8f322bebdc60/3b8fb060-9a9b-4249-be33-387691d7ac0f.
+Update U26 fields.
+Update U26 footprint filters to '*ICC_QFN56-EPAD_6P5X6P5_P040*'.
+Update U26 sheetfile to 'power.kicad_sch'.
+Update U26 sheetname to '/Power/'.
+Update U26 symbol association from  to /200f2e9a-f79b-4306-8e51-ebf831da81bb/c520bf47-49a8-4651-9de1-f07357834b2b.
+Update U3 fields.
+Update U3 sheetfile to 'mp257-devboard.kicad_sch'.
+Update U5 fields.
+Update U5 sheetfile to 'mp257-devboard.kicad_sch'.
+Update X2 fields.
+Update X2 footprint filters to 'Crystal*'.
+Update X2 sheetfile to 'mp257-devboard.kicad_sch'.
+Update X2 sheetname to '/'.
+Update X2 symbol association from  to /8e4b64b2-2149-4fb1-90f3-8cb5a939e017.
+Warning: No net found for component J1 pad NC (no pin NC in symbol).
+Warning: No net found for component J1 pad NC (no pin NC in symbol).
+Warning: No net found for component J1 pad NC (no pin NC in symbol).
+Warning: No net found for component J1 pad NC (no pin NC in symbol).
+Warning: No net found for component J2 pad NC (no pin NC in symbol).
+Warning: No net found for component J2 pad NC (no pin NC in symbol).
+Warning: No net found for component J2 pad NC (no pin NC in symbol).
+Warning: No net found for component J2 pad NC (no pin NC in symbol).
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
