@@ -15885,16 +15885,6 @@
 		)
 		(uuid "07f946b2-7702-4fbc-9120-2c704c2be8d3")
 	)
-	(label "VPP_DDR"
-		(at 220.98 240.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "082edd19-0eee-4004-a37f-9aed33977709")
-	)
 	(label "DDR_CLK_P"
 		(at 180.34 110.49 0)
 		(effects
@@ -17124,6 +17114,28 @@
 			(justify right bottom)
 		)
 		(uuid "ff34dc0d-676b-4444-a34f-afb8e8755742")
+	)
+	(global_label "VPP_DDR"
+		(shape input)
+		(at 220.98 240.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "497f2f22-558b-492e-94cb-acecf571ba63")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.3714 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "4ms_Resistor_0402:56Ω_0402")

@@ -15641,190 +15641,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "4ms_Resistor_0603:0Ω_0603"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "0Ω_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "0Ω, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "0Ω, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-070RL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "0Ω"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C21189"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "0Ω 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "0Ω_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "0Ω_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Reference_Voltage:MCP1501-18xCH"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -16575,7 +16391,7 @@
 	)
 	(text "2.5V"
 		(exclude_from_sim no)
-		(at 269.24 247.142 0)
+		(at 269.494 249.428 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24704,16 +24520,6 @@
 		)
 		(uuid "3de6fed0-9ec3-44a9-b3cd-30bcee64291f")
 	)
-	(label "VPP_DDR"
-		(at 267.97 245.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "725e2ff7-b4b4-4c6f-a8a0-b5003569aecb")
-	)
 	(label "VDDIO_SDCARD"
 		(at 396.24 311.15 180)
 		(effects
@@ -24723,6 +24529,28 @@
 			(justify right bottom)
 		)
 		(uuid "7f3db519-f75a-410e-b3df-2712a3c4bf99")
+	)
+	(global_label "VPP_DDR"
+		(shape input)
+		(at 267.97 245.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75436d79-ab03-4547-a0b9-c5fc3d8471da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 279.3614 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(hierarchical_label "MP257_WAKEUP"
 		(shape output)
@@ -29048,71 +28876,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 378.46 288.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1e5f1735-4b8d-447f-bf13-989eec520f25")
-		(property "Reference" "#PWR079"
-			(at 378.46 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 378.46 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 378.46 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 378.46 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 378.46 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17958585-1f99-424a-aa98-16e5bed213ff")
-		)
-		(instances
-			(project "mp257-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
-					(reference "#PWR079")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "4ms_Capacitor:22uF_0805_10V")
 		(at 191.77 161.29 0)
 		(unit 1)
@@ -29593,6 +29356,70 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
 					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4ms_Power_Symbol:GNDADC")
+		(at 378.46 288.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27e53786-6fba-4911-9341-fcf7f2b1eee2")
+		(property "Reference" "#PWR079"
+			(at 378.46 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDADC"
+			(at 378.46 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 378.46 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 378.46 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 378.46 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a62fe153-f5da-4d10-b3db-02979ccb3655")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08/200f2e9a-f79b-4306-8e51-ebf831da81bb"
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -33864,7 +33691,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:0Ω_0603")
+		(lib_id "4ms_Resistor_0402:0Ω_0402")
 		(at 306.07 250.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33891,7 +33718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 303.53 263.144 0)
 			(effects
 				(font
@@ -33910,7 +33737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0Ω, 1%, 1/10W, 0603"
+		(property "Description" "0Ω, 1%, 1/16W, 0402"
 			(at 306.07 250.19 0)
 			(effects
 				(font
@@ -33919,7 +33746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0Ω, 1%, 1/10W, 0603"
+		(property "Specifications" "0Ω, 1%, 1/16W, 0402"
 			(at 303.53 257.81 0)
 			(effects
 				(font
@@ -33939,7 +33766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-070RL"
+		(property "Part Number" "RC0402FR-070RL"
 			(at 303.53 261.366 0)
 			(effects
 				(font
@@ -33958,7 +33785,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C21189"
+		(property "JLCPCB ID" "C106231"
 			(at 303.53 264.922 0)
 			(effects
 				(font
