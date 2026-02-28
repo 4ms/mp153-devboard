@@ -18141,17 +18141,6 @@
 		)
 		(uuid "00ef44fd-ee6c-4ca1-aeed-c2d3ef013f37")
 	)
-	(text "ADC-3"
-		(exclude_from_sim no)
-		(at 137.414 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "03129df2-284e-4063-be8b-371e6d8b3c64")
-	)
 	(text "DFU Boot requires\nMP1-DFU-USB bootloader installed"
 		(exclude_from_sim no)
 		(at 331.724 220.472 0)
@@ -18210,17 +18199,6 @@
 		)
 		(uuid "1019f4dc-0c94-4123-aea6-d1ed2f66881f")
 	)
-	(text "ADC-14"
-		(exclude_from_sim no)
-		(at 137.414 107.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "11dcfa46-8fcd-42e9-8e6d-f005a4e3473e")
-	)
 	(text "I2C3_SDA"
 		(exclude_from_sim no)
 		(at 146.558 67.31 0)
@@ -18232,17 +18210,6 @@
 		)
 		(uuid "127083f6-d2fc-403b-b0dc-c0c9eae304ce")
 	)
-	(text "ADC-5"
-		(exclude_from_sim no)
-		(at 137.414 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "18cd77f2-cd79-4f94-b0c4-67038c308fbf")
-	)
 	(text "SAI1_SD_B"
 		(exclude_from_sim no)
 		(at 76.2 119.126 0)
@@ -18253,17 +18220,6 @@
 			(justify right bottom)
 		)
 		(uuid "1915acec-78b1-4ce5-9c1e-56a6fd551079")
-	)
-	(text "ADC-17"
-		(exclude_from_sim no)
-		(at 137.414 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "194e778b-a221-4ee2-afa8-a38b1e9f47e8")
 	)
 	(text "ADC-12"
 		(exclude_from_sim no)
@@ -18397,17 +18353,6 @@
 		)
 		(uuid "36325f6a-37b3-4167-bea2-90ad5aa91002")
 	)
-	(text "ADC-2"
-		(exclude_from_sim no)
-		(at 137.414 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "370fc89b-2025-42ee-a6b0-1d4f3d893323")
-	)
 	(text "SPI3_NSS"
 		(exclude_from_sim no)
 		(at 138.176 69.85 0)
@@ -18480,7 +18425,7 @@
 		)
 		(uuid "44d0956e-9b45-4a39-961b-51e455f8a560")
 	)
-	(text "SPI1-MOSI"
+	(text "SPI-MOSI"
 		(exclude_from_sim no)
 		(at 173.228 123.19 0)
 		(effects
@@ -18512,17 +18457,6 @@
 			(justify left bottom)
 		)
 		(uuid "527128a2-f35f-45a1-b101-579d5ff9d0ac")
-	)
-	(text "ADC-8"
-		(exclude_from_sim no)
-		(at 137.414 105.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "57c11d9a-98fa-4adf-bed3-a50c201eae02")
 	)
 	(text "SAI1_SD_A"
 		(exclude_from_sim no)
@@ -18682,39 +18616,6 @@
 		)
 		(uuid "6cbb1201-04ef-4f49-9f75-cf7fe83cecce")
 	)
-	(text "ADC-15"
-		(exclude_from_sim no)
-		(at 137.414 133.35 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6e0059a1-91c2-441c-99c0-80da3420b4a5")
-	)
-	(text "ADC-7"
-		(exclude_from_sim no)
-		(at 137.414 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "71e4dae6-30ac-4990-b74b-27ef441cedbe")
-	)
-	(text "ADC-6"
-		(exclude_from_sim no)
-		(at 137.922 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "723bf17e-94d8-4cab-b6b3-0ecd367757e9")
-	)
 	(text "ADC-16"
 		(exclude_from_sim no)
 		(at -20.066 341.63 0)
@@ -18725,17 +18626,6 @@
 			(justify left bottom)
 		)
 		(uuid "72a2d7a9-d633-462b-ab13-ef1670c6a4e9")
-	)
-	(text "ADC-13"
-		(exclude_from_sim no)
-		(at 137.922 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "72d0321b-3d52-4e8e-a421-cee3eb54e128")
 	)
 	(text "SPI3_MOSI"
 		(exclude_from_sim no)
@@ -18803,17 +18693,6 @@
 		)
 		(uuid "83ef1373-3f71-45ed-898f-19ba0b3a3c49")
 	)
-	(text "ADC-1"
-		(exclude_from_sim no)
-		(at 137.414 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "87319afa-1a7f-42e9-b4b2-591cfec00fe1")
-	)
 	(text "I2C1_SDA"
 		(exclude_from_sim no)
 		(at 76.454 129.54 0)
@@ -18835,28 +18714,6 @@
 			(justify right bottom)
 		)
 		(uuid "8affe1b1-f73d-47a6-9b93-36101a5cd453")
-	)
-	(text "ADC-16"
-		(exclude_from_sim no)
-		(at 137.414 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8dc796c4-fcce-4fdb-9251-f9a5afe2d41a")
-	)
-	(text "ADC-10"
-		(exclude_from_sim no)
-		(at 137.414 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8de0d01c-2d37-40f3-af29-4a36e889360e")
 	)
 	(text "B"
 		(exclude_from_sim no)
@@ -18884,17 +18741,6 @@
 		)
 		(uuid "9288c316-b0f2-4f2f-bc47-d82b727b9ce4")
 	)
-	(text "ADC-4"
-		(exclude_from_sim no)
-		(at 137.414 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9acfca48-5693-475b-a818-02cba53b2e07")
-	)
 	(text "USB"
 		(exclude_from_sim no)
 		(at 247.65 34.036 0)
@@ -18908,18 +18754,7 @@
 		)
 		(uuid "9e12cdae-ad45-4027-8627-57941d48ad0a")
 	)
-	(text "ADC2-2"
-		(exclude_from_sim no)
-		(at 137.414 118.364 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a130148c-47c9-4bab-9393-da0245e9b6f7")
-	)
-	(text "SPI1-MISO"
+	(text "SPI-MISO"
 		(exclude_from_sim no)
 		(at 173.228 128.27 0)
 		(effects
@@ -18989,7 +18824,7 @@
 	)
 	(text "TIM15.2/2.4/5.4 PWM"
 		(exclude_from_sim no)
-		(at 145.542 123.19 0)
+		(at 184.912 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18997,17 +18832,6 @@
 			(justify left bottom)
 		)
 		(uuid "ba9b8f00-1059-488f-b7b1-972359ad84a7")
-	)
-	(text "ADC-12"
-		(exclude_from_sim no)
-		(at 137.414 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bec3b1b0-0d2a-4222-9f67-d42fd9a3c70d")
 	)
 	(text "ADC-14"
 		(exclude_from_sim no)
@@ -19020,7 +18844,7 @@
 		)
 		(uuid "bf5da263-d701-4f69-93f5-33d692209878")
 	)
-	(text "SPI1-SCK"
+	(text "SPI-SCK"
 		(exclude_from_sim no)
 		(at 173.228 125.73 0)
 		(effects
@@ -19077,7 +18901,7 @@
 		)
 		(uuid "c546eefc-1344-4a1a-81cd-a480bb9a0f2d")
 	)
-	(text "SPI1-NSS"
+	(text "SPI-NSS"
 		(exclude_from_sim no)
 		(at 173.228 130.81 0)
 		(effects
@@ -19147,6 +18971,16 @@
 		)
 		(uuid "d4b86341-fb9e-436e-9228-415b9ecf956e")
 	)
+	(text "SPI3"
+		(exclude_from_sim no)
+		(at 144.78 122.428 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d5f86e3e-09ae-4dc8-98e8-a2dc503ab432")
+	)
 	(text "SPI3-MISO"
 		(exclude_from_sim no)
 		(at -16.51 518.16 0)
@@ -19213,6 +19047,16 @@
 		)
 		(uuid "e3b881de-fb80-446a-a02c-3544f3ce1c62")
 	)
+	(text "SPI5"
+		(exclude_from_sim no)
+		(at 125.73 119.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e7e186e0-8df8-4f24-afd8-f0754385203f")
+	)
 	(text "SAI1_SCK"
 		(exclude_from_sim no)
 		(at 76.2 114.046 0)
@@ -19223,17 +19067,6 @@
 			(justify right bottom)
 		)
 		(uuid "ebf3f982-c503-482d-a55c-be48a1bd483f")
-	)
-	(text "ADC2-6"
-		(exclude_from_sim no)
-		(at 137.922 120.65 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eda538a6-c741-4f1e-8e8d-8e66bc2191dc")
 	)
 	(text "Debugging"
 		(exclude_from_sim no)
@@ -19274,7 +19107,7 @@
 	)
 	(text "TIM3.1/13.1"
 		(exclude_from_sim no)
-		(at 146.05 128.27 0)
+		(at 185.42 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19956,10 +19789,6 @@
 		(uuid "ff2d1995-34cd-427c-b4db-feeebce9dad8")
 	)
 	(no_connect
-		(at 189.23 336.55)
-		(uuid "00073f36-bf2f-4466-bcae-34f4197f1a30")
-	)
-	(no_connect
 		(at 389.89 511.81)
 		(uuid "00870d1c-73a9-4ca2-ab35-018723b8e251")
 	)
@@ -19968,20 +19797,8 @@
 		(uuid "00ffa6d4-6039-42b5-a377-50b5f40353a3")
 	)
 	(no_connect
-		(at 62.23 359.41)
-		(uuid "03bc7d82-847f-41ae-90b5-10e67e499119")
-	)
-	(no_connect
-		(at 232.41 361.95)
-		(uuid "0518b369-be1e-41d3-9c63-3a26c9ee966d")
-	)
-	(no_connect
 		(at 62.23 519.43)
 		(uuid "05967b5c-c5f0-4f9c-8f5d-4681230d070d")
-	)
-	(no_connect
-		(at 232.41 356.87)
-		(uuid "0768f0c0-c106-405f-8305-5f0224d2f035")
 	)
 	(no_connect
 		(at 105.41 509.27)
@@ -19996,28 +19813,12 @@
 		(uuid "0aff33ef-51db-4b7a-a19f-4adb30d95fe0")
 	)
 	(no_connect
-		(at 189.23 377.19)
-		(uuid "0bdc2e22-2923-4804-ba23-f764eccd0b79")
-	)
-	(no_connect
-		(at 232.41 412.75)
-		(uuid "0cd5436b-4db0-48b1-8aec-8b4a0289de31")
-	)
-	(no_connect
-		(at 189.23 344.17)
-		(uuid "0d586010-c5c2-4ee2-b7dd-cf67ef86520b")
-	)
-	(no_connect
 		(at 62.23 450.85)
 		(uuid "0f746eed-d842-43e9-b217-c67f91bfd49c")
 	)
 	(no_connect
 		(at 389.89 527.05)
 		(uuid "12cdbd40-10f5-4100-aa9d-bd84ed7eafba")
-	)
-	(no_connect
-		(at 105.41 402.59)
-		(uuid "12fec7e0-3f49-4b5e-977e-a4683fc5e14b")
 	)
 	(no_connect
 		(at 232.41 524.51)
@@ -20044,28 +19845,12 @@
 		(uuid "20735496-8767-429c-9335-47a04de4963e")
 	)
 	(no_connect
-		(at 62.23 397.51)
-		(uuid "211065cb-a7ae-4010-a63b-e859523c2c6e")
-	)
-	(no_connect
 		(at 189.23 481.33)
 		(uuid "21e4a2fc-6916-4dd1-9c72-d39c911e66e1")
 	)
 	(no_connect
 		(at 346.71 518.16)
 		(uuid "2223bcc4-3512-49a4-83c9-3d6534db8a68")
-	)
-	(no_connect
-		(at 62.23 415.29)
-		(uuid "23ec3e45-aa7d-47bf-9e7e-5a5ea7688b45")
-	)
-	(no_connect
-		(at 232.41 359.41)
-		(uuid "240dd099-dde3-4012-9a3b-e54587510a59")
-	)
-	(no_connect
-		(at 105.41 405.13)
-		(uuid "24e9ad27-bb43-452e-ba51-8421af00a275")
 	)
 	(no_connect
 		(at 346.71 525.78)
@@ -20076,68 +19861,12 @@
 		(uuid "26f08f25-5642-4b84-8d4a-3c7ce09ce04e")
 	)
 	(no_connect
-		(at 189.23 359.41)
-		(uuid "270f7004-39f6-4ef1-a2d8-55916f1942ee")
-	)
-	(no_connect
-		(at 105.41 372.11)
-		(uuid "281e669d-55ec-4ffd-9239-dc189c67ccd7")
-	)
-	(no_connect
-		(at 105.41 341.63)
-		(uuid "2868437a-6e8f-4e88-bc4b-5a291e46589a")
-	)
-	(no_connect
-		(at 105.41 361.95)
-		(uuid "295bd49d-528a-4df3-bcf1-cac1356c644d")
-	)
-	(no_connect
 		(at 346.71 515.62)
 		(uuid "2e388c90-ff7f-48c7-92ae-5be7b1e24b18")
 	)
 	(no_connect
-		(at 62.23 387.35)
-		(uuid "2e3e8316-8bbe-4e15-9bad-7d972ca8c077")
-	)
-	(no_connect
-		(at 189.23 415.29)
-		(uuid "2e659ca4-2257-44b4-82d9-8ceb2f0fdbc2")
-	)
-	(no_connect
-		(at 189.23 356.87)
-		(uuid "2e9cd9d3-fdc9-40af-902f-854f183cc74f")
-	)
-	(no_connect
-		(at 62.23 351.79)
-		(uuid "2f0c369f-750a-409c-b7eb-acfd4209cb46")
-	)
-	(no_connect
-		(at 189.23 410.21)
-		(uuid "32017b8e-341f-4389-ae76-ae35d521f721")
-	)
-	(no_connect
-		(at 232.41 410.21)
-		(uuid "33c5f9e6-c11f-4548-a426-5639e7662e94")
-	)
-	(no_connect
 		(at 105.41 514.35)
 		(uuid "3574bc35-a76f-4f71-9080-8dc47062afae")
-	)
-	(no_connect
-		(at 62.23 354.33)
-		(uuid "3596d2d3-e4dc-491a-a117-e7d02cd0f767")
-	)
-	(no_connect
-		(at 232.41 400.05)
-		(uuid "35aa751f-180a-426a-97be-d28a66b16000")
-	)
-	(no_connect
-		(at 232.41 364.49)
-		(uuid "35b8173d-1c65-4f9d-bd69-4c8a545b69b9")
-	)
-	(no_connect
-		(at 189.23 349.25)
-		(uuid "3930f0ea-e5d7-4b92-b046-d462249cc03b")
 	)
 	(no_connect
 		(at 347.98 487.68)
@@ -20152,28 +19881,8 @@
 		(uuid "3c8d2c66-d3f4-4e11-8b90-6f51c80c5e65")
 	)
 	(no_connect
-		(at 105.41 382.27)
-		(uuid "3d2bdeee-c0bb-4259-b5f1-52528fd47453")
-	)
-	(no_connect
 		(at 389.89 509.27)
 		(uuid "3fe40700-d04e-4741-9442-696f76c641cd")
-	)
-	(no_connect
-		(at 105.41 336.55)
-		(uuid "4071f93c-a167-40ed-893e-bb70e48f99ad")
-	)
-	(no_connect
-		(at 189.23 334.01)
-		(uuid "40f8eeb1-22f7-46a3-b09d-53a59d97ccb1")
-	)
-	(no_connect
-		(at 232.41 397.51)
-		(uuid "4261f972-b24a-4cc5-afc2-94c42f3e865d")
-	)
-	(no_connect
-		(at 189.23 367.03)
-		(uuid "42be165b-a663-481a-baf5-73c0e280945d")
 	)
 	(no_connect
 		(at 62.23 514.35)
@@ -20184,10 +19893,6 @@
 		(uuid "438cbdfa-cb5a-4b9a-a2ac-6e25f111ed10")
 	)
 	(no_connect
-		(at 189.23 351.79)
-		(uuid "44f10c93-5dee-4c43-9634-d6867a0adde4")
-	)
-	(no_connect
 		(at 389.89 519.43)
 		(uuid "45b771af-459b-4198-84dd-9b1e20ffb408")
 	)
@@ -20196,32 +19901,8 @@
 		(uuid "46078db6-e9d3-41ce-a679-634e122a6055")
 	)
 	(no_connect
-		(at 232.41 334.01)
-		(uuid "486f42c1-27f4-46ec-a063-17055fd340ee")
-	)
-	(no_connect
-		(at 105.41 346.71)
-		(uuid "4a309a15-9978-4865-bb07-8a479f65db59")
-	)
-	(no_connect
 		(at 389.89 478.79)
 		(uuid "4a62341a-5df4-4d65-a106-2afa9f06e362")
-	)
-	(no_connect
-		(at 189.23 379.73)
-		(uuid "4c9ab645-3381-4d39-8430-437a828e36bd")
-	)
-	(no_connect
-		(at 105.41 392.43)
-		(uuid "4ce346a1-fb2d-4e33-ab34-4891aac9862a")
-	)
-	(no_connect
-		(at 62.23 356.87)
-		(uuid "50c76480-f84a-43f3-8297-655ed6ce3cbe")
-	)
-	(no_connect
-		(at 62.23 410.21)
-		(uuid "50f3964c-8642-4abe-923a-88023e191dee")
 	)
 	(no_connect
 		(at 389.89 529.59)
@@ -20236,44 +19917,8 @@
 		(uuid "527a9a92-2f34-41a5-8fdc-1746befbe93b")
 	)
 	(no_connect
-		(at 189.23 402.59)
-		(uuid "532f3e0a-3e18-4a1c-a93f-27868268b2cc")
-	)
-	(no_connect
-		(at 189.23 389.89)
-		(uuid "55c4d304-251e-4449-87a4-bc69d6778fbf")
-	)
-	(no_connect
-		(at 189.23 369.57)
-		(uuid "5724b193-3ff2-41aa-a916-434b6466c626")
-	)
-	(no_connect
-		(at 62.23 389.89)
-		(uuid "574f5365-a97c-48c7-99a2-b5fc751e3451")
-	)
-	(no_connect
-		(at 189.23 339.09)
-		(uuid "57510b34-c56b-490d-996d-5dc3be6cef6a")
-	)
-	(no_connect
 		(at 346.71 533.4)
 		(uuid "58bd8a5a-9df1-4431-8e10-75dbb9238eed")
-	)
-	(no_connect
-		(at 105.41 344.17)
-		(uuid "5ac44709-333d-4eb2-a3b8-eec9664abcf1")
-	)
-	(no_connect
-		(at 105.41 359.41)
-		(uuid "5ae26027-d262-4e06-9dc4-a45de2b9fb8e")
-	)
-	(no_connect
-		(at 105.41 384.81)
-		(uuid "5b1c6a19-fd4f-4915-91df-a6c1a07dd6e9")
-	)
-	(no_connect
-		(at 232.41 367.03)
-		(uuid "5b2b3622-54f9-4ba3-973d-61aff17d488e")
 	)
 	(no_connect
 		(at 232.41 506.73)
@@ -20284,40 +19929,12 @@
 		(uuid "5c67742b-3645-4f4c-95fd-564137c8a1d6")
 	)
 	(no_connect
-		(at 232.41 341.63)
-		(uuid "5d360f9c-b536-453a-b459-89d617c92c5c")
-	)
-	(no_connect
-		(at 232.41 351.79)
-		(uuid "5df09cfe-38d7-48a5-8d48-685e070ac573")
-	)
-	(no_connect
 		(at 304.8 477.52)
 		(uuid "5e1737a3-eef2-4ed0-b0f9-23344b2040fd")
 	)
 	(no_connect
-		(at 232.41 339.09)
-		(uuid "5eef8239-8d46-43e1-bdd0-2e46c8f1f480")
-	)
-	(no_connect
-		(at 232.41 354.33)
-		(uuid "5f1e1c7a-5ef8-47c5-90a3-2a175127c9e0")
-	)
-	(no_connect
 		(at 347.98 480.06)
 		(uuid "601add61-c780-47d1-9d32-7f859b4d9e50")
-	)
-	(no_connect
-		(at 105.41 412.75)
-		(uuid "61ced0ec-d20c-48c4-a8ab-b235c49a43e2")
-	)
-	(no_connect
-		(at 232.41 346.71)
-		(uuid "61d582ec-a86a-46d8-aeba-5f0732c617db")
-	)
-	(no_connect
-		(at 62.23 384.81)
-		(uuid "62136c3c-3aea-469b-aba6-e823800112a6")
 	)
 	(no_connect
 		(at 269.24 83.82)
@@ -20336,56 +19953,24 @@
 		(uuid "65523ade-8b0c-444b-9b01-b2dec02e4b6f")
 	)
 	(no_connect
-		(at 62.23 405.13)
-		(uuid "6573ec68-d563-4ee2-b6a4-58c4733a5340")
-	)
-	(no_connect
-		(at 105.41 400.05)
-		(uuid "65a139fd-e1b1-449d-aa51-822f4493af23")
-	)
-	(no_connect
 		(at 105.41 511.81)
 		(uuid "6685abc6-2172-403c-8ba5-b46d014bdb74")
-	)
-	(no_connect
-		(at 62.23 361.95)
-		(uuid "6797c0ce-01fe-426e-bcab-f496e19c6571")
 	)
 	(no_connect
 		(at 62.23 448.31)
 		(uuid "6917e89e-7df3-4768-bc2d-8fbf929bcac2")
 	)
 	(no_connect
-		(at 62.23 402.59)
-		(uuid "695e0e33-1e35-4cde-913e-791de726f831")
-	)
-	(no_connect
-		(at 62.23 372.11)
-		(uuid "6c4cbf1e-01cf-4c8d-bcb6-05b04a140564")
-	)
-	(no_connect
 		(at 347.98 485.14)
 		(uuid "6f27bc61-78f2-4086-aec0-f5697902893a")
-	)
-	(no_connect
-		(at 189.23 372.11)
-		(uuid "7044ed64-0e48-45c1-a27e-f004ff3c71e1")
 	)
 	(no_connect
 		(at 389.89 486.41)
 		(uuid "70eeb729-2fd9-4f5c-93ca-6ce869914f73")
 	)
 	(no_connect
-		(at 62.23 344.17)
-		(uuid "72929f53-7c43-4fd1-a180-194cc322fb9d")
-	)
-	(no_connect
 		(at 389.89 496.57)
 		(uuid "72c77574-7d73-4239-a8e0-08061e3d0e48")
-	)
-	(no_connect
-		(at 105.41 354.33)
-		(uuid "76118ab8-05a4-455c-b85c-5f4017c614b9")
 	)
 	(no_connect
 		(at 62.23 455.93)
@@ -20400,24 +19985,12 @@
 		(uuid "791ae7f0-1605-41e4-8c14-df7550be18d6")
 	)
 	(no_connect
-		(at 62.23 392.43)
-		(uuid "798c4657-abde-4a01-b8d7-93b72cd05b29")
-	)
-	(no_connect
-		(at 189.23 387.35)
-		(uuid "7c318886-71ec-49cf-b4c9-e4d1a4e4c695")
-	)
-	(no_connect
 		(at 389.89 481.33)
 		(uuid "7df552fe-297f-4c20-b00b-7532d13f1cc1")
 	)
 	(no_connect
 		(at 346.71 510.54)
 		(uuid "7fc7dad5-e072-4acf-867f-e1eee9e597c5")
-	)
-	(no_connect
-		(at 105.41 374.65)
-		(uuid "8062a076-1258-4df7-bed6-b1edd1d5fce4")
 	)
 	(no_connect
 		(at 389.89 488.95)
@@ -20428,20 +20001,8 @@
 		(uuid "8343402b-4bd9-4ae3-bde6-6659021ca33e")
 	)
 	(no_connect
-		(at 62.23 349.25)
-		(uuid "84b81baa-f2f8-4141-acd1-187070adfa00")
-	)
-	(no_connect
 		(at 389.89 524.51)
 		(uuid "8585d142-cd09-4213-8c53-2acdf5d06ad1")
-	)
-	(no_connect
-		(at 189.23 341.63)
-		(uuid "8bd04011-0cab-42af-bdb9-2850ac439ff0")
-	)
-	(no_connect
-		(at 232.41 389.89)
-		(uuid "8df9a1b4-af2d-43c7-b21e-f0cba64cfc39")
 	)
 	(no_connect
 		(at 389.89 521.97)
@@ -20468,14 +20029,6 @@
 		(uuid "973ac0d1-da64-4ad2-a1b7-d6c113712cad")
 	)
 	(no_connect
-		(at 232.41 402.59)
-		(uuid "97cfda78-5cf0-4f2d-995e-12d1db25ab6f")
-	)
-	(no_connect
-		(at 105.41 387.35)
-		(uuid "97f2f3a2-776a-4599-babc-41306be99493")
-	)
-	(no_connect
 		(at 347.98 474.98)
 		(uuid "981baf05-6a17-4d69-8b84-0867264cf08a")
 	)
@@ -20484,76 +20037,20 @@
 		(uuid "9a479d54-aa55-4efb-8b8b-29b8a9b64aab")
 	)
 	(no_connect
-		(at 62.23 367.03)
-		(uuid "9af33e44-98a7-410e-b3f0-d84dadcda25c")
-	)
-	(no_connect
 		(at 105.41 466.09)
 		(uuid "9bbc799a-d039-42ad-ac40-e8a41509b246")
-	)
-	(no_connect
-		(at 232.41 392.43)
-		(uuid "9bdfa1be-b049-45d5-8433-9a8039e235dd")
 	)
 	(no_connect
 		(at 105.41 450.85)
 		(uuid "9cf56edd-c83d-4b89-9e12-5aa7f4c1e1ce")
 	)
 	(no_connect
-		(at 105.41 356.87)
-		(uuid "9d57c91f-b29d-4bcc-a057-e2caee3d54ab")
-	)
-	(no_connect
-		(at 105.41 407.67)
-		(uuid "a054813e-3fa4-4ea4-aa57-3f09d42948ff")
-	)
-	(no_connect
-		(at 62.23 339.09)
-		(uuid "a358be0c-3795-454c-b43b-985fbe935d07")
-	)
-	(no_connect
-		(at 189.23 361.95)
-		(uuid "a7fb49e1-c7c7-47cb-ba17-32b52fbd7691")
-	)
-	(no_connect
-		(at 189.23 346.71)
-		(uuid "a9f88c34-5371-4723-be7f-3f51900e9278")
-	)
-	(no_connect
-		(at 232.41 369.57)
-		(uuid "adb9b1c7-a502-47ca-95a4-9a4ae23098ea")
-	)
-	(no_connect
 		(at 269.24 81.28)
 		(uuid "b2044174-61e5-4f88-b3cb-bcaa38a8970f")
 	)
 	(no_connect
-		(at 62.23 417.83)
-		(uuid "b3156721-7d2f-453f-a554-657b5b12b1ce")
-	)
-	(no_connect
-		(at 232.41 405.13)
-		(uuid "b3384e00-09fd-4022-9968-11b30a44bf45")
-	)
-	(no_connect
 		(at 389.89 501.65)
 		(uuid "b4883686-143b-4382-83a4-426424da778f")
-	)
-	(no_connect
-		(at 105.41 334.01)
-		(uuid "b5f789e8-5195-4ba4-b064-870f26bb213f")
-	)
-	(no_connect
-		(at 232.41 407.67)
-		(uuid "b78e2d06-2060-4571-8595-fee98f5c436e")
-	)
-	(no_connect
-		(at 189.23 400.05)
-		(uuid "b7a3a0dd-9a49-431d-a0d6-c6406dfb29df")
-	)
-	(no_connect
-		(at 189.23 354.33)
-		(uuid "b88d96db-eefa-4ec1-b998-a3cf097fd821")
 	)
 	(no_connect
 		(at 62.23 461.01)
@@ -20572,10 +20069,6 @@
 		(uuid "bac36e7b-7fe9-439f-a96c-5b57a83111f3")
 	)
 	(no_connect
-		(at 189.23 382.27)
-		(uuid "bbadc756-f583-4aa6-aa83-00d28879575e")
-	)
-	(no_connect
 		(at 232.41 504.19)
 		(uuid "bbd9ab16-2dd0-4ea5-ab2b-b5a8ffd8d0ab")
 	)
@@ -20584,20 +20077,8 @@
 		(uuid "bcc810ca-babc-49f0-a922-dd27f60d210b")
 	)
 	(no_connect
-		(at 105.41 394.97)
-		(uuid "bce44904-1197-4597-81b7-bd497a737bd3")
-	)
-	(no_connect
 		(at 232.41 516.89)
 		(uuid "bd28f91e-2279-400c-83f3-b635b4e08597")
-	)
-	(no_connect
-		(at 62.23 382.27)
-		(uuid "bd42905a-25d5-45c2-a485-3c486aceb189")
-	)
-	(no_connect
-		(at 62.23 364.49)
-		(uuid "bda2638d-d2ca-4ba3-9065-9bd27c39a474")
 	)
 	(no_connect
 		(at 105.41 463.55)
@@ -20608,18 +20089,6 @@
 		(uuid "c3bd1f66-bc42-4b4d-abe3-133ecd4a74fe")
 	)
 	(no_connect
-		(at 105.41 397.51)
-		(uuid "c55f0069-ae50-4b9a-9c9c-308fb722d308")
-	)
-	(no_connect
-		(at 189.23 405.13)
-		(uuid "c57e14b3-0a7c-4953-a990-8ad5eb99ee26")
-	)
-	(no_connect
-		(at 105.41 389.89)
-		(uuid "c5d57ad0-7708-4db6-aa07-f6fd2f71b235")
-	)
-	(no_connect
 		(at 62.23 473.71)
 		(uuid "c6bb9a50-d3fe-43c6-a1b5-449ad7c8df24")
 	)
@@ -20628,64 +20097,16 @@
 		(uuid "cb1b68c9-b99f-4890-a655-5ec068e4e3df")
 	)
 	(no_connect
-		(at 105.41 349.25)
-		(uuid "cb6d89cf-ee87-4c85-8207-dc8cac43f2f3")
-	)
-	(no_connect
-		(at 232.41 344.17)
-		(uuid "cdb0d256-16b5-489b-aa27-0f0fb92e9431")
-	)
-	(no_connect
-		(at 62.23 400.05)
-		(uuid "cdbe5f00-e698-4c42-95f7-a7967068ac0a")
-	)
-	(no_connect
-		(at 62.23 379.73)
-		(uuid "cf2592fa-78bf-4096-b637-6ae44218d439")
-	)
-	(no_connect
-		(at 189.23 407.67)
-		(uuid "d04198f2-d130-4bc2-8771-808247a6b92f")
-	)
-	(no_connect
 		(at 62.23 516.89)
 		(uuid "d096635d-e15e-466c-9513-eaecbca3d644")
-	)
-	(no_connect
-		(at 62.23 369.57)
-		(uuid "d1f3a598-0a51-4f16-bb99-f8ad2d61aea9")
 	)
 	(no_connect
 		(at 105.41 516.89)
 		(uuid "d49f0605-c33b-4f52-8730-f7f73a1a425e")
 	)
 	(no_connect
-		(at 105.41 379.73)
-		(uuid "d4ebcb8b-df92-4691-acc0-684cddfcb80c")
-	)
-	(no_connect
-		(at 232.41 349.25)
-		(uuid "d50ec2d5-addb-4816-806a-953fdea5a5aa")
-	)
-	(no_connect
-		(at 232.41 394.97)
-		(uuid "d5a3eb80-ee56-426c-b815-b8d3ec64ca8e")
-	)
-	(no_connect
-		(at 232.41 372.11)
-		(uuid "da71bbe2-0566-49ce-a963-ce34efa0354b")
-	)
-	(no_connect
 		(at 232.41 448.31)
 		(uuid "dde0e449-f25c-4f43-b0c2-fe4f4ad54a56")
-	)
-	(no_connect
-		(at 62.23 412.75)
-		(uuid "debf8d12-82e3-4c42-be8f-d35dcfba8a3a")
-	)
-	(no_connect
-		(at 62.23 394.97)
-		(uuid "dfd4d02a-a036-404b-a58d-a82a52394398")
 	)
 	(no_connect
 		(at 346.71 523.24)
@@ -20696,44 +20117,8 @@
 		(uuid "e0bbcb9d-97b7-4d4e-baf2-70f0b8b5084d")
 	)
 	(no_connect
-		(at 189.23 394.97)
-		(uuid "e12dd733-bf43-4318-b69a-75902dee200f")
-	)
-	(no_connect
-		(at 105.41 410.21)
-		(uuid "e1ae58f8-7f77-4fec-828e-65687fd5503d")
-	)
-	(no_connect
-		(at 105.41 351.79)
-		(uuid "e35c7920-d416-4abc-9cfa-edccf824d350")
-	)
-	(no_connect
-		(at 62.23 346.71)
-		(uuid "e45c49c2-2c2f-4b28-83c6-afab36f9129e")
-	)
-	(no_connect
-		(at 189.23 364.49)
-		(uuid "e4cc94d2-700d-4e5b-8576-3304c3b6a50a")
-	)
-	(no_connect
-		(at 62.23 341.63)
-		(uuid "e56a6905-54b0-484d-9213-f72126120fc4")
-	)
-	(no_connect
-		(at 62.23 407.67)
-		(uuid "e66efd65-86d4-48a9-866f-b7b06b565d2d")
-	)
-	(no_connect
 		(at 232.41 461.01)
 		(uuid "e728e025-87a5-4037-8bf8-a6dfb0b05f54")
-	)
-	(no_connect
-		(at 232.41 384.81)
-		(uuid "e757be1f-c807-4b08-a2a1-a6c99ea30d7a")
-	)
-	(no_connect
-		(at 105.41 364.49)
-		(uuid "ea7e66fe-fd8e-4a80-9041-e904b1cd0057")
 	)
 	(no_connect
 		(at 105.41 499.11)
@@ -20748,48 +20133,16 @@
 		(uuid "f084da40-fa4e-451b-a785-d9dc7c359824")
 	)
 	(no_connect
-		(at 189.23 412.75)
-		(uuid "f14d5332-4a7e-4d65-877a-51b6a58bae17")
-	)
-	(no_connect
-		(at 189.23 397.51)
-		(uuid "f19d416a-fcb5-4913-a26b-7478676ea411")
-	)
-	(no_connect
-		(at 189.23 384.81)
-		(uuid "f250d288-4e37-4416-ae57-434ad5667798")
-	)
-	(no_connect
 		(at 62.23 463.55)
 		(uuid "f2df2ee9-f0e1-4a13-a449-401c097d9899")
-	)
-	(no_connect
-		(at 105.41 339.09)
-		(uuid "f4632839-0461-4bb3-99bf-95d179c7ca71")
 	)
 	(no_connect
 		(at 105.41 453.39)
 		(uuid "f5393abd-6dcb-41b7-a77a-39b41c7decb9")
 	)
 	(no_connect
-		(at 232.41 387.35)
-		(uuid "f5bb0f63-9286-4bce-9f28-43d49a788058")
-	)
-	(no_connect
-		(at 62.23 336.55)
-		(uuid "f6bf5724-d1d0-4630-9734-c3a03d8b6a89")
-	)
-	(no_connect
 		(at 389.89 491.49)
 		(uuid "f6ff8ab6-1e7c-4e0b-a584-75835d485bdd")
-	)
-	(no_connect
-		(at 232.41 336.55)
-		(uuid "f8583e86-3793-4698-8ff5-f7e542c7d4ef")
-	)
-	(no_connect
-		(at 189.23 392.43)
-		(uuid "fd9d2034-7e8d-4566-bc68-981b59355c76")
 	)
 	(wire
 		(pts
@@ -24761,16 +24114,6 @@
 		)
 		(uuid "03b03185-13d5-483e-91bc-150964b92216")
 	)
-	(label "PC5"
-		(at 132.08 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "042dd886-e196-4b80-a7f7-89097610fc2f")
-	)
 	(label "PB6"
 		(at -25.4 382.27 0)
 		(effects
@@ -24791,6 +24134,16 @@
 		)
 		(uuid "06ba82c6-f126-4b0f-8967-0401a8aa799a")
 	)
+	(label "ADC3_CH6"
+		(at 189.23 405.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "088474b9-af2c-4653-aa9d-0576e418359a")
+	)
 	(label "SDMMC_CMD"
 		(at 193.04 280.67 0)
 		(effects
@@ -24800,6 +24153,16 @@
 			(justify left bottom)
 		)
 		(uuid "08943cd1-0ce1-4d66-9733-583f82b54c63")
+	)
+	(label "ADC1_CH13"
+		(at 116.84 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0af9e5f2-abc1-4a8d-83a1-5fb6e2625cfb")
 	)
 	(label "JTMS_SWDIO"
 		(at -25.4 482.6 0)
@@ -24860,6 +24223,46 @@
 			(justify left bottom)
 		)
 		(uuid "10c48b29-47e3-48df-8059-b5af8e0fd774")
+	)
+	(label "ADC3_CH2"
+		(at 189.23 402.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "123ce7c4-aee5-46bb-9b92-ec22a5dba8b2")
+	)
+	(label "ADC1_CH5"
+		(at 132.08 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "125930c0-2c5e-48c8-a298-9d1c77070415")
+	)
+	(label "ADC1_CH9"
+		(at 105.41 349.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12a93a0f-4daa-4971-b123-5fa5c32fd39a")
+	)
+	(label "ADC1_CH9"
+		(at 119.38 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "12e8fd27-5f86-46ea-902f-da4468473fc5")
 	)
 	(label "PE12"
 		(at -25.4 431.8 0)
@@ -24931,6 +24334,16 @@
 		)
 		(uuid "1e306b17-c183-441c-bd6b-c167911ccc4b")
 	)
+	(label "ADC1_CH2"
+		(at 232.41 339.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1efed547-7724-46b8-b027-2e0a2f8e75b8")
+	)
 	(label "PE8"
 		(at -25.4 421.64 0)
 		(effects
@@ -24951,6 +24364,16 @@
 		)
 		(uuid "1f945086-47dc-4f77-9bbd-b5e0bbb99b8b")
 	)
+	(label "ADC1_CH12"
+		(at 105.41 341.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2149af30-29de-42c6-a586-b1edbce6ea71")
+	)
 	(label "PD6"
 		(at -35.56 381 180)
 		(effects
@@ -24960,16 +24383,6 @@
 			(justify right bottom)
 		)
 		(uuid "23c150c2-bbb7-45ea-ad81-bff0cff2df8a")
-	)
-	(label "PA0"
-		(at 132.08 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "261639c3-b1e2-4518-9ffb-ac4712e83a9f")
 	)
 	(label "PG10"
 		(at 82.55 119.38 180)
@@ -25001,16 +24414,6 @@
 		)
 		(uuid "27dd2beb-2a2c-450f-b5a9-325fe8d98f26")
 	)
-	(label "PA7"
-		(at 132.08 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2908318e-bd75-4565-bb85-a3e1cab80557")
-	)
 	(label "DEBUG2"
 		(at -1.27 510.54 180)
 		(effects
@@ -25020,6 +24423,16 @@
 			(justify right bottom)
 		)
 		(uuid "2c591632-68ff-403a-ae72-6185209c81a5")
+	)
+	(label "ADC1_CH15"
+		(at 62.23 417.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ec1e005-9b70-461c-9c71-621878f16ae0")
 	)
 	(label "NRST"
 		(at 69.85 212.09 0)
@@ -25071,6 +24484,16 @@
 		)
 		(uuid "33e46e6c-efff-4d8b-8486-4e6c2c0a5d3e")
 	)
+	(label "ADC3_CH8"
+		(at 232.41 405.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35504553-2977-4fc5-abc1-98b70a8fc83a")
+	)
 	(label "PC1"
 		(at -35.56 325.12 180)
 		(effects
@@ -25091,6 +24514,16 @@
 		)
 		(uuid "35d6f058-2260-4cd7-9ff1-bacb22625b78")
 	)
+	(label "ADC1_CH17"
+		(at 119.38 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35f4c601-8082-47bb-b41b-3aa782f7747b")
+	)
 	(label "SDMMC_D2"
 		(at 82.55 71.12 180)
 		(effects
@@ -25100,6 +24533,16 @@
 			(justify right bottom)
 		)
 		(uuid "36ab36b2-766c-41f7-8600-d1a6fde8b376")
+	)
+	(label "ADC1_CH4"
+		(at 130.81 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "375788dd-330c-40e9-97b3-35b334988337")
 	)
 	(label "I2C7.SDA"
 		(at 130.81 415.29 180)
@@ -25121,16 +24564,6 @@
 		)
 		(uuid "3969f40f-0079-4225-99d4-aa043153b6f6")
 	)
-	(label "PA5"
-		(at 132.08 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a9f76de-1035-4027-b7ef-48c3e53eca5f")
-	)
 	(label "PA0"
 		(at -25.4 323.85 0)
 		(effects
@@ -25151,15 +24584,25 @@
 		)
 		(uuid "3ab9a512-2c39-45b8-a297-d9b28df4f89b")
 	)
-	(label "PF11"
-		(at 132.08 105.41 0)
+	(label "ADC3_CH2"
+		(at 119.38 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3b420fdc-45c3-4fda-a202-093d3e4916a7")
+	)
+	(label "ADC3_CH4"
+		(at 232.41 402.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "3df379f1-5a7c-44d5-bc5f-56c639e2b812")
+		(uuid "3f6463e6-3313-4f1e-ab6c-a86f63318a6b")
 	)
 	(label "PA11"
 		(at 82.55 124.46 180)
@@ -25181,26 +24624,6 @@
 		)
 		(uuid "3ff4247c-f722-42c4-984a-783342745735")
 	)
-	(label "PF12"
-		(at 132.08 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "438bb869-136c-4de1-b509-d74237acb0df")
-	)
-	(label "PA3"
-		(at 132.08 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "46681f5b-5138-48a2-98d2-91dde8c7dd87")
-	)
 	(label "PA9"
 		(at 132.08 62.23 0)
 		(effects
@@ -25210,16 +24633,6 @@
 			(justify left bottom)
 		)
 		(uuid "468a2d31-28aa-4365-95f1-02f1da4afcfc")
-	)
-	(label "PC4"
-		(at 132.08 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "48a388de-5e99-412e-a5d5-cfe60cb482f1")
 	)
 	(label "PA7"
 		(at -25.4 341.63 0)
@@ -25231,6 +24644,16 @@
 		)
 		(uuid "4a34bd78-bd16-47de-b6b6-d4ad57054904")
 	)
+	(label "ADC1_CH16"
+		(at 189.23 384.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4a38874f-ef88-4f07-b7e8-fbce3b0a8002")
+	)
 	(label "PE13"
 		(at -25.4 434.34 0)
 		(effects
@@ -25240,6 +24663,26 @@
 			(justify left bottom)
 		)
 		(uuid "4c509046-e67b-4107-8b1b-86dc302aa429")
+	)
+	(label "ADC3_CH4"
+		(at 119.38 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4cb0546d-29db-4920-840a-03d87ae7cefa")
+	)
+	(label "ADC1_CH15"
+		(at 130.81 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d0d8836-0723-4d88-851f-c867bd469671")
 	)
 	(label "SDMMC_D3"
 		(at 193.04 278.13 0)
@@ -25281,6 +24724,16 @@
 		)
 		(uuid "5098f2c7-ddd0-4910-9c96-58a665de084c")
 	)
+	(label "ADC1_CH6"
+		(at 119.38 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "516bb53f-7b48-4fcf-ac20-b1c795f0f6f8")
+	)
 	(label "PD12"
 		(at 82.55 132.08 180)
 		(effects
@@ -25291,15 +24744,25 @@
 		)
 		(uuid "51d3f058-4483-40ae-b2b5-cf89c82aea25")
 	)
-	(label "PC2"
-		(at 132.08 133.35 0)
+	(label "ADC1_CH11"
+		(at 189.23 377.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "53a955d2-de46-485a-87cb-e438a1b83040")
+		(uuid "51d45c97-bd76-4d92-bd84-b6390f4553f6")
+	)
+	(label "ADC1_CH2"
+		(at 119.38 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5294a83e-6f2b-4437-a682-78e2db97d0fe")
 	)
 	(label "PA6"
 		(at -25.4 339.09 0)
@@ -25341,6 +24804,16 @@
 		)
 		(uuid "5e51678e-a444-4864-aeff-b3079b4ff48a")
 	)
+	(label "ADC1_CH7"
+		(at 130.81 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "612b0cd2-27a1-42bd-88e9-348d8d3c06d1")
+	)
 	(label "PE11"
 		(at -25.4 429.26 0)
 		(effects
@@ -25360,16 +24833,6 @@
 			(justify right bottom)
 		)
 		(uuid "63911151-87b9-4839-8d97-250c16447d54")
-	)
-	(label "PA1"
-		(at 132.08 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "63a305e6-846c-44d9-b2ec-3c074574edba")
 	)
 	(label "PB9"
 		(at 82.55 68.58 180)
@@ -25401,16 +24864,6 @@
 		)
 		(uuid "6506798f-0de1-4da0-861e-c654e81e3f45")
 	)
-	(label "PC1"
-		(at 132.08 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6588d6c3-bee6-497a-9e78-1750dbd93e51")
-	)
 	(label "PD3"
 		(at 82.55 106.68 180)
 		(effects
@@ -25431,6 +24884,16 @@
 		)
 		(uuid "684079a9-ecd1-4497-a561-8ea1e9827bb6")
 	)
+	(label "ADC1_CH5"
+		(at 105.41 359.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "68c852b7-80ff-49bd-9479-385ebb2d5e1a")
+	)
 	(label "PG13"
 		(at -1.27 533.4 180)
 		(effects
@@ -25450,6 +24913,16 @@
 			(justify right bottom)
 		)
 		(uuid "6c75d9c0-2a45-4e69-a158-9a1213f98a04")
+	)
+	(label "ADC3_CH9"
+		(at 119.38 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6cfdcfa4-5948-4563-a0f7-6fbaf16baf6d")
 	)
 	(label "PMIC_WAKEUPn"
 		(at 381 285.75 0)
@@ -25731,6 +25204,36 @@
 		)
 		(uuid "8fd901b4-26be-46dd-8efd-a4d24d06c084")
 	)
+	(label "ADC1_CH7"
+		(at 105.41 361.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "902eaf23-da29-47bb-bcdf-adf8f9aa226a")
+	)
+	(label "ADC1_CH17"
+		(at 105.41 364.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90b80eb8-6e21-441c-9948-10837f24e646")
+	)
+	(label "ADC1_CH3"
+		(at 130.81 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "94ceccb2-56de-4b30-a38a-452eebec49c5")
+	)
 	(label "PD3"
 		(at -35.56 373.38 180)
 		(effects
@@ -25740,6 +25243,26 @@
 			(justify right bottom)
 		)
 		(uuid "96babbcb-0c4e-4ef8-90c8-40fd35be06ec")
+	)
+	(label "ADC1_CH16"
+		(at 119.38 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "972fb804-68c2-4b04-a632-8906868f1a07")
+	)
+	(label "ADC3_CH8"
+		(at 119.38 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9888b4d8-5e33-4092-96e7-1b2e86484660")
 	)
 	(label "PA11"
 		(at -25.4 351.79 0)
@@ -25801,6 +25324,26 @@
 		)
 		(uuid "9f46f295-1e2e-41a7-bd2f-5da2a5a3aed3")
 	)
+	(label "ADC1_CH4"
+		(at 232.41 344.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9f8e7df6-38a6-430e-96c8-24f8253e1c9a")
+	)
+	(label "ADC3_CH6"
+		(at 119.38 147.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a0c8a03d-b07b-4e52-9cfb-69a0752342c7")
+	)
 	(label "PG7"
 		(at -1.27 518.16 180)
 		(effects
@@ -25850,26 +25393,6 @@
 			(justify left bottom)
 		)
 		(uuid "a695f8a9-d052-49d7-acb6-6e1734bb281f")
-	)
-	(label "PC3"
-		(at 132.08 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a73b33e0-d485-4861-9880-69e040440e72")
-	)
-	(label "PB1"
-		(at 132.08 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a810d056-4d6c-41a6-8cd0-69f05fa7daf8")
 	)
 	(label "PB15"
 		(at 82.55 60.96 180)
@@ -25941,6 +25464,16 @@
 		)
 		(uuid "ae6ea359-ce02-4c0f-8768-6394e0840314")
 	)
+	(label "ADC3_CH9"
+		(at 105.41 351.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "afcdc88f-d0ea-4603-aeba-a04a5f9018ef")
+	)
 	(label "PC9"
 		(at -35.56 345.44 180)
 		(effects
@@ -25960,6 +25493,16 @@
 			(justify right bottom)
 		)
 		(uuid "b04498b5-621f-4dcf-b8a5-314bef04943a")
+	)
+	(label "ADC1_CH3"
+		(at 232.41 341.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b094c8ca-8bfb-419b-8e25-a1f44590f3a1")
 	)
 	(label "JTDO_SWO"
 		(at 66.04 201.93 0)
@@ -26091,6 +25634,16 @@
 		)
 		(uuid "bd27227a-0eb8-40aa-9fec-0e0211d74d0c")
 	)
+	(label "ADC1_CH11"
+		(at 132.08 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd41aed8-c73a-4464-955d-d920cb02b59b")
+	)
 	(label "DEBUG3"
 		(at -25.4 444.5 0)
 		(effects
@@ -26110,6 +25663,16 @@
 			(justify left bottom)
 		)
 		(uuid "be03b9ee-aeb3-4226-a47e-0bcba7230450")
+	)
+	(label "ADC1_CH10"
+		(at 105.41 346.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1c4d034-6cb4-4708-ae64-339cc06ca445")
 	)
 	(label "PH14"
 		(at 132.08 64.77 0)
@@ -26151,6 +25714,26 @@
 		)
 		(uuid "c425b664-ffa9-407c-83ff-ccc1c3ac8746")
 	)
+	(label "ADC1_CH12"
+		(at 132.08 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c59f385c-dd79-45d3-a2c1-29a3d8ac0233")
+	)
+	(label "ADC1_CH8"
+		(at 105.41 356.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c5a9a1d2-a21c-4636-8a31-a49e7b910d8f")
+	)
 	(label "JTRST"
 		(at 69.85 222.25 0)
 		(effects
@@ -26160,16 +25743,6 @@
 			(justify left bottom)
 		)
 		(uuid "c62f104b-fc6a-4583-bb49-946fca288c20")
-	)
-	(label "PA6"
-		(at 132.08 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c6de374b-2aac-4917-bf01-900ec912408b")
 	)
 	(label "NRSTC1MS"
 		(at 381 283.21 0)
@@ -26200,16 +25773,6 @@
 			(justify left bottom)
 		)
 		(uuid "cc572059-b78a-44aa-9e28-3b1a197a5dcf")
-	)
-	(label "PA4"
-		(at 132.08 107.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd59bbe5-2ae2-48d7-b589-267a481428ed")
 	)
 	(label "USB_HS_DP"
 		(at 344.17 53.34 0)
@@ -26271,6 +25834,16 @@
 		)
 		(uuid "d1232d9e-8615-42dd-9642-2bec487e1c76")
 	)
+	(label "ADC1_CH13"
+		(at 189.23 382.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d14764ca-f302-4271-a384-ef1b8179d925")
+	)
 	(label "FLASH_IO1"
 		(at 35.56 269.24 0)
 		(effects
@@ -26290,16 +25863,6 @@
 			(justify right bottom)
 		)
 		(uuid "d1b7095d-638b-4d3f-b0f9-1b4c8f836377")
-	)
-	(label "PG13"
-		(at 132.08 120.65 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d1c5054f-7142-44af-a204-bc608417add6")
 	)
 	(label "NRST"
 		(at 381 280.67 0)
@@ -26351,6 +25914,16 @@
 		)
 		(uuid "d87185d3-f1c7-4e8c-8376-1bb0bfbdc3fa")
 	)
+	(label "ADC1_CH6"
+		(at 232.41 336.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8e11954-e3a5-47c2-8e18-85b0e8ced9eb")
+	)
 	(label "USB_HS_D-"
 		(at 80.01 152.4 180)
 		(effects
@@ -26381,15 +25954,15 @@
 		)
 		(uuid "db060753-834c-4c94-b277-be033ca9b8a6")
 	)
-	(label "PA2"
-		(at 132.08 100.33 0)
+	(label "ADC1_CH8"
+		(at 132.08 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "dcc730eb-4bb9-4476-a642-af07c5bade33")
+		(uuid "dbe35c42-a359-4fca-9891-541d74d8f425")
 	)
 	(label "SDMMC_CLK"
 		(at 82.55 78.74 180)
@@ -26540,6 +26113,16 @@
 			(justify right bottom)
 		)
 		(uuid "ec3b982b-9257-498a-bd82-e689d038f902")
+	)
+	(label "ADC1_CH10"
+		(at 119.38 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "eeed0189-a804-455e-a4eb-eb2d6397a208")
 	)
 	(label "PA3"
 		(at -25.4 331.47 0)
@@ -26931,6 +26514,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 309.88 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 309.88 472.44 0)
 			(effects
 				(font
@@ -28478,6 +28277,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 356.87 473.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "AG2"
 			(uuid "d670dfaa-c50d-4c7d-a753-0e4af1d465ef")
 		)
@@ -29916,6 +29931,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 261.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "210de61e-c851-400b-b938-0dd1e5891c1f")
 		)
@@ -30084,6 +30315,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 252.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 252.73 77.47 0)
 			(effects
 				(font
@@ -30316,6 +30763,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 143.51 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b4b5450-79d2-4670-ba79-148896a6a8cc")
 		)
@@ -30509,6 +31172,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 172.72 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d7f47c9-c7af-40ab-a1bd-329742effaf9")
 		)
@@ -30670,6 +31549,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 19.05 575.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 19.05 575.31 0)
 			(effects
 				(font
@@ -31305,6 +32400,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 19.05 556.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
@@ -31754,6 +33065,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "edfbd6e7-644f-418c-a94a-4ea5ffaf342a")
 		)
@@ -31994,6 +33521,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 246.38 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 246.38 283.21 0)
 			(effects
 				(font
@@ -32888,6 +34631,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 308.61 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 308.61 497.84 0)
 			(effects
 				(font
@@ -34844,6 +36803,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 228.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9f0e458-65a4-4998-8950-324c0d05b5a3")
 		)
@@ -35020,6 +37195,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 153.67 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 153.67 485.14 0)
 			(effects
 				(font
@@ -35268,6 +37659,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 339.09 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 339.09 62.23 90)
 			(effects
 				(font
@@ -35671,6 +38278,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 163.83 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d9348ea-d540-4568-bc40-9f9955dd2439")
 		)
@@ -35853,6 +38676,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 339.09 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e59e849-f4cf-48b1-baec-05a1c47caee4")
 		)
@@ -36027,6 +39066,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 340.36 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 340.36 74.93 90)
 			(effects
 				(font
@@ -36328,6 +39583,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 157.48 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b75cb4c-7a29-4ba2-93e5-895c13fffdca")
 		)
@@ -36570,6 +40041,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 340.36 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 340.36 83.82 90)
 			(effects
 				(font
@@ -37038,6 +40725,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 67.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 67.31 443.23 0)
 			(effects
 				(font
@@ -38546,6 +42449,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 135.89 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aeede47f-ee5d-47a1-ae82-86a43ddac600")
 		)
@@ -38692,6 +42811,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 293.37 367.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65e399f1-5b38-46e4-a9aa-93f0e7d7bfc2")
 		)
@@ -38805,6 +43140,222 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 278.13 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38975,6 +43526,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 19.05 568.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 19.05 568.96 0)
 			(effects
 				(font
@@ -39191,6 +43958,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 166.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 166.37 105.41 0)
 			(effects
 				(font
@@ -39654,6 +44637,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 43.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fafd7851-8c0d-437f-890e-fa8582243bac")
 		)
@@ -40092,6 +45291,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 302.26 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46e4851d-b732-4b10-aa05-64d72555ddae")
 		)
@@ -40360,6 +45775,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 218.44 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 218.44 198.12 0)
 			(effects
 				(font
@@ -40836,6 +46467,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63f41573-6a2e-420f-8fb9-ba29c688fc3f")
 		)
@@ -41095,6 +46942,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 317.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "064fbbbb-27cd-4dee-8aaa-9ebeb20f5d03")
 		)
@@ -41226,6 +47289,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 134.62 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 134.62 228.6 0)
 			(effects
 				(font
@@ -41402,6 +47681,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 314.96 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 314.96 67.31 90)
 			(effects
 				(font
@@ -41736,6 +48231,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 306.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 306.07 199.39 0)
 			(effects
 				(font
@@ -42080,6 +48791,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 293.37 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf486b1a-f89b-4a33-b1bc-41f4d65b0414")
 		)
@@ -42341,6 +49268,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 62.23 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 62.23 271.78 0)
 			(effects
 				(font
@@ -42632,6 +49775,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 194.31 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 194.31 443.23 0)
 			(effects
 				(font
@@ -44081,6 +51440,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 55.88 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc68bd61-20f6-4b85-813d-7fabe01459a2")
 		)
@@ -44296,6 +51871,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 285.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 285.75 90.17 0)
 			(effects
 				(font
@@ -44708,6 +52499,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 194.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 194.31 331.47 0)
 			(effects
 				(font
@@ -46307,6 +54314,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5fde9a2-872e-4039-9a69-af8b9dfd5ccf")
 		)
@@ -46459,6 +54682,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 157.48 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 157.48 224.79 90)
 			(effects
 				(font
@@ -46702,6 +55141,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 19.05 562.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 19.05 562.61 0)
 			(effects
 				(font
@@ -47105,6 +55760,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 67.31 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 67.31 331.47 0)
 			(effects
 				(font
@@ -48719,6 +57590,222 @@
 				(hide yes)
 			)
 		)
+		(property "ALTERNATE_EMS" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
+			(at 100.33 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67cb93ca-d73a-4d44-beae-13bad6f14dcb")
 		)
@@ -48876,6 +57963,222 @@
 			)
 		)
 		(property "Part Number 4" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_EMS" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BMS_PART_NUMBER" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CALIFONIA_PROPOSITION_65" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CCATS" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_EU" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ECCN_US" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EXPORT_JURIDICTION" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "INITIAL_BOARD_REFERENCE" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_HQ_COO" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE_INDICATION" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROVIDED_BY" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REACH" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "REVISION" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_CN" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_EU" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCHEME_FOR_TARIFFCODE" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUBJECT_TO_EAR" ""
+			(at 66.04 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TARIFFCODE_NUMBER" ""
 			(at 66.04 217.17 90)
 			(effects
 				(font
