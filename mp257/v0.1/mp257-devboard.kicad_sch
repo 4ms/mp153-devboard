@@ -19563,6 +19563,17 @@
 		)
 		(uuid "d0df0f33-f735-418b-bd77-f36aa648dbb1")
 	)
+	(text "SPI2_MOSI"
+		(exclude_from_sim no)
+		(at 51.308 384.302 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d25102fb-6eca-46e0-b4fc-1c2a22413812")
+	)
 	(text "SPI1_NSS"
 		(exclude_from_sim no)
 		(at 120.65 383.794 0)
@@ -20266,6 +20277,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee7c2a25-ca1f-4461-9cc4-e5392ba630ca")
+	)
+	(junction
+		(at 49.53 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eefd1c8e-a97f-4ab6-8eda-5c87b05fe15b")
 	)
 	(junction
 		(at 160.02 118.11)
@@ -23004,6 +23021,16 @@
 			(type default)
 		)
 		(uuid "815a7566-af4f-43cf-bb86-db4043c7a0fd")
+	)
+	(wire
+		(pts
+			(xy 36.83 384.81) (xy 62.23 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81f334f5-0aea-4527-9a8d-da1a7ddfa5a7")
 	)
 	(wire
 		(pts
@@ -26944,6 +26971,16 @@
 			(justify right bottom)
 		)
 		(uuid "d8e11954-e3a5-47c2-8e18-85b0e8ced9eb")
+	)
+	(label "PB2"
+		(at 36.83 384.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d97eb9bc-59e0-4766-a54e-bb058e8ab37b")
 	)
 	(label "LTDC_VSYNC"
 		(at 243.84 134.62 180)
@@ -52465,7 +52502,7 @@
 	)
 	(symbol
 		(lib_id "4ms_Connector:Pins_02x05_P1.27mm_SMT")
-		(at 55.88 201.93 90)
+		(at 55.88 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -52473,7 +52510,7 @@
 		(dnp no)
 		(uuid "d29d3dcb-ef4d-4c41-bf5d-faee1085361c")
 		(property "Reference" "J6"
-			(at 45.72 201.93 0)
+			(at 55.88 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52481,7 +52518,7 @@
 			)
 		)
 		(property "Value" "Pins_02x05_P1.27mm_SMT"
-			(at 63.5 201.93 0)
+			(at 55.88 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52489,7 +52526,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Connector:Pins_2x05_1.27mm_SMD"
-			(at 72.39 200.025 0)
+			(at 57.785 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52498,7 +52535,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/527/ftsh_smt-1316912.pdf"
-			(at 55.88 203.2 0)
+			(at 54.61 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52516,7 +52553,7 @@
 			)
 		)
 		(property "Specifications" "Header 2x5 Pins, Pitch=1.27mm, Pin Height=3mm, Vertical, SMT"
-			(at 66.675 200.66 0)
+			(at 57.15 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52525,7 +52562,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec"
-			(at 68.58 202.565 0)
+			(at 55.245 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52534,7 +52571,7 @@
 			)
 		)
 		(property "Part Number" "FTSH-105-01-F-DV"
-			(at 70.485 203.2 0)
+			(at 54.61 216.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
