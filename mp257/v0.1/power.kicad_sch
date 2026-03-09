@@ -49749,7 +49749,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0201_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_16V")
 		(at 524.51 327.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49776,7 +49776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0201_TightCourtyard"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 521.97 332.74 0)
 			(effects
 				(font
@@ -49795,7 +49795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, 0201, Min. 16V 10%, X7R or X5R or X6S or similar"
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 524.51 327.66 0)
 			(effects
 				(font
@@ -49804,7 +49804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or X6S or similar"
+		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 521.97 335.534 0)
 			(effects
 				(font
@@ -49824,7 +49824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRT033C81E104KE01D"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 521.97 338.582 0)
 			(effects
 				(font
@@ -49843,7 +49843,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C711071"
+		(property "JLCPCB ID" "C1525"
 			(at 525.78 340.36 0)
 			(effects
 				(font
@@ -49861,7 +49861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number 2" "CC0201MRX5R6BB104"
+		(property "Part Number 2" "CC0402KRX7R7BB104"
 			(at 532.13 344.17 0)
 			(effects
 				(font
