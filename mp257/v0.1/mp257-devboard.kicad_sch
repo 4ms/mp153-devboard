@@ -19512,7 +19512,7 @@
 	)
 	(text "SD_CARD_DETECT"
 		(exclude_from_sim no)
-		(at 204.216 297.18 0)
+		(at 196.088 297.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20084,6 +20084,17 @@
 			)
 		)
 		(uuid "fa558853-f970-4627-a6e1-fb9e9389e788")
+	)
+	(text "SD_CARD_DETECT2"
+		(exclude_from_sim no)
+		(at 196.342 299.466 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb2dec74-172e-42af-bf13-af35e76cfc3e")
 	)
 	(text "NOR Flash"
 		(exclude_from_sim no)
@@ -21064,6 +21075,16 @@
 			(type default)
 		)
 		(uuid "01dc7d4e-ec03-4747-9562-f81d4d7e4bec")
+	)
+	(wire
+		(pts
+			(xy 189.23 299.72) (xy 223.52 299.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03931deb-10da-405e-88d5-83241a67d7ee")
 	)
 	(wire
 		(pts
@@ -22067,6 +22088,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 407.67) (xy 62.23 407.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "384d1cdf-85fc-40ea-89b9-821ec097dd26")
+	)
+	(wire
+		(pts
 			(xy 36.83 458.47) (xy 62.23 458.47)
 		)
 		(stroke
@@ -22444,6 +22475,16 @@
 			(type default)
 		)
 		(uuid "4a9e5824-19db-4334-9db3-29fcdb7572f6")
+	)
+	(wire
+		(pts
+			(xy 36.83 405.13) (xy 62.23 405.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aa1cb4f-c6f6-46c4-a5f7-bf68e62990f3")
 	)
 	(wire
 		(pts
@@ -24587,16 +24628,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 299.72) (xy 223.52 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc8c7384-9f74-4b36-8fe3-01ce4a55e039")
-	)
-	(wire
-		(pts
 			(xy 300.99 93.98) (xy 300.99 96.52)
 		)
 		(stroke
@@ -25995,6 +26026,16 @@
 		)
 		(uuid "304c4830-e381-4b22-b997-b80f4818e259")
 	)
+	(label "PB11"
+		(at 36.83 407.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3323cede-ba4a-456c-9e8a-b0df9eeeddd2")
+	)
 	(label "PA9"
 		(at 36.83 356.87 0)
 		(effects
@@ -26525,6 +26566,16 @@
 		)
 		(uuid "568f7712-8869-4135-ac17-5863725c348d")
 	)
+	(label "PB11"
+		(at 82.55 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5a5a6a59-a1e3-465a-bd71-c01c68c0208d")
+	)
 	(label "USB_VBUS_JACK"
 		(at 264.16 127 0)
 		(effects
@@ -27024,6 +27075,16 @@
 			(justify right bottom)
 		)
 		(uuid "91b00445-788e-495b-aab8-bac452a7b4a5")
+	)
+	(label "PB10"
+		(at 36.83 405.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "92cc5dfd-a9f0-4191-ab46-b66bf52b23ca")
 	)
 	(label "LTDC_G1"
 		(at 250.19 392.43 180)
@@ -27565,6 +27626,16 @@
 		)
 		(uuid "c2873832-7508-4527-a8c1-7b6c16250d01")
 	)
+	(label "PB11"
+		(at 189.23 297.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3d3e3f7-1da6-4b06-a5da-ed66942385fb")
+	)
 	(label "ADC1_CH12"
 		(at 132.08 130.81 0)
 		(effects
@@ -27704,6 +27775,16 @@
 			(justify left bottom)
 		)
 		(uuid "cccb4968-d78b-4152-9d84-d9df8a83685b")
+	)
+	(label "PB10"
+		(at 189.23 299.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cea3d12e-1362-4464-b30a-c3f4ea5ef49c")
 	)
 	(label "LTDC_B7"
 		(at 36.83 455.93 0)
@@ -48940,71 +49021,6 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
 					(reference "#PWR0156")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 220.98 299.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bb010c73-4e9f-4d5c-ae4e-758f432fc312")
-		(property "Reference" "#PWR039"
-			(at 220.98 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 220.98 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 220.98 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d3cfe949-428d-4ee9-8700-915cb8f906da")
-		)
-		(instances
-			(project "mp153-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "#PWR039")
 					(unit 1)
 				)
 			)
