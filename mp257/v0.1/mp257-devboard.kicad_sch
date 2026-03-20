@@ -16011,190 +16011,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "4ms_Resistor_0402:5.1k_0402"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "5.1k_0402"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0402"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "5.1k, 1%, 1/16W, 0402"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "5.1k, 1%, 1/16W, 0402"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0402FR-075K1L"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "5.1k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C105872"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "5.1k 0402 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "5.1k_0402_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "5.1k_0402_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "4ms_Resistor_0402:620k_0402"
 			(pin_numbers
 				(hide yes)
@@ -18373,6 +18189,155 @@
 						)
 					)
 					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Diode:ESD5Zxx"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "ESD5Zxx"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SOD-523"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "ESD Protection Diode, SOD-523"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "esd tvs unidirectional diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D?SOD?523*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ESD5Zxx_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "ESD5Zxx_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -21218,6 +21183,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 73.66) (xy 321.31 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b6f2bd8-364c-40e0-a81c-8bc45a0945d7")
+	)
+	(wire
+		(pts
 			(xy 105.41 379.73) (xy 130.81 379.73)
 		)
 		(stroke
@@ -21275,16 +21250,6 @@
 			(type default)
 		)
 		(uuid "0d872f44-655b-4369-87ca-2c1e52621df1")
-	)
-	(wire
-		(pts
-			(xy 300.99 76.2) (xy 308.61 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e0a197b-6ffe-4f0f-893e-807d743e5ec1")
 	)
 	(wire
 		(pts
@@ -21718,7 +21683,7 @@
 	)
 	(wire
 		(pts
-			(xy 344.17 74.93) (xy 322.58 74.93)
+			(xy 344.17 74.93) (xy 326.39 74.93)
 		)
 		(stroke
 			(width 0)
@@ -21878,6 +21843,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 379.73) (xy 189.23 379.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f538f09-90d7-4e93-a732-de3f4914d096")
+	)
+	(wire
+		(pts
 			(xy 232.41 339.09) (xy 250.19 339.09)
 		)
 		(stroke
@@ -21948,7 +21923,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 60.96) (xy 323.85 54.61)
+			(xy 326.39 60.96) (xy 326.39 54.61)
 		)
 		(stroke
 			(width 0)
@@ -22028,7 +22003,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 54.61) (xy 344.17 54.61)
+			(xy 326.39 54.61) (xy 344.17 54.61)
 		)
 		(stroke
 			(width 0)
@@ -22178,7 +22153,7 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 74.93) (xy 322.58 68.58)
+			(xy 326.39 74.93) (xy 326.39 68.58)
 		)
 		(stroke
 			(width 0)
@@ -22558,7 +22533,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 60.96) (xy 323.85 60.96)
+			(xy 300.99 60.96) (xy 326.39 60.96)
 		)
 		(stroke
 			(width 0)
@@ -22718,7 +22693,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 68.58) (xy 322.58 68.58)
+			(xy 300.99 68.58) (xy 326.39 68.58)
 		)
 		(stroke
 			(width 0)
@@ -22945,6 +22920,16 @@
 			(type default)
 		)
 		(uuid "64d7fb92-18c6-45e7-a391-cec32c542952")
+	)
+	(wire
+		(pts
+			(xy 300.99 76.2) (xy 308.61 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64de0aae-5e83-4bb7-869d-5c06f3d790eb")
 	)
 	(wire
 		(pts
@@ -23938,7 +23923,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 96.52) (xy 317.5 91.44)
+			(xy 321.31 96.52) (xy 321.31 91.44)
 		)
 		(stroke
 			(width 0)
@@ -24458,6 +24443,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 387.35) (xy 189.23 387.35)
+		)
+		(stroke
+			(width 0.1016)
+			(type default)
+		)
+		(uuid "c1c061ce-8b7b-442b-8813-f684ea7c9507")
+	)
+	(wire
+		(pts
 			(xy 250.19 389.89) (xy 232.41 389.89)
 		)
 		(stroke
@@ -24495,16 +24490,6 @@
 			(type default)
 		)
 		(uuid "c42f20c2-e7cf-4ba6-8ede-951f7f115f5c")
-	)
-	(wire
-		(pts
-			(xy 308.61 76.2) (xy 308.61 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c47fe1b6-cb26-4038-b743-245466956bcc")
 	)
 	(wire
 		(pts
@@ -24718,16 +24703,6 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 73.66) (xy 317.5 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d00ba3ce-bb83-4ee5-9b59-a1ae49478010")
-	)
-	(wire
-		(pts
 			(xy 182.88 285.75) (xy 182.88 283.21)
 		)
 		(stroke
@@ -24848,7 +24823,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 73.66) (xy 317.5 83.82)
+			(xy 321.31 73.66) (xy 321.31 83.82)
 		)
 		(stroke
 			(width 0)
@@ -25005,6 +24980,16 @@
 			(type default)
 		)
 		(uuid "deadfbe1-b430-4a22-b7e3-fbcd83b7c79e")
+	)
+	(wire
+		(pts
+			(xy 308.61 76.2) (xy 308.61 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df9279c6-3013-4f05-b71e-fba3a2913a8b")
 	)
 	(wire
 		(pts
@@ -25957,12 +25942,12 @@
 		(uuid "1c06f85e-663f-432e-ad24-5be9bdceafc7")
 	)
 	(label "PH8"
-		(at 132.08 59.69 180)
+		(at 132.08 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "1c33da8e-c504-4451-8315-8053bb758bfe")
 	)
@@ -26075,6 +26060,16 @@
 			(justify right bottom)
 		)
 		(uuid "2841a765-af11-488d-a942-6dd3455097bc")
+	)
+	(label "DEBUG2"
+		(at 170.18 430.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ad8dda1-f8c6-453c-9cff-bb6587b84c31")
 	)
 	(label "SDMMC_D2"
 		(at 168.91 334.01 0)
@@ -26866,6 +26861,16 @@
 		)
 		(uuid "6e5675d4-bd30-4cfa-bf4f-c4694deb2a0f")
 	)
+	(label "UART7_TX"
+		(at 146.05 443.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71608bd1-cf3f-4a78-94a6-0d7c9677e366")
+	)
 	(label "JTDI"
 		(at 66.04 204.47 0)
 		(effects
@@ -27287,12 +27292,12 @@
 		(uuid "9ba87203-f05c-4f1e-adc7-bebe8066e78f")
 	)
 	(label "USBPD_CC2"
-		(at 364.49 91.44 180)
+		(at 300.99 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "9bb780f0-85a8-443b-a96c-e1a25d6de124")
 	)
@@ -27365,6 +27370,16 @@
 			(justify right bottom)
 		)
 		(uuid "a0a11b68-1cb1-4913-b6af-e446d4e3eed3")
+	)
+	(label "UART7_RX"
+		(at 146.05 445.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a0b64975-c170-4c4f-9df4-dfe95c9ab1be")
 	)
 	(label "ADC3_CH6"
 		(at 132.08 92.71 0)
@@ -27447,7 +27462,7 @@
 		(uuid "a66cbf0f-d4f9-4186-985c-0fa2e2b24099")
 	)
 	(label "USB_HS_D-"
-		(at 323.85 74.93 0)
+		(at 326.39 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27467,7 +27482,7 @@
 		(uuid "a7ab64f2-1903-49ac-b305-40be2532276b")
 	)
 	(label "USB_HS_D+"
-		(at 325.12 54.61 0)
+		(at 326.39 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27686,6 +27701,16 @@
 		)
 		(uuid "bc8428df-e03e-45d3-9e9b-865a8236f663")
 	)
+	(label "PF1"
+		(at 132.08 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bca43d59-3dd2-43a8-94b7-609a5ee3c093")
+	)
 	(label "FLASH_IO0"
 		(at 35.56 264.16 0)
 		(effects
@@ -27745,6 +27770,26 @@
 			(justify left bottom)
 		)
 		(uuid "c3d3e3f7-1da6-4b06-a5da-ed66942385fb")
+	)
+	(label "DEBUG1"
+		(at 123.19 444.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c42847eb-73e6-4c16-9fee-88838934e47f")
+	)
+	(label "DEBUG0"
+		(at 123.19 441.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c4395de2-861f-4117-ae14-21af1389d086")
 	)
 	(label "ADC1_CH12"
 		(at 132.08 130.81 0)
@@ -27817,12 +27862,12 @@
 		(uuid "c767d937-0eea-4be6-80d5-c958972827a7")
 	)
 	(label "USBPD_CC1"
-		(at 364.49 88.9 180)
+		(at 300.99 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "c7cf3a61-d123-404d-b466-31ee9ed91174")
 	)
@@ -27985,6 +28030,16 @@
 			(justify left bottom)
 		)
 		(uuid "d5708253-b8e9-44f8-98be-427803297060")
+	)
+	(label "PF4"
+		(at 168.91 387.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8472aec-006f-4d59-8afa-c0ba71cad8ac")
 	)
 	(label "ADC1_CH6"
 		(at 250.19 336.55 180)
@@ -28166,6 +28221,16 @@
 		)
 		(uuid "e6988b13-fb59-4830-be26-e272708f1de3")
 	)
+	(label "PF4"
+		(at 132.08 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6e4a80e-5df6-4e7d-a82e-1580a3a8312d")
+	)
 	(label "LTDC_G0"
 		(at 194.31 180.34 0)
 		(effects
@@ -28185,6 +28250,16 @@
 			(justify right bottom)
 		)
 		(uuid "e9c643f3-5dda-4dfe-8295-bc234851086b")
+	)
+	(label "PF1"
+		(at 168.91 379.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eb85b5db-2cf3-4140-9fe7-38a57ebf37a2")
 	)
 	(label "LTDC_B0"
 		(at 247.65 177.8 180)
@@ -28305,6 +28380,16 @@
 			(justify left bottom)
 		)
 		(uuid "fd4283d0-ae01-4468-8019-c8e4d4ab3e24")
+	)
+	(label "DEBUG3"
+		(at 170.18 453.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fdd2fbc6-f2e1-4061-ad9e-30f4fcf89e34")
 	)
 	(label "PD2"
 		(at 82.55 106.68 180)
@@ -32255,6 +32340,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:ESD5Zxx")
+		(at 321.31 87.63 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0672bb51-df91-4e9a-88a1-a91f8849ded0")
+		(property "Reference" "D2"
+			(at 323.85 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ESD5Zxx"
+			(at 323.85 88.8999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 316.865 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+			(at 321.31 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD Protection Diode, SOD-523"
+			(at 321.31 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3e3f4cb-4277-4650-a3cc-eb7881fa6bf9")
+		)
+		(pin "2"
+			(uuid "e5c3defe-e6af-4eda-9264-8481f334dc51")
+		)
+		(instances
+			(project "mp257-devboard"
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "4ms_Connector:USB-C_Receptacle_Molex_2171790001")
 		(at 284.48 74.93 0)
 		(unit 1)
@@ -34072,6 +34227,76 @@
 			(project "MetaModule"
 				(path "/65ef787c-9247-43b2-969c-f86513538daf"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:ESD5Zxx")
+		(at 308.61 87.63 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ea718c2-bd53-4cd9-b19e-fa243b5dd062")
+		(property "Reference" "D1"
+			(at 311.15 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ESD5Zxx"
+			(at 311.15 88.8999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 304.165 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+			(at 308.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD Protection Diode, SOD-523"
+			(at 308.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03cee679-e6f2-48d2-bf48-d32144b77b50")
+		)
+		(pin "2"
+			(uuid "0a210e92-4c78-4668-8842-e87fee63f78a")
+		)
+		(instances
+			(project ""
+				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -47302,7 +47527,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 317.5 96.52 0)
+		(at 321.31 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47311,7 +47536,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b97f925-268c-489c-a58a-8e203b0fffb8")
 		(property "Reference" "#PWR034"
-			(at 317.5 102.87 0)
+			(at 321.31 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47320,7 +47545,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 317.5 100.9634 0)
+			(at 321.31 100.9634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47328,7 +47553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 317.5 96.52 0)
+			(at 321.31 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47337,7 +47562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 317.5 96.52 0)
+			(at 321.31 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47346,7 +47571,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 317.5 96.52 0)
+			(at 321.31 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52846,415 +53071,6 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0402:5.1k_0402")
-		(at 317.5 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2f191a9-7c08-42fc-8d46-ee5b84f78afd")
-		(property "Reference" "R10"
-			(at 320.04 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.1k_0402"
-			(at 314.96 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 314.96 100.584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "5.1k, 1%, 1/16W, 0402"
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Specifications" "5.1k, 1%, 1/16W, 0402"
-			(at 314.96 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Yageo"
-			(at 314.96 97.028 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "RC0402FR-075K1L"
-			(at 314.96 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Display" "5.1k"
-			(at 320.04 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "JLCPCB ID" "C105872"
-			(at 314.96 102.362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Production Stage" "A"
-			(at 314.96 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Alt Part Number" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CALIFONIA_PROPOSITION_65" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CCATS" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ECCN_EU" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ECCN_US" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EXPORT_JURIDICTION" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "INITIAL_BOARD_REFERENCE" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PRICE_INDICATION" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROVIDED_BY" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REACH" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REVISION" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_CN" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_EU" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCHEME_FOR_TARIFFCODE" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUBJECT_TO_EAR" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TARIFFCODE_NUMBER" ""
-			(at 317.5 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "64168797-3239-4bf4-a4c6-4ce61a253cd9")
-		)
-		(pin "2"
-			(uuid "6d922e05-eb80-4a69-a4b2-c31a47d3da99")
-		)
-		(instances
-			(project "mp153-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 298.45 223.52 0)
 		(unit 1)
@@ -56153,415 +55969,6 @@
 			(project "mp257-devboard"
 				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
 					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4ms_Resistor_0402:5.1k_0402")
-		(at 308.61 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dc7448de-6a93-46d8-bc02-2e7e7414b149")
-		(property "Reference" "R12"
-			(at 311.15 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.1k_0402"
-			(at 306.07 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 306.07 100.584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "5.1k, 1%, 1/16W, 0402"
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Specifications" "5.1k, 1%, 1/16W, 0402"
-			(at 306.07 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Yageo"
-			(at 306.07 97.028 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "RC0402FR-075K1L"
-			(at 306.07 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Display" "5.1k"
-			(at 311.15 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "JLCPCB ID" "C105872"
-			(at 306.07 102.362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Production Stage" "A"
-			(at 306.07 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Alt Part Number" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Display 2" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 3" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 4" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 3" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 4" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_EMS" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE_MANUFACTURER_PART_NUMBER" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BMS_PART_NUMBER" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CALIFONIA_PROPOSITION_65" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CCATS" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPANY_COUNTRY_OF_ORIGIN" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ECCN_EU" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ECCN_US" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EXPORT_JURIDICTION" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FULL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "INITIAL_BOARD_REFERENCE" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_HQ_COO" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTIAL_ALTERNATE_INTERNAL_PART_NUMBER" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PRICE_INDICATION" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROVIDED_BY" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REACH" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REVISION" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_CN" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_EU" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCHEME_FOR_TARIFFCODE" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUBJECT_TO_EAR" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TARIFFCODE_NUMBER" ""
-			(at 308.61 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b5fde9a2-872e-4039-9a69-af8b9dfd5ccf")
-		)
-		(pin "2"
-			(uuid "d19d6fe3-03c9-44ab-91a2-880ea627b753")
-		)
-		(instances
-			(project "mp153-devboard"
-				(path "/64ec1a6b-f4f9-4414-abbd-a05816451f08"
-					(reference "R12")
 					(unit 1)
 				)
 			)
