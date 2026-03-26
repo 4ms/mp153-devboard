@@ -14090,16 +14090,6 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 90.17) (xy 369.57 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "604e9662-2d7f-42a2-8643-ad6490acf316")
-	)
-	(wire
-		(pts
 			(xy 200.66 77.47) (xy 180.34 77.47)
 		)
 		(stroke
@@ -14427,16 +14417,6 @@
 			(type default)
 		)
 		(uuid "77bf09b4-95c8-473f-a1ab-9822df49435f")
-	)
-	(wire
-		(pts
-			(xy 363.22 151.13) (xy 369.57 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "781418f5-cf8f-44d5-878e-f8844c65cdce")
 	)
 	(wire
 		(pts
@@ -15347,16 +15327,6 @@
 			(type default)
 		)
 		(uuid "bb4992de-4577-4a67-9c6f-212d8ebe160f")
-	)
-	(wire
-		(pts
-			(xy 364.49 130.81) (xy 369.57 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd6288ed-81ca-47a5-a93b-f0685d755252")
 	)
 	(wire
 		(pts
@@ -17218,16 +17188,6 @@
 		)
 		(uuid "d82b773d-b334-4fad-99bb-1a0a63358f8a")
 	)
-	(label "VPP_DDR"
-		(at 241.3 184.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d8c1ea90-2e4f-4a06-8f9a-6a9682367144")
-	)
 	(label "DDR_A8"
 		(at 287.02 129.54 0)
 		(effects
@@ -17471,6 +17431,28 @@
 		(uuid "497f2f22-558b-492e-94cb-acecf571ba63")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 232.3714 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VPP_DDR"
+		(shape input)
+		(at 241.3 184.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbde85a5-96ea-4b3c-b6c2-04cf037751f1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 252.6914 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
