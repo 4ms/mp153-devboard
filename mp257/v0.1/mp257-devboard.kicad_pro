@@ -85,11 +85,19 @@
           "Net tie"
         ],
         [
-          "text_thickness|210700000|50570000|21ab28d5-3da6-4252-ba49-8626f035de3b|00000000-0000-0000-0000-000000000000",
+          "solder_mask_bridge|195925000|90344000|2df91c6c-c951-409d-8313-dd3ded016b6d|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
           ""
         ],
         [
-          "text_thickness|211345800|49200000|3a1cc481-85d1-4265-b883-d549525a0264|00000000-0000-0000-0000-000000000000",
+          "solder_mask_bridge|195925000|90654000|2df91c6c-c951-409d-8313-dd3ded016b6d|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
+          ""
+        ],
+        [
+          "solder_mask_bridge|196185000|90344000|d259b43f-1d4f-4824-a3d6-acb19db774d8|03e65bf0-ba86-4c89-8d53-15beb8e7917b",
+          ""
+        ],
+        [
+          "solder_mask_bridge|196185000|90654000|d259b43f-1d4f-4824-a3d6-acb19db774d8|3746b42d-eb1c-4842-afd1-068ebd6b53a3",
           ""
         ]
       ],
@@ -231,7 +239,8 @@
         0.1,
         0.127,
         0.2032,
-        0.3
+        0.3,
+        0.4
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
