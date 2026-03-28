@@ -21333,6 +21333,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 519.43) (xy 62.23 519.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30df3067-a43c-4e52-b3e9-ea2f75225ce5")
+	)
+	(wire
+		(pts
 			(xy 232.41 344.17) (xy 250.19 344.17)
 		)
 		(stroke
@@ -23853,6 +23863,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 519.43) (xy 57.15 537.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c171f2df-1eeb-4b38-a7a0-5c93b56584b9")
+	)
+	(wire
+		(pts
 			(xy 168.91 387.35) (xy 189.23 387.35)
 		)
 		(stroke
@@ -25030,16 +25050,6 @@
 			(type default)
 		)
 		(uuid "fbfcfdd6-91ac-4e7b-b23d-0273f3f8ed25")
-	)
-	(wire
-		(pts
-			(xy 62.23 519.43) (xy 62.23 520.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc5ee2c9-4b5f-499e-b28e-cdc5adb37e9d")
 	)
 	(wire
 		(pts
@@ -46951,7 +46961,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 520.7 0)
+		(at 57.15 537.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46960,7 +46970,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf6da9c4-0e88-4815-b98d-c693cf797e50")
 		(property "Reference" "#PWR039"
-			(at 62.23 527.05 0)
+			(at 57.15 543.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46969,7 +46979,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 524.51 0)
+			(at 57.15 541.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46977,7 +46987,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 520.7 0)
+			(at 57.15 537.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46986,7 +46996,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 520.7 0)
+			(at 57.15 537.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46995,7 +47005,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 62.23 520.7 0)
+			(at 57.15 537.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
