@@ -1546,7 +1546,7 @@
 					(justify left)
 				)
 			)
-			(property "Manufacturer" ""
+			(property "Manufacturer" "Murata"
 				(at 1.27 -13.97 0)
 				(effects
 					(font
@@ -1555,7 +1555,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" ""
+			(property "Part Number" "GRM033R61A225ME47D"
 				(at 7.62 -16.51 0)
 				(effects
 					(font
@@ -1564,7 +1564,7 @@
 					(hide yes)
 				)
 			)
-			(property "JLCPCB ID" ""
+			(property "JLCPCB ID" "C319184"
 				(at 1.27 -12.7 0)
 				(effects
 					(font
@@ -2148,7 +2148,7 @@
 					(justify left)
 				)
 			)
-			(property "Manufacturer" ""
+			(property "Manufacturer" "Murata"
 				(at 1.27 -13.97 0)
 				(effects
 					(font
@@ -2157,7 +2157,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" ""
+			(property "Part Number" "GRM035R60J475ME15D"
 				(at 7.62 -16.51 0)
 				(effects
 					(font
@@ -2166,7 +2166,7 @@
 					(hide yes)
 				)
 			)
-			(property "JLCPCB ID" ""
+			(property "JLCPCB ID" "C335103"
 				(at 1.27 -12.7 0)
 				(effects
 					(font
@@ -32221,7 +32221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0201_TightCourtyard"
+		(property "Footprint" "4ms_Capacitor:C_0201"
 			(at 415.29 229.87 0)
 			(effects
 				(font
@@ -32268,7 +32268,7 @@
 				(justify right)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata"
 			(at 419.1 238.76 0)
 			(effects
 				(font
@@ -32277,7 +32277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "GRM035R60J475ME15D"
 			(at 425.45 241.3 0)
 			(effects
 				(font
@@ -32286,7 +32286,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" ""
+		(property "JLCPCB ID" "C335103"
 			(at 419.1 237.49 0)
 			(effects
 				(font
@@ -32322,15 +32322,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 417.83 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -41247,7 +41238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0201_TightCourtyard"
+		(property "Footprint" "4ms_Capacitor:C_0201"
 			(at 558.8 251.46 0)
 			(effects
 				(font
@@ -41294,7 +41285,7 @@
 				(justify left)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata"
 			(at 562.61 260.35 0)
 			(effects
 				(font
@@ -41303,7 +41294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "GRM033R61A225ME47D"
 			(at 568.96 262.89 0)
 			(effects
 				(font
@@ -41312,7 +41303,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" ""
+		(property "JLCPCB ID" "C319184"
 			(at 562.61 259.08 0)
 			(effects
 				(font
@@ -41348,15 +41339,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 561.34 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
