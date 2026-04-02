@@ -845,6 +845,18 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Number 3",
+          "name": "Part Number 3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer 3",
+          "name": "Manufacturer 3",
+          "show": false
         }
       ],
       "filter_string": "",
