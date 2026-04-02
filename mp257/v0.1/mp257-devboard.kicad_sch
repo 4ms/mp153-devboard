@@ -19151,6 +19151,17 @@
 		)
 		(uuid "b30243a1-cec9-43cd-a0b5-df1ea1440385")
 	)
+	(text "SPI2_SCK"
+		(exclude_from_sim no)
+		(at 51.308 379.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b319ee3f-7df0-4ce1-a626-c191392d0bb9")
+	)
 	(text "SAI2_SD_A"
 		(exclude_from_sim no)
 		(at 141.224 55.88 0)
