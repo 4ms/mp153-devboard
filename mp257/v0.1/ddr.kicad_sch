@@ -11876,7 +11876,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" ""
+			(property "Manufacturer" "Yageo"
 				(at -2.54 -9.398 0)
 				(effects
 					(font
@@ -11886,7 +11886,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" ""
+			(property "Part Number" "RC0201FR-07240RL"
 				(at -2.54 -11.176 0)
 				(effects
 					(font
@@ -11904,7 +11904,7 @@
 					)
 				)
 			)
-			(property "JLCPCB ID" ""
+			(property "JLCPCB ID" "C155745"
 				(at -2.54 -14.732 0)
 				(effects
 					(font
@@ -19392,7 +19392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Yageo"
 			(at 123.19 178.308 0)
 			(effects
 				(font
@@ -19402,7 +19402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0201FR-07240RL"
 			(at 123.19 180.086 0)
 			(effects
 				(font
@@ -19421,7 +19421,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" ""
+		(property "JLCPCB ID" "C155745"
 			(at 123.19 183.642 0)
 			(effects
 				(font
@@ -19438,15 +19438,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 125.73 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
