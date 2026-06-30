@@ -1,0 +1,325 @@
+// SPDX-License-Identifier: (GPL-2.0-only OR BSD-3-Clause)
+/*
+ * Copyright (C) 2026, STMicroelectronics - All Rights Reserved
+ * Author: STM32CubeMX code generation for STMicroelectronics.
+ */
+
+/* For more information on Device Tree configuration, please refer to
+ * https://wiki.st.com/stm32mpu/wiki/Category:Device_tree_configuration
+ */
+
+/dts-v1/;
+
+#include <dt-bindings/pinctrl/stm32-pinfunc.h>
+#include <dt-bindings/clock/stm32mp25-clksrc.h>
+#include "stm32mp25-mx.dtsi"
+
+#include "stm32mp257.dtsi"
+#include "stm32mp257d-mp257-devboard-mx-rcc.dtsi"
+#include "stm32mp25xxak-pinctrl.dtsi"
+#include "stm32mp25-ddr.dtsi"
+
+/* USER CODE BEGIN includes */
+/* USER CODE END includes */
+
+/ {
+	model = "STMicroelectronics custom STM32CubeMX board - openstlinux-6.6-yocto-scarthgap-mpu-v26.02.18";
+	compatible = "st,stm32mp257d-mp257-devboard-mx", "st,stm32mp257";
+
+	memory@80000000 {
+		device_type = "memory";
+		reg = <0x0 0x80000000 0x0 0x20000000>;
+
+		/* USER CODE BEGIN memory */
+		/* USER CODE END memory */
+	};
+
+	/* USER CODE BEGIN root */
+	/* USER CODE END root */
+
+}; /*root*/
+
+&pinctrl {
+	adc3_pins_mx: adc3_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('C', 7, ANALOG)>, /* ADC3_INP9 */
+					 <STM32_PINMUX('F', 10, ANALOG)>, /* ADC3_INP2 */
+					 <STM32_PINMUX('F', 11, ANALOG)>, /* ADC3_INP6 */
+					 <STM32_PINMUX('H', 9, ANALOG)>, /* ADC3_INP4 */
+					 <STM32_PINMUX('H', 10, ANALOG)>; /* ADC3_INP8 */
+		};
+	};
+
+	adc_12_pins_mx: adc_12_mx-0 {
+		pins1 {
+			pinmux = <STM32_PINMUX('B', 15, ANALOG)>, /* ADC1_INP15 */
+					 <STM32_PINMUX('C', 3, ANALOG)>, /* ADC1_INP12 */
+					 <STM32_PINMUX('C', 5, ANALOG)>, /* ADC1_INP10 */
+					 <STM32_PINMUX('C', 6, ANALOG)>, /* ADC1_INP9 */
+					 <STM32_PINMUX('C', 9, ANALOG)>, /* ADC1_INP8 */
+					 <STM32_PINMUX('C', 10, ANALOG)>, /* ADC1_INP5 */
+					 <STM32_PINMUX('C', 11, ANALOG)>, /* ADC1_INP7 */
+					 <STM32_PINMUX('C', 12, ANALOG)>, /* ADC1_INP17 */
+					 <STM32_PINMUX('F', 0, ANALOG)>, /* ADC1_INP11 */
+					 <STM32_PINMUX('F', 2, ANALOG)>, /* ADC1_INP13 */
+					 <STM32_PINMUX('F', 3, ANALOG)>, /* ADC1_INP16 */
+					 <STM32_PINMUX('G', 1, ANALOG)>, /* ADC1_INP6 */
+					 <STM32_PINMUX('G', 2, ANALOG)>, /* ADC1_INP2 */
+					 <STM32_PINMUX('G', 4, ANALOG)>; /* ADC1_INP4 */
+		};
+		pins2 {
+			pinmux = <STM32_PINMUX('G', 3, ANALOG)>; /* ADC1_INP3 */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+		};
+	};
+
+	i2c4_pins_mx: i2c4_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('D', 10, AF6)>, /* I2C4_SDA */
+					 <STM32_PINMUX('D', 11, AF6)>; /* I2C4_SCL */
+			bias-disable;
+			drive-open-drain;
+			slew-rate = <0>;
+		};
+	};
+
+	i2c7_pins_mx: i2c7_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('D', 14, AF10)>, /* I2C7_SDA */
+					 <STM32_PINMUX('D', 15, AF10)>; /* I2C7_SCL */
+			bias-disable;
+			drive-open-drain;
+			slew-rate = <0>;
+		};
+	};
+
+	sai1a_pins_mx: sai1a_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('E', 11, AF4)>, /* SAI1_FS_A */
+					 <STM32_PINMUX('E', 13, AF4)>, /* SAI1_SD_A */
+					 <STM32_PINMUX('E', 14, AF4)>, /* SAI1_MCLK_A */
+					 <STM32_PINMUX('E', 15, AF4)>; /* SAI1_SCK_A */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+		};
+	};
+
+	sai1b_pins_mx: sai1b_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('B', 13, AF4)>; /* SAI1_SD_B */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+		};
+	};
+
+	sai2a_pins_mx: sai2a_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('F', 9, AF4)>; /* SAI2_SD_A */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+		};
+	};
+
+	sai2b_pins_mx: sai2b_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('A', 5, AF5)>, /* SAI2_SD_B */
+					 <STM32_PINMUX('A', 9, AF4)>, /* SAI2_SCK_B */
+					 <STM32_PINMUX('G', 3, AF4)>; /* SAI2_FS_B */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+		};
+	};
+
+	sdmmc1_pins_mx: sdmmc1_mx-0 {
+		pins1 {
+			pinmux = <STM32_PINMUX('E', 0, AF10)>, /* SDMMC1_D2 */
+					 <STM32_PINMUX('E', 1, AF10)>, /* SDMMC1_D3 */
+					 <STM32_PINMUX('E', 2, AF10)>, /* SDMMC1_CMD */
+					 <STM32_PINMUX('E', 4, AF10)>, /* SDMMC1_D0 */
+					 <STM32_PINMUX('E', 5, AF10)>; /* SDMMC1_D1 */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <1>;
+		};
+		pins2 {
+			pinmux = <STM32_PINMUX('E', 3, AF10)>; /* SDMMC1_CK */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <3>;
+		};
+	};
+
+	usart1_pins_mx: usart1_mx-0 {
+		pins1 {
+			pinmux = <STM32_PINMUX('B', 10, AF6)>; /* USART1_RX */
+			bias-disable;
+			drive-push-pull;
+		};
+		pins2 {
+			pinmux = <STM32_PINMUX('B', 8, AF6)>; /* USART1_TX */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+		};
+	};
+
+	/* USER CODE BEGIN pinctrl */
+	/* USER CODE END pinctrl */
+};
+
+&pinctrl_z {
+	/* USER CODE BEGIN pinctrl_z */
+	/* USER CODE END pinctrl_z */
+};
+
+&adc_12 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&adc_12_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN adc_12 */
+	/* USER CODE END adc_12 */
+};
+
+&adc_3 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&adc3_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN adc_3 */
+	/* USER CODE END adc_3 */
+};
+
+&bsec {
+	status = "okay";
+
+	/* USER CODE BEGIN bsec */
+	/* USER CODE END bsec */
+};
+
+&dcache {
+	status = "okay";
+
+	/* USER CODE BEGIN dcache */
+	/* USER CODE END dcache */
+};
+
+&ddr {
+	status = "okay";
+
+	/* USER CODE BEGIN ddr */
+	/* USER CODE END ddr */
+};
+
+&gpu {
+	status = "okay";
+
+	/* USER CODE BEGIN gpu */
+	/* USER CODE END gpu */
+};
+
+&i2c4 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&i2c4_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN i2c4 */
+	/* USER CODE END i2c4 */
+};
+
+&i2c7 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&i2c7_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN i2c7 */
+	/* USER CODE END i2c7 */
+};
+
+&icache {
+	status = "okay";
+
+	/* USER CODE BEGIN icache */
+	/* USER CODE END icache */
+};
+
+&rcc {
+	status = "okay";
+
+	/* USER CODE BEGIN rcc */
+	/* USER CODE END rcc */
+};
+
+&sai1 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&sai1a_pins_mx>, <&sai1b_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN sai1 */
+	/* USER CODE END sai1 */
+
+	sai1a:audio-controller@40290004{
+		status = "okay";
+
+		/* USER CODE BEGIN sai1a */
+		/* USER CODE END sai1a */
+	};
+
+	sai1b:audio-controller@40290024{
+		status = "okay";
+
+		/* USER CODE BEGIN sai1b */
+		/* USER CODE END sai1b */
+	};
+};
+
+&sai2 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&sai2a_pins_mx>, <&sai2b_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN sai2 */
+	/* USER CODE END sai2 */
+
+	sai2a:audio-controller@402a0004{
+		status = "okay";
+
+		/* USER CODE BEGIN sai2a */
+		/* USER CODE END sai2a */
+	};
+
+	sai2b:audio-controller@402a0024{
+		status = "okay";
+
+		/* USER CODE BEGIN sai2b */
+		/* USER CODE END sai2b */
+	};
+};
+
+&sdmmc1 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&sdmmc1_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN sdmmc1 */
+	/* USER CODE END sdmmc1 */
+};
+
+&usart1 {
+	pinctrl-names = "default";
+	pinctrl-0 = <&usart1_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN usart1 */
+	/* USER CODE END usart1 */
+};
+
+/* USER CODE BEGIN addons */
+/* USER CODE END addons */
+

@@ -1,0 +1,174 @@
+// SPDX-License-Identifier: (GPL-2.0-only OR BSD-3-Clause)
+/*
+ * Copyright (C) 2026, STMicroelectronics - All Rights Reserved
+ * Author: STM32CubeMX code generation for STMicroelectronics.
+ */
+
+/* For more information on Device Tree configuration, please refer to
+ * https://wiki.st.com/stm32mpu/wiki/Category:Device_tree_configuration
+ */
+
+&clk_lsi {
+	clock-frequency = <32000>;
+
+	/* USER CODE BEGIN clk_lsi */
+	/* USER CODE END clk_lsi */
+};
+&clk_hsi {
+	clock-frequency = <64000000>;
+
+	/* USER CODE BEGIN clk_hsi */
+	/* USER CODE END clk_hsi */
+};
+&clk_msi {
+	clock-frequency = <16000000>;
+
+	/* USER CODE BEGIN clk_msi */
+	/* USER CODE END clk_msi */
+};
+&clk_lse {
+	status = "disabled";
+
+	/* USER CODE BEGIN clk_lse */
+	/* USER CODE END clk_lse */
+};
+&clk_hse {
+	clock-frequency = <40000000>;
+
+	/* USER CODE BEGIN clk_hse */
+	/* USER CODE END clk_hse */
+};
+
+&rcc {
+
+	st,flexgen = <
+
+		FLEXGEN_CFG(0, XBAR_SRC_PLL4, 0, 2)
+		FLEXGEN_CFG(1, XBAR_SRC_PLL4, 3, 1)
+		FLEXGEN_CFG(2, XBAR_SRC_PLL5, 0, 1)
+		FLEXGEN_CFG(3, XBAR_SRC_PLL5, 1, 1)
+		FLEXGEN_CFG(4, XBAR_SRC_HSI, 0, 0)
+		FLEXGEN_CFG(5, XBAR_SRC_HSI, 0, 0)
+		FLEXGEN_CFG(6, XBAR_SRC_HSI, 0, 0)
+		FLEXGEN_CFG(14, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(15, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(19, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(23, XBAR_SRC_PLL7, 1, 3)
+		FLEXGEN_CFG(24, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(33, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(43, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(44, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(45, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(46, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(47, XBAR_SRC_PLL6, 1, 6)
+		FLEXGEN_CFG(51, XBAR_SRC_HSI_KER, 0, 0)
+		FLEXGEN_CFG(59, XBAR_SRC_PLL8, 0, 2)
+		FLEXGEN_CFG(63, XBAR_SRC_PLL6, 0, 3)
+	>;
+
+	st,busclk = <
+		DIV_CFG(DIV_LSMCU, 1)
+		DIV_CFG(DIV_APB1, 0)
+		DIV_CFG(DIV_APB2, 0)
+		DIV_CFG(DIV_APB3, 0)
+		DIV_CFG(DIV_APB4, 0)
+		DIV_CFG(DIV_APBDBG, 0)
+	>;
+	st,kerclk = <
+		MUX_CFG(MUX_ADC12, MUX_ADC12_FLEX46)
+		MUX_CFG(MUX_ADC3, MUX_ADC3_FLEX47)
+		MUX_CFG(MUX_D3PER, MUX_D3PER_MSI)
+
+	>;
+
+	pll1:st,pll-1 {
+		st,pll = <&pll1_cfg_1600MHz>;
+
+		pll1_cfg_1600MHz: pll1-cfg-1600MHz{
+			cfg = <40 1 1 1>;
+			src = <MUX_CFG(MUX_MUXSEL5, MUXSEL_HSE)>;
+		};
+		/* USER CODE BEGIN pll1 */
+		/* USER CODE END pll1 */
+	};
+
+	pll2:st,pll-2 {
+		st,pll = <&pll2_cfg_600MHz>;
+
+		pll2_cfg_600MHz: pll2-cfg-600MHz{
+			cfg = <30 1 1 2>;
+			src = <MUX_CFG(MUX_MUXSEL6, MUXSEL_HSE)>;
+		};
+		/* USER CODE BEGIN pll2 */
+		/* USER CODE END pll2 */
+	};
+
+	pll3:st,pll-3 {
+		st,pll = <&pll3_cfg_500MHz>;
+
+		pll3_cfg_500MHz: pll3-cfg-500MHz{
+			cfg = <25 1 2 1>;
+			src = <MUX_CFG(MUX_MUXSEL7, MUXSEL_HSE)>;
+		};
+		/* USER CODE BEGIN pll3 */
+		/* USER CODE END pll3 */
+	};
+
+	pll4:st,pll-4 {
+		st,pll = <&pll4_cfg_1200MHz>;
+
+		pll4_cfg_1200MHz: pll4-cfg-1200MHz{
+			cfg = <30 1 1 1>;
+			src = <MUX_CFG(MUX_MUXSEL0, MUXSEL_HSE)>;
+		};
+		/* USER CODE BEGIN pll4 */
+		/* USER CODE END pll4 */
+	};
+
+	pll5:st,pll-5 {
+		st,pll = <&pll5_cfg_1200MHz>;
+
+		pll5_cfg_1200MHz: pll5-cfg-1200MHz{
+			cfg = <30 1 1 1>;
+			src = <MUX_CFG(MUX_MUXSEL1, MUXSEL_HSE)>;
+		};
+		/* USER CODE BEGIN pll5 */
+		/* USER CODE END pll5 */
+	};
+
+	pll6:st,pll-6 {
+		st,pll = <&pll6_cfg_1600MHz>;
+
+		pll6_cfg_1600MHz: pll6-cfg-1600MHz{
+			cfg = <25 1 1 1>;
+			src = <MUX_CFG(MUX_MUXSEL2, MUXSEL_HSI)>;
+		};
+		/* USER CODE BEGIN pll6 */
+		/* USER CODE END pll6 */
+	};
+
+	pll7:st,pll-7 {
+		st,pll = <&pll7_cfg_580MHz>;
+
+		pll7_cfg_580MHz: pll7-cfg-580MHz{
+			cfg = <29 1 1 2>;
+			src = <MUX_CFG(MUX_MUXSEL3, MUXSEL_HSE)>;
+		};
+		/* USER CODE BEGIN pll7 */
+		/* USER CODE END pll7 */
+	};
+
+	pll8:st,pll-8 {
+		st,pll = <&pll8_cfg_1600MHz>;
+
+		pll8_cfg_1600MHz: pll8-cfg-1600MHz{
+			cfg = <25 1 1 1>;
+			src = <MUX_CFG(MUX_MUXSEL4, MUXSEL_HSI)>;
+		};
+		/* USER CODE BEGIN pll8 */
+		/* USER CODE END pll8 */
+	};
+
+	/* USER CODE BEGIN rcc */
+	/* USER CODE END rcc */
+};

@@ -1,0 +1,193 @@
+// SPDX-License-Identifier: (GPL-2.0-only OR BSD-3-Clause)
+/*
+ * Copyright (C) 2026, STMicroelectronics - All Rights Reserved
+ * Author: STM32CubeMX code generation for STMicroelectronics.
+ */
+
+/* For more information on Device Tree configuration, please refer to
+ * https://wiki.st.com/stm32mpu/wiki/Category:Device_tree_configuration
+ */
+
+/dts-v1/;
+
+#include <dt-bindings/pinctrl/stm32-pinfunc.h>
+#include "stm32mp257.dtsi"
+#include "stm32mp257d-mp257-devboard-mx-resmem.dtsi"
+#include "stm32mp25xxak-pinctrl.dtsi"
+
+/* USER CODE BEGIN includes */
+/* USER CODE END includes */
+
+/ {
+	model = "STMicroelectronics custom STM32CubeMX board - openstlinux-6.6-yocto-scarthgap-mpu-v26.02.18";
+	compatible = "st,stm32mp257d-mp257-devboard-mx", "st,stm32mp257";
+
+	memory@80000000 {
+		device_type = "memory";
+		reg = <0x0 0x80000000 0x0 0x20000000>;
+
+		/* USER CODE BEGIN memory */
+		/* USER CODE END memory */
+	};
+
+	/* USER CODE BEGIN root */
+	/* USER CODE END root */
+
+	clocks{
+
+		/* USER CODE BEGIN clocks */
+		/* USER CODE END clocks */
+	};
+
+}; /*root*/
+
+&pinctrl {
+
+	ltdc_pins_mx: ltdc_mx-0 {
+		pins1 {
+			pinmux = <STM32_PINMUX('F', 12, AF13)>; /* LTDC_CLK */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <1>;
+			st,io-clk-edge = <0>;
+			st,io-retime = <0>;
+			st,io-delay-path = <0>;
+			st,io-clk-type = <0>;
+			st,io-delay = <0>;
+		};
+		pins2 {
+			pinmux = <STM32_PINMUX('F', 7, AF13)>, /* LTDC_R1 */
+					 <STM32_PINMUX('F', 8, AF13)>, /* LTDC_G0 */
+					 <STM32_PINMUX('F', 13, AF13)>, /* LTDC_R2 */
+					 <STM32_PINMUX('F', 14, AF13)>, /* LTDC_R3 */
+					 <STM32_PINMUX('F', 15, AF13)>, /* LTDC_R4 */
+					 <STM32_PINMUX('G', 5, AF13)>, /* LTDC_R5 */
+					 <STM32_PINMUX('G', 6, AF13)>, /* LTDC_R6 */
+					 <STM32_PINMUX('G', 7, AF13)>, /* LTDC_R7 */
+					 <STM32_PINMUX('G', 8, AF13)>, /* LTDC_G2 */
+					 <STM32_PINMUX('G', 9, AF13)>, /* LTDC_G3 */
+					 <STM32_PINMUX('G', 10, AF13)>, /* LTDC_G4 */
+					 <STM32_PINMUX('G', 11, AF13)>, /* LTDC_G5 */
+					 <STM32_PINMUX('G', 12, AF13)>, /* LTDC_G6 */
+					 <STM32_PINMUX('G', 13, AF13)>, /* LTDC_G7 */
+					 <STM32_PINMUX('G', 14, AF13)>, /* LTDC_B1 */
+					 <STM32_PINMUX('G', 15, AF13)>, /* LTDC_B2 */
+					 <STM32_PINMUX('H', 4, AF10)>, /* LTDC_R0 */
+					 <STM32_PINMUX('H', 5, AF10)>, /* LTDC_G1 */
+					 <STM32_PINMUX('I', 0, AF13)>, /* LTDC_B3 */
+					 <STM32_PINMUX('I', 1, AF13)>, /* LTDC_B4 */
+					 <STM32_PINMUX('I', 2, AF13)>, /* LTDC_B5 */
+					 <STM32_PINMUX('I', 3, AF13)>, /* LTDC_B6 */
+					 <STM32_PINMUX('I', 4, AF13)>, /* LTDC_B7 */
+					 <STM32_PINMUX('I', 5, AF13)>, /* LTDC_DE */
+					 <STM32_PINMUX('I', 6, AF13)>, /* LTDC_VSYNC */
+					 <STM32_PINMUX('I', 7, AF13)>, /* LTDC_HSYNC */
+					 <STM32_PINMUX('I', 9, AF13)>; /* LTDC_B0 */
+			bias-disable;
+			drive-push-pull;
+			slew-rate = <0>;
+			st,io-clk-edge = <0>;
+			st,io-retime = <1>;
+			st,io-delay-path = <0>;
+			st,io-delay = <0>;
+		};
+	};
+
+	ltdc_sleep_pins_mx: ltdc_sleep_mx-0 {
+		pins {
+			pinmux = <STM32_PINMUX('F', 7, ANALOG)>, /* LTDC_R1 */
+					 <STM32_PINMUX('F', 8, ANALOG)>, /* LTDC_G0 */
+					 <STM32_PINMUX('F', 12, ANALOG)>, /* LTDC_CLK */
+					 <STM32_PINMUX('F', 13, ANALOG)>, /* LTDC_R2 */
+					 <STM32_PINMUX('F', 14, ANALOG)>, /* LTDC_R3 */
+					 <STM32_PINMUX('F', 15, ANALOG)>, /* LTDC_R4 */
+					 <STM32_PINMUX('G', 5, ANALOG)>, /* LTDC_R5 */
+					 <STM32_PINMUX('G', 6, ANALOG)>, /* LTDC_R6 */
+					 <STM32_PINMUX('G', 7, ANALOG)>, /* LTDC_R7 */
+					 <STM32_PINMUX('G', 8, ANALOG)>, /* LTDC_G2 */
+					 <STM32_PINMUX('G', 9, ANALOG)>, /* LTDC_G3 */
+					 <STM32_PINMUX('G', 10, ANALOG)>, /* LTDC_G4 */
+					 <STM32_PINMUX('G', 11, ANALOG)>, /* LTDC_G5 */
+					 <STM32_PINMUX('G', 12, ANALOG)>, /* LTDC_G6 */
+					 <STM32_PINMUX('G', 13, ANALOG)>, /* LTDC_G7 */
+					 <STM32_PINMUX('G', 14, ANALOG)>, /* LTDC_B1 */
+					 <STM32_PINMUX('G', 15, ANALOG)>, /* LTDC_B2 */
+					 <STM32_PINMUX('H', 4, ANALOG)>, /* LTDC_R0 */
+					 <STM32_PINMUX('H', 5, ANALOG)>, /* LTDC_G1 */
+					 <STM32_PINMUX('I', 0, ANALOG)>, /* LTDC_B3 */
+					 <STM32_PINMUX('I', 1, ANALOG)>, /* LTDC_B4 */
+					 <STM32_PINMUX('I', 2, ANALOG)>, /* LTDC_B5 */
+					 <STM32_PINMUX('I', 3, ANALOG)>, /* LTDC_B6 */
+					 <STM32_PINMUX('I', 4, ANALOG)>, /* LTDC_B7 */
+					 <STM32_PINMUX('I', 5, ANALOG)>, /* LTDC_DE */
+					 <STM32_PINMUX('I', 6, ANALOG)>, /* LTDC_VSYNC */
+					 <STM32_PINMUX('I', 7, ANALOG)>, /* LTDC_HSYNC */
+					 <STM32_PINMUX('I', 9, ANALOG)>; /* LTDC_B0 */
+		};
+	};
+
+	/* USER CODE BEGIN pinctrl */
+	/* USER CODE END pinctrl */
+};
+
+&pinctrl_z {
+
+	/* USER CODE BEGIN pinctrl_z */
+	/* USER CODE END pinctrl_z */
+};
+
+&dsi {
+	status = "okay";
+
+	/* USER CODE BEGIN dsi */
+	/* USER CODE END dsi */
+};
+
+&hpdma {
+	status = "okay";
+
+	/* USER CODE BEGIN hpdma */
+	/* USER CODE END hpdma */
+};
+
+&hpdma2 {
+	status = "okay";
+
+	/* USER CODE BEGIN hpdma2 */
+	/* USER CODE END hpdma2 */
+};
+
+&hpdma3 {
+	status = "okay";
+
+	/* USER CODE BEGIN hpdma3 */
+	/* USER CODE END hpdma3 */
+};
+
+&ltdc {
+	pinctrl-names = "default", "sleep";
+	pinctrl-0 = <&ltdc_pins_mx>;
+	pinctrl-1 = <&ltdc_sleep_pins_mx>;
+	status = "okay";
+
+	/* USER CODE BEGIN ltdc */
+	/* USER CODE END ltdc */
+};
+
+&usb2_phy2 {
+	status = "okay";
+
+	/* USER CODE BEGIN usb2_phy2 */
+	/* USER CODE END usb2_phy2 */
+};
+
+&usb3dr {
+	status = "okay";
+
+	/* USER CODE BEGIN usb3dr */
+	/* USER CODE END usb3dr */
+};
+
+/* USER CODE BEGIN addons */
+/* USER CODE END addons */
+
