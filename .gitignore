@@ -4,3 +4,7 @@ production/backups/
 **/backups/
 
 .history
+
+*kicad_pro.lck
+*kicad_pcb.lck
+*kicad_sch.lck
